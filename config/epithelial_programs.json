@@ -1,0 +1,53 @@
+{
+  "Inflammatory chemokines": [
+    "Il1b",
+    "Il6",
+    "Cxcl1",
+    "Cxcl2",
+    "Cxcl5",
+    "Ccl20"
+  ],
+  "Interferon response": [
+    "Mx1",
+    "Isg15",
+    "Ifit1",
+    "Ifit2",
+    "Ifit3",
+    "Oas1a",
+    "Stat1"
+  ],
+  "Barrier / junctions": [
+    "Tjp1",
+    "Ocln",
+    "Cldn3",
+    "Cldn4",
+    "Cldn7",
+    "Cdh1"
+  ],
+  "Mucus / secretory": [
+    "Muc2",
+    "Tff3",
+    "Fcgbp",
+    "Clca1",
+    "Zg16",
+    "Agr2"
+  ],
+  "Injury-associated regeneration": [
+    "Clu",
+    "Ly6a",
+    "Anxa1",
+    "Anxa2",
+    "Krt8",
+    "Krt18",
+    "Tacstd2"
+  ],
+  "Absorptive differentiation": [
+    "Krt20",
+    "Slc26a3",
+    "Aqp8",
+    "Car1",
+    "Car2",
+    "Alpi",
+    "Fabp1"
+  ]
+}

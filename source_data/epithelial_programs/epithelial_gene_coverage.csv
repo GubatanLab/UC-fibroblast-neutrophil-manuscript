@@ -1,0 +1,40 @@
+program,gene,in_assay,mice_detected,used
+Inflammatory chemokines,Il1b,True,20,True
+Inflammatory chemokines,Il6,True,22,True
+Inflammatory chemokines,Cxcl1,True,22,True
+Inflammatory chemokines,Cxcl2,True,21,True
+Inflammatory chemokines,Cxcl5,True,21,True
+Inflammatory chemokines,Ccl20,True,20,True
+Interferon response,Mx1,True,22,True
+Interferon response,Isg15,True,22,True
+Interferon response,Ifit1,True,22,True
+Interferon response,Ifit2,True,21,True
+Interferon response,Ifit3,True,22,True
+Interferon response,Oas1a,True,22,True
+Interferon response,Stat1,True,22,True
+Barrier / junctions,Tjp1,True,22,True
+Barrier / junctions,Ocln,True,22,True
+Barrier / junctions,Cldn3,True,22,True
+Barrier / junctions,Cldn4,True,22,True
+Barrier / junctions,Cldn7,True,22,True
+Barrier / junctions,Cdh1,True,22,True
+Mucus / secretory,Muc2,True,22,True
+Mucus / secretory,Tff3,True,22,True
+Mucus / secretory,Fcgbp,True,22,True
+Mucus / secretory,Clca1,True,22,True
+Mucus / secretory,Zg16,True,22,True
+Mucus / secretory,Agr2,True,22,True
+Injury-associated regeneration,Clu,True,22,True
+Injury-associated regeneration,Ly6a,True,22,True
+Injury-associated regeneration,Anxa1,True,22,True
+Injury-associated regeneration,Anxa2,True,22,True
+Injury-associated regeneration,Krt8,True,22,True
+Injury-associated regeneration,Krt18,True,22,True
+Injury-associated regeneration,Tacstd2,True,9,True
+Absorptive differentiation,Krt20,True,22,True
+Absorptive differentiation,Slc26a3,True,22,True
+Absorptive differentiation,Aqp8,True,22,True
+Absorptive differentiation,Car1,True,22,True
+Absorptive differentiation,Car2,True,22,True
+Absorptive differentiation,Alpi,True,21,True
+Absorptive differentiation,Fabp1,True,17,True

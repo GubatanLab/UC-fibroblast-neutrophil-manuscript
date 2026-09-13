@@ -1,0 +1,6 @@
+compartment,marker,channel,quantile,threshold,control_n,tail_n,tail_percent,conditional_tail_upper95_percent,control_file,status
+neutrophil,CXCR4,U820-A,0.99,2610.726414814159,173,1,0.5780346820809249,2.712625342944468,DSS_mouse\samples_FMO CXCR4.fcs,Review FMO threshold; matrix/parent limitations apply
+neutrophil,OSM,B515-A,0.99,35160.84286610541,55,0,0.0,5.301105495125377,DSS_mouse\samples_FMO OSM.fcs,Review FMO threshold; matrix/parent limitations apply
+neutrophil,PADI4,R710-A,0.99,62840.199423922735,95,0,0.0,3.104201186795486,DSS_mouse\samples_FMO R710.fcs,R710 omission provisional
+neutrophil,MX1,Y670-A,0.99,5848.36266853177,41,0,0.0,7.046111727016405,DSS_mouse\samples_FMO MX1.fcs,Review FMO threshold; matrix/parent limitations apply
+neutrophil,NAMPT,R780-A,0.99,434.7334384005736,57,0,0.0,5.119948367703922,DSS_mouse\samples_FMO NAMPT.fcs,Review FMO threshold; matrix/parent limitations apply

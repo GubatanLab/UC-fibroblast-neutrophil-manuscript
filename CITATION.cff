@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Please cite the associated manuscript when using these analyses and figures. Publication details will be added when available."
+title: "Fibroblast regulation of neutrophils in ulcerative colitis analyses and figures"
+type: software
+authors:
+  - name: "Gubatan Lab"
+repository-code: "https://github.com/GubatanLab/UC-fibroblast-neutrophil-manuscript"
+version: "2026.09.12"
+date-released: "2026-09-12"
+keywords:
+  - ulcerative colitis
+  - fibroblasts
+  - neutrophils
+  - single-cell transcriptomics
+  - spatial proteomics
+  - integrins

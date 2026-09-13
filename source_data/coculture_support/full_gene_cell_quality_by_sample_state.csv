@@ -1,0 +1,290 @@
+DonorID,ConditionCode,clean_cell_class,clean_state,cells,resolved,median_UMI,median_genes
+Donor6,N,Neutrophil,Low-signal/unresolved,902,0,148,104
+Donor1,N,Neutrophil,PADI4,3,3,3936,1656
+Donor4,N,Neutrophil,Low-signal/unresolved,226,0,136,95
+Donor2,NNAMPT,Neutrophil,Low-signal/unresolved,337,0,137,93
+Donor1,NNAMPT,Neutrophil,Low-signal/unresolved,107,0,134,91
+Donor6,N,Neutrophil,PADI4,70,65,838,536.5
+Donor5,N,Neutrophil,Low-signal/unresolved,72,0,143,108.5
+Donor3,N,Neutrophil,Low-signal/unresolved,102,0,153,102
+Donor6,N,Neutrophil,OSM,575,563,176,119
+Donor5,NNAMPT,Neutrophil,CXCR4,10,9,192,144.5
+Donor4,NNAMPT,Neutrophil,Low-signal/unresolved,317,0,140,98
+Donor1,N,Neutrophil,Low-signal/unresolved,77,0,132,92
+Donor6,N,Neutrophil,CXCR4,159,156,330,207
+Donor2,NNAMPT,Neutrophil,OSM,168,162,161.5,110.5
+Donor6,N,Neutrophil,MX1/ISG-like,17,17,2259,1019
+Donor1,N,Neutrophil,CXCR4,10,10,1247.5,585.5
+Donor2,NNAMPT,Neutrophil,CXCR4,45,44,255,163
+Donor4,NNAMPT,Neutrophil,OSM,165,157,187,130
+Donor1,NNAMPT,Neutrophil,OSM,51,49,155,104
+Donor5,N,Neutrophil,OSM,49,48,184,125
+Donor5,NNAMPT,Neutrophil,Low-signal/unresolved,60,0,136.5,97
+Donor1,N,Neutrophil,OSM,42,42,162.5,115
+Donor5,NNAMPT,Neutrophil,OSM,34,31,151,118.5
+Donor4,N,Neutrophil,CXCR4,49,47,1019,446
+Donor5,N,Neutrophil,CXCR4,11,11,203,147
+Donor4,N,Neutrophil,OSM,171,168,202,128
+Donor2,N,Neutrophil,Low-signal/unresolved,65,0,149,102
+Donor3,N,Neutrophil,CXCR4,33,32,1170,593
+Donor4,NNAMPT,Neutrophil,CXCR4,62,59,1699,786
+Donor4,NNAMPT,Neutrophil,PADI4,11,11,1966,885
+Donor4,N,Neutrophil,MX1/ISG-like,8,7,3169.5,1250
+Donor3,N,Neutrophil,OSM,61,57,213,148
+Donor3,NNAMPT,Neutrophil,OSM,21,20,249,153
+Donor2,N,Neutrophil,OSM,41,39,177,128
+Donor3,NNAMPT,Neutrophil,CXCR4,16,16,861.5,484
+Donor3,NNAMPT,Neutrophil,Low-signal/unresolved,18,0,284,160
+Donor2,N,Neutrophil,CXCR4,8,8,731,412
+Donor2,NNAMPT,Neutrophil,PADI4,7,6,1130,692
+Donor6,NNAMPT,Neutrophil,OSM,13,12,145,107
+Donor1,NNAMPT,Neutrophil,CXCR4,15,14,251,183
+Donor6,NNAMPT,Neutrophil,Low-signal/unresolved,14,0,134,90.5
+Donor4,N,Neutrophil,PADI4,12,12,656,365.5
+Donor3,N,Neutrophil,PADI4,10,10,525.5,363
+Donor4,NNAMPT,Neutrophil,MX1/ISG-like,6,6,2881,1091
+Donor5,N,Neutrophil,MX1/ISG-like,1,1,4280,1506
+Donor3,NNAMPT,Neutrophil,PADI4,3,3,1918,864
+Donor3,N,Neutrophil,MX1/ISG-like,3,3,2638,884
+Donor5,NNAMPT,Neutrophil,MX1/ISG-like,1,1,2912,1078
+Donor2,NNAMPT,Neutrophil,MX1/ISG-like,3,3,2852,1156
+Donor6,NNAMPT,Neutrophil,CXCR4,1,1,3435,1023
+Donor3,NNAMPT,Neutrophil,MX1/ISG-like,3,3,3302,1179
+Donor5,N,Neutrophil,PADI4,1,1,278,209
+Donor6,UF,Neutrophil,Low-signal/unresolved,1640,0,147,101
+Donor3,UF,Neutrophil,Low-signal/unresolved,1567,0,213,129
+Donor4,UF,Neutrophil,OSM,2237,2162,2100,807
+Donor2,UF,Neutrophil,Low-signal/unresolved,2366,0,146,99
+Donor4,UF,Neutrophil,Low-signal/unresolved,2690,0,195,122
+Donor4,UN,Neutrophil,Low-signal/unresolved,1230,0,152,103
+Donor4,UN,Neutrophil,OSM,478,448,2338,887.5
+Donor3,UN,Neutrophil,OSM,1155,1122,2023,812
+Donor2,UN,Neutrophil,Low-signal/unresolved,1446,0,143,98
+Donor2,UF,Neutrophil,PADI4,23,23,527,232
+Donor3,UN,Neutrophil,CXCR4,1182,1169,2387,921
+Donor3,UF,Neutrophil,CXCR4,844,832,2413.5,920.5
+Donor3,UN,Neutrophil,Low-signal/unresolved,1968,0,199.5,125
+Donor3,UF,Neutrophil,OSM,1373,1302,2114,824
+Donor6,UN,Neutrophil,Low-signal/unresolved,178,0,160.5,111
+Donor3,UN,Neutrophil,MX1/ISG-like,223,218,2530,949
+Donor4,UF,Neutrophil,CXCR4,953,944,2399,912
+Donor4,UN,Neutrophil,MX1/ISG-like,78,75,2698.5,1019.5
+Donor4,UF,Neutrophil,MX1/ISG-like,215,213,2532,978
+Donor2,UF,Neutrophil,CXCR4,348,348,2465,938.5
+Donor3,UF,Neutrophil,MX1/ISG-like,172,169,2363.5,914
+Donor2,UN,Neutrophil,CXCR4,219,218,2399,930
+Donor6,UF,Neutrophil,OSM,168,162,1514,665
+Donor2,UF,Neutrophil,OSM,318,314,1925,796.5
+Donor4,UN,Neutrophil,CXCR4,709,698,2523,977
+Donor1,UF,Neutrophil,Low-signal/unresolved,405,0,142,99
+Donor2,UN,Neutrophil,OSM,201,198,1874,768
+Donor1,UN,Neutrophil,Low-signal/unresolved,138,0,163,111
+Donor6,UF,Neutrophil,CXCR4,167,166,2381,920
+Donor5,UF,Neutrophil,Low-signal/unresolved,127,0,166,113
+Donor5,UN,Neutrophil,Low-signal/unresolved,50,0,177,96
+Donor1,UF,Neutrophil,OSM,66,66,1837,763.5
+Donor1,UN,Fibroblast_candidate,Fibroblast candidate: low stromal signal,1,0,2981,1086
+Donor2,UN,Neutrophil,MX1/ISG-like,30,30,2630,1002
+Donor4,UN,Neutrophil,PADI4,22,18,701.5,420
+Donor5,UF,Neutrophil,CXCR4,18,18,2557,994
+Donor1,UN,Neutrophil,OSM,48,46,2040.5,855
+Donor2,UF,Neutrophil,MX1/ISG-like,35,35,3021,1090
+Donor4,UF,Neutrophil,PADI4,77,74,1763,794
+Donor3,UN,Neutrophil,PADI4,45,45,2076,851
+Donor1,UN,Neutrophil,MX1/ISG-like,4,4,2651.5,1043
+Donor5,UF,Neutrophil,OSM,10,10,2496.5,847
+Donor6,UN,Neutrophil,CXCR4,21,21,2058,866
+Donor1,UN,Neutrophil,CXCR4,34,34,2566.5,976
+Donor6,UF,Neutrophil,PADI4,14,14,552.5,352.5
+Donor2,UN,Neutrophil,PADI4,16,15,422.5,215.5
+Donor5,UN,Neutrophil,OSM,13,13,2534,931
+Donor2,UN,Fibroblast_candidate,Fibroblast candidate: low stromal signal,5,0,9651,2949
+Donor3,UF,Neutrophil,PADI4,48,46,2442,934.5
+Donor2,UN,Fibroblast_candidate,Myofibroblast-like,1,0,7098,2481
+Donor6,UF,Neutrophil,MX1/ISG-like,27,27,2482,993
+Donor6,UN,Neutrophil,OSM,26,26,2155,782.5
+Donor1,UF,Neutrophil,CXCR4,65,65,2426,953
+Donor3,UN,Fibroblast_candidate,Fibroblast candidate: low stromal signal,16,0,3050.5,1082
+Donor4,UF,Fibroblast_candidate,Fibroblast candidate: low stromal signal,12,0,2896.5,1105.5
+Donor5,UN,Neutrophil,CXCR4,13,13,2446,906
+Donor3,UN,Fibroblast_candidate,Perivascular-like fibroblast,1,0,3738,958
+Donor3,UF,Fibroblast_candidate,Fibroblast candidate: low stromal signal,10,0,2797.5,1017.5
+Donor1,UF,Fibroblast_candidate,Fibroblast candidate: low stromal signal,2,0,1365.5,634.5
+Donor1,UN,Neutrophil,PADI4,3,3,2077,922
+Donor6,UN,Neutrophil,MX1/ISG-like,4,4,2966.5,1141.5
+Donor1,UF,Neutrophil,MX1/ISG-like,5,5,2774,906
+Donor3,UN,Fibroblast_candidate,Unresolved fibroblast-like,1,0,2560,228
+Donor3,UF,Fibroblast_candidate,ECM-remodeling fibroblast,1,0,27709,5525
+Donor1,UF,Neutrophil,PADI4,5,4,370,205
+Donor4,UN,Fibroblast_candidate,Unresolved fibroblast-like,1,0,355,213
+Donor4,UN,Fibroblast_candidate,Fibroblast candidate: low stromal signal,4,0,2790,1005
+Donor2,UF,Fibroblast_candidate,Unresolved fibroblast-like,1,0,156,127
+Donor1,UF,Fibroblast_candidate,Perivascular-like fibroblast,1,0,30521,5500
+Donor4,UF,Fibroblast_candidate,Activated FAP+ fibroblast,1,0,15553,3221
+Donor6,UN,Neutrophil,PADI4,3,3,2738,906
+Donor2,UF,Fibroblast_candidate,Fibroblast candidate: low stromal signal,1,0,5066,1762
+Donor1,UN,Fibroblast_candidate,Fibroblast candidate: mixed immune-stromal,1,0,49196,7863
+Donor2,UN,Fibroblast_candidate,Antigen-presenting fibroblast-like,1,0,4586,1425
+Donor2,UF,Fibroblast_candidate,Myofibroblast-like,1,0,37064,6442
+Donor3,UF,Fibroblast_candidate,Fibroblast candidate: mixed immune-stromal,1,0,8324,2596
+Donor3,UN,Fibroblast_candidate,Inflammatory fibroblast,1,0,18128,4023
+Donor3,UF,Fibroblast_candidate,Inflammatory fibroblast,1,0,1860,814
+Donor2,UF,Fibroblast_candidate,Fibroblast candidate: mixed immune-stromal,1,0,31801,5867
+Donor2,UF,Fibroblast_candidate,Activated FAP+ fibroblast,1,0,3274,1058
+Donor5,UD,Neutrophil,Low-signal/unresolved,5881,0,200,135
+Donor1,UA5,Neutrophil,Low-signal/unresolved,6205,0,185,126
+Donor6,UD,Neutrophil,Low-signal/unresolved,2523,0,203,137
+Donor4,UD,Neutrophil,CXCR4,739,724,3200,1154
+Donor3,UA5,Neutrophil,Low-signal/unresolved,1994,0,321,181
+Donor3,UD,Neutrophil,Low-signal/unresolved,1900,0,284,179.5
+Donor4,UA5,Neutrophil,MX1/ISG-like,150,146,3431.5,1199
+Donor5,UD,Neutrophil,CXCR4,594,574,369,222
+Donor2,UD,Neutrophil,Low-signal/unresolved,4396,0,181,124
+Donor2,UD,Neutrophil,OSM,412,395,387,231
+Donor2,UA5,Neutrophil,Low-signal/unresolved,4438,0,186,126
+Donor4,UA5,Neutrophil,OSM,955,917,2978,1061
+Donor1,UA5,Neutrophil,OSM,668,636,854.5,428
+Donor6,UA5,Neutrophil,Low-signal/unresolved,2888,0,221,152
+Donor3,UA5,Neutrophil,OSM,1176,1134,2845,1027
+Donor1,UA5,Neutrophil,CXCR4,640,617,398,232.5
+Donor4,UD,Neutrophil,Low-signal/unresolved,1868,0,253,162
+Donor4,UA5,Neutrophil,CXCR4,478,460,2990,1079
+Donor2,UA5,Neutrophil,CXCR4,430,422,398,242.5
+Donor4,UA5,Neutrophil,Low-signal/unresolved,1742,0,280,178
+Donor6,UD,Neutrophil,MX1/ISG-like,22,20,3547,1281
+Donor3,UA5,Neutrophil,CXCR4,704,683,2949.5,1080
+Donor3,UD,Neutrophil,MX1/ISG-like,161,159,3256,1199
+Donor6,UD,Neutrophil,OSM,202,182,399.5,247.5
+Donor4,UD,Neutrophil,OSM,979,933,2979,1068
+Donor3,UA5,Neutrophil,MX1/ISG-like,174,170,3437,1179
+Donor5,UD,Neutrophil,OSM,529,492,447,267
+Donor2,UA5,Neutrophil,MX1/ISG-like,58,58,3281,1189
+Donor6,UA5,Neutrophil,CXCR4,279,268,377,237
+Donor6,UD,Neutrophil,CXCR4,250,240,383.5,229
+Donor2,UA5,Neutrophil,OSM,425,406,426,250
+Donor2,UD,Neutrophil,CXCR4,467,455,372,216
+Donor3,UD,Neutrophil,CXCR4,560,551,2769.5,1063
+Donor1,UD,Neutrophil,Low-signal/unresolved,739,0,206,138
+Donor3,UD,Neutrophil,OSM,783,754,2635,1010
+Donor1,UD,Neutrophil,PADI4,17,16,682,406
+Donor5,UD,Neutrophil,PADI4,72,70,580,304.5
+Donor1,UD,Neutrophil,CXCR4,88,87,1916,763.5
+Donor1,UA5,Neutrophil,MX1/ISG-like,69,68,3143,1183
+Donor2,UD,Neutrophil,PADI4,58,52,331.5,212.5
+Donor1,UA5,Neutrophil,PADI4,84,81,458.5,276
+Donor3,UD,Neutrophil,PADI4,54,52,1944.5,898.5
+Donor6,UD,Neutrophil,PADI4,42,39,522.5,295.5
+Donor5,UA5,Neutrophil,Low-signal/unresolved,15,0,300,195
+Donor4,UD,Fibroblast_candidate,Fibroblast candidate: low stromal signal,15,0,3276,1087
+Donor2,UA5,Neutrophil,PADI4,61,58,482,267
+Donor5,UD,Neutrophil,MX1/ISG-like,48,48,3097,1085.5
+Donor1,UD,Neutrophil,OSM,88,84,2028,867
+Donor6,UA5,Neutrophil,OSM,194,179,477.5,291.5
+Donor4,UD,Neutrophil,PADI4,59,56,2383,1021
+Donor4,UD,Neutrophil,MX1/ISG-like,137,134,3285,1190
+Donor4,UA5,Neutrophil,PADI4,56,53,2522.5,984.5
+Donor3,UA5,Neutrophil,PADI4,67,66,2404,999
+Donor6,UA5,Neutrophil,PADI4,40,36,674.5,400
+Donor5,UD,Fibroblast_candidate,Fibroblast candidate: low stromal signal,11,0,887,628
+Donor1,UD,Neutrophil,MX1/ISG-like,13,13,3723,1400
+Donor3,UA5,Fibroblast_candidate,Inflammatory fibroblast,2,0,1158,594.5
+Donor2,UD,Fibroblast_candidate,Fibroblast candidate: mixed immune-stromal,1,0,70998,8287
+Donor3,UA5,Fibroblast_candidate,Fibroblast candidate: mixed immune-stromal,4,0,5051,1823
+Donor6,UA5,Neutrophil,MX1/ISG-like,28,27,3408,1223
+Donor4,UA5,Fibroblast_candidate,Fibroblast candidate: low stromal signal,12,0,5080,1714.5
+Donor6,UA5,Fibroblast_candidate,Inflammatory fibroblast,1,0,1174,652
+Donor2,UD,Neutrophil,MX1/ISG-like,46,44,3521.5,1255.5
+Donor3,UA5,Fibroblast_candidate,Fibroblast candidate: low stromal signal,12,0,4415.5,1413
+Donor4,UD,Fibroblast_candidate,Fibroblast candidate: mixed immune-stromal,1,0,5943,2254
+Donor6,UD,Fibroblast_candidate,Fibroblast candidate: low stromal signal,2,0,408,234.5
+Donor1,UA5,Fibroblast_candidate,Unresolved fibroblast-like,1,0,779,296
+Donor2,UA5,Fibroblast_candidate,Fibroblast candidate: low stromal signal,9,0,4511,1554
+Donor6,UA5,Fibroblast_candidate,Unresolved fibroblast-like,1,0,657,401
+Donor3,UA5,Fibroblast_candidate,Activated FAP+ fibroblast,1,0,44612,6812
+Donor1,UA5,Fibroblast_candidate,Fibroblast candidate: low stromal signal,12,0,3948.5,1317.5
+Donor2,UA5,Fibroblast_candidate,Inflammatory fibroblast,2,0,744.5,401
+Donor2,UD,Fibroblast_candidate,Fibroblast candidate: low stromal signal,3,0,5960,2389
+Donor6,UD,Fibroblast_candidate,ECM-remodeling fibroblast,1,0,1811,682
+Donor4,UA5,Fibroblast_candidate,Inflammatory fibroblast,2,0,2614.5,1183.5
+Donor5,UA5,Neutrophil,OSM,1,1,598,333
+Donor3,UD,Fibroblast_candidate,Inflammatory fibroblast,1,0,3814,1488
+Donor1,UA5,Fibroblast_candidate,Fibroblast candidate: mixed immune-stromal,2,0,23015.5,5466
+Donor5,UA5,Neutrophil,CXCR4,2,2,2603.5,550
+Donor1,UD,Fibroblast_candidate,Inflammatory fibroblast,1,0,2335,1337
+Donor1,UA5,Fibroblast_candidate,Antigen-presenting fibroblast-like,1,0,1488,763
+Donor3,UD,Fibroblast_candidate,Fibroblast candidate: low stromal signal,11,0,3134,1269
+Donor5,UD,Fibroblast_candidate,ECM-remodeling fibroblast,1,0,6314,2512
+Donor2,UD,Fibroblast_candidate,Unresolved fibroblast-like,2,0,901.5,361.5
+Donor3,UA5,Fibroblast_candidate,Unresolved fibroblast-like,1,0,230,135
+Donor2,UD,Fibroblast_candidate,Inflammatory fibroblast,1,0,876,505
+Donor6,UA5,Fibroblast_candidate,ECM-remodeling fibroblast,1,0,547,324
+Donor3,UD,Fibroblast_candidate,Fibroblast candidate: mixed immune-stromal,3,0,41626,7165
+Donor5,UD,Fibroblast_candidate,Inflammatory fibroblast,1,0,1769,905
+Donor2,UA5,Fibroblast_candidate,Myofibroblast-like,1,0,37248,6596
+Donor2,UD,Fibroblast_candidate,ECM-remodeling fibroblast,1,0,14310,3935
+Donor3,UA5,Fibroblast_candidate,ECM-remodeling fibroblast,1,0,1673,368
+Donor6,UA5,Fibroblast_candidate,Fibroblast candidate: low stromal signal,1,0,315,188
+Donor1,UD,Fibroblast_candidate,Unresolved fibroblast-like,1,0,466,315
+Donor5,UA5,Neutrophil,MX1/ISG-like,1,1,3947,1581
+Donor3,NA5,Neutrophil,Low-signal/unresolved,2812,0,169,109
+Donor4,CF,Neutrophil,CXCR4,1323,1309,2843,1048
+Donor3,NA5,Neutrophil,OSM,1557,1521,2473,915
+Donor6,CF,Neutrophil,Low-signal/unresolved,5465,0,149,99
+Donor1,CF,Neutrophil,Low-signal/unresolved,4870,0,149,97
+Donor5,NA5,Neutrophil,Low-signal/unresolved,10169,0,149,98
+Donor2,NA5,Neutrophil,MX1/ISG-like,69,69,3068,1094
+Donor4,CF,Neutrophil,Low-signal/unresolved,1744,0,197,126
+Donor5,NA5,Neutrophil,PADI4,61,59,331,190
+Donor3,NA5,Neutrophil,CXCR4,2082,2069,2820.5,1035
+Donor2,NA5,Neutrophil,PADI4,31,31,506,258
+Donor3,CF,Neutrophil,PADI4,63,60,2276,943
+Donor2,NA5,Neutrophil,Low-signal/unresolved,4347,0,148,96
+Donor5,NA5,Neutrophil,CXCR4,1377,1363,2090,858
+Donor6,CF,Neutrophil,OSM,468,464,1221.5,616.5
+Donor3,CF,Neutrophil,CXCR4,1475,1448,2913,1061
+Donor1,CF,Neutrophil,MX1/ISG-like,65,65,2901,1069
+Donor3,CF,Neutrophil,Low-signal/unresolved,1589,0,224,125
+Donor4,NA5,Neutrophil,OSM,641,622,2418,921
+Donor1,CF,Neutrophil,OSM,460,454,1652,710
+Donor3,CF,Neutrophil,OSM,1657,1596,2533,935
+Donor2,NA5,Neutrophil,OSM,429,423,1523,686
+Donor4,NA5,Neutrophil,CXCR4,791,789,2818,1050
+Donor6,CF,Neutrophil,CXCR4,696,692,2268.5,894.5
+Donor1,CF,Neutrophil,CXCR4,704,699,2196.5,876
+Donor4,NA5,Neutrophil,Low-signal/unresolved,916,0,188,121.5
+Donor5,NA5,Neutrophil,MX1/ISG-like,133,132,2972,1069
+Donor1,NA5,Neutrophil,Low-signal/unresolved,248,0,158.5,104.5
+Donor2,CF,Neutrophil,Low-signal/unresolved,41,0,218,115
+Donor5,NA5,Neutrophil,OSM,1001,982,1479,659
+Donor4,CF,Neutrophil,OSM,1298,1266,2389,913.5
+Donor4,CF,Neutrophil,MX1/ISG-like,217,215,3026,1079
+Donor2,NA5,Neutrophil,CXCR4,629,625,2010,829
+Donor3,CF,Neutrophil,MX1/ISG-like,259,251,2930,1067
+Donor3,NA5,Neutrophil,MX1/ISG-like,273,266,2968,1078
+Donor4,NA5,Neutrophil,MX1/ISG-like,147,146,2937,1092
+Donor4,CF,Neutrophil,PADI4,63,58,2245,931
+Donor6,CF,Neutrophil,MX1/ISG-like,74,74,2999,1071.5
+Donor5,CF,Neutrophil,Low-signal/unresolved,23,0,145,92
+Donor4,NA5,Neutrophil,PADI4,23,23,2044,887
+Donor3,NA5,Neutrophil,PADI4,59,57,2423,959
+Donor6,CF,Neutrophil,PADI4,20,19,311.5,207
+Donor1,NA5,Neutrophil,CXCR4,47,47,2280,975
+Donor1,CF,Neutrophil,PADI4,36,35,602,281
+Donor5,CF,Neutrophil,OSM,5,5,2342,949
+Donor1,NA5,Neutrophil,OSM,22,21,1535.5,677
+Donor3,CF,Fibroblast_candidate,Fibroblast candidate: low stromal signal,19,0,3124,1102
+Donor5,CF,Neutrophil,CXCR4,5,5,3798,1449
+Donor4,CF,Fibroblast_candidate,Fibroblast candidate: low stromal signal,16,0,3496,1277.5
+Donor6,CF,Fibroblast_candidate,Fibroblast candidate: low stromal signal,5,0,2428,953
+Donor6,CF,Fibroblast_candidate,Fibroblast candidate: mixed immune-stromal,1,0,6379,2045
+Donor2,CF,Neutrophil,OSM,9,9,2919,1028
+Donor1,NA5,Neutrophil,MX1/ISG-like,3,3,2858,1247
+Donor1,CF,Fibroblast_candidate,Resting/adventitial fibroblast,1,0,2302,1130
+Donor3,CF,Fibroblast_candidate,Fibroblast candidate: mixed immune-stromal,1,0,10463,2957
+Donor2,CF,Neutrophil,CXCR4,11,11,2640,1004
+Donor6,NA5,Neutrophil,Low-signal/unresolved,2,0,1213.5,537
+Donor1,CF,Fibroblast_candidate,Fibroblast candidate: low stromal signal,3,0,3960,1378
+Donor4,CF,Fibroblast_candidate,Inflammatory fibroblast,1,0,2094,841
+Donor2,CF,Neutrophil,MX1/ISG-like,2,2,3282,1209
+Donor6,NA5,Neutrophil,OSM,1,1,3791,1242
+Donor5,CF,Neutrophil,PADI4,1,1,2200,877

@@ -1,0 +1,38 @@
+ConditionCode,condition_label,neutrophil_state_annotation,cells,total_neutrophils,proportion
+PRE,Pre-culture,Low RNA neutrophils,41461,48189,0.860383074975617
+PRE,Pre-culture,PADI4 neutrophil,3231,48189,0.0670484965448546
+PRE,Pre-culture,OSM neutrophil,2873,48189,0.0596194152192409
+PRE,Pre-culture,CXCR4 neutrophil,622,48189,0.0129075100126585
+PRE,Pre-culture,MX1/ISG neutrophil,2,48189,4.1503247629127e-05
+N,Neutrophils alone,PADI4 neutrophil,91,1300,0.07
+N,Neutrophils alone,OSM neutrophil,917,1300,0.705384615384615
+N,Neutrophils alone,CXCR4 neutrophil,264,1300,0.203076923076923
+N,Neutrophils alone,MX1/ISG neutrophil,28,1300,0.0215384615384615
+NNAMPT,Neutrophils + NAMPTi,PADI4 neutrophil,20,607,0.0329489291598023
+NNAMPT,Neutrophils + NAMPTi,OSM neutrophil,431,607,0.71004942339374
+NNAMPT,Neutrophils + NAMPTi,CXCR4 neutrophil,143,607,0.235584843492587
+NNAMPT,Neutrophils + NAMPTi,MX1/ISG neutrophil,13,607,0.0214168039538715
+NA5,Neutrophils + alpha5beta1i,PADI4 neutrophil,170,9249,0.018380365444913
+NA5,Neutrophils + alpha5beta1i,OSM neutrophil,3570,9249,0.385987674343172
+NA5,Neutrophils + alpha5beta1i,CXCR4 neutrophil,4893,9249,0.529030165423289
+NA5,Neutrophils + alpha5beta1i,MX1/ISG neutrophil,616,9249,0.0666017947886258
+CF,Control fibroblast co-culture,PADI4 neutrophil,173,8738,0.0197985809109636
+CF,Control fibroblast co-culture,OSM neutrophil,3794,8738,0.434195468070497
+CF,Control fibroblast co-culture,CXCR4 neutrophil,4164,8738,0.476539253833829
+CF,Control fibroblast co-culture,MX1/ISG neutrophil,607,8738,0.0694666971847105
+UF,UC fibroblast co-culture,PADI4 neutrophil,161,6999,0.0230032861837405
+UF,UC fibroblast co-culture,OSM neutrophil,4016,6999,0.573796256608087
+UF,UC fibroblast co-culture,CXCR4 neutrophil,2373,6999,0.339048435490784
+UF,UC fibroblast co-culture,MX1/ISG neutrophil,449,6999,0.0641520217173882
+UN,UC + NAMPTi,PADI4 neutrophil,84,4421,0.019000226193169
+UN,UC + NAMPTi,OSM neutrophil,1853,4421,0.419135942094549
+UN,UC + NAMPTi,CXCR4 neutrophil,2153,4421,0.486993892784438
+UN,UC + NAMPTi,MX1/ISG neutrophil,331,4421,0.0748699389278444
+UA5,UC + alpha5beta1i,PADI4 neutrophil,294,6489,0.0453074433656958
+UA5,UC + alpha5beta1i,OSM neutrophil,3273,6489,0.504392048081369
+UA5,UC + alpha5beta1i,CXCR4 neutrophil,2452,6489,0.377870241947912
+UA5,UC + alpha5beta1i,MX1/ISG neutrophil,470,6489,0.0724302666050239
+UD,UC + dual blockade,PADI4 neutrophil,285,6174,0.0461613216715258
+UD,UC + dual blockade,OSM neutrophil,2840,6174,0.459993521218011
+UD,UC + dual blockade,CXCR4 neutrophil,2631,6174,0.426141885325559
+UD,UC + dual blockade,MX1/ISG neutrophil,418,6174,0.0677032717849045

@@ -1,0 +1,111 @@
+Patient	Remission_status	score	inflammation_score	n_biopsies	feature
+UC1	Non_Remission	0.013605442176870748	5.265315516666667	3	activated FAP fibroblast fraction
+UC10	Remission	0.02652687000726216	7.779576923333333	3	activated FAP fibroblast fraction
+UC11	Remission	0.04151795030796659	7.092618155	2	activated FAP fibroblast fraction
+UC12	Remission	0.008267030321570945	2.368427776666667	3	activated FAP fibroblast fraction
+UC13	Remission	0.0037245037245037245	2.720700673333333	3	activated FAP fibroblast fraction
+UC14	Non_Remission	0.02278979049668763	4.26249281	2	activated FAP fibroblast fraction
+UC15	Non_Remission	0.009352886990746555	6.219896094999999	2	activated FAP fibroblast fraction
+UC16	Non_Remission	0.0	7.38988062	2	activated FAP fibroblast fraction
+UC17	Remission	0.0015105740181268882	7.69753765	2	activated FAP fibroblast fraction
+UC18	Non_Remission	0.05263157894736842	7.37158469	1	activated FAP fibroblast fraction
+UC2	Non_Remission	0.006410256410256411	4.9855732	3	activated FAP fibroblast fraction
+UC20	Non_Remission	0.008274188656354261	8.125908475000001	2	activated FAP fibroblast fraction
+UC22	Non_Remission	0.014143509912540169	5.41074634	3	activated FAP fibroblast fraction
+UC3	Non_Remission	0.010449189985272458	5.91293236	4	activated FAP fibroblast fraction
+UC4	Non_Remission	0.029081220733085746	3.8210225366666664	3	activated FAP fibroblast fraction
+UC5	Remission	0.06653568316111313	7.80021095	3	activated FAP fibroblast fraction
+UC6	Non_Remission	0.050799619072638906	7.035799115	2	activated FAP fibroblast fraction
+UC7	Non_Remission	0.015744775816649324	5.21551524	3	activated FAP fibroblast fraction
+UC8	Non_Remission	0.07944017301577119	7.66500324	2	activated FAP fibroblast fraction
+UC9	Non_Remission	0.030404712007982542	6.99734021	3	activated FAP fibroblast fraction
+UC1	Non_Remission	0.31301358229357856	5.265315516666667	3	FAP inflammatory
+UC10	Remission	0.41148681851471486	7.89875636	2	FAP inflammatory
+UC11	Remission	0.35874982350161927	7.092618155	2	FAP inflammatory
+UC12	Remission	0.19072835994864157	2.368427776666667	3	FAP inflammatory
+UC13	Remission	0.12397140513243793	2.720700673333333	3	FAP inflammatory
+UC14	Non_Remission	0.21353230763348582	4.26249281	2	FAP inflammatory
+UC15	Non_Remission	0.1840249269303724	6.219896094999999	2	FAP inflammatory
+UC16	Non_Remission	0.14860344491704586	7.38988062	2	FAP inflammatory
+UC2	Non_Remission	0.20768167218321465	4.434957865	2	FAP inflammatory
+UC20	Non_Remission	0.3329593331570798	7.43754394	1	FAP inflammatory
+UC22	Non_Remission	0.2613625639712441	5.41074634	3	FAP inflammatory
+UC3	Non_Remission	0.2806862108250756	5.91293236	4	FAP inflammatory
+UC4	Non_Remission	0.5005127783775046	4.49047273	2	FAP inflammatory
+UC5	Remission	0.6871140667840585	7.80021095	3	FAP inflammatory
+UC6	Non_Remission	0.5006149995522888	7.035799115	2	FAP inflammatory
+UC7	Non_Remission	0.24102328666878767	5.21551524	3	FAP inflammatory
+UC8	Non_Remission	0.4746250432067022	7.66500324	2	FAP inflammatory
+UC9	Non_Remission	0.23372473304625738	6.99734021	3	FAP inflammatory
+UC1	Non_Remission	0.5682317794262292	5.265315516666667	3	alpha5beta1 adhesion
+UC10	Remission	0.6229376384609475	7.89875636	2	alpha5beta1 adhesion
+UC11	Remission	0.7109884339148269	7.092618155	2	alpha5beta1 adhesion
+UC12	Remission	0.5556432000694946	2.368427776666667	3	alpha5beta1 adhesion
+UC13	Remission	0.5582716818356337	2.720700673333333	3	alpha5beta1 adhesion
+UC14	Non_Remission	0.6928049254789779	4.26249281	2	alpha5beta1 adhesion
+UC15	Non_Remission	0.8029550111297487	6.219896094999999	2	alpha5beta1 adhesion
+UC16	Non_Remission	0.5089586298267427	7.38988062	2	alpha5beta1 adhesion
+UC2	Non_Remission	0.5493463682294067	4.434957865	2	alpha5beta1 adhesion
+UC20	Non_Remission	0.8110872394020071	7.43754394	1	alpha5beta1 adhesion
+UC22	Non_Remission	0.640820615608298	5.41074634	3	alpha5beta1 adhesion
+UC3	Non_Remission	0.5629409886659342	5.91293236	4	alpha5beta1 adhesion
+UC4	Non_Remission	0.49955750387303655	4.49047273	2	alpha5beta1 adhesion
+UC5	Remission	0.709142705913075	7.80021095	3	alpha5beta1 adhesion
+UC6	Non_Remission	0.7396246275135264	7.035799115	2	alpha5beta1 adhesion
+UC7	Non_Remission	0.6247908861349742	5.21551524	3	alpha5beta1 adhesion
+UC8	Non_Remission	0.6802518690262032	7.66500324	2	alpha5beta1 adhesion
+UC9	Non_Remission	0.772552434208097	6.99734021	3	alpha5beta1 adhesion
+UC1	Non_Remission	0.3357536882685698	5.265315516666667	3	neutrophil recruitment
+UC10	Remission	0.3261871416702409	7.89875636	2	neutrophil recruitment
+UC11	Remission	0.2837787677115273	7.092618155	2	neutrophil recruitment
+UC12	Remission	0.21470374332137174	2.368427776666667	3	neutrophil recruitment
+UC13	Remission	0.11492351311671163	2.720700673333333	3	neutrophil recruitment
+UC14	Non_Remission	0.20295723828714557	4.26249281	2	neutrophil recruitment
+UC15	Non_Remission	0.21587173026158568	6.219896094999999	2	neutrophil recruitment
+UC16	Non_Remission	0.1354196235220198	7.38988062	2	neutrophil recruitment
+UC2	Non_Remission	0.19349150977699064	4.434957865	2	neutrophil recruitment
+UC20	Non_Remission	0.4017320755981661	7.43754394	1	neutrophil recruitment
+UC22	Non_Remission	0.2608692574168496	5.41074634	3	neutrophil recruitment
+UC3	Non_Remission	0.29046273085883434	5.91293236	4	neutrophil recruitment
+UC4	Non_Remission	0.6146169347123773	4.49047273	2	neutrophil recruitment
+UC5	Remission	0.7834612632764192	7.80021095	3	neutrophil recruitment
+UC6	Non_Remission	0.5184808687956933	7.035799115	2	neutrophil recruitment
+UC7	Non_Remission	0.1938035558927328	5.21551524	3	neutrophil recruitment
+UC8	Non_Remission	0.488332864192964	7.66500324	2	neutrophil recruitment
+UC9	Non_Remission	0.14589167036893314	6.99734021	3	neutrophil recruitment
+UC1	Non_Remission	1.0657173082034095	5.265315516666667	3	OSM response
+UC10	Remission	1.2738224522145307	7.89875636	2	OSM response
+UC11	Remission	1.0769744928670146	7.092618155	2	OSM response
+UC12	Remission	1.103517157405326	2.368427776666667	3	OSM response
+UC13	Remission	0.8846814535459474	2.720700673333333	3	OSM response
+UC14	Non_Remission	1.0745404398875098	4.26249281	2	OSM response
+UC15	Non_Remission	1.2451145490781397	6.219896094999999	2	OSM response
+UC16	Non_Remission	0.8157704063066766	7.38988062	2	OSM response
+UC2	Non_Remission	0.9307309704257387	4.434957865	2	OSM response
+UC20	Non_Remission	0.7274277298015089	7.43754394	1	OSM response
+UC22	Non_Remission	1.0731927229980867	5.41074634	3	OSM response
+UC3	Non_Remission	1.1580650641438361	5.91293236	4	OSM response
+UC4	Non_Remission	0.9990744505536697	4.49047273	2	OSM response
+UC5	Remission	1.3683823420907952	7.80021095	3	OSM response
+UC6	Non_Remission	1.2813277045212972	7.035799115	2	OSM response
+UC7	Non_Remission	1.0884871240426284	5.21551524	3	OSM response
+UC8	Non_Remission	1.3410651498485164	7.66500324	2	OSM response
+UC9	Non_Remission	0.9777526303170988	6.99734021	3	OSM response
+UC1	Non_Remission	1.8937377200512566	6.4330518649999995	2	myeloid feedback proxy
+UC10	Remission	2.0522072098292243	7.89875636	2	myeloid feedback proxy
+UC11	Remission	1.4962183644321572	7.092618155	2	myeloid feedback proxy
+UC12	Remission	1.7140933898990711	3.72337624	1	myeloid feedback proxy
+UC13	Remission	1.5271519327435874	4.19486216	1	myeloid feedback proxy
+UC14	Non_Remission	1.5637180412618938	7.74033644	1	myeloid feedback proxy
+UC16	Non_Remission	0.8399202254119701	7.64818173	1	myeloid feedback proxy
+UC17	Remission	2.238490858660007	7.69753765	2	myeloid feedback proxy
+UC2	Non_Remission	1.6593096208405629	6.37079079	2	myeloid feedback proxy
+UC20	Non_Remission	2.5300024054863357	8.125908475000001	2	myeloid feedback proxy
+UC22	Non_Remission	1.9864987051857756	6.05392938	2	myeloid feedback proxy
+UC3	Non_Remission	1.7378473807005679	6.633540075	2	myeloid feedback proxy
+UC4	Non_Remission	2.4501105980123508	8.98094546	1	myeloid feedback proxy
+UC5	Remission	2.181659860581451	7.80021095	3	myeloid feedback proxy
+UC6	Non_Remission	2.103404688838439	7.035799115	2	myeloid feedback proxy
+UC7	Non_Remission	1.8625356674276328	5.21551524	3	myeloid feedback proxy
+UC8	Non_Remission	2.114856497432734	7.66500324	2	myeloid feedback proxy
+UC9	Non_Remission	2.0046628927347947	6.99734021	3	myeloid feedback proxy

@@ -1,0 +1,353 @@
+sample,group,subset,events,immediate_parent_events,percent_immediate_parent
+FD1,FD,Saved: cd177+ all neutrophil,159,1691,9.402720283855707
+FD1,FD,Saved: cd177+ all neutrophil/cxcr4+,75,159,47.16981132075472
+FD1,FD,Saved: cd177+ all neutrophil/cxcr4+/padi4+,15,75,20.0
+FD1,FD,Saved: cd177+ all neutrophil/cxcr4- osm+,0,159,0.0
+FD1,FD,Saved: cd177+ all neutrophil/mx1+ cxcr4-,0,159,0.0
+FD1,FD,Saved: cd177+ all neutrophil/padi4+,54,159,33.9622641509434
+FD1,FD,Saved: cd177+ all neutrophil/padi4+ cxcr4-,10,159,6.289308176100629
+FD1,FD,Saved: cd177- all neutrophils,1327,1691,78.4742755765819
+FD1,FD,Saved: cd177- all neutrophils/cxcr4+ osm+,250,1327,18.839487565938207
+FD1,FD,Saved: cd177- all neutrophils/cxcr4- mx1+,97,1327,7.309721175584024
+FD1,FD,Saved: cd177- all neutrophils/cxcr4- osm+,49,1327,3.6925395629238884
+FD1,FD,Saved: cd177- all neutrophils/mx1+ cxcr4+,168,1327,12.660135644310476
+FD1,FD,Saved: cd177- all neutrophils/mx1+ osm+,165,1327,12.434061793519216
+FD1,FD,Saved: cd177- all neutrophils/osm+ padi4+,147,1327,11.077618688771665
+FD1,FD,Saved: cd177- all neutrophils/padi4+ cxcr4+,476,1327,35.87038432554635
+FD1,FD,Saved: cd177- all neutrophils/padi4+ cxcr4-,113,1327,8.51544837980407
+FD1,FD,Saved: cd177- all neutrophils/padi4+ mx1+,84,1327,6.330067822155238
+FD1,FD,Saved: cxcr4+,1081,1691,63.926670609107035
+FD1,FD,Saved: cxcr4+/cd177 hi,73,1081,6.753006475485662
+FD1,FD,"Saved: cxcr4+/mx1, osm+",93,1081,8.603145235892692
+FD1,FD,"Saved: cxcr4+/mx1, padi4+",92,1081,8.51063829787234
+FD1,FD,"Saved: cxcr4+/padi4, osm+",101,1081,9.343200740055504
+FD1,FD,Saved: cxcr4+/padi4- or osm-,835,1081,77.24329324699353
+FD1,FD,Saved: cxcr4+/padi4- or osm-/true cxcr+ neutro,778,835,93.17365269461078
+FD1,FD,Saved: cxcr4-,510,1691,30.15966883500887
+FD1,FD,Saved: cxcr4-/cd177 hi,86,510,16.862745098039216
+FD1,FD,Saved: mx1+,106,1691,6.268480189237137
+FD1,FD,Saved: mx1+/cd177 hi,0,106,0.0
+FD1,FD,Saved: osm+,334,1691,19.75162625665287
+FD1,FD,Saved: osm+/cd177 hi,0,334,0.0
+FD1,FD,Saved: padi4+,119,1691,7.037256061502069
+FD1,FD,Saved: padi4+/cd177 hi,1,119,0.8403361344537815
+FD2,FD,Saved: cd177+ all neutrophil,33,112,29.464285714285715
+FD2,FD,Saved: cd177+ all neutrophil/cxcr4+,4,33,12.121212121212121
+FD2,FD,Saved: cd177+ all neutrophil/cxcr4+/padi4+,2,4,50.0
+FD2,FD,Saved: cd177+ all neutrophil/cxcr4- osm+,0,33,0.0
+FD2,FD,Saved: cd177+ all neutrophil/mx1+ cxcr4-,0,33,0.0
+FD2,FD,Saved: cd177+ all neutrophil/padi4+,8,33,24.242424242424242
+FD2,FD,Saved: cd177+ all neutrophil/padi4+ cxcr4-,4,33,12.121212121212121
+FD2,FD,Saved: cd177- all neutrophils,74,112,66.07142857142857
+FD2,FD,Saved: cd177- all neutrophils/cxcr4+ osm+,48,74,64.86486486486487
+FD2,FD,Saved: cd177- all neutrophils/cxcr4- mx1+,6,74,8.108108108108109
+FD2,FD,Saved: cd177- all neutrophils/cxcr4- osm+,1,74,1.3513513513513513
+FD2,FD,Saved: cd177- all neutrophils/mx1+ cxcr4+,39,74,52.7027027027027
+FD2,FD,Saved: cd177- all neutrophils/mx1+ osm+,12,74,16.216216216216218
+FD2,FD,Saved: cd177- all neutrophils/osm+ padi4+,33,74,44.5945945945946
+FD2,FD,Saved: cd177- all neutrophils/padi4+ cxcr4+,42,74,56.75675675675676
+FD2,FD,Saved: cd177- all neutrophils/padi4+ cxcr4-,3,74,4.054054054054054
+FD2,FD,Saved: cd177- all neutrophils/padi4+ mx1+,18,74,24.324324324324323
+FD2,FD,Saved: cxcr4+,72,112,64.28571428571429
+FD2,FD,Saved: cxcr4+/cd177 hi,4,72,5.555555555555555
+FD2,FD,"Saved: cxcr4+/mx1, osm+",11,72,15.277777777777779
+FD2,FD,"Saved: cxcr4+/mx1, padi4+",31,72,43.05555555555556
+FD2,FD,"Saved: cxcr4+/padi4, osm+",27,72,37.5
+FD2,FD,Saved: cxcr4+/padi4- or osm-,37,72,51.388888888888886
+FD2,FD,Saved: cxcr4+/padi4- or osm-/true cxcr+ neutro,33,37,89.1891891891892
+FD2,FD,Saved: cxcr4-,37,112,33.035714285714285
+FD2,FD,Saved: cxcr4-/cd177 hi,29,37,78.37837837837837
+FD2,FD,Saved: mx1+,20,112,17.857142857142858
+FD2,FD,Saved: mx1+/cd177 hi,0,20,0.0
+FD2,FD,Saved: osm+,52,112,46.42857142857143
+FD2,FD,Saved: osm+/cd177 hi,0,52,0.0
+FD2,FD,Saved: padi4+,27,112,24.107142857142858
+FD2,FD,Saved: padi4+/cd177 hi,1,27,3.7037037037037037
+FD4,FD,Saved: cd177+ all neutrophil,279,640,43.59375
+FD4,FD,Saved: cd177+ all neutrophil/cxcr4+,29,279,10.394265232974911
+FD4,FD,Saved: cd177+ all neutrophil/cxcr4+/padi4+,11,29,37.93103448275862
+FD4,FD,Saved: cd177+ all neutrophil/cxcr4- osm+,0,279,0.0
+FD4,FD,Saved: cd177+ all neutrophil/mx1+ cxcr4-,1,279,0.35842293906810035
+FD4,FD,Saved: cd177+ all neutrophil/padi4+,86,279,30.82437275985663
+FD4,FD,Saved: cd177+ all neutrophil/padi4+ cxcr4-,16,279,5.734767025089606
+FD4,FD,Saved: cd177- all neutrophils,310,640,48.4375
+FD4,FD,Saved: cd177- all neutrophils/cxcr4+ osm+,63,310,20.322580645161292
+FD4,FD,Saved: cd177- all neutrophils/cxcr4- mx1+,26,310,8.387096774193548
+FD4,FD,Saved: cd177- all neutrophils/cxcr4- osm+,24,310,7.741935483870968
+FD4,FD,Saved: cd177- all neutrophils/mx1+ cxcr4+,42,310,13.548387096774194
+FD4,FD,Saved: cd177- all neutrophils/mx1+ osm+,32,310,10.32258064516129
+FD4,FD,Saved: cd177- all neutrophils/osm+ padi4+,12,310,3.870967741935484
+FD4,FD,Saved: cd177- all neutrophils/padi4+ cxcr4+,72,310,23.225806451612904
+FD4,FD,Saved: cd177- all neutrophils/padi4+ cxcr4-,55,310,17.741935483870968
+FD4,FD,Saved: cd177- all neutrophils/padi4+ mx1+,7,310,2.2580645161290325
+FD4,FD,Saved: cxcr4+,185,640,28.90625
+FD4,FD,Saved: cxcr4+/cd177 hi,28,185,15.135135135135135
+FD4,FD,"Saved: cxcr4+/mx1, osm+",22,185,11.891891891891891
+FD4,FD,"Saved: cxcr4+/mx1, padi4+",5,185,2.7027027027027026
+FD4,FD,"Saved: cxcr4+/padi4, osm+",8,185,4.324324324324325
+FD4,FD,Saved: cxcr4+/padi4- or osm-,159,185,85.94594594594595
+FD4,FD,Saved: cxcr4+/padi4- or osm-/true cxcr+ neutro,132,159,83.01886792452831
+FD4,FD,Saved: cxcr4-,429,640,67.03125
+FD4,FD,Saved: cxcr4-/cd177 hi,249,429,58.04195804195804
+FD4,FD,Saved: mx1+,53,640,8.28125
+FD4,FD,Saved: mx1+/cd177 hi,0,53,0.0
+FD4,FD,Saved: osm+,43,640,6.71875
+FD4,FD,Saved: osm+/cd177 hi,0,43,0.0
+FD4,FD,Saved: padi4+,35,640,5.46875
+FD4,FD,Saved: padi4+/cd177 hi,3,35,8.571428571428571
+FD5,FD,Saved: cd177+ all neutrophil,156,477,32.704402515723274
+FD5,FD,Saved: cd177+ all neutrophil/cxcr4+,55,156,35.256410256410255
+FD5,FD,Saved: cd177+ all neutrophil/cxcr4+/padi4+,7,55,12.727272727272727
+FD5,FD,Saved: cd177+ all neutrophil/cxcr4- osm+,0,156,0.0
+FD5,FD,Saved: cd177+ all neutrophil/mx1+ cxcr4-,0,156,0.0
+FD5,FD,Saved: cd177+ all neutrophil/padi4+,31,156,19.871794871794872
+FD5,FD,Saved: cd177+ all neutrophil/padi4+ cxcr4-,4,156,2.5641025641025643
+FD5,FD,Saved: cd177- all neutrophils,295,477,61.84486373165618
+FD5,FD,Saved: cd177- all neutrophils/cxcr4+ osm+,15,295,5.084745762711864
+FD5,FD,Saved: cd177- all neutrophils/cxcr4- mx1+,9,295,3.0508474576271185
+FD5,FD,Saved: cd177- all neutrophils/cxcr4- osm+,0,295,0.0
+FD5,FD,Saved: cd177- all neutrophils/mx1+ cxcr4+,15,295,5.084745762711864
+FD5,FD,Saved: cd177- all neutrophils/mx1+ osm+,11,295,3.7288135593220337
+FD5,FD,Saved: cd177- all neutrophils/osm+ padi4+,1,295,0.3389830508474576
+FD5,FD,Saved: cd177- all neutrophils/padi4+ cxcr4+,117,295,39.66101694915254
+FD5,FD,Saved: cd177- all neutrophils/padi4+ cxcr4-,68,295,23.050847457627118
+FD5,FD,Saved: cd177- all neutrophils/padi4+ mx1+,3,295,1.0169491525423728
+FD5,FD,Saved: cxcr4+,221,477,46.331236897274636
+FD5,FD,Saved: cxcr4+/cd177 hi,51,221,23.076923076923077
+FD5,FD,"Saved: cxcr4+/mx1, osm+",8,221,3.6199095022624435
+FD5,FD,"Saved: cxcr4+/mx1, padi4+",2,221,0.9049773755656109
+FD5,FD,"Saved: cxcr4+/padi4, osm+",1,221,0.45248868778280543
+FD5,FD,Saved: cxcr4+/padi4- or osm-,179,221,80.99547511312217
+FD5,FD,Saved: cxcr4+/padi4- or osm-/true cxcr+ neutro,165,179,92.17877094972067
+FD5,FD,Saved: cxcr4-,238,477,49.895178197064986
+FD5,FD,Saved: cxcr4-/cd177 hi,101,238,42.436974789915965
+FD5,FD,Saved: mx1+,13,477,2.7253668763102725
+FD5,FD,Saved: mx1+/cd177 hi,1,13,7.6923076923076925
+FD5,FD,Saved: osm+,19,477,3.9832285115303985
+FD5,FD,Saved: osm+/cd177 hi,2,19,10.526315789473685
+FD5,FD,Saved: padi4+,89,477,18.658280922431867
+FD5,FD,Saved: padi4+/cd177 hi,0,89,0.0
+FD6,FD,Saved: cd177+ all neutrophil,47,956,4.916317991631799
+FD6,FD,Saved: cd177+ all neutrophil/cxcr4+,11,47,23.404255319148938
+FD6,FD,Saved: cd177+ all neutrophil/cxcr4+/padi4+,2,11,18.181818181818183
+FD6,FD,Saved: cd177+ all neutrophil/cxcr4- osm+,2,47,4.25531914893617
+FD6,FD,Saved: cd177+ all neutrophil/mx1+ cxcr4-,2,47,4.25531914893617
+FD6,FD,Saved: cd177+ all neutrophil/padi4+,23,47,48.93617021276596
+FD6,FD,Saved: cd177+ all neutrophil/padi4+ cxcr4-,3,47,6.382978723404255
+FD6,FD,Saved: cd177- all neutrophils,869,956,90.89958158995816
+FD6,FD,Saved: cd177- all neutrophils/cxcr4+ osm+,506,869,58.22784810126582
+FD6,FD,Saved: cd177- all neutrophils/cxcr4- mx1+,244,869,28.07825086306099
+FD6,FD,Saved: cd177- all neutrophils/cxcr4- osm+,84,869,9.666283084004602
+FD6,FD,Saved: cd177- all neutrophils/mx1+ cxcr4+,303,869,34.86766398158803
+FD6,FD,Saved: cd177- all neutrophils/mx1+ osm+,470,869,54.085155350978134
+FD6,FD,Saved: cd177- all neutrophils/osm+ padi4+,121,869,13.924050632911392
+FD6,FD,Saved: cd177- all neutrophils/padi4+ cxcr4+,221,869,25.431530494821633
+FD6,FD,Saved: cd177- all neutrophils/padi4+ cxcr4-,57,869,6.5592635212888375
+FD6,FD,Saved: cd177- all neutrophils/padi4+ mx1+,87,869,10.01150747986191
+FD6,FD,Saved: cxcr4+,548,956,57.32217573221757
+FD6,FD,Saved: cxcr4+/cd177 hi,10,548,1.8248175182481752
+FD6,FD,"Saved: cxcr4+/mx1, osm+",292,548,53.284671532846716
+FD6,FD,"Saved: cxcr4+/mx1, padi4+",61,548,11.13138686131387
+FD6,FD,"Saved: cxcr4+/padi4, osm+",66,548,12.043795620437956
+FD6,FD,Saved: cxcr4+/padi4- or osm-,434,548,79.1970802919708
+FD6,FD,Saved: cxcr4+/padi4- or osm-/true cxcr+ neutro,173,434,39.86175115207373
+FD6,FD,Saved: cxcr4-,261,956,27.301255230125523
+FD6,FD,Saved: cxcr4-/cd177 hi,36,261,13.793103448275861
+FD6,FD,Saved: mx1+,166,956,17.364016736401673
+FD6,FD,Saved: mx1+/cd177 hi,0,166,0.0
+FD6,FD,Saved: osm+,619,956,64.7489539748954
+FD6,FD,Saved: osm+/cd177 hi,4,619,0.6462035541195477
+FD6,FD,Saved: padi4+,61,956,6.380753138075314
+FD6,FD,Saved: padi4+/cd177 hi,1,61,1.639344262295082
+WD1,WD,Saved: cd177+ all neutrophil,18,127,14.173228346456693
+WD1,WD,Saved: cd177+ all neutrophil/cxcr4+,5,18,27.77777777777778
+WD1,WD,Saved: cd177+ all neutrophil/cxcr4+/padi4+,3,5,60.0
+WD1,WD,Saved: cd177+ all neutrophil/cxcr4- osm+,0,18,0.0
+WD1,WD,Saved: cd177+ all neutrophil/mx1+ cxcr4-,0,18,0.0
+WD1,WD,Saved: cd177+ all neutrophil/padi4+,6,18,33.333333333333336
+WD1,WD,Saved: cd177+ all neutrophil/padi4+ cxcr4-,2,18,11.11111111111111
+WD1,WD,Saved: cd177- all neutrophils,104,127,81.88976377952756
+WD1,WD,Saved: cd177- all neutrophils/cxcr4+ osm+,21,104,20.192307692307693
+WD1,WD,Saved: cd177- all neutrophils/cxcr4- mx1+,8,104,7.6923076923076925
+WD1,WD,Saved: cd177- all neutrophils/cxcr4- osm+,8,104,7.6923076923076925
+WD1,WD,Saved: cd177- all neutrophils/mx1+ cxcr4+,20,104,19.23076923076923
+WD1,WD,Saved: cd177- all neutrophils/mx1+ osm+,8,104,7.6923076923076925
+WD1,WD,Saved: cd177- all neutrophils/osm+ padi4+,7,104,6.730769230769231
+WD1,WD,Saved: cd177- all neutrophils/padi4+ cxcr4+,27,104,25.96153846153846
+WD1,WD,Saved: cd177- all neutrophils/padi4+ cxcr4-,11,104,10.576923076923077
+WD1,WD,Saved: cd177- all neutrophils/padi4+ mx1+,1,104,0.9615384615384616
+WD1,WD,Saved: cxcr4+,62,127,48.818897637795274
+WD1,WD,Saved: cxcr4+/cd177 hi,5,62,8.064516129032258
+WD1,WD,"Saved: cxcr4+/mx1, osm+",4,62,6.451612903225806
+WD1,WD,"Saved: cxcr4+/mx1, padi4+",3,62,4.838709677419355
+WD1,WD,"Saved: cxcr4+/padi4, osm+",4,62,6.451612903225806
+WD1,WD,Saved: cxcr4+/padi4- or osm-,54,62,87.09677419354838
+WD1,WD,Saved: cxcr4+/padi4- or osm-/true cxcr+ neutro,46,54,85.18518518518519
+WD1,WD,Saved: cxcr4-,54,127,42.51968503937008
+WD1,WD,Saved: cxcr4-/cd177 hi,13,54,24.074074074074073
+WD1,WD,Saved: mx1+,8,127,6.299212598425197
+WD1,WD,Saved: mx1+/cd177 hi,0,8,0.0
+WD1,WD,Saved: osm+,13,127,10.236220472440944
+WD1,WD,Saved: osm+/cd177 hi,0,13,0.0
+WD1,WD,Saved: padi4+,14,127,11.023622047244094
+WD1,WD,Saved: padi4+/cd177 hi,0,14,0.0
+WD2,WD,Saved: cd177+ all neutrophil,26,197,13.197969543147208
+WD2,WD,Saved: cd177+ all neutrophil/cxcr4+,0,26,0.0
+WD2,WD,Saved: cd177+ all neutrophil/cxcr4+/padi4+,0,0,
+WD2,WD,Saved: cd177+ all neutrophil/cxcr4- osm+,0,26,0.0
+WD2,WD,Saved: cd177+ all neutrophil/mx1+ cxcr4-,0,26,0.0
+WD2,WD,Saved: cd177+ all neutrophil/padi4+,2,26,7.6923076923076925
+WD2,WD,Saved: cd177+ all neutrophil/padi4+ cxcr4-,0,26,0.0
+WD2,WD,Saved: cd177- all neutrophils,159,197,80.71065989847716
+WD2,WD,Saved: cd177- all neutrophils/cxcr4+ osm+,6,159,3.7735849056603774
+WD2,WD,Saved: cd177- all neutrophils/cxcr4- mx1+,5,159,3.1446540880503147
+WD2,WD,Saved: cd177- all neutrophils/cxcr4- osm+,2,159,1.2578616352201257
+WD2,WD,Saved: cd177- all neutrophils/mx1+ cxcr4+,5,159,3.1446540880503147
+WD2,WD,Saved: cd177- all neutrophils/mx1+ osm+,4,159,2.5157232704402515
+WD2,WD,Saved: cd177- all neutrophils/osm+ padi4+,3,159,1.8867924528301887
+WD2,WD,Saved: cd177- all neutrophils/padi4+ cxcr4+,23,159,14.465408805031446
+WD2,WD,Saved: cd177- all neutrophils/padi4+ cxcr4-,66,159,41.509433962264154
+WD2,WD,Saved: cd177- all neutrophils/padi4+ mx1+,2,159,1.2578616352201257
+WD2,WD,Saved: cxcr4+,28,197,14.213197969543147
+WD2,WD,Saved: cxcr4+/cd177 hi,0,28,0.0
+WD2,WD,"Saved: cxcr4+/mx1, osm+",2,28,7.142857142857143
+WD2,WD,"Saved: cxcr4+/mx1, padi4+",3,28,10.714285714285714
+WD2,WD,"Saved: cxcr4+/padi4, osm+",0,28,0.0
+WD2,WD,Saved: cxcr4+/padi4- or osm-,27,28,96.42857142857143
+WD2,WD,Saved: cxcr4+/padi4- or osm-/true cxcr+ neutro,24,27,88.88888888888889
+WD2,WD,Saved: cxcr4-,167,197,84.77157360406092
+WD2,WD,Saved: cxcr4-/cd177 hi,26,167,15.568862275449101
+WD2,WD,Saved: mx1+,5,197,2.5380710659898478
+WD2,WD,Saved: mx1+/cd177 hi,0,5,0.0
+WD2,WD,Saved: osm+,10,197,5.0761421319796955
+WD2,WD,Saved: osm+/cd177 hi,0,10,0.0
+WD2,WD,Saved: padi4+,19,197,9.644670050761421
+WD2,WD,Saved: padi4+/cd177 hi,0,19,0.0
+WD3,WD,Saved: cd177+ all neutrophil,128,261,49.04214559386973
+WD3,WD,Saved: cd177+ all neutrophil/cxcr4+,20,128,15.625
+WD3,WD,Saved: cd177+ all neutrophil/cxcr4+/padi4+,1,20,5.0
+WD3,WD,Saved: cd177+ all neutrophil/cxcr4- osm+,0,128,0.0
+WD3,WD,Saved: cd177+ all neutrophil/mx1+ cxcr4-,0,128,0.0
+WD3,WD,Saved: cd177+ all neutrophil/padi4+,28,128,21.875
+WD3,WD,Saved: cd177+ all neutrophil/padi4+ cxcr4-,4,128,3.125
+WD3,WD,Saved: cd177- all neutrophils,118,261,45.21072796934866
+WD3,WD,Saved: cd177- all neutrophils/cxcr4+ osm+,5,118,4.237288135593221
+WD3,WD,Saved: cd177- all neutrophils/cxcr4- mx1+,19,118,16.10169491525424
+WD3,WD,Saved: cd177- all neutrophils/cxcr4- osm+,22,118,18.64406779661017
+WD3,WD,Saved: cd177- all neutrophils/mx1+ cxcr4+,13,118,11.016949152542374
+WD3,WD,Saved: cd177- all neutrophils/mx1+ osm+,7,118,5.932203389830509
+WD3,WD,Saved: cd177- all neutrophils/osm+ padi4+,1,118,0.847457627118644
+WD3,WD,Saved: cd177- all neutrophils/padi4+ cxcr4+,27,118,22.88135593220339
+WD3,WD,Saved: cd177- all neutrophils/padi4+ cxcr4-,6,118,5.084745762711864
+WD3,WD,Saved: cd177- all neutrophils/padi4+ mx1+,4,118,3.389830508474576
+WD3,WD,Saved: cxcr4+,68,261,26.053639846743295
+WD3,WD,Saved: cxcr4+/cd177 hi,16,68,23.529411764705884
+WD3,WD,"Saved: cxcr4+/mx1, osm+",1,68,1.4705882352941178
+WD3,WD,"Saved: cxcr4+/mx1, padi4+",3,68,4.411764705882353
+WD3,WD,"Saved: cxcr4+/padi4, osm+",0,68,0.0
+WD3,WD,Saved: cxcr4+/padi4- or osm-,58,68,85.29411764705883
+WD3,WD,Saved: cxcr4+/padi4- or osm-/true cxcr+ neutro,52,58,89.65517241379311
+WD3,WD,Saved: cxcr4-,186,261,71.26436781609195
+WD3,WD,Saved: cxcr4-/cd177 hi,107,186,57.526881720430104
+WD3,WD,Saved: mx1+,11,261,4.21455938697318
+WD3,WD,Saved: mx1+/cd177 hi,0,11,0.0
+WD3,WD,Saved: osm+,30,261,11.494252873563218
+WD3,WD,Saved: osm+/cd177 hi,0,30,0.0
+WD3,WD,Saved: padi4+,8,261,3.0651340996168583
+WD3,WD,Saved: padi4+/cd177 hi,1,8,12.5
+WD4,WD,Saved: cd177+ all neutrophil,73,337,21.661721068249257
+WD4,WD,Saved: cd177+ all neutrophil/cxcr4+,3,73,4.109589041095891
+WD4,WD,Saved: cd177+ all neutrophil/cxcr4+/padi4+,0,3,0.0
+WD4,WD,Saved: cd177+ all neutrophil/cxcr4- osm+,0,73,0.0
+WD4,WD,Saved: cd177+ all neutrophil/mx1+ cxcr4-,0,73,0.0
+WD4,WD,Saved: cd177+ all neutrophil/padi4+,13,73,17.80821917808219
+WD4,WD,Saved: cd177+ all neutrophil/padi4+ cxcr4-,2,73,2.73972602739726
+WD4,WD,Saved: cd177- all neutrophils,256,337,75.96439169139465
+WD4,WD,Saved: cd177- all neutrophils/cxcr4+ osm+,5,256,1.953125
+WD4,WD,Saved: cd177- all neutrophils/cxcr4- mx1+,22,256,8.59375
+WD4,WD,Saved: cd177- all neutrophils/cxcr4- osm+,13,256,5.078125
+WD4,WD,Saved: cd177- all neutrophils/mx1+ cxcr4+,9,256,3.515625
+WD4,WD,Saved: cd177- all neutrophils/mx1+ osm+,6,256,2.34375
+WD4,WD,Saved: cd177- all neutrophils/osm+ padi4+,1,256,0.390625
+WD4,WD,Saved: cd177- all neutrophils/padi4+ cxcr4+,48,256,18.75
+WD4,WD,Saved: cd177- all neutrophils/padi4+ cxcr4-,58,256,22.65625
+WD4,WD,Saved: cd177- all neutrophils/padi4+ mx1+,4,256,1.5625
+WD4,WD,Saved: cxcr4+,89,337,26.409495548961424
+WD4,WD,Saved: cxcr4+/cd177 hi,4,89,4.49438202247191
+WD4,WD,"Saved: cxcr4+/mx1, osm+",2,89,2.247191011235955
+WD4,WD,"Saved: cxcr4+/mx1, padi4+",3,89,3.3707865168539324
+WD4,WD,"Saved: cxcr4+/padi4, osm+",1,89,1.1235955056179776
+WD4,WD,Saved: cxcr4+/padi4- or osm-,81,89,91.01123595505618
+WD4,WD,Saved: cxcr4+/padi4- or osm-/true cxcr+ neutro,77,81,95.06172839506173
+WD4,WD,Saved: cxcr4-,230,337,68.24925816023739
+WD4,WD,Saved: cxcr4-/cd177 hi,69,230,30.0
+WD4,WD,Saved: mx1+,11,337,3.264094955489614
+WD4,WD,Saved: mx1+/cd177 hi,0,11,0.0
+WD4,WD,Saved: osm+,30,337,8.90207715133531
+WD4,WD,Saved: osm+/cd177 hi,0,30,0.0
+WD4,WD,Saved: padi4+,6,337,1.7804154302670623
+WD4,WD,Saved: padi4+/cd177 hi,0,6,0.0
+WD5,WD,Saved: cd177+ all neutrophil,36,301,11.960132890365449
+WD5,WD,Saved: cd177+ all neutrophil/cxcr4+,32,36,88.88888888888889
+WD5,WD,Saved: cd177+ all neutrophil/cxcr4+/padi4+,10,32,31.25
+WD5,WD,Saved: cd177+ all neutrophil/cxcr4- osm+,0,36,0.0
+WD5,WD,Saved: cd177+ all neutrophil/mx1+ cxcr4-,0,36,0.0
+WD5,WD,Saved: cd177+ all neutrophil/padi4+,17,36,47.22222222222222
+WD5,WD,Saved: cd177+ all neutrophil/padi4+ cxcr4-,3,36,8.333333333333334
+WD5,WD,Saved: cd177- all neutrophils,254,301,84.38538205980066
+WD5,WD,Saved: cd177- all neutrophils/cxcr4+ osm+,49,254,19.291338582677167
+WD5,WD,Saved: cd177- all neutrophils/cxcr4- mx1+,23,254,9.05511811023622
+WD5,WD,Saved: cd177- all neutrophils/cxcr4- osm+,11,254,4.330708661417323
+WD5,WD,Saved: cd177- all neutrophils/mx1+ cxcr4+,86,254,33.85826771653543
+WD5,WD,Saved: cd177- all neutrophils/mx1+ osm+,10,254,3.937007874015748
+WD5,WD,Saved: cd177- all neutrophils/osm+ padi4+,22,254,8.661417322834646
+WD5,WD,Saved: cd177- all neutrophils/padi4+ cxcr4+,126,254,49.60629921259842
+WD5,WD,Saved: cd177- all neutrophils/padi4+ cxcr4-,7,254,2.7559055118110236
+WD5,WD,Saved: cd177- all neutrophils/padi4+ mx1+,21,254,8.26771653543307
+WD5,WD,Saved: cxcr4+,247,301,82.05980066445183
+WD5,WD,Saved: cxcr4+/cd177 hi,31,247,12.550607287449393
+WD5,WD,"Saved: cxcr4+/mx1, osm+",8,247,3.2388663967611335
+WD5,WD,"Saved: cxcr4+/mx1, padi4+",25,247,10.121457489878543
+WD5,WD,"Saved: cxcr4+/padi4, osm+",15,247,6.0728744939271255
+WD5,WD,Saved: cxcr4+/padi4- or osm-,213,247,86.23481781376518
+WD5,WD,Saved: cxcr4+/padi4- or osm-/true cxcr+ neutro,164,213,76.99530516431925
+WD5,WD,Saved: cxcr4-,48,301,15.946843853820598
+WD5,WD,Saved: cxcr4-/cd177 hi,4,48,8.333333333333334
+WD5,WD,Saved: mx1+,63,301,20.930232558139537
+WD5,WD,Saved: mx1+/cd177 hi,1,63,1.5873015873015872
+WD5,WD,Saved: osm+,52,301,17.27574750830565
+WD5,WD,Saved: osm+/cd177 hi,0,52,0.0
+WD5,WD,Saved: padi4+,48,301,15.946843853820598
+WD5,WD,Saved: padi4+/cd177 hi,1,48,2.0833333333333335
+WD6,WD,Saved: cd177+ all neutrophil,450,885,50.847457627118644
+WD6,WD,Saved: cd177+ all neutrophil/cxcr4+,44,450,9.777777777777779
+WD6,WD,Saved: cd177+ all neutrophil/cxcr4+/padi4+,5,44,11.363636363636363
+WD6,WD,Saved: cd177+ all neutrophil/cxcr4- osm+,0,450,0.0
+WD6,WD,Saved: cd177+ all neutrophil/mx1+ cxcr4-,0,450,0.0
+WD6,WD,Saved: cd177+ all neutrophil/padi4+,89,450,19.77777777777778
+WD6,WD,Saved: cd177+ all neutrophil/padi4+ cxcr4-,11,450,2.4444444444444446
+WD6,WD,Saved: cd177- all neutrophils,340,885,38.4180790960452
+WD6,WD,Saved: cd177- all neutrophils/cxcr4+ osm+,27,340,7.9411764705882355
+WD6,WD,Saved: cd177- all neutrophils/cxcr4- mx1+,13,340,3.823529411764706
+WD6,WD,Saved: cd177- all neutrophils/cxcr4- osm+,11,340,3.235294117647059
+WD6,WD,Saved: cd177- all neutrophils/mx1+ cxcr4+,29,340,8.529411764705882
+WD6,WD,Saved: cd177- all neutrophils/mx1+ osm+,16,340,4.705882352941177
+WD6,WD,Saved: cd177- all neutrophils/osm+ padi4+,4,340,1.1764705882352942
+WD6,WD,Saved: cd177- all neutrophils/padi4+ cxcr4+,134,340,39.411764705882355
+WD6,WD,Saved: cd177- all neutrophils/padi4+ cxcr4-,39,340,11.470588235294118
+WD6,WD,Saved: cd177- all neutrophils/padi4+ mx1+,0,340,0.0
+WD6,WD,Saved: cxcr4+,282,885,31.864406779661017
+WD6,WD,Saved: cxcr4+/cd177 hi,42,282,14.893617021276595
+WD6,WD,"Saved: cxcr4+/mx1, osm+",4,282,1.4184397163120568
+WD6,WD,"Saved: cxcr4+/mx1, padi4+",5,282,1.7730496453900708
+WD6,WD,"Saved: cxcr4+/padi4, osm+",2,282,0.7092198581560284
+WD6,WD,Saved: cxcr4+/padi4- or osm-,253,282,89.71631205673759
+WD6,WD,Saved: cxcr4+/padi4- or osm-/true cxcr+ neutro,246,253,97.23320158102767
+WD6,WD,Saved: cxcr4-,578,885,65.31073446327683
+WD6,WD,Saved: cxcr4-/cd177 hi,405,578,70.06920415224913
+WD6,WD,Saved: mx1+,14,885,1.5819209039548023
+WD6,WD,Saved: mx1+/cd177 hi,0,14,0.0
+WD6,WD,Saved: osm+,50,885,5.649717514124294
+WD6,WD,Saved: osm+/cd177 hi,0,50,0.0
+WD6,WD,Saved: padi4+,33,885,3.7288135593220337
+WD6,WD,Saved: padi4+/cd177 hi,1,33,3.0303030303030303

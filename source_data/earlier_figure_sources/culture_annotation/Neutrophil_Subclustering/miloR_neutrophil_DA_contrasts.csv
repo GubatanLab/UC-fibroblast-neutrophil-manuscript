@@ -1,0 +1,10 @@
+reference,comparison,contrast,paired
+PRE,N,Neutrophils alone vs pre-culture,FALSE
+N,CF,Control fibroblast vs neutrophils alone,TRUE
+N,UF,UC fibroblast vs neutrophils alone,TRUE
+CF,UF,UC vs control fibroblast,TRUE
+N,NNAMPT,NAMPTi vs neutrophils alone,TRUE
+N,NA5,alpha5beta1i vs neutrophils alone,TRUE
+UF,UN,NAMPTi vs UC,TRUE
+UF,UA5,alpha5beta1i vs UC,TRUE
+UF,UD,Dual blockade vs UC,TRUE

@@ -1,0 +1,185 @@
+PatientID	condition	biopsy_id	fib_state	n	total_fib	fraction
+"P007"	"Uninflamed UC"	"P007__Uninflamed UC"	"Activated crypt-top fibroblast"	18	274	0.0656934306569343
+"P007"	"Uninflamed UC"	"P007__Uninflamed UC"	"Adventitial fibroblast"	3	274	0.0109489051094891
+"P007"	"Uninflamed UC"	"P007__Uninflamed UC"	"Crypt-bottom fibroblast"	32	274	0.116788321167883
+"P007"	"Uninflamed UC"	"P007__Uninflamed UC"	"Inflammatory fibroblast"	1	274	0.00364963503649635
+"P007"	"Uninflamed UC"	"P007__Uninflamed UC"	"LP fibroblast"	113	274	0.412408759124088
+"P007"	"Uninflamed UC"	"P007__Uninflamed UC"	"Resting crypt-top fibroblast"	45	274	0.164233576642336
+"P007"	"Uninflamed UC"	"P007__Uninflamed UC"	"SMC-1"	22	274	0.0802919708029197
+"P007"	"Uninflamed UC"	"P007__Uninflamed UC"	"SMC-2"	40	274	0.145985401459854
+"P007"	"Inflamed UC"	"P007__Inflamed UC"	"Activated crypt-top fibroblast"	106	504	0.21031746031746
+"P007"	"Inflamed UC"	"P007__Inflamed UC"	"Adventitial fibroblast"	1	504	0.00198412698412698
+"P007"	"Inflamed UC"	"P007__Inflamed UC"	"Crypt-bottom fibroblast"	33	504	0.0654761904761905
+"P007"	"Inflamed UC"	"P007__Inflamed UC"	"Inflammatory fibroblast"	254	504	0.503968253968254
+"P007"	"Inflamed UC"	"P007__Inflamed UC"	"LP fibroblast"	70	504	0.138888888888889
+"P007"	"Inflamed UC"	"P007__Inflamed UC"	"Resting crypt-top fibroblast"	15	504	0.0297619047619048
+"P007"	"Inflamed UC"	"P007__Inflamed UC"	"SMC-1"	3	504	0.00595238095238095
+"P007"	"Inflamed UC"	"P007__Inflamed UC"	"SMC-2"	22	504	0.0436507936507936
+"P008"	"Uninflamed UC"	"P008__Uninflamed UC"	"Activated crypt-top fibroblast"	87	614	0.141693811074919
+"P008"	"Uninflamed UC"	"P008__Uninflamed UC"	"Adventitial fibroblast"	7	614	0.011400651465798
+"P008"	"Uninflamed UC"	"P008__Uninflamed UC"	"Crypt-bottom fibroblast"	45	614	0.0732899022801303
+"P008"	"Uninflamed UC"	"P008__Uninflamed UC"	"Inflammatory fibroblast"	64	614	0.104234527687296
+"P008"	"Uninflamed UC"	"P008__Uninflamed UC"	"LP fibroblast"	293	614	0.477198697068404
+"P008"	"Uninflamed UC"	"P008__Uninflamed UC"	"Resting crypt-top fibroblast"	64	614	0.104234527687296
+"P008"	"Uninflamed UC"	"P008__Uninflamed UC"	"SMC-1"	15	614	0.0244299674267101
+"P008"	"Uninflamed UC"	"P008__Uninflamed UC"	"SMC-2"	39	614	0.0635179153094463
+"P008"	"Inflamed UC"	"P008__Inflamed UC"	"Activated crypt-top fibroblast"	17	156	0.108974358974359
+"P008"	"Inflamed UC"	"P008__Inflamed UC"	"Crypt-bottom fibroblast"	4	156	0.0256410256410256
+"P008"	"Inflamed UC"	"P008__Inflamed UC"	"Inflammatory fibroblast"	59	156	0.378205128205128
+"P008"	"Inflamed UC"	"P008__Inflamed UC"	"LP fibroblast"	51	156	0.326923076923077
+"P008"	"Inflamed UC"	"P008__Inflamed UC"	"Resting crypt-top fibroblast"	12	156	0.0769230769230769
+"P008"	"Inflamed UC"	"P008__Inflamed UC"	"SMC-1"	2	156	0.0128205128205128
+"P008"	"Inflamed UC"	"P008__Inflamed UC"	"SMC-2"	11	156	0.0705128205128205
+"P009"	"Uninflamed UC"	"P009__Uninflamed UC"	"SMC-2"	1	1	1
+"P010"	"Uninflamed UC"	"P010__Uninflamed UC"	"Activated crypt-top fibroblast"	72	261	0.275862068965517
+"P010"	"Uninflamed UC"	"P010__Uninflamed UC"	"Crypt-bottom fibroblast"	13	261	0.0498084291187739
+"P010"	"Uninflamed UC"	"P010__Uninflamed UC"	"Inflammatory fibroblast"	4	261	0.0153256704980843
+"P010"	"Uninflamed UC"	"P010__Uninflamed UC"	"LP fibroblast"	83	261	0.318007662835249
+"P010"	"Uninflamed UC"	"P010__Uninflamed UC"	"Resting crypt-top fibroblast"	67	261	0.256704980842912
+"P010"	"Uninflamed UC"	"P010__Uninflamed UC"	"SMC-1"	11	261	0.0421455938697318
+"P010"	"Uninflamed UC"	"P010__Uninflamed UC"	"SMC-2"	11	261	0.0421455938697318
+"P011"	"Inflamed UC"	"P011__Inflamed UC"	"Activated crypt-top fibroblast"	104	496	0.209677419354839
+"P011"	"Inflamed UC"	"P011__Inflamed UC"	"Crypt-bottom fibroblast"	20	496	0.0403225806451613
+"P011"	"Inflamed UC"	"P011__Inflamed UC"	"Inflammatory fibroblast"	202	496	0.407258064516129
+"P011"	"Inflamed UC"	"P011__Inflamed UC"	"LP fibroblast"	77	496	0.155241935483871
+"P011"	"Inflamed UC"	"P011__Inflamed UC"	"Resting crypt-top fibroblast"	57	496	0.11491935483871
+"P011"	"Inflamed UC"	"P011__Inflamed UC"	"SMC-1"	18	496	0.0362903225806452
+"P011"	"Inflamed UC"	"P011__Inflamed UC"	"SMC-2"	18	496	0.0362903225806452
+"P013"	"Uninflamed UC"	"P013__Uninflamed UC"	"Activated crypt-top fibroblast"	39	340	0.114705882352941
+"P013"	"Uninflamed UC"	"P013__Uninflamed UC"	"Adventitial fibroblast"	1	340	0.00294117647058824
+"P013"	"Uninflamed UC"	"P013__Uninflamed UC"	"Crypt-bottom fibroblast"	50	340	0.147058823529412
+"P013"	"Uninflamed UC"	"P013__Uninflamed UC"	"Inflammatory fibroblast"	3	340	0.00882352941176471
+"P013"	"Uninflamed UC"	"P013__Uninflamed UC"	"LP fibroblast"	176	340	0.517647058823529
+"P013"	"Uninflamed UC"	"P013__Uninflamed UC"	"Resting crypt-top fibroblast"	51	340	0.15
+"P013"	"Uninflamed UC"	"P013__Uninflamed UC"	"SMC-1"	7	340	0.0205882352941176
+"P013"	"Uninflamed UC"	"P013__Uninflamed UC"	"SMC-2"	13	340	0.0382352941176471
+"P013"	"Inflamed UC"	"P013__Inflamed UC"	"Activated crypt-top fibroblast"	70	310	0.225806451612903
+"P013"	"Inflamed UC"	"P013__Inflamed UC"	"Adventitial fibroblast"	1	310	0.0032258064516129
+"P013"	"Inflamed UC"	"P013__Inflamed UC"	"Crypt-bottom fibroblast"	30	310	0.0967741935483871
+"P013"	"Inflamed UC"	"P013__Inflamed UC"	"Inflammatory fibroblast"	34	310	0.109677419354839
+"P013"	"Inflamed UC"	"P013__Inflamed UC"	"LP fibroblast"	86	310	0.27741935483871
+"P013"	"Inflamed UC"	"P013__Inflamed UC"	"Resting crypt-top fibroblast"	64	310	0.206451612903226
+"P013"	"Inflamed UC"	"P013__Inflamed UC"	"SMC-1"	10	310	0.032258064516129
+"P013"	"Inflamed UC"	"P013__Inflamed UC"	"SMC-2"	15	310	0.0483870967741936
+"P014"	"Uninflamed UC"	"P014__Uninflamed UC"	"Activated crypt-top fibroblast"	1	12	0.0833333333333333
+"P014"	"Uninflamed UC"	"P014__Uninflamed UC"	"Crypt-bottom fibroblast"	4	12	0.333333333333333
+"P014"	"Uninflamed UC"	"P014__Uninflamed UC"	"Inflammatory fibroblast"	4	12	0.333333333333333
+"P014"	"Uninflamed UC"	"P014__Uninflamed UC"	"LP fibroblast"	2	12	0.166666666666667
+"P014"	"Uninflamed UC"	"P014__Uninflamed UC"	"Resting crypt-top fibroblast"	1	12	0.0833333333333333
+"P014"	"Inflamed UC"	"P014__Inflamed UC"	"Crypt-bottom fibroblast"	2	9	0.222222222222222
+"P014"	"Inflamed UC"	"P014__Inflamed UC"	"Inflammatory fibroblast"	7	9	0.777777777777778
+"P016"	"Uninflamed UC"	"P016__Uninflamed UC"	"Activated crypt-top fibroblast"	3	18	0.166666666666667
+"P016"	"Uninflamed UC"	"P016__Uninflamed UC"	"Crypt-bottom fibroblast"	5	18	0.277777777777778
+"P016"	"Uninflamed UC"	"P016__Uninflamed UC"	"LP fibroblast"	6	18	0.333333333333333
+"P016"	"Uninflamed UC"	"P016__Uninflamed UC"	"Resting crypt-top fibroblast"	4	18	0.222222222222222
+"P016"	"Inflamed UC"	"P016__Inflamed UC"	"Activated crypt-top fibroblast"	6	66	0.0909090909090909
+"P016"	"Inflamed UC"	"P016__Inflamed UC"	"Adventitial fibroblast"	1	66	0.0151515151515152
+"P016"	"Inflamed UC"	"P016__Inflamed UC"	"Crypt-bottom fibroblast"	7	66	0.106060606060606
+"P016"	"Inflamed UC"	"P016__Inflamed UC"	"Inflammatory fibroblast"	6	66	0.0909090909090909
+"P016"	"Inflamed UC"	"P016__Inflamed UC"	"LP fibroblast"	25	66	0.378787878787879
+"P016"	"Inflamed UC"	"P016__Inflamed UC"	"Resting crypt-top fibroblast"	11	66	0.166666666666667
+"P016"	"Inflamed UC"	"P016__Inflamed UC"	"SMC-1"	6	66	0.0909090909090909
+"P016"	"Inflamed UC"	"P016__Inflamed UC"	"SMC-2"	4	66	0.0606060606060606
+"P017"	"Uninflamed UC"	"P017__Uninflamed UC"	"Activated crypt-top fibroblast"	4	72	0.0555555555555556
+"P017"	"Uninflamed UC"	"P017__Uninflamed UC"	"Adventitial fibroblast"	1	72	0.0138888888888889
+"P017"	"Uninflamed UC"	"P017__Uninflamed UC"	"Crypt-bottom fibroblast"	6	72	0.0833333333333333
+"P017"	"Uninflamed UC"	"P017__Uninflamed UC"	"LP fibroblast"	31	72	0.430555555555556
+"P017"	"Uninflamed UC"	"P017__Uninflamed UC"	"Resting crypt-top fibroblast"	27	72	0.375
+"P017"	"Uninflamed UC"	"P017__Uninflamed UC"	"SMC-1"	2	72	0.0277777777777778
+"P017"	"Uninflamed UC"	"P017__Uninflamed UC"	"SMC-2"	1	72	0.0138888888888889
+"P017"	"Inflamed UC"	"P017__Inflamed UC"	"Activated crypt-top fibroblast"	3	51	0.0588235294117647
+"P017"	"Inflamed UC"	"P017__Inflamed UC"	"Adventitial fibroblast"	2	51	0.0392156862745098
+"P017"	"Inflamed UC"	"P017__Inflamed UC"	"Crypt-bottom fibroblast"	5	51	0.0980392156862745
+"P017"	"Inflamed UC"	"P017__Inflamed UC"	"Inflammatory fibroblast"	15	51	0.294117647058824
+"P017"	"Inflamed UC"	"P017__Inflamed UC"	"LP fibroblast"	13	51	0.254901960784314
+"P017"	"Inflamed UC"	"P017__Inflamed UC"	"Resting crypt-top fibroblast"	9	51	0.176470588235294
+"P017"	"Inflamed UC"	"P017__Inflamed UC"	"SMC-1"	4	51	0.0784313725490196
+"P019"	"Uninflamed UC"	"P019__Uninflamed UC"	"Activated crypt-top fibroblast"	4	136	0.0294117647058824
+"P019"	"Uninflamed UC"	"P019__Uninflamed UC"	"Crypt-bottom fibroblast"	11	136	0.0808823529411765
+"P019"	"Uninflamed UC"	"P019__Uninflamed UC"	"LP fibroblast"	92	136	0.676470588235294
+"P019"	"Uninflamed UC"	"P019__Uninflamed UC"	"Resting crypt-top fibroblast"	20	136	0.147058823529412
+"P019"	"Uninflamed UC"	"P019__Uninflamed UC"	"SMC-1"	4	136	0.0294117647058824
+"P019"	"Uninflamed UC"	"P019__Uninflamed UC"	"SMC-2"	5	136	0.0367647058823529
+"P019"	"Inflamed UC"	"P019__Inflamed UC"	"Activated crypt-top fibroblast"	62	761	0.0814717477003942
+"P019"	"Inflamed UC"	"P019__Inflamed UC"	"Adventitial fibroblast"	2	761	0.0026281208935611
+"P019"	"Inflamed UC"	"P019__Inflamed UC"	"Crypt-bottom fibroblast"	102	761	0.134034165571616
+"P019"	"Inflamed UC"	"P019__Inflamed UC"	"Inflammatory fibroblast"	66	761	0.0867279894875164
+"P019"	"Inflamed UC"	"P019__Inflamed UC"	"LP fibroblast"	408	761	0.536136662286465
+"P019"	"Inflamed UC"	"P019__Inflamed UC"	"Resting crypt-top fibroblast"	65	761	0.0854139290407359
+"P019"	"Inflamed UC"	"P019__Inflamed UC"	"SMC-1"	15	761	0.0197109067017083
+"P019"	"Inflamed UC"	"P019__Inflamed UC"	"SMC-2"	41	761	0.0538764783180026
+"P021"	"Uninflamed UC"	"P021__Uninflamed UC"	"Activated crypt-top fibroblast"	88	820	0.107317073170732
+"P021"	"Uninflamed UC"	"P021__Uninflamed UC"	"Adventitial fibroblast"	10	820	0.0121951219512195
+"P021"	"Uninflamed UC"	"P021__Uninflamed UC"	"Crypt-bottom fibroblast"	87	820	0.10609756097561
+"P021"	"Uninflamed UC"	"P021__Uninflamed UC"	"Inflammatory fibroblast"	24	820	0.0292682926829268
+"P021"	"Uninflamed UC"	"P021__Uninflamed UC"	"LP fibroblast"	393	820	0.479268292682927
+"P021"	"Uninflamed UC"	"P021__Uninflamed UC"	"Resting crypt-top fibroblast"	65	820	0.0792682926829268
+"P021"	"Uninflamed UC"	"P021__Uninflamed UC"	"SMC-1"	35	820	0.0426829268292683
+"P021"	"Uninflamed UC"	"P021__Uninflamed UC"	"SMC-2"	118	820	0.14390243902439
+"P021"	"Inflamed UC"	"P021__Inflamed UC"	"Activated crypt-top fibroblast"	1	8	0.125
+"P021"	"Inflamed UC"	"P021__Inflamed UC"	"Crypt-bottom fibroblast"	1	8	0.125
+"P021"	"Inflamed UC"	"P021__Inflamed UC"	"Inflammatory fibroblast"	1	8	0.125
+"P021"	"Inflamed UC"	"P021__Inflamed UC"	"LP fibroblast"	2	8	0.25
+"P021"	"Inflamed UC"	"P021__Inflamed UC"	"Resting crypt-top fibroblast"	2	8	0.25
+"P021"	"Inflamed UC"	"P021__Inflamed UC"	"SMC-1"	1	8	0.125
+"P025"	"Inflamed UC"	"P025__Inflamed UC"	"Activated crypt-top fibroblast"	7	88	0.0795454545454545
+"P025"	"Inflamed UC"	"P025__Inflamed UC"	"Crypt-bottom fibroblast"	14	88	0.159090909090909
+"P025"	"Inflamed UC"	"P025__Inflamed UC"	"Inflammatory fibroblast"	3	88	0.0340909090909091
+"P025"	"Inflamed UC"	"P025__Inflamed UC"	"LP fibroblast"	39	88	0.443181818181818
+"P025"	"Inflamed UC"	"P025__Inflamed UC"	"Resting crypt-top fibroblast"	16	88	0.181818181818182
+"P025"	"Inflamed UC"	"P025__Inflamed UC"	"SMC-1"	3	88	0.0340909090909091
+"P025"	"Inflamed UC"	"P025__Inflamed UC"	"SMC-2"	6	88	0.0681818181818182
+"P028"	"Uninflamed UC"	"P028__Uninflamed UC"	"Activated crypt-top fibroblast"	1	7	0.142857142857143
+"P028"	"Uninflamed UC"	"P028__Uninflamed UC"	"Adventitial fibroblast"	1	7	0.142857142857143
+"P028"	"Uninflamed UC"	"P028__Uninflamed UC"	"Crypt-bottom fibroblast"	1	7	0.142857142857143
+"P028"	"Uninflamed UC"	"P028__Uninflamed UC"	"LP fibroblast"	4	7	0.571428571428571
+"P028"	"Inflamed UC"	"P028__Inflamed UC"	"Crypt-bottom fibroblast"	2	23	0.0869565217391304
+"P028"	"Inflamed UC"	"P028__Inflamed UC"	"Inflammatory fibroblast"	18	23	0.782608695652174
+"P028"	"Inflamed UC"	"P028__Inflamed UC"	"LP fibroblast"	2	23	0.0869565217391304
+"P028"	"Inflamed UC"	"P028__Inflamed UC"	"SMC-1"	1	23	0.0434782608695652
+"P029"	"Uninflamed UC"	"P029__Uninflamed UC"	"LP fibroblast"	1	1	1
+"P031"	"Healthy"	"P031__Healthy"	"LP fibroblast"	3	3	1
+"P032"	"Uninflamed UC"	"P032__Uninflamed UC"	"Activated crypt-top fibroblast"	1	1	1
+"P032"	"Inflamed UC"	"P032__Inflamed UC"	"Activated crypt-top fibroblast"	1	157	0.00636942675159236
+"P032"	"Inflamed UC"	"P032__Inflamed UC"	"Crypt-bottom fibroblast"	2	157	0.0127388535031847
+"P032"	"Inflamed UC"	"P032__Inflamed UC"	"Inflammatory fibroblast"	146	157	0.929936305732484
+"P032"	"Inflamed UC"	"P032__Inflamed UC"	"LP fibroblast"	5	157	0.0318471337579618
+"P032"	"Inflamed UC"	"P032__Inflamed UC"	"SMC-1"	3	157	0.0191082802547771
+"P033"	"Healthy"	"P033__Healthy"	"LP fibroblast"	3	3	1
+"P034"	"Healthy"	"P034__Healthy"	"LP fibroblast"	2	2	1
+"P035"	"Healthy"	"P035__Healthy"	"LP fibroblast"	3	3	1
+"P036"	"Healthy"	"P036__Healthy"	"Activated crypt-top fibroblast"	1	7	0.142857142857143
+"P036"	"Healthy"	"P036__Healthy"	"LP fibroblast"	5	7	0.714285714285714
+"P036"	"Healthy"	"P036__Healthy"	"SMC-2"	1	7	0.142857142857143
+"P037"	"Inflamed UC"	"P037__Inflamed UC"	"LP fibroblast"	2	2	1
+"P038"	"Healthy"	"P038__Healthy"	"Activated crypt-top fibroblast"	8	93	0.0860215053763441
+"P038"	"Healthy"	"P038__Healthy"	"LP fibroblast"	65	93	0.698924731182796
+"P038"	"Healthy"	"P038__Healthy"	"Pericyte"	1	93	0.010752688172043
+"P038"	"Healthy"	"P038__Healthy"	"Resting crypt-top fibroblast"	7	93	0.0752688172043011
+"P038"	"Healthy"	"P038__Healthy"	"SMC-1"	4	93	0.0430107526881721
+"P038"	"Healthy"	"P038__Healthy"	"SMC-2"	8	93	0.0860215053763441
+"P039"	"Uninflamed UC"	"P039__Uninflamed UC"	"SMC-1"	1	1	1
+"P039"	"Inflamed UC"	"P039__Inflamed UC"	"Activated crypt-top fibroblast"	37	211	0.175355450236967
+"P039"	"Inflamed UC"	"P039__Inflamed UC"	"Adventitial fibroblast"	1	211	0.004739336492891
+"P039"	"Inflamed UC"	"P039__Inflamed UC"	"Crypt-bottom fibroblast"	18	211	0.0853080568720379
+"P039"	"Inflamed UC"	"P039__Inflamed UC"	"Inflammatory fibroblast"	47	211	0.222748815165877
+"P039"	"Inflamed UC"	"P039__Inflamed UC"	"LP fibroblast"	62	211	0.293838862559242
+"P039"	"Inflamed UC"	"P039__Inflamed UC"	"Resting crypt-top fibroblast"	31	211	0.146919431279621
+"P039"	"Inflamed UC"	"P039__Inflamed UC"	"SMC-1"	6	211	0.028436018957346
+"P039"	"Inflamed UC"	"P039__Inflamed UC"	"SMC-2"	9	211	0.042654028436019
+"P042"	"Uninflamed UC"	"P042__Uninflamed UC"	"LP fibroblast"	3	3	1
+"P042"	"Inflamed UC"	"P042__Inflamed UC"	"Activated crypt-top fibroblast"	1	6	0.166666666666667
+"P042"	"Inflamed UC"	"P042__Inflamed UC"	"Inflammatory fibroblast"	4	6	0.666666666666667
+"P042"	"Inflamed UC"	"P042__Inflamed UC"	"LP fibroblast"	1	6	0.166666666666667
+"P044"	"Uninflamed UC"	"P044__Uninflamed UC"	"Adventitial fibroblast"	1	2	0.5
+"P044"	"Uninflamed UC"	"P044__Uninflamed UC"	"LP fibroblast"	1	2	0.5
+"P044"	"Inflamed UC"	"P044__Inflamed UC"	"Activated crypt-top fibroblast"	22	209	0.105263157894737
+"P044"	"Inflamed UC"	"P044__Inflamed UC"	"Crypt-bottom fibroblast"	6	209	0.0287081339712919
+"P044"	"Inflamed UC"	"P044__Inflamed UC"	"Inflammatory fibroblast"	130	209	0.62200956937799
+"P044"	"Inflamed UC"	"P044__Inflamed UC"	"LP fibroblast"	17	209	0.0813397129186603
+"P044"	"Inflamed UC"	"P044__Inflamed UC"	"Resting crypt-top fibroblast"	14	209	0.0669856459330144
+"P044"	"Inflamed UC"	"P044__Inflamed UC"	"SMC-1"	12	209	0.0574162679425837
+"P044"	"Inflamed UC"	"P044__Inflamed UC"	"SMC-2"	8	209	0.0382775119617225
+"P046"	"Uninflamed UC"	"P046__Uninflamed UC"	"Adventitial fibroblast"	1	1	1
+"P046"	"Inflamed UC"	"P046__Inflamed UC"	"Inflammatory fibroblast"	12	13	0.923076923076923
+"P046"	"Inflamed UC"	"P046__Inflamed UC"	"SMC-1"	1	13	0.0769230769230769

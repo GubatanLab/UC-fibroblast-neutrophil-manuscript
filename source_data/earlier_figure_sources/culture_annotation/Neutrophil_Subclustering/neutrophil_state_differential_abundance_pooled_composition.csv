@@ -1,0 +1,38 @@
+ConditionCode,neutrophil_state_annotation,cells,total_neutrophils,proportion,condition_label
+CF,CXCR4 neutrophil,4164,8738,0.476539253833829,Control fibroblast co-culture
+CF,MX1/ISG neutrophil,607,8738,0.0694666971847105,Control fibroblast co-culture
+CF,OSM neutrophil,3794,8738,0.434195468070497,Control fibroblast co-culture
+CF,PADI4 neutrophil,173,8738,0.0197985809109636,Control fibroblast co-culture
+N,CXCR4 neutrophil,264,1300,0.203076923076923,Neutrophils alone
+N,MX1/ISG neutrophil,28,1300,0.0215384615384615,Neutrophils alone
+N,OSM neutrophil,917,1300,0.705384615384615,Neutrophils alone
+N,PADI4 neutrophil,91,1300,0.07,Neutrophils alone
+NA5,CXCR4 neutrophil,4893,9249,0.529030165423289,Neutrophils + alpha5beta1i
+NA5,MX1/ISG neutrophil,616,9249,0.0666017947886258,Neutrophils + alpha5beta1i
+NA5,OSM neutrophil,3570,9249,0.385987674343172,Neutrophils + alpha5beta1i
+NA5,PADI4 neutrophil,170,9249,0.018380365444913,Neutrophils + alpha5beta1i
+NNAMPT,CXCR4 neutrophil,143,607,0.235584843492587,Neutrophils + NAMPTi
+NNAMPT,MX1/ISG neutrophil,13,607,0.0214168039538715,Neutrophils + NAMPTi
+NNAMPT,OSM neutrophil,431,607,0.71004942339374,Neutrophils + NAMPTi
+NNAMPT,PADI4 neutrophil,20,607,0.0329489291598023,Neutrophils + NAMPTi
+PRE,CXCR4 neutrophil,622,48189,0.0129075100126585,Pre-culture
+PRE,Low RNA neutrophils,41461,48189,0.860383074975617,Pre-culture
+PRE,MX1/ISG neutrophil,2,48189,4.1503247629127e-05,Pre-culture
+PRE,OSM neutrophil,2873,48189,0.0596194152192409,Pre-culture
+PRE,PADI4 neutrophil,3231,48189,0.0670484965448546,Pre-culture
+UA5,CXCR4 neutrophil,2452,6489,0.377870241947912,UC + alpha5beta1i
+UA5,MX1/ISG neutrophil,470,6489,0.0724302666050239,UC + alpha5beta1i
+UA5,OSM neutrophil,3273,6489,0.504392048081369,UC + alpha5beta1i
+UA5,PADI4 neutrophil,294,6489,0.0453074433656958,UC + alpha5beta1i
+UD,CXCR4 neutrophil,2631,6174,0.426141885325559,UC + dual blockade
+UD,MX1/ISG neutrophil,418,6174,0.0677032717849045,UC + dual blockade
+UD,OSM neutrophil,2840,6174,0.459993521218011,UC + dual blockade
+UD,PADI4 neutrophil,285,6174,0.0461613216715258,UC + dual blockade
+UF,CXCR4 neutrophil,2373,6999,0.339048435490784,UC fibroblast co-culture
+UF,MX1/ISG neutrophil,449,6999,0.0641520217173882,UC fibroblast co-culture
+UF,OSM neutrophil,4016,6999,0.573796256608087,UC fibroblast co-culture
+UF,PADI4 neutrophil,161,6999,0.0230032861837405,UC fibroblast co-culture
+UN,CXCR4 neutrophil,2153,4421,0.486993892784438,UC + NAMPTi
+UN,MX1/ISG neutrophil,331,4421,0.0748699389278444,UC + NAMPTi
+UN,OSM neutrophil,1853,4421,0.419135942094549,UC + NAMPTi
+UN,PADI4 neutrophil,84,4421,0.019000226193169,UC + NAMPTi

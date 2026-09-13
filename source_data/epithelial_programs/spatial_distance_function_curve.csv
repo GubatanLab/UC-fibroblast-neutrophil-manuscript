@@ -1,0 +1,11 @@
+section,bin,n_cells,score
+Inflamed,0-2,3,
+Inflamed,2-4,6,
+Inflamed,4-8,35,0.4811853296494934
+Inflamed,8-16,110,0.5045523494328956
+Inflamed,>16,725,0.5013746028009886
+Less inflamed,0-2,0,
+Less inflamed,2-4,0,
+Less inflamed,4-8,4,
+Less inflamed,8-16,5,
+Less inflamed,>16,324,0.5018351685018352

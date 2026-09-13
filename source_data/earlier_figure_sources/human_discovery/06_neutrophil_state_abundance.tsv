@@ -1,0 +1,191 @@
+PatientID	condition	biopsy_id	neut_state	n	total_neut	fraction
+"P007"	"Uninflamed UC"	"P007__Uninflamed UC"	"Neutrophil OSM"	2	28	0.0714285714285714
+"P007"	"Uninflamed UC"	"P007__Uninflamed UC"	"Neutrophil PADI4"	8	28	0.285714285714286
+"P007"	"Uninflamed UC"	"P007__Uninflamed UC"	"Neutrophil lowRNA"	18	28	0.642857142857143
+"P007"	"Inflamed UC"	"P007__Inflamed UC"	"Neutrophil CXCR4"	1058	5786	0.182855167646042
+"P007"	"Inflamed UC"	"P007__Inflamed UC"	"Neutrophil MX1"	812	5786	0.140338748703768
+"P007"	"Inflamed UC"	"P007__Inflamed UC"	"Neutrophil OSM"	1344	5786	0.232284825440719
+"P007"	"Inflamed UC"	"P007__Inflamed UC"	"Neutrophil PADI4"	956	5786	0.165226408572416
+"P007"	"Inflamed UC"	"P007__Inflamed UC"	"Neutrophil lowRNA"	1616	5786	0.279294849637055
+"P008"	"Uninflamed UC"	"P008__Uninflamed UC"	"Neutrophil CXCR4"	17	59	0.288135593220339
+"P008"	"Uninflamed UC"	"P008__Uninflamed UC"	"Neutrophil MX1"	16	59	0.271186440677966
+"P008"	"Uninflamed UC"	"P008__Uninflamed UC"	"Neutrophil OSM"	16	59	0.271186440677966
+"P008"	"Uninflamed UC"	"P008__Uninflamed UC"	"Neutrophil PADI4"	10	59	0.169491525423729
+"P008"	"Inflamed UC"	"P008__Inflamed UC"	"Neutrophil CXCR4"	498	1754	0.283922462941847
+"P008"	"Inflamed UC"	"P008__Inflamed UC"	"Neutrophil MX1"	475	1754	0.270809578107184
+"P008"	"Inflamed UC"	"P008__Inflamed UC"	"Neutrophil OSM"	397	1754	0.226339794754846
+"P008"	"Inflamed UC"	"P008__Inflamed UC"	"Neutrophil PADI4"	277	1754	0.157924743443558
+"P008"	"Inflamed UC"	"P008__Inflamed UC"	"Neutrophil lowRNA"	107	1754	0.0610034207525656
+"P009"	"Uninflamed UC"	"P009__Uninflamed UC"	"Neutrophil OSM"	2	5	0.4
+"P009"	"Uninflamed UC"	"P009__Uninflamed UC"	"Neutrophil lowRNA"	3	5	0.6
+"P009"	"Inflamed UC"	"P009__Inflamed UC"	"Neutrophil CXCR4"	3	19	0.157894736842105
+"P009"	"Inflamed UC"	"P009__Inflamed UC"	"Neutrophil MX1"	10	19	0.526315789473684
+"P009"	"Inflamed UC"	"P009__Inflamed UC"	"Neutrophil OSM"	3	19	0.157894736842105
+"P009"	"Inflamed UC"	"P009__Inflamed UC"	"Neutrophil PADI4"	3	19	0.157894736842105
+"P010"	"Uninflamed UC"	"P010__Uninflamed UC"	"Neutrophil CXCR4"	8	15	0.533333333333333
+"P010"	"Uninflamed UC"	"P010__Uninflamed UC"	"Neutrophil OSM"	1	15	0.0666666666666667
+"P010"	"Uninflamed UC"	"P010__Uninflamed UC"	"Neutrophil lowRNA"	6	15	0.4
+"P011"	"Inflamed UC"	"P011__Inflamed UC"	"Neutrophil CXCR4"	747	3522	0.212095400340715
+"P011"	"Inflamed UC"	"P011__Inflamed UC"	"Neutrophil MX1"	331	3522	0.0939806927881885
+"P011"	"Inflamed UC"	"P011__Inflamed UC"	"Neutrophil OSM"	878	3522	0.249290176036343
+"P011"	"Inflamed UC"	"P011__Inflamed UC"	"Neutrophil PADI4"	522	3522	0.148211243611584
+"P011"	"Inflamed UC"	"P011__Inflamed UC"	"Neutrophil lowRNA"	1044	3522	0.296422487223169
+"P013"	"Uninflamed UC"	"P013__Uninflamed UC"	"Neutrophil CXCR4"	32	112	0.285714285714286
+"P013"	"Uninflamed UC"	"P013__Uninflamed UC"	"Neutrophil MX1"	9	112	0.0803571428571429
+"P013"	"Uninflamed UC"	"P013__Uninflamed UC"	"Neutrophil OSM"	14	112	0.125
+"P013"	"Uninflamed UC"	"P013__Uninflamed UC"	"Neutrophil PADI4"	10	112	0.0892857142857143
+"P013"	"Uninflamed UC"	"P013__Uninflamed UC"	"Neutrophil lowRNA"	47	112	0.419642857142857
+"P013"	"Inflamed UC"	"P013__Inflamed UC"	"Neutrophil CXCR4"	26	96	0.270833333333333
+"P013"	"Inflamed UC"	"P013__Inflamed UC"	"Neutrophil MX1"	8	96	0.0833333333333333
+"P013"	"Inflamed UC"	"P013__Inflamed UC"	"Neutrophil OSM"	22	96	0.229166666666667
+"P013"	"Inflamed UC"	"P013__Inflamed UC"	"Neutrophil PADI4"	5	96	0.0520833333333333
+"P013"	"Inflamed UC"	"P013__Inflamed UC"	"Neutrophil lowRNA"	35	96	0.364583333333333
+"P014"	"Uninflamed UC"	"P014__Uninflamed UC"	"Neutrophil CXCR4"	79	354	0.22316384180791
+"P014"	"Uninflamed UC"	"P014__Uninflamed UC"	"Neutrophil MX1"	54	354	0.152542372881356
+"P014"	"Uninflamed UC"	"P014__Uninflamed UC"	"Neutrophil OSM"	80	354	0.225988700564972
+"P014"	"Uninflamed UC"	"P014__Uninflamed UC"	"Neutrophil PADI4"	40	354	0.112994350282486
+"P014"	"Uninflamed UC"	"P014__Uninflamed UC"	"Neutrophil lowRNA"	101	354	0.285310734463277
+"P014"	"Inflamed UC"	"P014__Inflamed UC"	"Neutrophil CXCR4"	25	73	0.342465753424658
+"P014"	"Inflamed UC"	"P014__Inflamed UC"	"Neutrophil MX1"	6	73	0.0821917808219178
+"P014"	"Inflamed UC"	"P014__Inflamed UC"	"Neutrophil OSM"	11	73	0.150684931506849
+"P014"	"Inflamed UC"	"P014__Inflamed UC"	"Neutrophil PADI4"	2	73	0.0273972602739726
+"P014"	"Inflamed UC"	"P014__Inflamed UC"	"Neutrophil lowRNA"	29	73	0.397260273972603
+"P016"	"Uninflamed UC"	"P016__Uninflamed UC"	"Neutrophil CXCR4"	1	9	0.111111111111111
+"P016"	"Uninflamed UC"	"P016__Uninflamed UC"	"Neutrophil MX1"	1	9	0.111111111111111
+"P016"	"Uninflamed UC"	"P016__Uninflamed UC"	"Neutrophil OSM"	2	9	0.222222222222222
+"P016"	"Uninflamed UC"	"P016__Uninflamed UC"	"Neutrophil PADI4"	2	9	0.222222222222222
+"P016"	"Uninflamed UC"	"P016__Uninflamed UC"	"Neutrophil lowRNA"	3	9	0.333333333333333
+"P016"	"Inflamed UC"	"P016__Inflamed UC"	"Neutrophil CXCR4"	74	476	0.15546218487395
+"P016"	"Inflamed UC"	"P016__Inflamed UC"	"Neutrophil MX1"	89	476	0.186974789915966
+"P016"	"Inflamed UC"	"P016__Inflamed UC"	"Neutrophil OSM"	116	476	0.243697478991597
+"P016"	"Inflamed UC"	"P016__Inflamed UC"	"Neutrophil PADI4"	40	476	0.0840336134453782
+"P016"	"Inflamed UC"	"P016__Inflamed UC"	"Neutrophil lowRNA"	157	476	0.329831932773109
+"P017"	"Uninflamed UC"	"P017__Uninflamed UC"	"Neutrophil CXCR4"	2	6	0.333333333333333
+"P017"	"Uninflamed UC"	"P017__Uninflamed UC"	"Neutrophil OSM"	2	6	0.333333333333333
+"P017"	"Uninflamed UC"	"P017__Uninflamed UC"	"Neutrophil lowRNA"	2	6	0.333333333333333
+"P017"	"Inflamed UC"	"P017__Inflamed UC"	"Neutrophil CXCR4"	46	183	0.251366120218579
+"P017"	"Inflamed UC"	"P017__Inflamed UC"	"Neutrophil MX1"	18	183	0.0983606557377049
+"P017"	"Inflamed UC"	"P017__Inflamed UC"	"Neutrophil OSM"	42	183	0.229508196721311
+"P017"	"Inflamed UC"	"P017__Inflamed UC"	"Neutrophil PADI4"	8	183	0.0437158469945355
+"P017"	"Inflamed UC"	"P017__Inflamed UC"	"Neutrophil lowRNA"	69	183	0.377049180327869
+"P019"	"Uninflamed UC"	"P019__Uninflamed UC"	"Neutrophil CXCR4"	3	23	0.130434782608696
+"P019"	"Uninflamed UC"	"P019__Uninflamed UC"	"Neutrophil MX1"	3	23	0.130434782608696
+"P019"	"Uninflamed UC"	"P019__Uninflamed UC"	"Neutrophil OSM"	15	23	0.652173913043478
+"P019"	"Uninflamed UC"	"P019__Uninflamed UC"	"Neutrophil PADI4"	1	23	0.0434782608695652
+"P019"	"Uninflamed UC"	"P019__Uninflamed UC"	"Neutrophil lowRNA"	1	23	0.0434782608695652
+"P019"	"Inflamed UC"	"P019__Inflamed UC"	"Neutrophil CXCR4"	36	124	0.290322580645161
+"P019"	"Inflamed UC"	"P019__Inflamed UC"	"Neutrophil MX1"	10	124	0.0806451612903226
+"P019"	"Inflamed UC"	"P019__Inflamed UC"	"Neutrophil OSM"	39	124	0.314516129032258
+"P019"	"Inflamed UC"	"P019__Inflamed UC"	"Neutrophil PADI4"	8	124	0.0645161290322581
+"P019"	"Inflamed UC"	"P019__Inflamed UC"	"Neutrophil lowRNA"	31	124	0.25
+"P021"	"Uninflamed UC"	"P021__Uninflamed UC"	"Neutrophil CXCR4"	1	21	0.0476190476190476
+"P021"	"Uninflamed UC"	"P021__Uninflamed UC"	"Neutrophil lowRNA"	20	21	0.952380952380952
+"P021"	"Inflamed UC"	"P021__Inflamed UC"	"Neutrophil CXCR4"	35	183	0.191256830601093
+"P021"	"Inflamed UC"	"P021__Inflamed UC"	"Neutrophil MX1"	35	183	0.191256830601093
+"P021"	"Inflamed UC"	"P021__Inflamed UC"	"Neutrophil OSM"	56	183	0.306010928961749
+"P021"	"Inflamed UC"	"P021__Inflamed UC"	"Neutrophil PADI4"	16	183	0.0874316939890711
+"P021"	"Inflamed UC"	"P021__Inflamed UC"	"Neutrophil lowRNA"	41	183	0.224043715846995
+"P025"	"Inflamed UC"	"P025__Inflamed UC"	"Neutrophil CXCR4"	3	103	0.029126213592233
+"P025"	"Inflamed UC"	"P025__Inflamed UC"	"Neutrophil MX1"	11	103	0.106796116504854
+"P025"	"Inflamed UC"	"P025__Inflamed UC"	"Neutrophil OSM"	24	103	0.233009708737864
+"P025"	"Inflamed UC"	"P025__Inflamed UC"	"Neutrophil PADI4"	10	103	0.0970873786407767
+"P025"	"Inflamed UC"	"P025__Inflamed UC"	"Neutrophil lowRNA"	55	103	0.533980582524272
+"P028"	"Uninflamed UC"	"P028__Uninflamed UC"	"Neutrophil CXCR4"	3	37	0.0810810810810811
+"P028"	"Uninflamed UC"	"P028__Uninflamed UC"	"Neutrophil MX1"	1	37	0.027027027027027
+"P028"	"Uninflamed UC"	"P028__Uninflamed UC"	"Neutrophil OSM"	16	37	0.432432432432432
+"P028"	"Uninflamed UC"	"P028__Uninflamed UC"	"Neutrophil PADI4"	7	37	0.189189189189189
+"P028"	"Uninflamed UC"	"P028__Uninflamed UC"	"Neutrophil lowRNA"	10	37	0.27027027027027
+"P028"	"Inflamed UC"	"P028__Inflamed UC"	"Neutrophil CXCR4"	137	642	0.213395638629284
+"P028"	"Inflamed UC"	"P028__Inflamed UC"	"Neutrophil MX1"	57	642	0.088785046728972
+"P028"	"Inflamed UC"	"P028__Inflamed UC"	"Neutrophil OSM"	167	642	0.2601246105919
+"P028"	"Inflamed UC"	"P028__Inflamed UC"	"Neutrophil PADI4"	77	642	0.11993769470405
+"P028"	"Inflamed UC"	"P028__Inflamed UC"	"Neutrophil lowRNA"	204	642	0.317757009345794
+"P029"	"Uninflamed UC"	"P029__Uninflamed UC"	"Neutrophil OSM"	1	4	0.25
+"P029"	"Uninflamed UC"	"P029__Uninflamed UC"	"Neutrophil PADI4"	2	4	0.5
+"P029"	"Uninflamed UC"	"P029__Uninflamed UC"	"Neutrophil lowRNA"	1	4	0.25
+"P029"	"Inflamed UC"	"P029__Inflamed UC"	"Neutrophil CXCR4"	4	18	0.222222222222222
+"P029"	"Inflamed UC"	"P029__Inflamed UC"	"Neutrophil OSM"	3	18	0.166666666666667
+"P029"	"Inflamed UC"	"P029__Inflamed UC"	"Neutrophil lowRNA"	11	18	0.611111111111111
+"P031"	"Healthy"	"P031__Healthy"	"Neutrophil CXCR4"	9	33	0.272727272727273
+"P031"	"Healthy"	"P031__Healthy"	"Neutrophil MX1"	2	33	0.0606060606060606
+"P031"	"Healthy"	"P031__Healthy"	"Neutrophil OSM"	9	33	0.272727272727273
+"P031"	"Healthy"	"P031__Healthy"	"Neutrophil PADI4"	4	33	0.121212121212121
+"P031"	"Healthy"	"P031__Healthy"	"Neutrophil lowRNA"	9	33	0.272727272727273
+"P032"	"Uninflamed UC"	"P032__Uninflamed UC"	"Neutrophil CXCR4"	55	217	0.253456221198157
+"P032"	"Uninflamed UC"	"P032__Uninflamed UC"	"Neutrophil MX1"	12	217	0.0552995391705069
+"P032"	"Uninflamed UC"	"P032__Uninflamed UC"	"Neutrophil OSM"	33	217	0.152073732718894
+"P032"	"Uninflamed UC"	"P032__Uninflamed UC"	"Neutrophil PADI4"	48	217	0.221198156682028
+"P032"	"Uninflamed UC"	"P032__Uninflamed UC"	"Neutrophil lowRNA"	69	217	0.317972350230415
+"P032"	"Inflamed UC"	"P032__Inflamed UC"	"Neutrophil CXCR4"	4321	11427	0.37813949418045
+"P032"	"Inflamed UC"	"P032__Inflamed UC"	"Neutrophil MX1"	1048	11427	0.0917126104839415
+"P032"	"Inflamed UC"	"P032__Inflamed UC"	"Neutrophil OSM"	2250	11427	0.19690207403518
+"P032"	"Inflamed UC"	"P032__Inflamed UC"	"Neutrophil PADI4"	1752	11427	0.153321081648727
+"P032"	"Inflamed UC"	"P032__Inflamed UC"	"Neutrophil lowRNA"	2056	11427	0.179924739651702
+"P033"	"Healthy"	"P033__Healthy"	"Erythrocyte"	1	12	0.0833333333333333
+"P033"	"Healthy"	"P033__Healthy"	"Neutrophil CXCR4"	1	12	0.0833333333333333
+"P033"	"Healthy"	"P033__Healthy"	"Neutrophil OSM"	2	12	0.166666666666667
+"P033"	"Healthy"	"P033__Healthy"	"Neutrophil lowRNA"	8	12	0.666666666666667
+"P034"	"Healthy"	"P034__Healthy"	"Neutrophil CXCR4"	1	9	0.111111111111111
+"P034"	"Healthy"	"P034__Healthy"	"Neutrophil OSM"	2	9	0.222222222222222
+"P034"	"Healthy"	"P034__Healthy"	"Neutrophil lowRNA"	6	9	0.666666666666667
+"P035"	"Healthy"	"P035__Healthy"	"Neutrophil CXCR4"	1	12	0.0833333333333333
+"P035"	"Healthy"	"P035__Healthy"	"Neutrophil OSM"	3	12	0.25
+"P035"	"Healthy"	"P035__Healthy"	"Neutrophil PADI4"	3	12	0.25
+"P035"	"Healthy"	"P035__Healthy"	"Neutrophil lowRNA"	5	12	0.416666666666667
+"P036"	"Healthy"	"P036__Healthy"	"Neutrophil MX1"	4	20	0.2
+"P036"	"Healthy"	"P036__Healthy"	"Neutrophil OSM"	6	20	0.3
+"P036"	"Healthy"	"P036__Healthy"	"Neutrophil PADI4"	1	20	0.05
+"P036"	"Healthy"	"P036__Healthy"	"Neutrophil lowRNA"	9	20	0.45
+"P037"	"Uninflamed UC"	"P037__Uninflamed UC"	"Neutrophil CXCR4"	6	69	0.0869565217391304
+"P037"	"Uninflamed UC"	"P037__Uninflamed UC"	"Neutrophil MX1"	5	69	0.072463768115942
+"P037"	"Uninflamed UC"	"P037__Uninflamed UC"	"Neutrophil OSM"	9	69	0.130434782608696
+"P037"	"Uninflamed UC"	"P037__Uninflamed UC"	"Neutrophil PADI4"	8	69	0.115942028985507
+"P037"	"Uninflamed UC"	"P037__Uninflamed UC"	"Neutrophil lowRNA"	41	69	0.594202898550725
+"P037"	"Inflamed UC"	"P037__Inflamed UC"	"Neutrophil CXCR4"	144	1123	0.128227960819234
+"P037"	"Inflamed UC"	"P037__Inflamed UC"	"Neutrophil MX1"	112	1123	0.0997328584149599
+"P037"	"Inflamed UC"	"P037__Inflamed UC"	"Neutrophil OSM"	259	1123	0.230632235084595
+"P037"	"Inflamed UC"	"P037__Inflamed UC"	"Neutrophil PADI4"	235	1123	0.209260908281389
+"P037"	"Inflamed UC"	"P037__Inflamed UC"	"Neutrophil lowRNA"	373	1123	0.332146037399822
+"P038"	"Healthy"	"P038__Healthy"	"Erythrocyte"	1	199	0.0050251256281407
+"P038"	"Healthy"	"P038__Healthy"	"Monocyte-derived macrophage"	7	199	0.0351758793969849
+"P038"	"Healthy"	"P038__Healthy"	"Neutrophil CXCR4"	32	199	0.160804020100503
+"P038"	"Healthy"	"P038__Healthy"	"Neutrophil MX1"	7	199	0.0351758793969849
+"P038"	"Healthy"	"P038__Healthy"	"Neutrophil OSM"	40	199	0.201005025125628
+"P038"	"Healthy"	"P038__Healthy"	"Neutrophil PADI4"	40	199	0.201005025125628
+"P038"	"Healthy"	"P038__Healthy"	"Neutrophil lowRNA"	72	199	0.361809045226131
+"P039"	"Uninflamed UC"	"P039__Uninflamed UC"	"Neutrophil OSM"	5	11	0.454545454545455
+"P039"	"Uninflamed UC"	"P039__Uninflamed UC"	"Neutrophil PADI4"	4	11	0.363636363636364
+"P039"	"Uninflamed UC"	"P039__Uninflamed UC"	"Neutrophil lowRNA"	2	11	0.181818181818182
+"P039"	"Inflamed UC"	"P039__Inflamed UC"	"Neutrophil CXCR4"	843	2666	0.316204051012753
+"P039"	"Inflamed UC"	"P039__Inflamed UC"	"Neutrophil MX1"	333	2666	0.124906226556639
+"P039"	"Inflamed UC"	"P039__Inflamed UC"	"Neutrophil OSM"	589	2666	0.22093023255814
+"P039"	"Inflamed UC"	"P039__Inflamed UC"	"Neutrophil PADI4"	257	2666	0.0963990997749437
+"P039"	"Inflamed UC"	"P039__Inflamed UC"	"Neutrophil lowRNA"	644	2666	0.241560390097524
+"P042"	"Uninflamed UC"	"P042__Uninflamed UC"	"Neutrophil CXCR4"	9	239	0.0376569037656904
+"P042"	"Uninflamed UC"	"P042__Uninflamed UC"	"Neutrophil MX1"	56	239	0.234309623430962
+"P042"	"Uninflamed UC"	"P042__Uninflamed UC"	"Neutrophil OSM"	48	239	0.200836820083682
+"P042"	"Uninflamed UC"	"P042__Uninflamed UC"	"Neutrophil PADI4"	37	239	0.154811715481172
+"P042"	"Uninflamed UC"	"P042__Uninflamed UC"	"Neutrophil lowRNA"	89	239	0.372384937238494
+"P042"	"Inflamed UC"	"P042__Inflamed UC"	"Neutrophil CXCR4"	442	4024	0.109840954274354
+"P042"	"Inflamed UC"	"P042__Inflamed UC"	"Neutrophil MX1"	1097	4024	0.272614314115308
+"P042"	"Inflamed UC"	"P042__Inflamed UC"	"Neutrophil OSM"	927	4024	0.230367793240557
+"P042"	"Inflamed UC"	"P042__Inflamed UC"	"Neutrophil PADI4"	417	4024	0.103628230616302
+"P042"	"Inflamed UC"	"P042__Inflamed UC"	"Neutrophil lowRNA"	1141	4024	0.283548707753479
+"P044"	"Uninflamed UC"	"P044__Uninflamed UC"	"Neutrophil CXCR4"	2	25	0.08
+"P044"	"Uninflamed UC"	"P044__Uninflamed UC"	"Neutrophil PADI4"	16	25	0.64
+"P044"	"Uninflamed UC"	"P044__Uninflamed UC"	"Neutrophil lowRNA"	7	25	0.28
+"P044"	"Inflamed UC"	"P044__Inflamed UC"	"Neutrophil CXCR4"	626	2123	0.294865756005652
+"P044"	"Inflamed UC"	"P044__Inflamed UC"	"Neutrophil MX1"	298	2123	0.140367404616109
+"P044"	"Inflamed UC"	"P044__Inflamed UC"	"Neutrophil OSM"	358	2123	0.168629298162977
+"P044"	"Inflamed UC"	"P044__Inflamed UC"	"Neutrophil PADI4"	315	2123	0.148374941121055
+"P044"	"Inflamed UC"	"P044__Inflamed UC"	"Neutrophil lowRNA"	526	2123	0.247762600094206
+"P046"	"Uninflamed UC"	"P046__Uninflamed UC"	"Neutrophil CXCR4"	8	81	0.0987654320987654
+"P046"	"Uninflamed UC"	"P046__Uninflamed UC"	"Neutrophil MX1"	24	81	0.296296296296296
+"P046"	"Uninflamed UC"	"P046__Uninflamed UC"	"Neutrophil OSM"	6	81	0.0740740740740741
+"P046"	"Uninflamed UC"	"P046__Uninflamed UC"	"Neutrophil PADI4"	11	81	0.135802469135802
+"P046"	"Uninflamed UC"	"P046__Uninflamed UC"	"Neutrophil lowRNA"	32	81	0.395061728395062
+"P046"	"Inflamed UC"	"P046__Inflamed UC"	"Neutrophil CXCR4"	276	2751	0.100327153762268
+"P046"	"Inflamed UC"	"P046__Inflamed UC"	"Neutrophil MX1"	278	2751	0.101054162122864
+"P046"	"Inflamed UC"	"P046__Inflamed UC"	"Neutrophil OSM"	633	2751	0.230098146128681
+"P046"	"Inflamed UC"	"P046__Inflamed UC"	"Neutrophil PADI4"	759	2751	0.275899672846238
+"P046"	"Inflamed UC"	"P046__Inflamed UC"	"Neutrophil lowRNA"	805	2751	0.292620865139949

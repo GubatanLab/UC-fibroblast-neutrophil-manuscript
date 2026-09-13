@@ -1,0 +1,669 @@
+PatientID	condition	Annotations_Level_1	cells
+"P031"	"Healthy"	"Enterocytes"	5282
+"P031"	"Healthy"	"Goblet"	4969
+"P031"	"Healthy"	"Stem Cycling"	2981
+"P031"	"Healthy"	"T Cell and NK"	794
+"P031"	"Healthy"	"Tuft"	377
+"P031"	"Healthy"	"Plasma"	211
+"P031"	"Healthy"	"Mast Cell"	198
+"P031"	"Healthy"	"B Cell"	109
+"P031"	"Healthy"	"Erythrocyte"	78
+"P031"	"Healthy"	"Macrophage and DC"	62
+"P031"	"Healthy"	"Enteroendocrine"	47
+"P031"	"Healthy"	"Neutrophil"	33
+"P031"	"Healthy"	"Stromal"	3
+"P031"	"Healthy"	"Eosinophil"	2
+"P033"	"Healthy"	"Enterocytes"	7031
+"P033"	"Healthy"	"Stem Cycling"	4373
+"P033"	"Healthy"	"Goblet"	3105
+"P033"	"Healthy"	"T Cell and NK"	453
+"P033"	"Healthy"	"B Cell"	247
+"P033"	"Healthy"	"Tuft"	140
+"P033"	"Healthy"	"Mast Cell"	107
+"P033"	"Healthy"	"Enteroendocrine"	88
+"P033"	"Healthy"	"Plasma"	65
+"P033"	"Healthy"	"Macrophage and DC"	51
+"P033"	"Healthy"	"Neutrophil"	12
+"P033"	"Healthy"	"Erythrocyte"	8
+"P033"	"Healthy"	"Stromal"	3
+"P033"	"Healthy"	"Eosinophil"	2
+"P034"	"Healthy"	"Enterocytes"	6863
+"P034"	"Healthy"	"Stem Cycling"	4821
+"P034"	"Healthy"	"Goblet"	2593
+"P034"	"Healthy"	"B Cell"	642
+"P034"	"Healthy"	"T Cell and NK"	595
+"P034"	"Healthy"	"Tuft"	117
+"P034"	"Healthy"	"Plasma"	105
+"P034"	"Healthy"	"Mast Cell"	92
+"P034"	"Healthy"	"Enteroendocrine"	90
+"P034"	"Healthy"	"Macrophage and DC"	51
+"P034"	"Healthy"	"Neutrophil"	9
+"P034"	"Healthy"	"Erythrocyte"	8
+"P034"	"Healthy"	"Eosinophil"	3
+"P034"	"Healthy"	"Stromal"	2
+"P035"	"Healthy"	"Enterocytes"	13875
+"P035"	"Healthy"	"Stem Cycling"	8585
+"P035"	"Healthy"	"Goblet"	8399
+"P035"	"Healthy"	"T Cell and NK"	526
+"P035"	"Healthy"	"B Cell"	404
+"P035"	"Healthy"	"Tuft"	275
+"P035"	"Healthy"	"Enteroendocrine"	114
+"P035"	"Healthy"	"Macrophage and DC"	49
+"P035"	"Healthy"	"Erythrocyte"	22
+"P035"	"Healthy"	"Mast Cell"	12
+"P035"	"Healthy"	"Neutrophil"	12
+"P035"	"Healthy"	"Plasma"	12
+"P035"	"Healthy"	"Stromal"	3
+"P035"	"Healthy"	"Eosinophil"	1
+"P036"	"Healthy"	"Stem Cycling"	12452
+"P036"	"Healthy"	"Enterocytes"	9249
+"P036"	"Healthy"	"Goblet"	8951
+"P036"	"Healthy"	"T Cell and NK"	1221
+"P036"	"Healthy"	"B Cell"	1213
+"P036"	"Healthy"	"Tuft"	318
+"P036"	"Healthy"	"Mast Cell"	174
+"P036"	"Healthy"	"Enteroendocrine"	149
+"P036"	"Healthy"	"Macrophage and DC"	132
+"P036"	"Healthy"	"Plasma"	64
+"P036"	"Healthy"	"Erythrocyte"	20
+"P036"	"Healthy"	"Neutrophil"	20
+"P036"	"Healthy"	"Stromal"	7
+"P036"	"Healthy"	"Eosinophil"	5
+"P038"	"Healthy"	"Enterocytes"	7961
+"P038"	"Healthy"	"Stem Cycling"	5610
+"P038"	"Healthy"	"Goblet"	4472
+"P038"	"Healthy"	"Plasma"	1529
+"P038"	"Healthy"	"Macrophage and DC"	1073
+"P038"	"Healthy"	"T Cell and NK"	514
+"P038"	"Healthy"	"B Cell"	292
+"P038"	"Healthy"	"Tuft"	215
+"P038"	"Healthy"	"Neutrophil"	199
+"P038"	"Healthy"	"Mast Cell"	198
+"P038"	"Healthy"	"Stromal"	93
+"P038"	"Healthy"	"Enteroendocrine"	70
+"P038"	"Healthy"	"Erythrocyte"	18
+"P038"	"Healthy"	"Eosinophil"	16
+"P038"	"Healthy"	"Glial"	1
+"P007"	"Uninflamed UC"	"Enterocytes"	4528
+"P007"	"Uninflamed UC"	"Goblet"	2309
+"P007"	"Uninflamed UC"	"Stem Cycling"	1985
+"P007"	"Uninflamed UC"	"T Cell and NK"	850
+"P007"	"Uninflamed UC"	"Plasma"	751
+"P007"	"Uninflamed UC"	"Mast Cell"	547
+"P007"	"Uninflamed UC"	"Macrophage and DC"	340
+"P007"	"Uninflamed UC"	"Stromal"	274
+"P007"	"Uninflamed UC"	"Tuft"	261
+"P007"	"Uninflamed UC"	"B Cell"	254
+"P007"	"Uninflamed UC"	"Enteroendocrine"	174
+"P007"	"Uninflamed UC"	"Neutrophil"	28
+"P007"	"Uninflamed UC"	"Endothelial"	25
+"P007"	"Uninflamed UC"	"Erythrocyte"	21
+"P007"	"Uninflamed UC"	"Eosinophil"	17
+"P007"	"Uninflamed UC"	"Glial"	15
+"P007"	"Uninflamed UC"	"Pericyte"	5
+"P008"	"Uninflamed UC"	"T Cell and NK"	1483
+"P008"	"Uninflamed UC"	"Plasma"	872
+"P008"	"Uninflamed UC"	"Enterocytes"	717
+"P008"	"Uninflamed UC"	"Goblet"	627
+"P008"	"Uninflamed UC"	"Stromal"	614
+"P008"	"Uninflamed UC"	"Stem Cycling"	373
+"P008"	"Uninflamed UC"	"Macrophage and DC"	356
+"P008"	"Uninflamed UC"	"B Cell"	162
+"P008"	"Uninflamed UC"	"Mast Cell"	162
+"P008"	"Uninflamed UC"	"Neutrophil"	59
+"P008"	"Uninflamed UC"	"Enteroendocrine"	45
+"P008"	"Uninflamed UC"	"Endothelial"	30
+"P008"	"Uninflamed UC"	"Tuft"	23
+"P008"	"Uninflamed UC"	"Glial"	9
+"P008"	"Uninflamed UC"	"Pericyte"	6
+"P008"	"Uninflamed UC"	"Erythrocyte"	4
+"P008"	"Uninflamed UC"	"Eosinophil"	1
+"P009"	"Uninflamed UC"	"Goblet"	354
+"P009"	"Uninflamed UC"	"Plasma"	240
+"P009"	"Uninflamed UC"	"Enterocytes"	220
+"P009"	"Uninflamed UC"	"Stem Cycling"	192
+"P009"	"Uninflamed UC"	"Macrophage and DC"	65
+"P009"	"Uninflamed UC"	"Enteroendocrine"	37
+"P009"	"Uninflamed UC"	"B Cell"	25
+"P009"	"Uninflamed UC"	"T Cell and NK"	18
+"P009"	"Uninflamed UC"	"Neutrophil"	5
+"P009"	"Uninflamed UC"	"Tuft"	5
+"P009"	"Uninflamed UC"	"Mast Cell"	3
+"P009"	"Uninflamed UC"	"Eosinophil"	2
+"P009"	"Uninflamed UC"	"Stromal"	1
+"P010"	"Uninflamed UC"	"Enterocytes"	1182
+"P010"	"Uninflamed UC"	"Goblet"	731
+"P010"	"Uninflamed UC"	"T Cell and NK"	643
+"P010"	"Uninflamed UC"	"Stem Cycling"	568
+"P010"	"Uninflamed UC"	"Plasma"	554
+"P010"	"Uninflamed UC"	"Stromal"	261
+"P010"	"Uninflamed UC"	"B Cell"	186
+"P010"	"Uninflamed UC"	"Mast Cell"	119
+"P010"	"Uninflamed UC"	"Macrophage and DC"	108
+"P010"	"Uninflamed UC"	"Enteroendocrine"	87
+"P010"	"Uninflamed UC"	"Endothelial"	39
+"P010"	"Uninflamed UC"	"Tuft"	39
+"P010"	"Uninflamed UC"	"Eosinophil"	37
+"P010"	"Uninflamed UC"	"Neutrophil"	15
+"P010"	"Uninflamed UC"	"Erythrocyte"	4
+"P010"	"Uninflamed UC"	"Pericyte"	4
+"P010"	"Uninflamed UC"	"Glial"	3
+"P013"	"Uninflamed UC"	"B Cell"	6622
+"P013"	"Uninflamed UC"	"T Cell and NK"	4463
+"P013"	"Uninflamed UC"	"Stem Cycling"	1815
+"P013"	"Uninflamed UC"	"Enterocytes"	1516
+"P013"	"Uninflamed UC"	"Goblet"	1300
+"P013"	"Uninflamed UC"	"Plasma"	1144
+"P013"	"Uninflamed UC"	"Mast Cell"	391
+"P013"	"Uninflamed UC"	"Macrophage and DC"	341
+"P013"	"Uninflamed UC"	"Stromal"	340
+"P013"	"Uninflamed UC"	"Enteroendocrine"	207
+"P013"	"Uninflamed UC"	"Neutrophil"	112
+"P013"	"Uninflamed UC"	"Endothelial"	68
+"P013"	"Uninflamed UC"	"Tuft"	68
+"P013"	"Uninflamed UC"	"Eosinophil"	39
+"P013"	"Uninflamed UC"	"Glial"	31
+"P013"	"Uninflamed UC"	"Erythrocyte"	13
+"P013"	"Uninflamed UC"	"Pericyte"	6
+"P014"	"Uninflamed UC"	"Enterocytes"	2509
+"P014"	"Uninflamed UC"	"T Cell and NK"	2228
+"P014"	"Uninflamed UC"	"B Cell"	1920
+"P014"	"Uninflamed UC"	"Stem Cycling"	1871
+"P014"	"Uninflamed UC"	"Goblet"	1839
+"P014"	"Uninflamed UC"	"Neutrophil"	354
+"P014"	"Uninflamed UC"	"Tuft"	276
+"P014"	"Uninflamed UC"	"Plasma"	251
+"P014"	"Uninflamed UC"	"Macrophage and DC"	227
+"P014"	"Uninflamed UC"	"Enteroendocrine"	141
+"P014"	"Uninflamed UC"	"Eosinophil"	35
+"P014"	"Uninflamed UC"	"Erythrocyte"	22
+"P014"	"Uninflamed UC"	"Mast Cell"	17
+"P014"	"Uninflamed UC"	"Stromal"	12
+"P014"	"Uninflamed UC"	"Endothelial"	4
+"P016"	"Uninflamed UC"	"Enterocytes"	2930
+"P016"	"Uninflamed UC"	"Goblet"	2206
+"P016"	"Uninflamed UC"	"Stem Cycling"	2061
+"P016"	"Uninflamed UC"	"T Cell and NK"	1447
+"P016"	"Uninflamed UC"	"B Cell"	1128
+"P016"	"Uninflamed UC"	"Tuft"	298
+"P016"	"Uninflamed UC"	"Plasma"	254
+"P016"	"Uninflamed UC"	"Enteroendocrine"	133
+"P016"	"Uninflamed UC"	"Macrophage and DC"	58
+"P016"	"Uninflamed UC"	"Mast Cell"	22
+"P016"	"Uninflamed UC"	"Stromal"	18
+"P016"	"Uninflamed UC"	"Eosinophil"	17
+"P016"	"Uninflamed UC"	"Endothelial"	14
+"P016"	"Uninflamed UC"	"Erythrocyte"	9
+"P016"	"Uninflamed UC"	"Neutrophil"	9
+"P017"	"Uninflamed UC"	"Enterocytes"	8182
+"P017"	"Uninflamed UC"	"Stem Cycling"	3411
+"P017"	"Uninflamed UC"	"Goblet"	2412
+"P017"	"Uninflamed UC"	"T Cell and NK"	1686
+"P017"	"Uninflamed UC"	"B Cell"	631
+"P017"	"Uninflamed UC"	"Plasma"	309
+"P017"	"Uninflamed UC"	"Enteroendocrine"	201
+"P017"	"Uninflamed UC"	"Tuft"	192
+"P017"	"Uninflamed UC"	"Macrophage and DC"	108
+"P017"	"Uninflamed UC"	"Stromal"	72
+"P017"	"Uninflamed UC"	"Endothelial"	26
+"P017"	"Uninflamed UC"	"Mast Cell"	11
+"P017"	"Uninflamed UC"	"Eosinophil"	7
+"P017"	"Uninflamed UC"	"Neutrophil"	6
+"P017"	"Uninflamed UC"	"Erythrocyte"	4
+"P017"	"Uninflamed UC"	"Pericyte"	1
+"P019"	"Uninflamed UC"	"Stem Cycling"	1368
+"P019"	"Uninflamed UC"	"Enterocytes"	1317
+"P019"	"Uninflamed UC"	"Goblet"	742
+"P019"	"Uninflamed UC"	"T Cell and NK"	450
+"P019"	"Uninflamed UC"	"Plasma"	259
+"P019"	"Uninflamed UC"	"B Cell"	138
+"P019"	"Uninflamed UC"	"Stromal"	136
+"P019"	"Uninflamed UC"	"Mast Cell"	107
+"P019"	"Uninflamed UC"	"Enteroendocrine"	96
+"P019"	"Uninflamed UC"	"Tuft"	52
+"P019"	"Uninflamed UC"	"Macrophage and DC"	27
+"P019"	"Uninflamed UC"	"Neutrophil"	23
+"P019"	"Uninflamed UC"	"Eosinophil"	4
+"P019"	"Uninflamed UC"	"Endothelial"	2
+"P021"	"Uninflamed UC"	"Enterocytes"	3842
+"P021"	"Uninflamed UC"	"Plasma"	2407
+"P021"	"Uninflamed UC"	"Stem Cycling"	2283
+"P021"	"Uninflamed UC"	"Goblet"	1540
+"P021"	"Uninflamed UC"	"B Cell"	1187
+"P021"	"Uninflamed UC"	"Macrophage and DC"	1135
+"P021"	"Uninflamed UC"	"Stromal"	820
+"P021"	"Uninflamed UC"	"T Cell and NK"	387
+"P021"	"Uninflamed UC"	"Mast Cell"	297
+"P021"	"Uninflamed UC"	"Tuft"	296
+"P021"	"Uninflamed UC"	"Enteroendocrine"	198
+"P021"	"Uninflamed UC"	"Endothelial"	117
+"P021"	"Uninflamed UC"	"Glial"	67
+"P021"	"Uninflamed UC"	"Neutrophil"	21
+"P021"	"Uninflamed UC"	"Pericyte"	15
+"P021"	"Uninflamed UC"	"Erythrocyte"	8
+"P021"	"Uninflamed UC"	"Eosinophil"	1
+"P028"	"Uninflamed UC"	"Enterocytes"	1992
+"P028"	"Uninflamed UC"	"T Cell and NK"	1189
+"P028"	"Uninflamed UC"	"Goblet"	1137
+"P028"	"Uninflamed UC"	"B Cell"	1132
+"P028"	"Uninflamed UC"	"Stem Cycling"	335
+"P028"	"Uninflamed UC"	"Tuft"	90
+"P028"	"Uninflamed UC"	"Plasma"	67
+"P028"	"Uninflamed UC"	"Macrophage and DC"	39
+"P028"	"Uninflamed UC"	"Neutrophil"	37
+"P028"	"Uninflamed UC"	"Mast Cell"	32
+"P028"	"Uninflamed UC"	"Eosinophil"	26
+"P028"	"Uninflamed UC"	"Enteroendocrine"	12
+"P028"	"Uninflamed UC"	"Erythrocyte"	11
+"P028"	"Uninflamed UC"	"Endothelial"	9
+"P028"	"Uninflamed UC"	"Stromal"	7
+"P028"	"Uninflamed UC"	"Glial"	2
+"P028"	"Uninflamed UC"	"Pericyte"	1
+"P029"	"Uninflamed UC"	"Enterocytes"	3335
+"P029"	"Uninflamed UC"	"Goblet"	1525
+"P029"	"Uninflamed UC"	"Stem Cycling"	1071
+"P029"	"Uninflamed UC"	"T Cell and NK"	101
+"P029"	"Uninflamed UC"	"Tuft"	73
+"P029"	"Uninflamed UC"	"Enteroendocrine"	63
+"P029"	"Uninflamed UC"	"B Cell"	44
+"P029"	"Uninflamed UC"	"Erythrocyte"	10
+"P029"	"Uninflamed UC"	"Macrophage and DC"	9
+"P029"	"Uninflamed UC"	"Plasma"	8
+"P029"	"Uninflamed UC"	"Eosinophil"	5
+"P029"	"Uninflamed UC"	"Neutrophil"	4
+"P029"	"Uninflamed UC"	"Mast Cell"	1
+"P029"	"Uninflamed UC"	"Stromal"	1
+"P032"	"Uninflamed UC"	"Stem Cycling"	3201
+"P032"	"Uninflamed UC"	"Goblet"	3137
+"P032"	"Uninflamed UC"	"Enterocytes"	2281
+"P032"	"Uninflamed UC"	"T Cell and NK"	380
+"P032"	"Uninflamed UC"	"Enteroendocrine"	268
+"P032"	"Uninflamed UC"	"Neutrophil"	217
+"P032"	"Uninflamed UC"	"Tuft"	152
+"P032"	"Uninflamed UC"	"Macrophage and DC"	140
+"P032"	"Uninflamed UC"	"Erythrocyte"	105
+"P032"	"Uninflamed UC"	"B Cell"	34
+"P032"	"Uninflamed UC"	"Mast Cell"	23
+"P032"	"Uninflamed UC"	"Plasma"	21
+"P032"	"Uninflamed UC"	"Endothelial"	3
+"P032"	"Uninflamed UC"	"Eosinophil"	3
+"P032"	"Uninflamed UC"	"Pericyte"	1
+"P032"	"Uninflamed UC"	"Stromal"	1
+"P037"	"Uninflamed UC"	"Enterocytes"	2280
+"P037"	"Uninflamed UC"	"Stem Cycling"	977
+"P037"	"Uninflamed UC"	"Goblet"	970
+"P037"	"Uninflamed UC"	"T Cell and NK"	300
+"P037"	"Uninflamed UC"	"Plasma"	129
+"P037"	"Uninflamed UC"	"Macrophage and DC"	87
+"P037"	"Uninflamed UC"	"Enteroendocrine"	77
+"P037"	"Uninflamed UC"	"Neutrophil"	69
+"P037"	"Uninflamed UC"	"Tuft"	47
+"P037"	"Uninflamed UC"	"B Cell"	40
+"P037"	"Uninflamed UC"	"Mast Cell"	35
+"P037"	"Uninflamed UC"	"Erythrocyte"	7
+"P037"	"Uninflamed UC"	"Eosinophil"	4
+"P039"	"Uninflamed UC"	"Enterocytes"	4809
+"P039"	"Uninflamed UC"	"Goblet"	3703
+"P039"	"Uninflamed UC"	"Stem Cycling"	3189
+"P039"	"Uninflamed UC"	"Enteroendocrine"	279
+"P039"	"Uninflamed UC"	"Tuft"	189
+"P039"	"Uninflamed UC"	"T Cell and NK"	136
+"P039"	"Uninflamed UC"	"B Cell"	21
+"P039"	"Uninflamed UC"	"Macrophage and DC"	17
+"P039"	"Uninflamed UC"	"Mast Cell"	15
+"P039"	"Uninflamed UC"	"Neutrophil"	11
+"P039"	"Uninflamed UC"	"Eosinophil"	3
+"P039"	"Uninflamed UC"	"Erythrocyte"	3
+"P039"	"Uninflamed UC"	"Endothelial"	2
+"P039"	"Uninflamed UC"	"Plasma"	1
+"P039"	"Uninflamed UC"	"Stromal"	1
+"P042"	"Uninflamed UC"	"Enterocytes"	2540
+"P042"	"Uninflamed UC"	"Goblet"	2266
+"P042"	"Uninflamed UC"	"Stem Cycling"	1686
+"P042"	"Uninflamed UC"	"T Cell and NK"	846
+"P042"	"Uninflamed UC"	"B Cell"	299
+"P042"	"Uninflamed UC"	"Neutrophil"	239
+"P042"	"Uninflamed UC"	"Plasma"	180
+"P042"	"Uninflamed UC"	"Enteroendocrine"	117
+"P042"	"Uninflamed UC"	"Macrophage and DC"	95
+"P042"	"Uninflamed UC"	"Tuft"	86
+"P042"	"Uninflamed UC"	"Mast Cell"	68
+"P042"	"Uninflamed UC"	"Erythrocyte"	26
+"P042"	"Uninflamed UC"	"Endothelial"	9
+"P042"	"Uninflamed UC"	"Stromal"	3
+"P042"	"Uninflamed UC"	"Eosinophil"	2
+"P044"	"Uninflamed UC"	"T Cell and NK"	964
+"P044"	"Uninflamed UC"	"Goblet"	852
+"P044"	"Uninflamed UC"	"Enterocytes"	807
+"P044"	"Uninflamed UC"	"Stem Cycling"	370
+"P044"	"Uninflamed UC"	"B Cell"	242
+"P044"	"Uninflamed UC"	"Plasma"	116
+"P044"	"Uninflamed UC"	"Enteroendocrine"	85
+"P044"	"Uninflamed UC"	"Tuft"	58
+"P044"	"Uninflamed UC"	"Mast Cell"	54
+"P044"	"Uninflamed UC"	"Macrophage and DC"	35
+"P044"	"Uninflamed UC"	"Neutrophil"	25
+"P044"	"Uninflamed UC"	"Erythrocyte"	13
+"P044"	"Uninflamed UC"	"Eosinophil"	8
+"P044"	"Uninflamed UC"	"Endothelial"	5
+"P044"	"Uninflamed UC"	"Stromal"	2
+"P046"	"Uninflamed UC"	"Stem Cycling"	2992
+"P046"	"Uninflamed UC"	"Enterocytes"	2332
+"P046"	"Uninflamed UC"	"Goblet"	1893
+"P046"	"Uninflamed UC"	"T Cell and NK"	1109
+"P046"	"Uninflamed UC"	"B Cell"	372
+"P046"	"Uninflamed UC"	"Enteroendocrine"	259
+"P046"	"Uninflamed UC"	"Tuft"	210
+"P046"	"Uninflamed UC"	"Neutrophil"	81
+"P046"	"Uninflamed UC"	"Macrophage and DC"	69
+"P046"	"Uninflamed UC"	"Plasma"	63
+"P046"	"Uninflamed UC"	"Erythrocyte"	11
+"P046"	"Uninflamed UC"	"Eosinophil"	7
+"P046"	"Uninflamed UC"	"Mast Cell"	7
+"P046"	"Uninflamed UC"	"Endothelial"	5
+"P046"	"Uninflamed UC"	"Pericyte"	1
+"P046"	"Uninflamed UC"	"Stromal"	1
+"P007"	"Inflamed UC"	"Neutrophil"	5786
+"P007"	"Inflamed UC"	"Plasma"	1803
+"P007"	"Inflamed UC"	"T Cell and NK"	1021
+"P007"	"Inflamed UC"	"Macrophage and DC"	660
+"P007"	"Inflamed UC"	"Stromal"	504
+"P007"	"Inflamed UC"	"B Cell"	400
+"P007"	"Inflamed UC"	"Enterocytes"	116
+"P007"	"Inflamed UC"	"Endothelial"	86
+"P007"	"Inflamed UC"	"Goblet"	74
+"P007"	"Inflamed UC"	"Stem Cycling"	61
+"P007"	"Inflamed UC"	"Mast Cell"	58
+"P007"	"Inflamed UC"	"Pericyte"	36
+"P007"	"Inflamed UC"	"Enteroendocrine"	16
+"P007"	"Inflamed UC"	"Glial"	7
+"P007"	"Inflamed UC"	"Eosinophil"	3
+"P007"	"Inflamed UC"	"Erythrocyte"	3
+"P007"	"Inflamed UC"	"Tuft"	3
+"P008"	"Inflamed UC"	"Neutrophil"	1754
+"P008"	"Inflamed UC"	"T Cell and NK"	1120
+"P008"	"Inflamed UC"	"Plasma"	782
+"P008"	"Inflamed UC"	"Macrophage and DC"	462
+"P008"	"Inflamed UC"	"B Cell"	407
+"P008"	"Inflamed UC"	"Enterocytes"	360
+"P008"	"Inflamed UC"	"Goblet"	256
+"P008"	"Inflamed UC"	"Stem Cycling"	204
+"P008"	"Inflamed UC"	"Stromal"	156
+"P008"	"Inflamed UC"	"Mast Cell"	26
+"P008"	"Inflamed UC"	"Enteroendocrine"	20
+"P008"	"Inflamed UC"	"Pericyte"	18
+"P008"	"Inflamed UC"	"Erythrocyte"	17
+"P008"	"Inflamed UC"	"Endothelial"	15
+"P008"	"Inflamed UC"	"Eosinophil"	12
+"P008"	"Inflamed UC"	"Tuft"	9
+"P008"	"Inflamed UC"	"Glial"	4
+"P009"	"Inflamed UC"	"Stem Cycling"	538
+"P009"	"Inflamed UC"	"Enterocytes"	295
+"P009"	"Inflamed UC"	"Enteroendocrine"	155
+"P009"	"Inflamed UC"	"Goblet"	108
+"P009"	"Inflamed UC"	"Plasma"	106
+"P009"	"Inflamed UC"	"Macrophage and DC"	74
+"P009"	"Inflamed UC"	"T Cell and NK"	23
+"P009"	"Inflamed UC"	"Neutrophil"	19
+"P009"	"Inflamed UC"	"B Cell"	12
+"P009"	"Inflamed UC"	"Tuft"	7
+"P009"	"Inflamed UC"	"Endothelial"	5
+"P009"	"Inflamed UC"	"Mast Cell"	2
+"P009"	"Inflamed UC"	"Erythrocyte"	1
+"P011"	"Inflamed UC"	"Plasma"	4773
+"P011"	"Inflamed UC"	"Neutrophil"	3522
+"P011"	"Inflamed UC"	"T Cell and NK"	1254
+"P011"	"Inflamed UC"	"B Cell"	873
+"P011"	"Inflamed UC"	"Macrophage and DC"	793
+"P011"	"Inflamed UC"	"Enterocytes"	728
+"P011"	"Inflamed UC"	"Goblet"	672
+"P011"	"Inflamed UC"	"Stromal"	496
+"P011"	"Inflamed UC"	"Stem Cycling"	393
+"P011"	"Inflamed UC"	"Endothelial"	318
+"P011"	"Inflamed UC"	"Mast Cell"	240
+"P011"	"Inflamed UC"	"Pericyte"	113
+"P011"	"Inflamed UC"	"Enteroendocrine"	69
+"P011"	"Inflamed UC"	"Glial"	67
+"P011"	"Inflamed UC"	"Erythrocyte"	24
+"P011"	"Inflamed UC"	"Tuft"	16
+"P011"	"Inflamed UC"	"Eosinophil"	8
+"P013"	"Inflamed UC"	"B Cell"	11691
+"P013"	"Inflamed UC"	"T Cell and NK"	7563
+"P013"	"Inflamed UC"	"Plasma"	2531
+"P013"	"Inflamed UC"	"Stem Cycling"	668
+"P013"	"Inflamed UC"	"Goblet"	581
+"P013"	"Inflamed UC"	"Enterocytes"	518
+"P013"	"Inflamed UC"	"Macrophage and DC"	445
+"P013"	"Inflamed UC"	"Stromal"	310
+"P013"	"Inflamed UC"	"Mast Cell"	222
+"P013"	"Inflamed UC"	"Enteroendocrine"	115
+"P013"	"Inflamed UC"	"Neutrophil"	96
+"P013"	"Inflamed UC"	"Endothelial"	55
+"P013"	"Inflamed UC"	"Eosinophil"	39
+"P013"	"Inflamed UC"	"Pericyte"	35
+"P013"	"Inflamed UC"	"Tuft"	33
+"P013"	"Inflamed UC"	"Glial"	11
+"P013"	"Inflamed UC"	"Erythrocyte"	4
+"P014"	"Inflamed UC"	"Enterocytes"	5424
+"P014"	"Inflamed UC"	"Stem Cycling"	4431
+"P014"	"Inflamed UC"	"Goblet"	4387
+"P014"	"Inflamed UC"	"B Cell"	483
+"P014"	"Inflamed UC"	"T Cell and NK"	472
+"P014"	"Inflamed UC"	"Plasma"	347
+"P014"	"Inflamed UC"	"Tuft"	337
+"P014"	"Inflamed UC"	"Enteroendocrine"	245
+"P014"	"Inflamed UC"	"Macrophage and DC"	213
+"P014"	"Inflamed UC"	"Neutrophil"	73
+"P014"	"Inflamed UC"	"Eosinophil"	21
+"P014"	"Inflamed UC"	"Mast Cell"	12
+"P014"	"Inflamed UC"	"Stromal"	9
+"P014"	"Inflamed UC"	"Endothelial"	6
+"P014"	"Inflamed UC"	"Erythrocyte"	5
+"P014"	"Inflamed UC"	"Glial"	1
+"P016"	"Inflamed UC"	"T Cell and NK"	2690
+"P016"	"Inflamed UC"	"B Cell"	1504
+"P016"	"Inflamed UC"	"Stem Cycling"	1432
+"P016"	"Inflamed UC"	"Goblet"	1307
+"P016"	"Inflamed UC"	"Enterocytes"	1064
+"P016"	"Inflamed UC"	"Plasma"	648
+"P016"	"Inflamed UC"	"Neutrophil"	476
+"P016"	"Inflamed UC"	"Macrophage and DC"	171
+"P016"	"Inflamed UC"	"Enteroendocrine"	73
+"P016"	"Inflamed UC"	"Mast Cell"	67
+"P016"	"Inflamed UC"	"Stromal"	66
+"P016"	"Inflamed UC"	"Tuft"	61
+"P016"	"Inflamed UC"	"Endothelial"	23
+"P016"	"Inflamed UC"	"Eosinophil"	10
+"P016"	"Inflamed UC"	"Erythrocyte"	3
+"P016"	"Inflamed UC"	"Pericyte"	3
+"P017"	"Inflamed UC"	"Stem Cycling"	5188
+"P017"	"Inflamed UC"	"Enterocytes"	5157
+"P017"	"Inflamed UC"	"Goblet"	3946
+"P017"	"Inflamed UC"	"T Cell and NK"	1729
+"P017"	"Inflamed UC"	"B Cell"	1215
+"P017"	"Inflamed UC"	"Plasma"	866
+"P017"	"Inflamed UC"	"Tuft"	355
+"P017"	"Inflamed UC"	"Enteroendocrine"	264
+"P017"	"Inflamed UC"	"Macrophage and DC"	262
+"P017"	"Inflamed UC"	"Neutrophil"	183
+"P017"	"Inflamed UC"	"Mast Cell"	61
+"P017"	"Inflamed UC"	"Stromal"	51
+"P017"	"Inflamed UC"	"Endothelial"	16
+"P017"	"Inflamed UC"	"Eosinophil"	14
+"P017"	"Inflamed UC"	"Erythrocyte"	14
+"P017"	"Inflamed UC"	"Pericyte"	2
+"P019"	"Inflamed UC"	"T Cell and NK"	4089
+"P019"	"Inflamed UC"	"Plasma"	2000
+"P019"	"Inflamed UC"	"B Cell"	1413
+"P019"	"Inflamed UC"	"Goblet"	1276
+"P019"	"Inflamed UC"	"Stem Cycling"	1265
+"P019"	"Inflamed UC"	"Enterocytes"	1226
+"P019"	"Inflamed UC"	"Stromal"	761
+"P019"	"Inflamed UC"	"Mast Cell"	565
+"P019"	"Inflamed UC"	"Macrophage and DC"	436
+"P019"	"Inflamed UC"	"Neutrophil"	124
+"P019"	"Inflamed UC"	"Tuft"	124
+"P019"	"Inflamed UC"	"Enteroendocrine"	106
+"P019"	"Inflamed UC"	"Endothelial"	99
+"P019"	"Inflamed UC"	"Eosinophil"	40
+"P019"	"Inflamed UC"	"Glial"	26
+"P019"	"Inflamed UC"	"Pericyte"	21
+"P019"	"Inflamed UC"	"Erythrocyte"	13
+"P021"	"Inflamed UC"	"Goblet"	3502
+"P021"	"Inflamed UC"	"Stem Cycling"	2837
+"P021"	"Inflamed UC"	"Enterocytes"	2819
+"P021"	"Inflamed UC"	"T Cell and NK"	727
+"P021"	"Inflamed UC"	"B Cell"	415
+"P021"	"Inflamed UC"	"Tuft"	328
+"P021"	"Inflamed UC"	"Enteroendocrine"	280
+"P021"	"Inflamed UC"	"Neutrophil"	183
+"P021"	"Inflamed UC"	"Plasma"	115
+"P021"	"Inflamed UC"	"Macrophage and DC"	73
+"P021"	"Inflamed UC"	"Mast Cell"	70
+"P021"	"Inflamed UC"	"Stromal"	8
+"P021"	"Inflamed UC"	"Endothelial"	7
+"P021"	"Inflamed UC"	"Eosinophil"	4
+"P021"	"Inflamed UC"	"Glial"	1
+"P025"	"Inflamed UC"	"Goblet"	2472
+"P025"	"Inflamed UC"	"Stem Cycling"	2405
+"P025"	"Inflamed UC"	"Enterocytes"	1987
+"P025"	"Inflamed UC"	"Plasma"	1973
+"P025"	"Inflamed UC"	"B Cell"	811
+"P025"	"Inflamed UC"	"T Cell and NK"	583
+"P025"	"Inflamed UC"	"Macrophage and DC"	179
+"P025"	"Inflamed UC"	"Enteroendocrine"	154
+"P025"	"Inflamed UC"	"Neutrophil"	103
+"P025"	"Inflamed UC"	"Mast Cell"	99
+"P025"	"Inflamed UC"	"Stromal"	88
+"P025"	"Inflamed UC"	"Tuft"	73
+"P025"	"Inflamed UC"	"Endothelial"	29
+"P025"	"Inflamed UC"	"Pericyte"	12
+"P025"	"Inflamed UC"	"Erythrocyte"	4
+"P025"	"Inflamed UC"	"Glial"	4
+"P028"	"Inflamed UC"	"Enterocytes"	2278
+"P028"	"Inflamed UC"	"Goblet"	1834
+"P028"	"Inflamed UC"	"Stem Cycling"	648
+"P028"	"Inflamed UC"	"Neutrophil"	642
+"P028"	"Inflamed UC"	"T Cell and NK"	296
+"P028"	"Inflamed UC"	"Macrophage and DC"	250
+"P028"	"Inflamed UC"	"B Cell"	194
+"P028"	"Inflamed UC"	"Plasma"	162
+"P028"	"Inflamed UC"	"Enteroendocrine"	57
+"P028"	"Inflamed UC"	"Tuft"	48
+"P028"	"Inflamed UC"	"Erythrocyte"	45
+"P028"	"Inflamed UC"	"Mast Cell"	43
+"P028"	"Inflamed UC"	"Stromal"	23
+"P028"	"Inflamed UC"	"Eosinophil"	18
+"P028"	"Inflamed UC"	"Endothelial"	13
+"P028"	"Inflamed UC"	"Glial"	1
+"P029"	"Inflamed UC"	"Enterocytes"	2513
+"P029"	"Inflamed UC"	"Goblet"	1495
+"P029"	"Inflamed UC"	"Stem Cycling"	1413
+"P029"	"Inflamed UC"	"T Cell and NK"	133
+"P029"	"Inflamed UC"	"Tuft"	72
+"P029"	"Inflamed UC"	"Enteroendocrine"	66
+"P029"	"Inflamed UC"	"Erythrocyte"	20
+"P029"	"Inflamed UC"	"Neutrophil"	18
+"P029"	"Inflamed UC"	"Eosinophil"	13
+"P029"	"Inflamed UC"	"Macrophage and DC"	9
+"P029"	"Inflamed UC"	"Mast Cell"	9
+"P029"	"Inflamed UC"	"B Cell"	8
+"P029"	"Inflamed UC"	"Plasma"	8
+"P032"	"Inflamed UC"	"Neutrophil"	11427
+"P032"	"Inflamed UC"	"Macrophage and DC"	2447
+"P032"	"Inflamed UC"	"Plasma"	763
+"P032"	"Inflamed UC"	"T Cell and NK"	711
+"P032"	"Inflamed UC"	"Stem Cycling"	544
+"P032"	"Inflamed UC"	"Enterocytes"	540
+"P032"	"Inflamed UC"	"B Cell"	525
+"P032"	"Inflamed UC"	"Erythrocyte"	454
+"P032"	"Inflamed UC"	"Goblet"	430
+"P032"	"Inflamed UC"	"Stromal"	157
+"P032"	"Inflamed UC"	"Eosinophil"	113
+"P032"	"Inflamed UC"	"Mast Cell"	74
+"P032"	"Inflamed UC"	"Enteroendocrine"	58
+"P032"	"Inflamed UC"	"Tuft"	47
+"P032"	"Inflamed UC"	"Pericyte"	25
+"P032"	"Inflamed UC"	"Endothelial"	22
+"P032"	"Inflamed UC"	"Glial"	7
+"P037"	"Inflamed UC"	"Enterocytes"	1910
+"P037"	"Inflamed UC"	"T Cell and NK"	1894
+"P037"	"Inflamed UC"	"Macrophage and DC"	1666
+"P037"	"Inflamed UC"	"Stem Cycling"	1563
+"P037"	"Inflamed UC"	"Goblet"	1544
+"P037"	"Inflamed UC"	"Neutrophil"	1123
+"P037"	"Inflamed UC"	"Plasma"	210
+"P037"	"Inflamed UC"	"B Cell"	193
+"P037"	"Inflamed UC"	"Enteroendocrine"	94
+"P037"	"Inflamed UC"	"Tuft"	86
+"P037"	"Inflamed UC"	"Mast Cell"	63
+"P037"	"Inflamed UC"	"Erythrocyte"	41
+"P037"	"Inflamed UC"	"Eosinophil"	36
+"P037"	"Inflamed UC"	"Endothelial"	4
+"P037"	"Inflamed UC"	"Stromal"	2
+"P039"	"Inflamed UC"	"Neutrophil"	2666
+"P039"	"Inflamed UC"	"Plasma"	1551
+"P039"	"Inflamed UC"	"Macrophage and DC"	1019
+"P039"	"Inflamed UC"	"Enterocytes"	997
+"P039"	"Inflamed UC"	"Goblet"	686
+"P039"	"Inflamed UC"	"T Cell and NK"	642
+"P039"	"Inflamed UC"	"Stem Cycling"	453
+"P039"	"Inflamed UC"	"Stromal"	211
+"P039"	"Inflamed UC"	"B Cell"	168
+"P039"	"Inflamed UC"	"Endothelial"	107
+"P039"	"Inflamed UC"	"Mast Cell"	103
+"P039"	"Inflamed UC"	"Enteroendocrine"	43
+"P039"	"Inflamed UC"	"Tuft"	35
+"P039"	"Inflamed UC"	"Erythrocyte"	21
+"P039"	"Inflamed UC"	"Pericyte"	13
+"P039"	"Inflamed UC"	"Eosinophil"	10
+"P039"	"Inflamed UC"	"Glial"	3
+"P042"	"Inflamed UC"	"Neutrophil"	4024
+"P042"	"Inflamed UC"	"T Cell and NK"	1460
+"P042"	"Inflamed UC"	"Enterocytes"	767
+"P042"	"Inflamed UC"	"Goblet"	513
+"P042"	"Inflamed UC"	"Stem Cycling"	457
+"P042"	"Inflamed UC"	"Macrophage and DC"	407
+"P042"	"Inflamed UC"	"B Cell"	386
+"P042"	"Inflamed UC"	"Plasma"	323
+"P042"	"Inflamed UC"	"Enteroendocrine"	56
+"P042"	"Inflamed UC"	"Mast Cell"	48
+"P042"	"Inflamed UC"	"Erythrocyte"	32
+"P042"	"Inflamed UC"	"Eosinophil"	13
+"P042"	"Inflamed UC"	"Tuft"	11
+"P042"	"Inflamed UC"	"Endothelial"	9
+"P042"	"Inflamed UC"	"Stromal"	6
+"P044"	"Inflamed UC"	"Plasma"	2936
+"P044"	"Inflamed UC"	"Neutrophil"	2123
+"P044"	"Inflamed UC"	"B Cell"	1511
+"P044"	"Inflamed UC"	"T Cell and NK"	1206
+"P044"	"Inflamed UC"	"Enterocytes"	675
+"P044"	"Inflamed UC"	"Macrophage and DC"	638
+"P044"	"Inflamed UC"	"Stem Cycling"	551
+"P044"	"Inflamed UC"	"Goblet"	494
+"P044"	"Inflamed UC"	"Stromal"	209
+"P044"	"Inflamed UC"	"Endothelial"	132
+"P044"	"Inflamed UC"	"Erythrocyte"	132
+"P044"	"Inflamed UC"	"Eosinophil"	103
+"P044"	"Inflamed UC"	"Enteroendocrine"	48
+"P044"	"Inflamed UC"	"Pericyte"	46
+"P044"	"Inflamed UC"	"Mast Cell"	19
+"P044"	"Inflamed UC"	"Tuft"	13
+"P044"	"Inflamed UC"	"Glial"	4
+"P046"	"Inflamed UC"	"Neutrophil"	2751
+"P046"	"Inflamed UC"	"T Cell and NK"	1817
+"P046"	"Inflamed UC"	"Plasma"	1379
+"P046"	"Inflamed UC"	"B Cell"	1117
+"P046"	"Inflamed UC"	"Enterocytes"	594
+"P046"	"Inflamed UC"	"Stem Cycling"	587
+"P046"	"Inflamed UC"	"Macrophage and DC"	385
+"P046"	"Inflamed UC"	"Goblet"	282
+"P046"	"Inflamed UC"	"Tuft"	78
+"P046"	"Inflamed UC"	"Enteroendocrine"	71
+"P046"	"Inflamed UC"	"Erythrocyte"	60
+"P046"	"Inflamed UC"	"Stromal"	13
+"P046"	"Inflamed UC"	"Mast Cell"	9
+"P046"	"Inflamed UC"	"Pericyte"	6
+"P046"	"Inflamed UC"	"Endothelial"	5
+"P046"	"Inflamed UC"	"Eosinophil"	5
+"P046"	"Inflamed UC"	"Glial"	3

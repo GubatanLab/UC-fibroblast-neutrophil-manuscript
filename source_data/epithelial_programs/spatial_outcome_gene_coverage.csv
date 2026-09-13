@@ -1,0 +1,7 @@
+section,gene,n_neutrophil_like,n_detected,fraction_detected
+Inflamed,OSM,879,130,0.14789533560864618
+Inflamed,IL1B,879,151,0.17178612059158135
+Inflamed,TNF,879,8,0.009101251422070534
+Less inflamed,OSM,333,15,0.04504504504504504
+Less inflamed,IL1B,333,7,0.021021021021021023
+Less inflamed,TNF,333,2,0.006006006006006006

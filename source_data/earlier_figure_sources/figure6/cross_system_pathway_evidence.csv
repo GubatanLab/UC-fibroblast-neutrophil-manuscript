@@ -1,0 +1,18 @@
+system_contrast,axis,NES,raw_p,FDR,source_contrast,supported
+Mouse FAP ablation,Chemotaxis,-1.72076525982377,0.0067186006295436,0.0319133529903321,overall mouse-neutrophil pseudobulk,TRUE
+Mouse alpha5beta1 blockade,Chemotaxis,-1.87613123450429,0.000482392856217004,0.00257276189982402,overall mouse-neutrophil pseudobulk,TRUE
+Mouse FAP ablation,Degranulation,-1.46427023985058,0.0277067557174829,0.0752040512331679,overall mouse-neutrophil pseudobulk,FALSE
+Mouse alpha5beta1 blockade,Degranulation,-1.9788881365203,1.72153330191722e-08,1.37722664153378e-07,overall mouse-neutrophil pseudobulk,TRUE
+Mouse FAP ablation,Inflammatory response,-1.64270969087421,0.000504005784740657,0.00722408291461609,overall mouse-neutrophil pseudobulk,TRUE
+Mouse alpha5beta1 blockade,Inflammatory response,-1.14864500136239,0.263464337700146,0.498180494905386,overall mouse-neutrophil pseudobulk,FALSE
+Mouse FAP ablation,Oxidative phosphorylation,0.741867672702076,1,1,overall mouse-neutrophil pseudobulk,FALSE
+Mouse alpha5beta1 blockade,Oxidative phosphorylation,2.5041423190223,3.67348742828771e-08,1.35919034846645e-06,overall mouse-neutrophil pseudobulk,TRUE
+Mouse FAP ablation,TNF/NFkB,-1.75496791700801,2.29175844363283e-06,9.85456130762116e-05,overall mouse-neutrophil pseudobulk,TRUE
+Mouse alpha5beta1 blockade,TNF/NFkB,1.11359368567284,0.228346456692913,0.498180494905386,overall mouse-neutrophil pseudobulk,FALSE
+Mouse FAP ablation,Phagocytosis,-1.85366905662652,0.00132816026195256,0.0126175224885494,overall mouse-neutrophil pseudobulk,TRUE
+Mouse alpha5beta1 blockade,Phagocytosis,-1.80732661707658,0.00288774521229163,0.0092407846793332,overall mouse-neutrophil pseudobulk,TRUE
+Human alpha5beta1i x UC fibroblast context,TNF/NFkB,-2.61,,7.81e-08,alpha5beta1-by-UC interaction in OSM-like neutrophils,TRUE
+Human alpha5beta1i x UC fibroblast context,Inflammatory response,-2.15,,6.83e-07,alpha5beta1-by-UC interaction in OSM-like neutrophils,TRUE
+Human alpha5beta1i x UC fibroblast context,Degranulation,-1.64,,0.000416,alpha5beta1-by-UC interaction in OSM-like neutrophils,TRUE
+Human alpha5beta1i x UC fibroblast context,Oxidative phosphorylation,-2.15,,0.000118,"alpha5beta1 inhibition within UC coculture, OSM-like",TRUE
+Human alpha5beta1i x UC fibroblast context,Adhesion/ECM,2.73,,7.81e-08,alpha5beta1-by-UC interaction in OSM-like neutrophils,TRUE

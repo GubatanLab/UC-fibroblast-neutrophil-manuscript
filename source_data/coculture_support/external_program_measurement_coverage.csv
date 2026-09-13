@@ -1,0 +1,29 @@
+dataset,program,defined,available,genes,fraction
+Existing Rocha/Mennillo CosMx,NETosis,11,7,MPO;ELANE;PRTN3;CTSG;AZU1;S100A8;S100A9,0.636363636363636
+Existing SCP3818 one-donor exports,NETosis,11,1,MPO,0.0909090909090909
+Existing Rocha/Mennillo CosMx,Degranulation,9,5,LTF;CAMP;LCN2;MMP9;OLFM4,0.555555555555556
+Existing SCP3818 one-donor exports,Degranulation,9,2,CEACAM8;FCGR3B,0.222222222222222
+Existing Rocha/Mennillo CosMx,Oxidative_burst,7,2,RAC2;MPO,0.285714285714286
+Existing SCP3818 one-donor exports,Oxidative_burst,7,1,MPO,0.142857142857143
+Existing Rocha/Mennillo CosMx,Phagocytosis,10,5,ITGAM;ITGB2;FPR1;SYK;LYN,0.5
+Existing SCP3818 one-donor exports,Phagocytosis,10,1,FCGR3B,0.1
+Existing Rocha/Mennillo CosMx,Chemotaxis,8,6,CXCR1;CXCR2;CXCR4;FPR1;CCR1;CCRL2,0.75
+Existing SCP3818 one-donor exports,Chemotaxis,8,2,CXCR1;CXCR2,0.25
+Existing Rocha/Mennillo CosMx,OSM_inflammation,9,6,OSM;IL1B;TNF;NFKBIA;CXCL8;IL1R2,0.666666666666667
+Existing SCP3818 one-donor exports,OSM_inflammation,9,3,OSM;IL1B;TNF,0.333333333333333
+Existing Rocha/Mennillo CosMx,Type_I_interferon,12,9,MX1;ISG15;IFIT1;IFIT3;IFI6;OAS1;OAS2;OASL;STAT1,0.75
+Existing SCP3818 one-donor exports,Type_I_interferon,12,0,"",0
+Existing Rocha/Mennillo CosMx,Immature_granulopoiesis,8,4,LTF;CAMP;LCN2;OLFM4,0.5
+Existing SCP3818 one-donor exports,Immature_granulopoiesis,8,1,CEACAM8,0.125
+Existing Rocha/Mennillo CosMx,Survival_antiapoptosis,8,5,BCL2L1;CFLAR;FAS;BAX;CASP3,0.625
+Existing SCP3818 one-donor exports,Survival_antiapoptosis,8,0,"",0
+Existing Rocha/Mennillo CosMx,Hypoxia_glycolysis,9,5,HIF1A;SLC2A1;PGK1;LDHA;ENO1,0.555555555555556
+Existing SCP3818 one-donor exports,Hypoxia_glycolysis,9,0,"",0
+Existing Rocha/Mennillo CosMx,ER_stress,7,2,XBP1;DDIT3,0.285714285714286
+Existing SCP3818 one-donor exports,ER_stress,7,0,"",0
+Existing Rocha/Mennillo CosMx,Proliferation_stress,6,4,MKI67;PCNA;TYMS;STMN1,0.666666666666667
+Existing SCP3818 one-donor exports,Proliferation_stress,6,0,"",0
+Existing Rocha/Mennillo CosMx,Integrin_adhesion,6,6,ITGA5;ITGB1;ITGAM;ITGB2;SELPLG;ICAM1,1
+Existing SCP3818 one-donor exports,Integrin_adhesion,6,2,ITGA5;ICAM1,0.333333333333333
+Existing Rocha/Mennillo CosMx,CXCR4_aging_retention,6,3,CXCR4;SELL;PECAM1,0.5
+Existing SCP3818 one-donor exports,CXCR4_aging_retention,6,1,FCGR3B,0.166666666666667

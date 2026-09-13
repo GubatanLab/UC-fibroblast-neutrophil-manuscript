@@ -1,0 +1,351 @@
+DonorID,ConditionCode,neutrophil_cluster_annotation,N
+Donor1,N,CCL3/CCL4 inflammatory neutrophil,1
+Donor6,N,LTF/BPI immature neutrophil,49
+Donor6,N,Low-signal neutrophil,281
+Donor5,NNAMPT,Activated OSM/CXCR4 neutrophil,14
+Donor6,N,Activated OSM/CXCR4 neutrophil,311
+Donor2,NNAMPT,IL1R2+ inflammatory neutrophil,34
+Donor1,N,Activated OSM/CXCR4 neutrophil,12
+Donor6,N,IL1R2+ inflammatory neutrophil,109
+Donor2,NNAMPT,Low-signal neutrophil,92
+Donor2,NNAMPT,Activated OSM/CXCR4 neutrophil,80
+Donor1,NNAMPT,IL1R2+ inflammatory neutrophil,7
+Donor4,NNAMPT,Low-signal neutrophil,102
+Donor1,N,Low-signal neutrophil,27
+Donor5,NNAMPT,Low-signal neutrophil,20
+Donor2,NNAMPT,LTF/BPI immature neutrophil,3
+Donor4,N,RORA+ atypical neutrophil,1
+Donor4,NNAMPT,Activated OSM/CXCR4 neutrophil,72
+Donor5,N,Activated OSM/CXCR4 neutrophil,19
+Donor4,N,Low-signal neutrophil,109
+Donor3,N,DHFR+ proliferative/stress neutrophil,5
+Donor3,N,Low-signal neutrophil,40
+Donor4,N,IL1R2+ inflammatory neutrophil,28
+Donor1,NNAMPT,Activated OSM/CXCR4 neutrophil,21
+Donor4,NNAMPT,RORA+ atypical neutrophil,2
+Donor6,N,CCL3/CCL4 inflammatory neutrophil,6
+Donor4,NNAMPT,IL1R2+ inflammatory neutrophil,44
+Donor4,N,DHFR+ proliferative/stress neutrophil,7
+Donor4,NNAMPT,LTF/BPI immature neutrophil,4
+Donor4,N,Activated OSM/CXCR4 neutrophil,78
+Donor3,N,IL1R2+ inflammatory neutrophil,16
+Donor1,NNAMPT,Low-signal neutrophil,31
+Donor3,NNAMPT,Activated OSM/CXCR4 neutrophil,22
+Donor2,N,Low-signal neutrophil,26
+Donor3,N,Activated OSM/CXCR4 neutrophil,36
+Donor5,N,CCL3/CCL4 inflammatory neutrophil,1
+Donor4,N,PADI4/translation-high neutrophil,6
+Donor6,N,RORA+ atypical neutrophil,4
+Donor2,N,Activated OSM/CXCR4 neutrophil,17
+Donor6,NNAMPT,Activated OSM/CXCR4 neutrophil,5
+Donor5,N,Low-signal neutrophil,30
+Donor1,N,IL1R2+ inflammatory neutrophil,10
+Donor5,N,DHFR+ proliferative/stress neutrophil,4
+Donor4,NNAMPT,PADI4/translation-high neutrophil,3
+Donor2,NNAMPT,PADI4/translation-high neutrophil,4
+Donor6,N,DHFR+ proliferative/stress neutrophil,17
+Donor6,N,PADI4/translation-high neutrophil,24
+Donor6,NNAMPT,Low-signal neutrophil,7
+Donor1,NNAMPT,PADI4/translation-high neutrophil,3
+Donor4,N,LTF/BPI immature neutrophil,3
+Donor5,N,PADI4/translation-high neutrophil,1
+Donor3,N,PADI4/translation-high neutrophil,2
+Donor3,NNAMPT,Low-signal neutrophil,9
+Donor1,N,PADI4/translation-high neutrophil,3
+Donor2,NNAMPT,CCL3/CCL4 inflammatory neutrophil,1
+Donor5,N,IL1R2+ inflammatory neutrophil,5
+Donor3,NNAMPT,IL1R2+ inflammatory neutrophil,8
+Donor5,NNAMPT,IL1R2+ inflammatory neutrophil,4
+Donor4,NNAMPT,DHFR+ proliferative/stress neutrophil,6
+Donor2,N,IL1R2+ inflammatory neutrophil,4
+Donor3,N,LTF/BPI immature neutrophil,3
+Donor1,N,RORA+ atypical neutrophil,2
+Donor2,NNAMPT,RORA+ atypical neutrophil,1
+Donor3,NNAMPT,DHFR+ proliferative/stress neutrophil,2
+Donor5,NNAMPT,DHFR+ proliferative/stress neutrophil,1
+Donor1,NNAMPT,LTF/BPI immature neutrophil,1
+Donor5,NNAMPT,PADI4/translation-high neutrophil,1
+Donor4,N,CCL3/CCL4 inflammatory neutrophil,2
+Donor6,NNAMPT,RORA+ atypical neutrophil,1
+Donor5,N,LTF/BPI immature neutrophil,1
+Donor3,NNAMPT,PADI4/translation-high neutrophil,1
+Donor5,NNAMPT,CCL3/CCL4 inflammatory neutrophil,1
+Donor4,UF,Activated OSM/CXCR4 neutrophil,2953
+Donor4,UF,PADI4/translation-high neutrophil,33
+Donor4,UN,Activated OSM/CXCR4 neutrophil,1092
+Donor3,UN,Activated OSM/CXCR4 neutrophil,2226
+Donor2,UF,Activated OSM/CXCR4 neutrophil,563
+Donor3,UF,Low-signal neutrophil,167
+Donor3,UF,Activated OSM/CXCR4 neutrophil,2064
+Donor4,UF,DHFR+ proliferative/stress neutrophil,33
+Donor4,UF,Low-signal neutrophil,270
+Donor2,UN,Activated OSM/CXCR4 neutrophil,363
+Donor3,UN,CCL3/CCL4 inflammatory neutrophil,20
+Donor3,UF,PADI4/translation-high neutrophil,37
+Donor6,UF,Low-signal neutrophil,50
+Donor3,UN,Low-signal neutrophil,175
+Donor6,UF,DHFR+ proliferative/stress neutrophil,10
+Donor6,UF,IL1R2+ inflammatory neutrophil,44
+Donor2,UF,IL1R2+ inflammatory neutrophil,59
+Donor4,UN,IL1R2+ inflammatory neutrophil,43
+Donor4,UF,CCL3/CCL4 inflammatory neutrophil,9
+Donor1,UF,Low-signal neutrophil,15
+Donor4,UN,Low-signal neutrophil,75
+Donor4,UN,LTF/BPI immature neutrophil,8
+Donor2,UF,Low-signal neutrophil,69
+Donor5,UF,Low-signal neutrophil,5
+Donor1,UF,Activated OSM/CXCR4 neutrophil,103
+Donor6,UF,Activated OSM/CXCR4 neutrophil,255
+Donor2,UN,IL1R2+ inflammatory neutrophil,34
+Donor1,UN,Activated OSM/CXCR4 neutrophil,80
+Donor2,UN,Low-signal neutrophil,51
+Donor1,UF,IL1R2+ inflammatory neutrophil,13
+Donor5,UF,CCL3/CCL4 inflammatory neutrophil,1
+Donor5,UF,Activated OSM/CXCR4 neutrophil,19
+Donor4,UF,IL1R2+ inflammatory neutrophil,83
+Donor6,UN,Activated OSM/CXCR4 neutrophil,41
+Donor3,UN,DHFR+ proliferative/stress neutrophil,30
+Donor5,UN,Activated OSM/CXCR4 neutrophil,22
+Donor3,UN,IL1R2+ inflammatory neutrophil,64
+Donor3,UF,DHFR+ proliferative/stress neutrophil,12
+Donor3,UF,IL1R2+ inflammatory neutrophil,52
+Donor4,UN,PADI4/translation-high neutrophil,8
+Donor4,UN,DHFR+ proliferative/stress neutrophil,11
+Donor3,UN,PADI4/translation-high neutrophil,33
+Donor2,UN,DHFR+ proliferative/stress neutrophil,5
+Donor2,UN,CCL3/CCL4 inflammatory neutrophil,1
+Donor4,UF,LTF/BPI immature neutrophil,12
+Donor2,UF,DHFR+ proliferative/stress neutrophil,17
+Donor3,UF,CCL3/CCL4 inflammatory neutrophil,11
+Donor6,UF,PADI4/translation-high neutrophil,2
+Donor2,UF,RORA+ atypical neutrophil,2
+Donor2,UN,LTF/BPI immature neutrophil,7
+Donor1,UF,DHFR+ proliferative/stress neutrophil,5
+Donor6,UF,CCL3/CCL4 inflammatory neutrophil,1
+Donor6,UN,IL1R2+ inflammatory neutrophil,3
+Donor5,UN,Low-signal neutrophil,1
+Donor6,UN,RORA+ atypical neutrophil,3
+Donor1,UN,LTF/BPI immature neutrophil,1
+Donor2,UF,LTF/BPI immature neutrophil,8
+Donor4,UN,CCL3/CCL4 inflammatory neutrophil,2
+Donor3,UN,LTF/BPI immature neutrophil,6
+Donor2,UF,PADI4/translation-high neutrophil,2
+Donor1,UF,PADI4/translation-high neutrophil,2
+Donor6,UF,LTF/BPI immature neutrophil,4
+Donor6,UF,RORA+ atypical neutrophil,3
+Donor3,UF,LTF/BPI immature neutrophil,6
+Donor6,UN,Low-signal neutrophil,6
+Donor1,UF,CCL3/CCL4 inflammatory neutrophil,1
+Donor1,UN,IL1R2+ inflammatory neutrophil,2
+Donor1,UN,DHFR+ proliferative/stress neutrophil,2
+Donor5,UF,IL1R2+ inflammatory neutrophil,2
+Donor1,UN,PADI4/translation-high neutrophil,1
+Donor1,UF,LTF/BPI immature neutrophil,1
+Donor5,UN,PADI4/translation-high neutrophil,1
+Donor5,UN,DHFR+ proliferative/stress neutrophil,2
+Donor6,UN,DHFR+ proliferative/stress neutrophil,1
+Donor5,UF,DHFR+ proliferative/stress neutrophil,1
+Donor1,UN,Low-signal neutrophil,1
+Donor4,UD,Activated OSM/CXCR4 neutrophil,1488
+Donor4,UA5,Activated OSM/CXCR4 neutrophil,1234
+Donor5,UD,Low-signal neutrophil,258
+Donor5,UD,IL1R2+ inflammatory neutrophil,157
+Donor2,UD,Low-signal neutrophil,226
+Donor2,UD,Activated OSM/CXCR4 neutrophil,475
+Donor3,UA5,Activated OSM/CXCR4 neutrophil,1624
+Donor1,UA5,Low-signal neutrophil,279
+Donor2,UA5,Activated OSM/CXCR4 neutrophil,489
+Donor2,UD,IL1R2+ inflammatory neutrophil,137
+Donor6,UD,Activated OSM/CXCR4 neutrophil,238
+Donor3,UD,Activated OSM/CXCR4 neutrophil,1081
+Donor1,UA5,Activated OSM/CXCR4 neutrophil,797
+Donor4,UA5,PADI4/translation-high neutrophil,69
+Donor4,UD,PADI4/translation-high neutrophil,87
+Donor3,UA5,Low-signal neutrophil,195
+Donor6,UA5,Low-signal neutrophil,128
+Donor2,UD,PADI4/translation-high neutrophil,48
+Donor3,UD,IL1R2+ inflammatory neutrophil,95
+Donor6,UA5,Activated OSM/CXCR4 neutrophil,240
+Donor6,UD,Low-signal neutrophil,105
+Donor3,UA5,IL1R2+ inflammatory neutrophil,104
+Donor2,UD,DHFR+ proliferative/stress neutrophil,35
+Donor1,UD,Activated OSM/CXCR4 neutrophil,118
+Donor3,UD,Low-signal neutrophil,183
+Donor5,UD,LTF/BPI immature neutrophil,44
+Donor3,UD,PADI4/translation-high neutrophil,94
+Donor5,UD,DHFR+ proliferative/stress neutrophil,32
+Donor5,UD,Activated OSM/CXCR4 neutrophil,597
+Donor1,UA5,PADI4/translation-high neutrophil,61
+Donor6,UA5,IL1R2+ inflammatory neutrophil,63
+Donor1,UA5,LTF/BPI immature neutrophil,39
+Donor4,UD,CCL3/CCL4 inflammatory neutrophil,7
+Donor2,UA5,Low-signal neutrophil,223
+Donor1,UD,Low-signal neutrophil,46
+Donor1,UA5,IL1R2+ inflammatory neutrophil,183
+Donor4,UD,Low-signal neutrophil,139
+Donor6,UA5,PADI4/translation-high neutrophil,36
+Donor2,UA5,IL1R2+ inflammatory neutrophil,113
+Donor4,UA5,Low-signal neutrophil,152
+Donor2,UA5,PADI4/translation-high neutrophil,55
+Donor1,UD,IL1R2+ inflammatory neutrophil,18
+Donor4,UD,IL1R2+ inflammatory neutrophil,82
+Donor2,UA5,DHFR+ proliferative/stress neutrophil,31
+Donor1,UD,DHFR+ proliferative/stress neutrophil,7
+Donor1,UA5,DHFR+ proliferative/stress neutrophil,32
+Donor4,UA5,IL1R2+ inflammatory neutrophil,62
+Donor6,UD,IL1R2+ inflammatory neutrophil,56
+Donor3,UD,CCL3/CCL4 inflammatory neutrophil,16
+Donor3,UA5,LTF/BPI immature neutrophil,20
+Donor6,UD,LTF/BPI immature neutrophil,18
+Donor4,UD,DHFR+ proliferative/stress neutrophil,22
+Donor5,UD,PADI4/translation-high neutrophil,86
+Donor6,UA5,LTF/BPI immature neutrophil,15
+Donor6,UD,DHFR+ proliferative/stress neutrophil,15
+Donor3,UA5,DHFR+ proliferative/stress neutrophil,23
+Donor3,UA5,PADI4/translation-high neutrophil,75
+Donor4,UA5,DHFR+ proliferative/stress neutrophil,28
+Donor3,UD,DHFR+ proliferative/stress neutrophil,24
+Donor5,UD,RORA+ atypical neutrophil,4
+Donor2,UA5,LTF/BPI immature neutrophil,26
+Donor2,UD,LTF/BPI immature neutrophil,18
+Donor3,UA5,CCL3/CCL4 inflammatory neutrophil,11
+Donor6,UA5,DHFR+ proliferative/stress neutrophil,12
+Donor3,UD,LTF/BPI immature neutrophil,19
+Donor4,UA5,LTF/BPI immature neutrophil,14
+Donor2,UA5,RORA+ atypical neutrophil,4
+Donor6,UD,PADI4/translation-high neutrophil,37
+Donor4,UA5,CCL3/CCL4 inflammatory neutrophil,11
+Donor4,UD,LTF/BPI immature neutrophil,17
+Donor1,UD,PADI4/translation-high neutrophil,8
+Donor2,UD,CCL3/CCL4 inflammatory neutrophil,4
+Donor1,UA5,CCL3/CCL4 inflammatory neutrophil,5
+Donor6,UD,RORA+ atypical neutrophil,9
+Donor6,UA5,RORA+ atypical neutrophil,15
+Donor1,UA5,RORA+ atypical neutrophil,6
+Donor3,UD,RORA+ atypical neutrophil,4
+Donor5,UD,CCL3/CCL4 inflammatory neutrophil,6
+Donor4,UD,RORA+ atypical neutrophil,5
+Donor2,UA5,CCL3/CCL4 inflammatory neutrophil,3
+Donor5,UA5,Low-signal neutrophil,1
+Donor4,UA5,RORA+ atypical neutrophil,6
+Donor1,UD,LTF/BPI immature neutrophil,3
+Donor5,UA5,DHFR+ proliferative/stress neutrophil,1
+Donor5,UA5,Activated OSM/CXCR4 neutrophil,2
+Donor2,UD,RORA+ atypical neutrophil,3
+Donor6,UD,CCL3/CCL4 inflammatory neutrophil,3
+Donor6,UA5,CCL3/CCL4 inflammatory neutrophil,1
+Donor3,UA5,RORA+ atypical neutrophil,1
+Donor4,CF,Activated OSM/CXCR4 neutrophil,2581
+Donor3,NA5,Low-signal neutrophil,266
+Donor3,NA5,Activated OSM/CXCR4 neutrophil,3439
+Donor2,NA5,Activated OSM/CXCR4 neutrophil,765
+Donor5,NA5,IL1R2+ inflammatory neutrophil,271
+Donor2,NA5,Low-signal neutrophil,239
+Donor3,CF,Activated OSM/CXCR4 neutrophil,3011
+Donor5,NA5,Activated OSM/CXCR4 neutrophil,1654
+Donor6,CF,Activated OSM/CXCR4 neutrophil,815
+Donor1,CF,Activated OSM/CXCR4 neutrophil,855
+Donor3,NA5,RORA+ atypical neutrophil,31
+Donor4,NA5,Activated OSM/CXCR4 neutrophil,1436
+Donor3,NA5,PADI4/translation-high neutrophil,51
+Donor1,CF,Low-signal neutrophil,237
+Donor3,CF,PADI4/translation-high neutrophil,57
+Donor5,NA5,Low-signal neutrophil,504
+Donor3,CF,CCL3/CCL4 inflammatory neutrophil,18
+Donor1,CF,CCL3/CCL4 inflammatory neutrophil,5
+Donor6,CF,Low-signal neutrophil,263
+Donor3,CF,IL1R2+ inflammatory neutrophil,57
+Donor1,CF,IL1R2+ inflammatory neutrophil,116
+Donor4,NA5,Low-signal neutrophil,83
+Donor2,NA5,DHFR+ proliferative/stress neutrophil,22
+Donor4,NA5,PADI4/translation-high neutrophil,21
+Donor3,CF,Low-signal neutrophil,189
+Donor4,CF,Low-signal neutrophil,163
+Donor6,CF,DHFR+ proliferative/stress neutrophil,22
+Donor6,CF,IL1R2+ inflammatory neutrophil,112
+Donor2,NA5,CCL3/CCL4 inflammatory neutrophil,7
+Donor2,NA5,RORA+ atypical neutrophil,10
+Donor4,CF,CCL3/CCL4 inflammatory neutrophil,11
+Donor4,CF,IL1R2+ inflammatory neutrophil,45
+Donor4,NA5,IL1R2+ inflammatory neutrophil,24
+Donor1,CF,DHFR+ proliferative/stress neutrophil,21
+Donor6,CF,RORA+ atypical neutrophil,22
+Donor5,NA5,CCL3/CCL4 inflammatory neutrophil,14
+Donor2,NA5,PADI4/translation-high neutrophil,8
+Donor5,NA5,DHFR+ proliferative/stress neutrophil,36
+Donor5,NA5,PADI4/translation-high neutrophil,26
+Donor1,CF,PADI4/translation-high neutrophil,4
+Donor6,CF,CCL3/CCL4 inflammatory neutrophil,8
+Donor4,CF,DHFR+ proliferative/stress neutrophil,15
+Donor5,NA5,RORA+ atypical neutrophil,17
+Donor6,CF,LTF/BPI immature neutrophil,5
+Donor3,NA5,CCL3/CCL4 inflammatory neutrophil,19
+Donor1,NA5,Activated OSM/CXCR4 neutrophil,51
+Donor2,NA5,IL1R2+ inflammatory neutrophil,89
+Donor3,NA5,IL1R2+ inflammatory neutrophil,84
+Donor3,CF,LTF/BPI immature neutrophil,5
+Donor5,CF,Activated OSM/CXCR4 neutrophil,11
+Donor5,NA5,LTF/BPI immature neutrophil,14
+Donor3,CF,RORA+ atypical neutrophil,4
+Donor4,CF,PADI4/translation-high neutrophil,25
+Donor4,NA5,CCL3/CCL4 inflammatory neutrophil,8
+Donor6,CF,PADI4/translation-high neutrophil,2
+Donor4,NA5,RORA+ atypical neutrophil,2
+Donor3,NA5,LTF/BPI immature neutrophil,5
+Donor3,CF,DHFR+ proliferative/stress neutrophil,14
+Donor3,NA5,DHFR+ proliferative/stress neutrophil,18
+Donor4,CF,LTF/BPI immature neutrophil,5
+Donor1,CF,LTF/BPI immature neutrophil,10
+Donor2,NA5,LTF/BPI immature neutrophil,8
+Donor1,NA5,Low-signal neutrophil,16
+Donor4,NA5,DHFR+ proliferative/stress neutrophil,5
+Donor2,CF,Activated OSM/CXCR4 neutrophil,17
+Donor1,CF,RORA+ atypical neutrophil,5
+Donor4,CF,RORA+ atypical neutrophil,3
+Donor2,CF,DHFR+ proliferative/stress neutrophil,3
+Donor4,NA5,LTF/BPI immature neutrophil,1
+Donor2,CF,Low-signal neutrophil,2
+Donor1,NA5,DHFR+ proliferative/stress neutrophil,1
+Donor6,NA5,Activated OSM/CXCR4 neutrophil,1
+Donor1,NA5,IL1R2+ inflammatory neutrophil,2
+Donor1,NA5,PADI4/translation-high neutrophil,1
+NC1,PRE,Low-signal neutrophil,6243
+NC2,PRE,Low-signal neutrophil,3295
+NC1,PRE,PADI4/translation-high neutrophil,871
+NC3,PRE,Activated OSM/CXCR4 neutrophil,8527
+NC5,PRE,Low-signal neutrophil,1381
+NC4,PRE,Activated OSM/CXCR4 neutrophil,1786
+NC3,PRE,PADI4/translation-high neutrophil,669
+NC2,PRE,Activated OSM/CXCR4 neutrophil,4971
+NC2,PRE,IL1R2+ inflammatory neutrophil,452
+NC1,PRE,Activated OSM/CXCR4 neutrophil,6936
+NC3,PRE,Low-signal neutrophil,4820
+NC5,PRE,Activated OSM/CXCR4 neutrophil,1601
+NC4,PRE,Low-signal neutrophil,2463
+NC1,PRE,DHFR+ proliferative/stress neutrophil,333
+NC2,PRE,PADI4/translation-high neutrophil,509
+NC3,PRE,IL1R2+ inflammatory neutrophil,692
+NC2,PRE,RORA+ atypical neutrophil,7
+NC5,PRE,IL1R2+ inflammatory neutrophil,228
+NC1,PRE,IL1R2+ inflammatory neutrophil,917
+NC3,PRE,DHFR+ proliferative/stress neutrophil,174
+NC1,PRE,CCL3/CCL4 inflammatory neutrophil,56
+NC2,PRE,DHFR+ proliferative/stress neutrophil,152
+NC1,PRE,LTF/BPI immature neutrophil,54
+NC4,PRE,LTF/BPI immature neutrophil,22
+NC5,PRE,PADI4/translation-high neutrophil,149
+NC4,PRE,IL1R2+ inflammatory neutrophil,319
+NC3,PRE,CCL3/CCL4 inflammatory neutrophil,48
+NC4,PRE,PADI4/translation-high neutrophil,210
+NC5,PRE,DHFR+ proliferative/stress neutrophil,53
+NC4,PRE,DHFR+ proliferative/stress neutrophil,78
+NC3,PRE,LTF/BPI immature neutrophil,31
+NC2,PRE,CCL3/CCL4 inflammatory neutrophil,31
+NC2,PRE,LTF/BPI immature neutrophil,20
+NC4,PRE,RORA+ atypical neutrophil,9
+NC4,PRE,CCL3/CCL4 inflammatory neutrophil,20
+NC1,PRE,RORA+ atypical neutrophil,18
+NC5,PRE,LTF/BPI immature neutrophil,12
+NC5,PRE,RORA+ atypical neutrophil,9
+NC3,PRE,RORA+ atypical neutrophil,13
+NC5,PRE,CCL3/CCL4 inflammatory neutrophil,10

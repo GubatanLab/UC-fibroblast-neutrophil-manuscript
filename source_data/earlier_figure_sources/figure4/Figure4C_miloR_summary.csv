@@ -1,0 +1,7 @@
+compartment,contrast,numerator,denominator,neighborhoods,bh_fdr_lt_0_05,enriched,depleted
+Epithelial,DSS_induction,FAP-TK PBS+DSS,FAP-TK PBS,540,205,124,81
+Epithelial,FAP_ablation,FAP-TK GCV+DSS,FAP-TK PBS+DSS,540,452,283,169
+Immune,DSS_induction,FAP-TK PBS+DSS,FAP-TK PBS,528,158,158,0
+Immune,FAP_ablation,FAP-TK GCV+DSS,FAP-TK PBS+DSS,528,335,23,312
+Stromal,DSS_induction,FAP-TK PBS+DSS,FAP-TK PBS,122,77,71,6
+Stromal,FAP_ablation,FAP-TK GCV+DSS,FAP-TK PBS+DSS,122,106,16,90

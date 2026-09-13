@@ -1,0 +1,46 @@
+direction,downstream_pathway,receiver,lr_pathway,overlap,target_genes,pathway_genes,gene_ratio,p_value,leading_targets,fdr,enrichment_strength
+Fibroblast -> Neutrophil,Apoptosis,Neutrophil,IL1/IL33,26,171,34,0.152046783625731,9.67220348592728e-15,"Bax, Il6, Satb1, Anxa1, Bcl2l1",2.41805087148182e-13,6
+Fibroblast -> Neutrophil,Apoptosis,Neutrophil,CXCL-CXCR2,22,125,34,0.176,3.22957762009948e-13,"Bax, Il6, Anxa1, App, Bcl2l1",5.38262936683247e-12,6
+Fibroblast -> Neutrophil,Apoptosis,Neutrophil,TGF-beta/ECM,18,98,34,0.183673469387755,8.41018613044278e-11,"Bax, Il6, App, Bcl2l1, Bcl2l11",2.1025465326107e-09,6
+Fibroblast -> Neutrophil,Apoptosis,Neutrophil,VCAM adhesion,17,103,34,0.16504854368932,2.28116550951556e-09,"Bax, Il6, App, Bcl2l1, Bcl2l11",3.80194251585927e-08,6
+Fibroblast -> Neutrophil,Apoptosis,Neutrophil,MHC-II/CD74,18,95,34,0.189473684210526,4.77580991277318e-11,"Bax, Il6, Anxa1, App, Bcl2l1",1.1939524781933e-09,6
+Fibroblast -> Neutrophil,Hypoxia,Neutrophil,IL1/IL33,20,171,46,0.116959064327485,1.39560961104369e-05,"Has1, Il6, Cxcr4, Dcn, Ets1",8.72256006902306e-05,4.05935603104518
+Fibroblast -> Neutrophil,Hypoxia,Neutrophil,CXCL-CXCR2,26,125,46,0.208,1.70303837506165e-13,"Il6, Bhlhe40, Cdkn1a, Cxcr4, Ets1",4.25759593765412e-12,6
+Fibroblast -> Neutrophil,Hypoxia,Neutrophil,TGF-beta/ECM,19,98,46,0.193877551020408,5.36312653198784e-09,"Il6, Aldoa, Bhlhe40, Btg1, Cdkn1a",8.93854421997973e-08,6
+Fibroblast -> Neutrophil,Hypoxia,Neutrophil,VCAM adhesion,22,103,46,0.213592233009709,2.04104337416297e-11,"Il6, Bhlhe40, Btg1, Cdkn1a, Cxcr4",5.10260843540743e-10,6
+Fibroblast -> Neutrophil,Hypoxia,Neutrophil,MHC-II/CD74,20,95,46,0.210526315789474,3.47635076773547e-10,"Il6, Bhlhe40, Btg1, Cdkn1a, Cxcr4",5.79391794622578e-09,6
+Fibroblast -> Neutrophil,Tnfa Signaling via Nfkb,Neutrophil,IL1/IL33,64,171,83,0.374269005847953,1.40405678643445e-37,"Birc2, Gfpt2, Il6, Ninj1, Tank",7.02028393217225e-36,6
+Fibroblast -> Neutrophil,Tnfa Signaling via Nfkb,Neutrophil,CXCL-CXCR2,49,125,83,0.392,3.2567864450674e-27,"Birc2, Il6, Abca1, Bcl3, Bhlhe40",1.6283932225337e-25,6
+Fibroblast -> Neutrophil,Tnfa Signaling via Nfkb,Neutrophil,TGF-beta/ECM,41,98,83,0.418367346938776,2.73362120331394e-23,"Birc2, Il6, Abca1, Bcl3, Bhlhe40",1.36681060165697e-21,6
+Fibroblast -> Neutrophil,Tnfa Signaling via Nfkb,Neutrophil,VCAM adhesion,41,103,83,0.398058252427184,2.93605891770691e-22,"Il6, Abca1, Bcl3, Bhlhe40, Birc3",1.46802945885346e-20,6
+Fibroblast -> Neutrophil,Tnfa Signaling via Nfkb,Neutrophil,MHC-II/CD74,29,95,83,0.305263157894737,1.10122665210991e-11,"Il6, Bhlhe40, Birc3, Btg1, Cd44",5.50613326054956e-10,6
+Neutrophil -> Fibroblast,Epithelial Mesenchymal Transition,Fibroblast,Integrin/ECM,23,193,53,0.119170984455959,1.47111317946422e-10,"Cd44, Col1a2, Fn1, Gadd45a, Plaur",2.45185529910703e-09,6
+Neutrophil -> Fibroblast,Epithelial Mesenchymal Transition,Fibroblast,S100A9-ALCAM,21,101,53,0.207920792079208,1.50489286726784e-14,"Acta2, Col1a1, Col1a2, Fn1, Gadd45a",3.7622321681696e-13,6
+Neutrophil -> Fibroblast,Epithelial Mesenchymal Transition,Fibroblast,OSM,9,85,53,0.105882352941176,0.000392355399742491,"Cd44, Sat1, Vcam1, Cxcl1, Dab2",0.00163481416559371,2.78653160780132
+Neutrophil -> Fibroblast,Epithelial Mesenchymal Transition,Fibroblast,TNF,19,121,53,0.15702479338843,8.07392838569208e-11,"Fn1, Itgb3, Plaur, Tgfb1, Tnfrsf11b",6.7282736547434e-10,6
+Neutrophil -> Fibroblast,Epithelial Mesenchymal Transition,Fibroblast,IL1,15,106,53,0.141509433962264,5.74291790940639e-08,"Cd44, Plaur, Sat1, Vcam1, Cxcl1",5.74291790940639e-07,6
+Neutrophil -> Fibroblast,Epithelial Mesenchymal Transition,Fibroblast,IL10,9,100,53,0.09,0.00131482842536931,"Cd44, Htra1, Itgav, Sparc, Vcan",0.00547845177237211,2.26134215715721
+Neutrophil -> Fibroblast,Il6 Jak Stat3 Signaling,Fibroblast,Integrin/ECM,12,193,34,0.0621761658031088,5.90319616113567e-05,"Cd44, Il1b, Stat1, Tgfb1, Il2rg",0.00026832709823344,3.57133546590809
+Neutrophil -> Fibroblast,Il6 Jak Stat3 Signaling,Fibroblast,S100A9-ALCAM,11,101,34,0.108910891089109,5.35621429204693e-07,"Cd14, Il1b, Stat1, Tgfb1, Cxcl1",3.34763393252933e-06,5.47526203866402
+Neutrophil -> Fibroblast,Il6 Jak Stat3 Signaling,Fibroblast,OSM,12,85,34,0.141176470588235,6.7172717039725e-09,"Cd14, Cd44, Stat1, Cd38, Cxcl1",1.11954528399542e-07,6
+Neutrophil -> Fibroblast,Il6 Jak Stat3 Signaling,Fibroblast,TNF,15,121,34,0.12396694214876,2.95644812083611e-10,"Cd14, Ifngr2, Il1b, Itgb3, Stat1",2.11174865774008e-09,6
+Neutrophil -> Fibroblast,Il6 Jak Stat3 Signaling,Fibroblast,IL1,9,106,34,0.0849056603773585,5.74572430945475e-05,"Cd44, Ifngr2, Il1b, Csf1, Cxcl1",0.000261169286793398,3.58307789692383
+Neutrophil -> Fibroblast,Il6 Jak Stat3 Signaling,Fibroblast,IL10,15,100,34,0.15,1.70601507916628e-11,"Cd14, Cd44, Ifnar1, Il1b, Stat1",8.53007539583139e-10,6
+Neutrophil -> Fibroblast,Inflammatory Response,Fibroblast,Integrin/ECM,19,193,56,0.0984455958549223,7.38655972598959e-07,"Ccr7, Cd55, Hif1a, Il1b, Nfkb1",6.15546643832466e-06,5.21073903226714
+Neutrophil -> Fibroblast,Inflammatory Response,Fibroblast,S100A9-ALCAM,16,101,56,0.158415841584158,8.13782281197289e-09,"Ccr7, Cd14, Cd55, Cd69, Hif1a",5.81273057998064e-08,6
+Neutrophil -> Fibroblast,Inflammatory Response,Fibroblast,OSM,13,85,56,0.152941176470588,4.1839211606311e-07,"Atp2b1, Cd14, Hif1a, Ldlr, Nfkb1",4.1839211606311e-06,5.37841650765547
+Neutrophil -> Fibroblast,Inflammatory Response,Fibroblast,TNF,25,121,56,0.206611570247934,1.00963879269102e-16,"Cd14, Cd55, Gch1, Hif1a, Ifngr2",2.52409698172755e-15,6
+Neutrophil -> Fibroblast,Inflammatory Response,Fibroblast,IL1,20,106,56,0.188679245283019,1.91742379884155e-12,"Cd69, Ifngr2, Il1b, Irak2, Lyn",4.79355949710387e-11,6
+Neutrophil -> Fibroblast,Inflammatory Response,Fibroblast,IL10,16,100,56,0.16,6.99247137205063e-09,"Cd14, Cd69, Hif1a, Ifnar1, Il1b",8.74058921506329e-08,6
+Neutrophil -> Fibroblast,Interferon Gamma Response,Fibroblast,Integrin/ECM,19,193,56,0.0984455958549223,7.38655972598959e-07,"Hif1a, Ncoa3, Nfkb1, Ptgs2, Stat1",6.15546643832466e-06,5.21073903226714
+Neutrophil -> Fibroblast,Interferon Gamma Response,Fibroblast,S100A9-ALCAM,16,101,56,0.158415841584158,8.13782281197289e-09,"Cd69, Hif1a, Ncoa3, Nfkb1, Ptgs2",5.81273057998064e-08,6
+Neutrophil -> Fibroblast,Interferon Gamma Response,Fibroblast,OSM,19,85,56,0.223529411764706,3.04262723504273e-13,"Cd274, Hif1a, Nfkb1, Pla2g4a, Ptgs2",1.52131361752136e-11,6
+Neutrophil -> Fibroblast,Interferon Gamma Response,Fibroblast,TNF,23,121,56,0.190082644628099,1.8935632106684e-14,"Cd274, Gch1, Hif1a, Ifnar2, Nfkb1",2.46738586002127e-13,6
+Neutrophil -> Fibroblast,Interferon Gamma Response,Fibroblast,IL1,15,106,56,0.141509433962264,1.2988443997601e-07,"Cd69, Cd86, Irf8, Nfkb1, Ptgs2",1.08237033313342e-06,5.96562411989623
+Neutrophil -> Fibroblast,Interferon Gamma Response,Fibroblast,IL10,18,100,56,0.18,7.73097100817922e-11,"Cd274, Cd69, Cd86, Hif1a, Stat1",1.9327427520448e-09,6
+Neutrophil -> Fibroblast,Tnfa Signaling via Nfkb,Fibroblast,Integrin/ECM,39,193,85,0.202072538860104,1.74287301023437e-18,"Bcl3, Birc3, Cd44, Dusp5, Gadd45a",8.71436505117186e-17,6
+Neutrophil -> Fibroblast,Tnfa Signaling via Nfkb,Fibroblast,S100A9-ALCAM,38,101,85,0.376237623762376,5.80411109435032e-29,"Bcl3, Birc3, Cd69, Cd83, Dusp5",2.90205554717516e-27,6
+Neutrophil -> Fibroblast,Tnfa Signaling via Nfkb,Fibroblast,OSM,22,85,85,0.258823529411765,1.62440013931179e-12,"Atp2b1, Bcl3, Cd44, Dusp5, Ldlr",4.06100034827947e-11,6
+Neutrophil -> Fibroblast,Tnfa Signaling via Nfkb,Fibroblast,TNF,50,121,85,0.413223140495868,3.48173638717785e-42,"Bcl3, Birc2, Birc3, Cd83, Dusp5",1.74086819358892e-40,6
+Neutrophil -> Fibroblast,Tnfa Signaling via Nfkb,Fibroblast,IL1,47,106,85,0.443396226415094,5.23177505896989e-41,"Bcl3, Birc2, Birc3, Cd44, Cd69",2.61588752948494e-39,6
+Neutrophil -> Fibroblast,Tnfa Signaling via Nfkb,Fibroblast,IL10,18,100,85,0.18,1.27398256914524e-07,"Bcl3, Birc3, Cd44, Cd69, Il1b",1.27398256914524e-06,5.89483651405391

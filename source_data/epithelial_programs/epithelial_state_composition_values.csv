@@ -1,0 +1,67 @@
+sample_uid,group,state,n_state,n_epithelial,percent
+FAPTK__D1,DSS,Satb2+ epithelial-like transitional cell,59,1251,4.7162270183852915
+FAPTK__D2,DSS,Satb2+ epithelial-like transitional cell,25,568,4.401408450704225
+FAPTK__D3,DSS,Satb2+ epithelial-like transitional cell,36,486,7.407407407407407
+FAPTK__D4,DSS,Satb2+ epithelial-like transitional cell,81,1982,4.086781029263371
+FAPTK__D5,DSS,Satb2+ epithelial-like transitional cell,28,739,3.7889039242219216
+FAPTK__D6,DSS,Satb2+ epithelial-like transitional cell,33,1051,3.1398667935299716
+FAPTK__FD2,FAP ablation,Satb2+ epithelial-like transitional cell,25,805,3.1055900621118013
+FAPTK__FD3,FAP ablation,Satb2+ epithelial-like transitional cell,215,6165,3.4874290348742902
+FAPTK__FD4,FAP ablation,Satb2+ epithelial-like transitional cell,129,4285,3.010501750291715
+FAPTK__FD6,FAP ablation,Satb2+ epithelial-like transitional cell,5,285,1.7543859649122806
+Merged_a5B1__M13,alpha5beta1 blockade,Satb2+ epithelial-like transitional cell,0,1023,0.0
+Merged_a5B1__M14,alpha5beta1 blockade,Satb2+ epithelial-like transitional cell,0,1162,0.0
+Merged_a5B1__M15,alpha5beta1 blockade,Satb2+ epithelial-like transitional cell,0,5779,0.0
+Merged_a5B1__M16,alpha5beta1 blockade,Satb2+ epithelial-like transitional cell,0,77703,0.0
+Merged_a5B1__M17,alpha5beta1 blockade,Satb2+ epithelial-like transitional cell,0,751,0.0
+Merged_a5B1__M18,alpha5beta1 blockade,Satb2+ epithelial-like transitional cell,0,3754,0.0
+Merged_a5B1__M19,alpha5beta1 blockade,Satb2+ epithelial-like transitional cell,0,5893,0.0
+Merged_a5B1__M20,alpha5beta1 blockade,Satb2+ epithelial-like transitional cell,0,6717,0.0
+Merged_a5B1__M21,alpha5beta1 blockade,Satb2+ epithelial-like transitional cell,0,4897,0.0
+Merged_a5B1__M22,alpha5beta1 blockade,Satb2+ epithelial-like transitional cell,0,5489,0.0
+Merged_a5B1__M23,alpha5beta1 blockade,Satb2+ epithelial-like transitional cell,1,91182,0.0010967076835340307
+Merged_a5B1__M24,alpha5beta1 blockade,Satb2+ epithelial-like transitional cell,0,4859,0.0
+FAPTK__D1,DSS,Mature absorptive colonocyte,159,1251,12.709832134292565
+FAPTK__D2,DSS,Mature absorptive colonocyte,66,568,11.619718309859154
+FAPTK__D3,DSS,Mature absorptive colonocyte,65,486,13.37448559670782
+FAPTK__D4,DSS,Mature absorptive colonocyte,279,1982,14.076690211907165
+FAPTK__D5,DSS,Mature absorptive colonocyte,105,739,14.208389715832206
+FAPTK__D6,DSS,Mature absorptive colonocyte,122,1051,11.607992388201712
+FAPTK__FD2,FAP ablation,Mature absorptive colonocyte,373,805,46.33540372670807
+FAPTK__FD3,FAP ablation,Mature absorptive colonocyte,2844,6165,46.13138686131387
+FAPTK__FD4,FAP ablation,Mature absorptive colonocyte,2009,4285,46.884480746791134
+FAPTK__FD6,FAP ablation,Mature absorptive colonocyte,121,285,42.45614035087719
+Merged_a5B1__M13,alpha5beta1 blockade,Mature absorptive colonocyte,88,1023,8.602150537634408
+Merged_a5B1__M14,alpha5beta1 blockade,Mature absorptive colonocyte,107,1162,9.208261617900172
+Merged_a5B1__M15,alpha5beta1 blockade,Mature absorptive colonocyte,475,5779,8.219415123723827
+Merged_a5B1__M16,alpha5beta1 blockade,Mature absorptive colonocyte,9600,77703,12.354735338403923
+Merged_a5B1__M17,alpha5beta1 blockade,Mature absorptive colonocyte,71,751,9.454061251664447
+Merged_a5B1__M18,alpha5beta1 blockade,Mature absorptive colonocyte,327,3754,8.710708577517314
+Merged_a5B1__M19,alpha5beta1 blockade,Mature absorptive colonocyte,611,5893,10.368233497369761
+Merged_a5B1__M20,alpha5beta1 blockade,Mature absorptive colonocyte,760,6717,11.314574959059104
+Merged_a5B1__M21,alpha5beta1 blockade,Mature absorptive colonocyte,531,4897,10.843373493975903
+Merged_a5B1__M22,alpha5beta1 blockade,Mature absorptive colonocyte,628,5489,11.441063946073966
+Merged_a5B1__M23,alpha5beta1 blockade,Mature absorptive colonocyte,11948,91182,13.1034634028646
+Merged_a5B1__M24,alpha5beta1 blockade,Mature absorptive colonocyte,509,4859,10.475406462235028
+FAPTK__D1,DSS,IFN/MHC-II-responsive epithelial,949,1251,75.85931254996004
+FAPTK__D2,DSS,IFN/MHC-II-responsive epithelial,443,568,77.99295774647888
+FAPTK__D3,DSS,IFN/MHC-II-responsive epithelial,354,486,72.8395061728395
+FAPTK__D4,DSS,IFN/MHC-II-responsive epithelial,1517,1982,76.53884964682139
+FAPTK__D5,DSS,IFN/MHC-II-responsive epithelial,555,739,75.10148849797022
+FAPTK__D6,DSS,IFN/MHC-II-responsive epithelial,825,1051,78.49666983824929
+FAPTK__FD2,FAP ablation,IFN/MHC-II-responsive epithelial,42,805,5.217391304347826
+FAPTK__FD3,FAP ablation,IFN/MHC-II-responsive epithelial,265,6165,4.29845904298459
+FAPTK__FD4,FAP ablation,IFN/MHC-II-responsive epithelial,165,4285,3.8506417736289382
+FAPTK__FD6,FAP ablation,IFN/MHC-II-responsive epithelial,22,285,7.719298245614035
+Merged_a5B1__M13,alpha5beta1 blockade,IFN/MHC-II-responsive epithelial,5,1023,0.4887585532746823
+Merged_a5B1__M14,alpha5beta1 blockade,IFN/MHC-II-responsive epithelial,11,1162,0.9466437177280551
+Merged_a5B1__M15,alpha5beta1 blockade,IFN/MHC-II-responsive epithelial,98,5779,1.6957951202630213
+Merged_a5B1__M16,alpha5beta1 blockade,IFN/MHC-II-responsive epithelial,543,77703,0.6988147175784719
+Merged_a5B1__M17,alpha5beta1 blockade,IFN/MHC-II-responsive epithelial,6,751,0.7989347536617842
+Merged_a5B1__M18,alpha5beta1 blockade,IFN/MHC-II-responsive epithelial,24,3754,0.6393180607352158
+Merged_a5B1__M19,alpha5beta1 blockade,IFN/MHC-II-responsive epithelial,33,5893,0.5599864245715256
+Merged_a5B1__M20,alpha5beta1 blockade,IFN/MHC-II-responsive epithelial,18,6717,0.2679767753461367
+Merged_a5B1__M21,alpha5beta1 blockade,IFN/MHC-II-responsive epithelial,10,4897,0.20420665713702266
+Merged_a5B1__M22,alpha5beta1 blockade,IFN/MHC-II-responsive epithelial,16,5489,0.2914920750592093
+Merged_a5B1__M23,alpha5beta1 blockade,IFN/MHC-II-responsive epithelial,206,91182,0.22592178280801034
+Merged_a5B1__M24,alpha5beta1 blockade,IFN/MHC-II-responsive epithelial,7,4859,0.14406256431364478

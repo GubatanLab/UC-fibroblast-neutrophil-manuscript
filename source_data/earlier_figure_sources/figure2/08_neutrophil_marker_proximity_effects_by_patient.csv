@@ -1,0 +1,2005 @@
+PatientID,Diagnosis2,fibroblast_state,feature,method,n_proximal,n_distant,effect
+P01,Control,FAP+/a5B1+,OSM,Spearman correlation with proximity,4,70,0.2416454954074653
+P01,Control,FAP+/a5B1+,CXCR4,Spearman correlation with proximity,4,70,0.2232167285518859
+P01,Control,FAP+/a5B1+,PDL1,Spearman correlation with proximity,4,70,0.13765878444401017
+P01,Control,FAP+/a5B1+,HLA_ABC,Spearman correlation with proximity,4,70,0.10224741059214383
+P01,Control,FAP+/a5B1+,a5B1,Spearman correlation with proximity,4,70,0.2550908735587258
+P01,Control,FAP+/a5B1+,PADI4,Spearman correlation with proximity,4,70,0.24604485298337664
+P01,Control,FAP+/a5B1+,MX1,Spearman correlation with proximity,4,70,0.10435802227867892
+P01,Control,FAP+/a5B1+,CD66b,Spearman correlation with proximity,4,70,0.09216337697869845
+P01,Control,FAP+/a5B1+,CD16,Spearman correlation with proximity,4,70,0.0984952120383037
+P01,Control,FAP+/a5B1+,CD11b,Spearman correlation with proximity,4,70,0.13353527457494624
+P01,Control,FAP+/a5B1+,Ki67,Spearman correlation with proximity,4,70,0.206937658784444
+P01,Control,FAP+/a5B1+,NF-niche program,Spearman correlation with proximity,4,70,0.2418018370138753
+P01,Control,FAP+/a5B1-,OSM,Proximal-vs-distant median difference,17,31,0.0926492879656744
+P01,Control,FAP+/a5B1-,OSM,Spearman correlation with proximity,17,31,0.1367207348055501
+P01,Control,FAP+/a5B1-,CXCR4,Proximal-vs-distant median difference,17,31,0.8909532813084282
+P01,Control,FAP+/a5B1-,CXCR4,Spearman correlation with proximity,17,31,0.17863982802423295
+P01,Control,FAP+/a5B1-,PDL1,Proximal-vs-distant median difference,17,31,0.26777013434714125
+P01,Control,FAP+/a5B1-,PDL1,Spearman correlation with proximity,17,31,0.1622435020519836
+P01,Control,FAP+/a5B1-,HLA_ABC,Proximal-vs-distant median difference,17,31,0.3904493957423494
+P01,Control,FAP+/a5B1-,HLA_ABC,Spearman correlation with proximity,17,31,0.15790502247410593
+P01,Control,FAP+/a5B1-,a5B1,Proximal-vs-distant median difference,17,31,-0.36378928478337935
+P01,Control,FAP+/a5B1-,a5B1,Spearman correlation with proximity,17,31,-0.1042798514754739
+P01,Control,FAP+/a5B1-,PADI4,Proximal-vs-distant median difference,17,31,1.9095044625813133
+P01,Control,FAP+/a5B1-,PADI4,Spearman correlation with proximity,17,31,0.15513753866174543
+P01,Control,FAP+/a5B1-,MX1,Proximal-vs-distant median difference,17,31,0.13737288783481016
+P01,Control,FAP+/a5B1-,MX1,Spearman correlation with proximity,17,31,-0.08413132694938441
+P01,Control,FAP+/a5B1-,CD66b,Proximal-vs-distant median difference,17,31,1.3236574047322471
+P01,Control,FAP+/a5B1-,CD66b,Spearman correlation with proximity,17,31,0.23623216728551888
+P01,Control,FAP+/a5B1-,CD16,Proximal-vs-distant median difference,17,31,0.7123608842906979
+P01,Control,FAP+/a5B1-,CD16,Spearman correlation with proximity,17,31,0.18438538205980068
+P01,Control,FAP+/a5B1-,CD11b,Proximal-vs-distant median difference,17,31,0.18797555455663018
+P01,Control,FAP+/a5B1-,CD11b,Spearman correlation with proximity,17,31,0.15968340824701974
+P01,Control,FAP+/a5B1-,Ki67,Proximal-vs-distant median difference,17,31,1.214192858610762
+P01,Control,FAP+/a5B1-,Ki67,Spearman correlation with proximity,17,31,0.38440492476060195
+P01,Control,FAP+/a5B1-,NF-niche program,Proximal-vs-distant median difference,17,31,0.29765780247210893
+P01,Control,FAP+/a5B1-,NF-niche program,Spearman correlation with proximity,17,31,0.1237248387727184
+P01,Control,FAP-/a5B1+,OSM,Proximal-vs-distant median difference,51,13,0.0005827893599303913
+P01,Control,FAP-/a5B1+,OSM,Spearman correlation with proximity,51,13,-0.0810044948211843
+P01,Control,FAP-/a5B1+,CXCR4,Proximal-vs-distant median difference,51,13,0.16256208837618003
+P01,Control,FAP-/a5B1+,CXCR4,Spearman correlation with proximity,51,13,-0.02980261872190737
+P01,Control,FAP-/a5B1+,PDL1,Proximal-vs-distant median difference,51,13,-0.28709811072426317
+P01,Control,FAP-/a5B1+,PDL1,Spearman correlation with proximity,51,13,-0.06603478600742622
+P01,Control,FAP-/a5B1+,HLA_ABC,Proximal-vs-distant median difference,51,13,0.0038832946048801276
+P01,Control,FAP-/a5B1+,HLA_ABC,Spearman correlation with proximity,51,13,-0.07043189368770765
+P01,Control,FAP-/a5B1+,a5B1,Proximal-vs-distant median difference,51,13,0.1716016766741938
+P01,Control,FAP-/a5B1+,a5B1,Spearman correlation with proximity,51,13,0.12229822161422708
+P01,Control,FAP-/a5B1+,PADI4,Proximal-vs-distant median difference,51,13,-0.3702843054570675
+P01,Control,FAP-/a5B1+,PADI4,Spearman correlation with proximity,51,13,0.05252357459730924
+P01,Control,FAP-/a5B1+,MX1,Proximal-vs-distant median difference,51,13,0.5651381237886954
+P01,Control,FAP-/a5B1+,MX1,Spearman correlation with proximity,51,13,0.12864959937463358
+P01,Control,FAP-/a5B1+,CD66b,Proximal-vs-distant median difference,51,13,-0.7363453173034529
+P01,Control,FAP-/a5B1+,CD66b,Spearman correlation with proximity,51,13,0.08219659957006058
+P01,Control,FAP-/a5B1+,CD16,Proximal-vs-distant median difference,51,13,-0.6516624084842952
+P01,Control,FAP-/a5B1+,CD16,Spearman correlation with proximity,51,13,-0.06988469806527262
+P01,Control,FAP-/a5B1+,CD11b,Proximal-vs-distant median difference,51,13,0.07841958262090465
+P01,Control,FAP-/a5B1+,CD11b,Spearman correlation with proximity,51,13,0.05841313269493843
+P01,Control,FAP-/a5B1+,Ki67,Proximal-vs-distant median difference,51,13,-0.4234746266639981
+P01,Control,FAP-/a5B1+,Ki67,Spearman correlation with proximity,51,13,-0.16087551299589606
+P01,Control,FAP-/a5B1+,NF-niche program,Proximal-vs-distant median difference,51,13,-0.08140906699188602
+P01,Control,FAP-/a5B1+,NF-niche program,Spearman correlation with proximity,51,13,-0.028669142075434823
+P01,Control,FAP-/a5B1-,OSM,Spearman correlation with proximity,79,0,0.21263539493802214
+P01,Control,FAP-/a5B1-,CXCR4,Spearman correlation with proximity,79,0,0.2522779571945157
+P01,Control,FAP-/a5B1-,PDL1,Spearman correlation with proximity,79,0,0.2026587974364496
+P01,Control,FAP-/a5B1-,HLA_ABC,Spearman correlation with proximity,79,0,0.09986368899713186
+P01,Control,FAP-/a5B1-,a5B1,Spearman correlation with proximity,79,0,0.194480137192751
+P01,Control,FAP-/a5B1-,PADI4,Spearman correlation with proximity,79,0,0.15552917164190075
+P01,Control,FAP-/a5B1-,MX1,Spearman correlation with proximity,79,0,0.08370179647254711
+P01,Control,FAP-/a5B1-,CD66b,Spearman correlation with proximity,79,0,-0.02640231777595404
+P01,Control,FAP-/a5B1-,CD16,Spearman correlation with proximity,79,0,0.09080560292077754
+P01,Control,FAP-/a5B1-,CD11b,Spearman correlation with proximity,79,0,0.098241636905789
+P01,Control,FAP-/a5B1-,Ki67,Spearman correlation with proximity,79,0,0.04986344471158159
+P01,Control,FAP-/a5B1-,NF-niche program,Spearman correlation with proximity,79,0,0.24400158296941094
+P02,Control,FAP+/a5B1+,OSM,Proximal-vs-distant median difference,41,72,0.13281313954126528
+P02,Control,FAP+/a5B1+,OSM,Spearman correlation with proximity,41,72,0.20035849352502264
+P02,Control,FAP+/a5B1+,CXCR4,Proximal-vs-distant median difference,41,72,-0.20156953587630966
+P02,Control,FAP+/a5B1+,CXCR4,Spearman correlation with proximity,41,72,0.017591029659995178
+P02,Control,FAP+/a5B1+,PDL1,Proximal-vs-distant median difference,41,72,1.0183540986476454
+P02,Control,FAP+/a5B1+,PDL1,Spearman correlation with proximity,41,72,0.38168067784317905
+P02,Control,FAP+/a5B1+,HLA_ABC,Proximal-vs-distant median difference,41,72,-0.027103723520227163
+P02,Control,FAP+/a5B1+,HLA_ABC,Spearman correlation with proximity,41,72,-0.07381239450204968
+P02,Control,FAP+/a5B1+,a5B1,Proximal-vs-distant median difference,41,72,0.036133488554024096
+P02,Control,FAP+/a5B1+,a5B1,Spearman correlation with proximity,41,72,0.08127562093079335
+P02,Control,FAP+/a5B1+,PADI4,Proximal-vs-distant median difference,41,72,2.015172853651954
+P02,Control,FAP+/a5B1+,PADI4,Spearman correlation with proximity,41,72,0.16789232812355284
+P02,Control,FAP+/a5B1+,MX1,Proximal-vs-distant median difference,41,72,-0.10322956689896268
+P02,Control,FAP+/a5B1+,MX1,Spearman correlation with proximity,41,72,0.016035704561241676
+P02,Control,FAP+/a5B1+,CD66b,Proximal-vs-distant median difference,41,72,1.3450606508291463
+P02,Control,FAP+/a5B1+,CD66b,Spearman correlation with proximity,41,72,0.2523882822473652
+P02,Control,FAP+/a5B1+,CD16,Proximal-vs-distant median difference,41,72,0.6180141429080095
+P02,Control,FAP+/a5B1+,CD16,Spearman correlation with proximity,41,72,0.261261152640463
+P02,Control,FAP+/a5B1+,CD11b,Proximal-vs-distant median difference,41,72,0.3955080948380951
+P02,Control,FAP+/a5B1+,CD11b,Spearman correlation with proximity,41,72,0.2626557350695282
+P02,Control,FAP+/a5B1+,Ki67,Proximal-vs-distant median difference,41,72,0.6550975544263815
+P02,Control,FAP+/a5B1+,Ki67,Spearman correlation with proximity,41,72,0.07615143477212444
+P02,Control,FAP+/a5B1+,NF-niche program,Proximal-vs-distant median difference,41,72,0.32355160888564777
+P02,Control,FAP+/a5B1+,NF-niche program,Spearman correlation with proximity,41,72,0.18472791576239853
+P02,Control,FAP+/a5B1-,OSM,Proximal-vs-distant median difference,86,12,0.45967518869652646
+P02,Control,FAP+/a5B1-,OSM,Spearman correlation with proximity,86,12,0.040266217612324275
+P02,Control,FAP+/a5B1-,CXCR4,Proximal-vs-distant median difference,86,12,0.35226469496101886
+P02,Control,FAP+/a5B1-,CXCR4,Spearman correlation with proximity,86,12,-0.013756932722449964
+P02,Control,FAP+/a5B1-,PDL1,Proximal-vs-distant median difference,86,12,1.0124775035349554
+P02,Control,FAP+/a5B1-,PDL1,Spearman correlation with proximity,86,12,0.29326911000789324
+P02,Control,FAP+/a5B1-,HLA_ABC,Proximal-vs-distant median difference,86,12,0.22598764696445706
+P02,Control,FAP+/a5B1-,HLA_ABC,Spearman correlation with proximity,86,12,0.0010248372317337834
+P02,Control,FAP+/a5B1-,a5B1,Proximal-vs-distant median difference,86,12,0.07742273843355141
+P02,Control,FAP+/a5B1-,a5B1,Spearman correlation with proximity,86,12,0.12120810224258499
+P02,Control,FAP+/a5B1-,PADI4,Proximal-vs-distant median difference,86,12,0.1903105581831026
+P02,Control,FAP+/a5B1-,PADI4,Spearman correlation with proximity,86,12,0.015111856888806507
+P02,Control,FAP+/a5B1-,MX1,Proximal-vs-distant median difference,86,12,0.3085796084685968
+P02,Control,FAP+/a5B1-,MX1,Spearman correlation with proximity,86,12,-0.12881413151494678
+P02,Control,FAP+/a5B1-,CD66b,Proximal-vs-distant median difference,86,12,0.42215418189826703
+P02,Control,FAP+/a5B1-,CD66b,Spearman correlation with proximity,86,12,0.13015083253393644
+P02,Control,FAP+/a5B1-,CD16,Proximal-vs-distant median difference,86,12,0.15954042843797822
+P02,Control,FAP+/a5B1-,CD16,Spearman correlation with proximity,86,12,0.20781287677839405
+P02,Control,FAP+/a5B1-,CD11b,Proximal-vs-distant median difference,86,12,0.33079681660524596
+P02,Control,FAP+/a5B1-,CD11b,Spearman correlation with proximity,86,12,0.10204967446346756
+P02,Control,FAP+/a5B1-,Ki67,Proximal-vs-distant median difference,86,12,0.5065524970387247
+P02,Control,FAP+/a5B1-,Ki67,Spearman correlation with proximity,86,12,0.13131581062615547
+P02,Control,FAP+/a5B1-,NF-niche program,Proximal-vs-distant median difference,86,12,0.40994534621592044
+P02,Control,FAP+/a5B1-,NF-niche program,Spearman correlation with proximity,86,12,0.13318865043002975
+P02,Control,FAP-/a5B1+,OSM,Proximal-vs-distant median difference,67,29,0.06599038272214752
+P02,Control,FAP-/a5B1+,OSM,Spearman correlation with proximity,67,29,-0.014239266294087725
+P02,Control,FAP-/a5B1+,CXCR4,Proximal-vs-distant median difference,67,29,-0.1498337878928151
+P02,Control,FAP-/a5B1+,CXCR4,Spearman correlation with proximity,67,29,-0.10086809741982157
+P02,Control,FAP-/a5B1+,PDL1,Proximal-vs-distant median difference,67,29,0.38041282498842066
+P02,Control,FAP-/a5B1+,PDL1,Spearman correlation with proximity,67,29,0.18390458133849322
+P02,Control,FAP-/a5B1+,HLA_ABC,Proximal-vs-distant median difference,67,29,-0.22913278624134126
+P02,Control,FAP-/a5B1+,HLA_ABC,Spearman correlation with proximity,67,29,-0.09815127401334298
+P02,Control,FAP-/a5B1+,a5B1,Proximal-vs-distant median difference,67,29,0.14369900478278375
+P02,Control,FAP-/a5B1+,a5B1,Spearman correlation with proximity,67,29,0.06656217345872519
+P02,Control,FAP-/a5B1+,PADI4,Proximal-vs-distant median difference,67,29,0.5680165158700659
+P02,Control,FAP-/a5B1+,PADI4,Spearman correlation with proximity,67,29,0.0006932966258827454
+P02,Control,FAP-/a5B1+,MX1,Proximal-vs-distant median difference,67,29,0.6788815814259246
+P02,Control,FAP-/a5B1+,MX1,Spearman correlation with proximity,67,29,0.03520018005003389
+P02,Control,FAP-/a5B1+,CD66b,Proximal-vs-distant median difference,67,29,1.6048512951594684
+P02,Control,FAP-/a5B1+,CD66b,Spearman correlation with proximity,67,29,0.11968539380127925
+P02,Control,FAP-/a5B1+,CD16,Proximal-vs-distant median difference,67,29,0.21818589290958812
+P02,Control,FAP-/a5B1+,CD16,Spearman correlation with proximity,67,29,0.09626637730086007
+P02,Control,FAP-/a5B1+,CD11b,Proximal-vs-distant median difference,67,29,0.2632775949384234
+P02,Control,FAP-/a5B1+,CD11b,Spearman correlation with proximity,67,29,0.09827184309942931
+P02,Control,FAP-/a5B1+,Ki67,Proximal-vs-distant median difference,67,29,0.14087639411590086
+P02,Control,FAP-/a5B1+,Ki67,Spearman correlation with proximity,67,29,-0.07247005867695523
+P02,Control,FAP-/a5B1+,NF-niche program,Proximal-vs-distant median difference,67,29,0.1708993269599867
+P02,Control,FAP-/a5B1+,NF-niche program,Spearman correlation with proximity,67,29,0.03929346515553412
+P02,Control,FAP-/a5B1-,OSM,Spearman correlation with proximity,142,1,0.011241102970523106
+P02,Control,FAP-/a5B1-,CXCR4,Spearman correlation with proximity,142,1,0.04799051523189454
+P02,Control,FAP-/a5B1-,PDL1,Spearman correlation with proximity,142,1,0.23736708474231116
+P02,Control,FAP-/a5B1-,HLA_ABC,Spearman correlation with proximity,142,1,0.004597701149425287
+P02,Control,FAP-/a5B1-,a5B1,Spearman correlation with proximity,142,1,0.10461377702757013
+P02,Control,FAP-/a5B1-,PADI4,Spearman correlation with proximity,142,1,-0.09368145537797631
+P02,Control,FAP-/a5B1-,MX1,Spearman correlation with proximity,142,1,0.027628433836154365
+P02,Control,FAP-/a5B1-,CD66b,Spearman correlation with proximity,142,1,-0.021939642873108914
+P02,Control,FAP-/a5B1-,CD16,Spearman correlation with proximity,142,1,-0.010738686600755568
+P02,Control,FAP-/a5B1-,CD11b,Spearman correlation with proximity,142,1,-0.027099911582670205
+P02,Control,FAP-/a5B1-,Ki67,Spearman correlation with proximity,142,1,0.00995900651073065
+P02,Control,FAP-/a5B1-,NF-niche program,Spearman correlation with proximity,142,1,0.1040149505666747
+P03,Control,FAP+/a5B1+,OSM,Proximal-vs-distant median difference,61,110,0.2362536750677917
+P03,Control,FAP+/a5B1+,OSM,Spearman correlation with proximity,61,110,0.09491989962973879
+P03,Control,FAP+/a5B1+,CXCR4,Proximal-vs-distant median difference,61,110,0.4134753959069064
+P03,Control,FAP+/a5B1+,CXCR4,Spearman correlation with proximity,61,110,0.09896495328679636
+P03,Control,FAP+/a5B1+,PDL1,Proximal-vs-distant median difference,61,110,0.18163903171786988
+P03,Control,FAP+/a5B1+,PDL1,Spearman correlation with proximity,61,110,-0.0004420490228242332
+P03,Control,FAP+/a5B1+,HLA_ABC,Proximal-vs-distant median difference,61,110,0.10591692043047374
+P03,Control,FAP+/a5B1+,HLA_ABC,Spearman correlation with proximity,61,110,0.012054173668585588
+P03,Control,FAP+/a5B1+,a5B1,Proximal-vs-distant median difference,61,110,0.24255926972889608
+P03,Control,FAP+/a5B1+,a5B1,Spearman correlation with proximity,61,110,0.15529790405438637
+P03,Control,FAP+/a5B1+,PADI4,Proximal-vs-distant median difference,61,110,0.9834918784031119
+P03,Control,FAP+/a5B1+,PADI4,Spearman correlation with proximity,61,110,0.15955443882735196
+P03,Control,FAP+/a5B1+,MX1,Proximal-vs-distant median difference,61,110,-0.0989809838282798
+P03,Control,FAP+/a5B1+,MX1,Spearman correlation with proximity,61,110,0.02588704095719513
+P03,Control,FAP+/a5B1+,CD66b,Proximal-vs-distant median difference,61,110,0.656169110788194
+P03,Control,FAP+/a5B1+,CD66b,Spearman correlation with proximity,61,110,0.14401387261565432
+P03,Control,FAP+/a5B1+,CD16,Proximal-vs-distant median difference,61,110,0.27798731762902307
+P03,Control,FAP+/a5B1+,CD16,Spearman correlation with proximity,61,110,0.13181234475325482
+P03,Control,FAP+/a5B1+,CD11b,Proximal-vs-distant median difference,61,110,-0.006756553917633745
+P03,Control,FAP+/a5B1+,CD11b,Spearman correlation with proximity,61,110,0.02104887433139642
+P03,Control,FAP+/a5B1+,Ki67,Proximal-vs-distant median difference,61,110,-0.6393770592921715
+P03,Control,FAP+/a5B1+,Ki67,Spearman correlation with proximity,61,110,0.023482209592312436
+P03,Control,FAP+/a5B1+,NF-niche program,Proximal-vs-distant median difference,61,110,0.1498817353098426
+P03,Control,FAP+/a5B1+,NF-niche program,Spearman correlation with proximity,61,110,0.08050238346444825
+P03,Control,FAP+/a5B1-,OSM,Proximal-vs-distant median difference,149,31,0.5073239642601335
+P03,Control,FAP+/a5B1-,OSM,Spearman correlation with proximity,149,31,0.23375454258307854
+P03,Control,FAP+/a5B1-,CXCR4,Proximal-vs-distant median difference,149,31,0.608187133344734
+P03,Control,FAP+/a5B1-,CXCR4,Spearman correlation with proximity,149,31,0.28345117553501414
+P03,Control,FAP+/a5B1-,PDL1,Proximal-vs-distant median difference,149,31,0.6914429555603355
+P03,Control,FAP+/a5B1-,PDL1,Spearman correlation with proximity,149,31,0.1516021933730247
+P03,Control,FAP+/a5B1-,HLA_ABC,Proximal-vs-distant median difference,149,31,0.7843327789971326
+P03,Control,FAP+/a5B1-,HLA_ABC,Spearman correlation with proximity,149,31,0.29727129501943295
+P03,Control,FAP+/a5B1-,a5B1,Proximal-vs-distant median difference,149,31,-0.37290443613732793
+P03,Control,FAP+/a5B1-,a5B1,Spearman correlation with proximity,149,31,0.01904484809582485
+P03,Control,FAP+/a5B1-,PADI4,Proximal-vs-distant median difference,149,31,-0.9950154411398748
+P03,Control,FAP+/a5B1-,PADI4,Spearman correlation with proximity,149,31,0.011590454606801874
+P03,Control,FAP+/a5B1-,MX1,Proximal-vs-distant median difference,149,31,1.8152539087827242
+P03,Control,FAP+/a5B1-,MX1,Spearman correlation with proximity,149,31,0.1308832053678754
+P03,Control,FAP+/a5B1-,CD66b,Proximal-vs-distant median difference,149,31,0.3194634665189531
+P03,Control,FAP+/a5B1-,CD66b,Spearman correlation with proximity,149,31,0.043911702676105634
+P03,Control,FAP+/a5B1-,CD16,Proximal-vs-distant median difference,149,31,0.1329176496035105
+P03,Control,FAP+/a5B1-,CD16,Spearman correlation with proximity,149,31,0.09138041899049244
+P03,Control,FAP+/a5B1-,CD11b,Proximal-vs-distant median difference,149,31,0.2809400404200253
+P03,Control,FAP+/a5B1-,CD11b,Spearman correlation with proximity,149,31,0.14373599147546837
+P03,Control,FAP+/a5B1-,Ki67,Proximal-vs-distant median difference,149,31,0.3559944816833849
+P03,Control,FAP+/a5B1-,Ki67,Spearman correlation with proximity,149,31,0.19362793389362784
+P03,Control,FAP+/a5B1-,NF-niche program,Proximal-vs-distant median difference,149,31,0.28700556086585327
+P03,Control,FAP+/a5B1-,NF-niche program,Spearman correlation with proximity,149,31,0.2515179260372401
+P03,Control,FAP-/a5B1+,OSM,Proximal-vs-distant median difference,200,10,0.2493310835913154
+P03,Control,FAP-/a5B1+,OSM,Spearman correlation with proximity,200,10,-0.12304086577224724
+P03,Control,FAP-/a5B1+,CXCR4,Proximal-vs-distant median difference,200,10,0.29657244156212137
+P03,Control,FAP-/a5B1+,CXCR4,Spearman correlation with proximity,200,10,-0.10409633892368578
+P03,Control,FAP-/a5B1+,PDL1,Proximal-vs-distant median difference,200,10,1.3978818401090867
+P03,Control,FAP-/a5B1+,PDL1,Spearman correlation with proximity,200,10,0.07226359324433614
+P03,Control,FAP-/a5B1+,HLA_ABC,Proximal-vs-distant median difference,200,10,1.0186470914311245
+P03,Control,FAP-/a5B1+,HLA_ABC,Spearman correlation with proximity,200,10,-0.200630978932191
+P03,Control,FAP-/a5B1+,a5B1,Proximal-vs-distant median difference,200,10,2.270006772802425
+P03,Control,FAP-/a5B1+,a5B1,Spearman correlation with proximity,200,10,0.31451206823827155
+P03,Control,FAP-/a5B1+,PADI4,Proximal-vs-distant median difference,200,10,3.088521382653246
+P03,Control,FAP-/a5B1+,PADI4,Spearman correlation with proximity,200,10,0.015168864553224626
+P03,Control,FAP-/a5B1+,MX1,Proximal-vs-distant median difference,200,10,1.5798541851508574
+P03,Control,FAP-/a5B1+,MX1,Spearman correlation with proximity,200,10,-0.036096539139234995
+P03,Control,FAP-/a5B1+,CD66b,Proximal-vs-distant median difference,200,10,1.264186008081271
+P03,Control,FAP-/a5B1+,CD66b,Spearman correlation with proximity,200,10,0.0010381967545947139
+P03,Control,FAP-/a5B1+,CD16,Proximal-vs-distant median difference,200,10,0.9449772731461996
+P03,Control,FAP-/a5B1+,CD16,Spearman correlation with proximity,200,10,0.034193379424170715
+P03,Control,FAP-/a5B1+,CD11b,Proximal-vs-distant median difference,200,10,0.9618727483063729
+P03,Control,FAP-/a5B1+,CD11b,Spearman correlation with proximity,200,10,-0.09435476508323452
+P03,Control,FAP-/a5B1+,Ki67,Proximal-vs-distant median difference,200,10,0.5714772321511995
+P03,Control,FAP-/a5B1+,Ki67,Spearman correlation with proximity,200,10,-0.09048544781365703
+P03,Control,FAP-/a5B1+,NF-niche program,Proximal-vs-distant median difference,200,10,1.0640166928076273
+P03,Control,FAP-/a5B1+,NF-niche program,Spearman correlation with proximity,200,10,-0.015931383806274114
+P03,Control,FAP-/a5B1-,OSM,Spearman correlation with proximity,239,5,-0.0015406119405121323
+P03,Control,FAP-/a5B1-,CXCR4,Spearman correlation with proximity,239,5,0.020033552976791283
+P03,Control,FAP-/a5B1-,PDL1,Spearman correlation with proximity,239,5,0.114465597687699
+P03,Control,FAP-/a5B1-,HLA_ABC,Spearman correlation with proximity,239,5,-0.029705388816537278
+P03,Control,FAP-/a5B1-,a5B1,Spearman correlation with proximity,239,5,0.2767703051038103
+P03,Control,FAP-/a5B1-,PADI4,Spearman correlation with proximity,239,5,-0.13166208492761944
+P03,Control,FAP-/a5B1-,MX1,Spearman correlation with proximity,239,5,0.06696160341911288
+P03,Control,FAP-/a5B1-,CD66b,Spearman correlation with proximity,239,5,-0.03392042628681247
+P03,Control,FAP-/a5B1-,CD16,Spearman correlation with proximity,239,5,0.027637255028777733
+P03,Control,FAP-/a5B1-,CD11b,Spearman correlation with proximity,239,5,-0.0900403824267003
+P03,Control,FAP-/a5B1-,Ki67,Spearman correlation with proximity,239,5,0.08114917748511974
+P03,Control,FAP-/a5B1-,NF-niche program,Spearman correlation with proximity,239,5,0.1025174855851383
+P04,Control,FAP+/a5B1+,OSM,Proximal-vs-distant median difference,36,56,0.0994126759459455
+P04,Control,FAP+/a5B1+,OSM,Spearman correlation with proximity,36,56,0.04657325182613181
+P04,Control,FAP+/a5B1+,CXCR4,Proximal-vs-distant median difference,36,56,0.3971900967660673
+P04,Control,FAP+/a5B1+,CXCR4,Spearman correlation with proximity,36,56,0.1651554114490161
+P04,Control,FAP+/a5B1+,PDL1,Proximal-vs-distant median difference,36,56,-0.023335455028850927
+P04,Control,FAP+/a5B1+,PDL1,Spearman correlation with proximity,36,56,0.060459694934535534
+P04,Control,FAP+/a5B1+,HLA_ABC,Proximal-vs-distant median difference,36,56,0.19419508769183036
+P04,Control,FAP+/a5B1+,HLA_ABC,Spearman correlation with proximity,36,56,0.09234123434704831
+P04,Control,FAP+/a5B1+,a5B1,Proximal-vs-distant median difference,36,56,0.17572645236917928
+P04,Control,FAP+/a5B1+,a5B1,Spearman correlation with proximity,36,56,0.003918828264758498
+P04,Control,FAP+/a5B1+,PADI4,Proximal-vs-distant median difference,36,56,1.5637187457333548
+P04,Control,FAP+/a5B1+,PADI4,Spearman correlation with proximity,36,56,0.11518099235806563
+P04,Control,FAP+/a5B1+,MX1,Proximal-vs-distant median difference,36,56,-0.6371383644595818
+P04,Control,FAP+/a5B1+,MX1,Spearman correlation with proximity,36,56,-0.08590687319282932
+P04,Control,FAP+/a5B1+,CD66b,Proximal-vs-distant median difference,36,56,0.9004527220624485
+P04,Control,FAP+/a5B1+,CD66b,Spearman correlation with proximity,36,56,0.1567587209302326
+P04,Control,FAP+/a5B1+,CD16,Proximal-vs-distant median difference,36,56,0.6252561589763586
+P04,Control,FAP+/a5B1+,CD16,Spearman correlation with proximity,36,56,0.16498770125223616
+P04,Control,FAP+/a5B1+,CD11b,Proximal-vs-distant median difference,36,56,0.13364761907528155
+P04,Control,FAP+/a5B1+,CD11b,Spearman correlation with proximity,36,56,0.09900491949910556
+P04,Control,FAP+/a5B1+,Ki67,Proximal-vs-distant median difference,36,56,0.9372548481123973
+P04,Control,FAP+/a5B1+,Ki67,Spearman correlation with proximity,36,56,0.15627817011163816
+P04,Control,FAP+/a5B1+,NF-niche program,Proximal-vs-distant median difference,36,56,0.28560693285115335
+P04,Control,FAP+/a5B1+,NF-niche program,Spearman correlation with proximity,36,56,0.09262075134168159
+P04,Control,FAP+/a5B1-,OSM,Proximal-vs-distant median difference,55,25,0.8386982328655677
+P04,Control,FAP+/a5B1-,OSM,Spearman correlation with proximity,55,25,0.41423975357874704
+P04,Control,FAP+/a5B1-,CXCR4,Proximal-vs-distant median difference,55,25,1.2562161330439143
+P04,Control,FAP+/a5B1-,CXCR4,Spearman correlation with proximity,55,25,0.4790250447227193
+P04,Control,FAP+/a5B1-,PDL1,Proximal-vs-distant median difference,55,25,1.007937507475435
+P04,Control,FAP+/a5B1-,PDL1,Spearman correlation with proximity,55,25,0.37465724132872585
+P04,Control,FAP+/a5B1-,HLA_ABC,Proximal-vs-distant median difference,55,25,0.7330414967003183
+P04,Control,FAP+/a5B1-,HLA_ABC,Spearman correlation with proximity,55,25,0.3751118067978534
+P04,Control,FAP+/a5B1-,a5B1,Proximal-vs-distant median difference,55,25,0.5036314225478322
+P04,Control,FAP+/a5B1-,a5B1,Spearman correlation with proximity,55,25,0.2374161449016101
+P04,Control,FAP+/a5B1-,PADI4,Proximal-vs-distant median difference,55,25,0.0011978702212265269
+P04,Control,FAP+/a5B1-,PADI4,Spearman correlation with proximity,55,25,0.10258560451247412
+P04,Control,FAP+/a5B1-,MX1,Proximal-vs-distant median difference,55,25,0.46194137817898184
+P04,Control,FAP+/a5B1-,MX1,Spearman correlation with proximity,55,25,0.13908785091674322
+P04,Control,FAP+/a5B1-,CD66b,Proximal-vs-distant median difference,55,25,0.4773648209476673
+P04,Control,FAP+/a5B1-,CD66b,Spearman correlation with proximity,55,25,0.10345483005366728
+P04,Control,FAP+/a5B1-,CD16,Proximal-vs-distant median difference,55,25,0.4677634057972382
+P04,Control,FAP+/a5B1-,CD16,Spearman correlation with proximity,55,25,0.23689624329159217
+P04,Control,FAP+/a5B1-,CD11b,Proximal-vs-distant median difference,55,25,0.23986278438639275
+P04,Control,FAP+/a5B1-,CD11b,Spearman correlation with proximity,55,25,0.21119186046511632
+P04,Control,FAP+/a5B1-,Ki67,Proximal-vs-distant median difference,55,25,1.2260232499940285
+P04,Control,FAP+/a5B1-,Ki67,Spearman correlation with proximity,55,25,0.22598701082732667
+P04,Control,FAP+/a5B1-,NF-niche program,Proximal-vs-distant median difference,55,25,0.8512847466192561
+P04,Control,FAP+/a5B1-,NF-niche program,Spearman correlation with proximity,55,25,0.517531305903399
+P04,Control,FAP-/a5B1+,OSM,Proximal-vs-distant median difference,86,16,-0.5423949819026523
+P04,Control,FAP-/a5B1+,OSM,Spearman correlation with proximity,86,16,-0.25843690646089557
+P04,Control,FAP-/a5B1+,CXCR4,Proximal-vs-distant median difference,86,16,-0.4845543852696679
+P04,Control,FAP-/a5B1+,CXCR4,Spearman correlation with proximity,86,16,-0.1035751671165579
+P04,Control,FAP-/a5B1+,PDL1,Proximal-vs-distant median difference,86,16,-0.00477736320809008
+P04,Control,FAP-/a5B1+,PDL1,Spearman correlation with proximity,86,16,0.08232928078586188
+P04,Control,FAP-/a5B1+,HLA_ABC,Proximal-vs-distant median difference,86,16,-0.06331934598740396
+P04,Control,FAP-/a5B1+,HLA_ABC,Spearman correlation with proximity,86,16,0.04835930282778487
+P04,Control,FAP-/a5B1+,a5B1,Proximal-vs-distant median difference,86,16,0.7333189910313467
+P04,Control,FAP-/a5B1+,a5B1,Spearman correlation with proximity,86,16,0.4031674910104159
+P04,Control,FAP-/a5B1+,PADI4,Proximal-vs-distant median difference,86,16,0.8072293532905572
+P04,Control,FAP-/a5B1+,PADI4,Spearman correlation with proximity,86,16,0.06140050512368236
+P04,Control,FAP-/a5B1+,MX1,Proximal-vs-distant median difference,86,16,0.3184565959125565
+P04,Control,FAP-/a5B1+,MX1,Spearman correlation with proximity,86,16,0.09543016388127204
+P04,Control,FAP-/a5B1+,CD66b,Proximal-vs-distant median difference,86,16,0.7024514336225489
+P04,Control,FAP-/a5B1+,CD66b,Spearman correlation with proximity,86,16,0.15188695198884467
+P04,Control,FAP-/a5B1+,CD16,Proximal-vs-distant median difference,86,16,-0.18236675074944841
+P04,Control,FAP-/a5B1+,CD16,Spearman correlation with proximity,86,16,0.0993600449464926
+P04,Control,FAP-/a5B1+,CD11b,Proximal-vs-distant median difference,86,16,-0.26889853671027897
+P04,Control,FAP-/a5B1+,CD11b,Spearman correlation with proximity,86,16,-0.10196514697732871
+P04,Control,FAP-/a5B1+,Ki67,Proximal-vs-distant median difference,86,16,-1.6104530496261746
+P04,Control,FAP-/a5B1+,Ki67,Spearman correlation with proximity,86,16,-0.27781271749976943
+P04,Control,FAP-/a5B1+,NF-niche program,Proximal-vs-distant median difference,86,16,-0.15315490251247543
+P04,Control,FAP-/a5B1+,NF-niche program,Spearman correlation with proximity,86,16,0.04145801858515144
+P04,Control,FAP-/a5B1-,OSM,Spearman correlation with proximity,123,2,-0.19289242199433024
+P04,Control,FAP-/a5B1-,CXCR4,Spearman correlation with proximity,123,2,-0.10643448121645797
+P04,Control,FAP-/a5B1-,PDL1,Spearman correlation with proximity,123,2,0.13085624680352664
+P04,Control,FAP-/a5B1-,HLA_ABC,Spearman correlation with proximity,123,2,-0.02918157423971378
+P04,Control,FAP-/a5B1-,a5B1,Spearman correlation with proximity,123,2,0.10628913237924867
+P04,Control,FAP-/a5B1-,PADI4,Spearman correlation with proximity,123,2,0.10043326349136772
+P04,Control,FAP-/a5B1-,MX1,Spearman correlation with proximity,123,2,0.18519983396685405
+P04,Control,FAP-/a5B1-,CD66b,Spearman correlation with proximity,123,2,-0.05478533094812166
+P04,Control,FAP-/a5B1-,CD16,Spearman correlation with proximity,123,2,-0.08851185152057248
+P04,Control,FAP-/a5B1-,CD11b,Spearman correlation with proximity,123,2,-0.1551207513416816
+P04,Control,FAP-/a5B1-,Ki67,Spearman correlation with proximity,123,2,-0.16579014673281334
+P04,Control,FAP-/a5B1-,NF-niche program,Spearman correlation with proximity,123,2,-0.0753577817531306
+P05,Control,FAP+/a5B1+,OSM,Proximal-vs-distant median difference,19,162,0.8685560949557551
+P05,Control,FAP+/a5B1+,OSM,Spearman correlation with proximity,19,162,0.25790642878702247
+P05,Control,FAP+/a5B1+,CXCR4,Proximal-vs-distant median difference,19,162,0.41991896815471197
+P05,Control,FAP+/a5B1+,CXCR4,Spearman correlation with proximity,19,162,0.17143582627603568
+P05,Control,FAP+/a5B1+,PDL1,Proximal-vs-distant median difference,19,162,0.4663062872522902
+P05,Control,FAP+/a5B1+,PDL1,Spearman correlation with proximity,19,162,0.03827794830981544
+P05,Control,FAP+/a5B1+,HLA_ABC,Proximal-vs-distant median difference,19,162,-0.05268985603517873
+P05,Control,FAP+/a5B1+,HLA_ABC,Spearman correlation with proximity,19,162,0.20227240215152206
+P05,Control,FAP+/a5B1+,a5B1,Proximal-vs-distant median difference,19,162,0.1759032883121352
+P05,Control,FAP+/a5B1+,a5B1,Spearman correlation with proximity,19,162,0.07794761387045089
+P05,Control,FAP+/a5B1+,PADI4,Proximal-vs-distant median difference,19,162,0.328056681311526
+P05,Control,FAP+/a5B1+,PADI4,Spearman correlation with proximity,19,162,0.056712784974184346
+P05,Control,FAP+/a5B1+,MX1,Proximal-vs-distant median difference,19,162,-0.023809686306848654
+P05,Control,FAP+/a5B1+,MX1,Spearman correlation with proximity,19,162,0.1186392185277387
+P05,Control,FAP+/a5B1+,CD66b,Proximal-vs-distant median difference,19,162,0.5440456584054663
+P05,Control,FAP+/a5B1+,CD66b,Spearman correlation with proximity,19,162,0.06764133669031815
+P05,Control,FAP+/a5B1+,CD16,Proximal-vs-distant median difference,19,162,0.23432129337785312
+P05,Control,FAP+/a5B1+,CD16,Spearman correlation with proximity,19,162,0.0981109807736324
+P05,Control,FAP+/a5B1+,CD11b,Proximal-vs-distant median difference,19,162,0.11681947718932584
+P05,Control,FAP+/a5B1+,CD11b,Spearman correlation with proximity,19,162,0.0901114385442893
+P05,Control,FAP+/a5B1+,Ki67,Proximal-vs-distant median difference,19,162,0.42637048886596063
+P05,Control,FAP+/a5B1+,Ki67,Spearman correlation with proximity,19,162,0.04290099382760696
+P05,Control,FAP+/a5B1+,NF-niche program,Proximal-vs-distant median difference,19,162,0.2910450576713393
+P05,Control,FAP+/a5B1+,NF-niche program,Spearman correlation with proximity,19,162,0.21563286793316547
+P05,Control,FAP+/a5B1-,OSM,Proximal-vs-distant median difference,104,72,0.11589090030985938
+P05,Control,FAP+/a5B1-,OSM,Spearman correlation with proximity,104,72,0.04621858131571483
+P05,Control,FAP+/a5B1-,CXCR4,Proximal-vs-distant median difference,104,72,0.9118605974264296
+P05,Control,FAP+/a5B1-,CXCR4,Spearman correlation with proximity,104,72,0.4098499370565346
+P05,Control,FAP+/a5B1-,PDL1,Proximal-vs-distant median difference,104,72,-0.42335350837467245
+P05,Control,FAP+/a5B1-,PDL1,Spearman correlation with proximity,104,72,-0.051316576739702593
+P05,Control,FAP+/a5B1-,HLA_ABC,Proximal-vs-distant median difference,104,72,0.7687006156347422
+P05,Control,FAP+/a5B1-,HLA_ABC,Spearman correlation with proximity,104,72,0.48338149462119473
+P05,Control,FAP+/a5B1-,a5B1,Proximal-vs-distant median difference,104,72,0.5806888019223058
+P05,Control,FAP+/a5B1-,a5B1,Spearman correlation with proximity,104,72,0.24294532501716637
+P05,Control,FAP+/a5B1-,PADI4,Proximal-vs-distant median difference,104,72,0.12878716824729963
+P05,Control,FAP+/a5B1-,PADI4,Spearman correlation with proximity,104,72,0.043531408634655204
+P05,Control,FAP+/a5B1-,MX1,Proximal-vs-distant median difference,104,72,0.5876267408981488
+P05,Control,FAP+/a5B1-,MX1,Spearman correlation with proximity,104,72,0.20403568038721198
+P05,Control,FAP+/a5B1-,CD66b,Proximal-vs-distant median difference,104,72,0.268269217091452
+P05,Control,FAP+/a5B1-,CD66b,Spearman correlation with proximity,104,72,0.11080553330281527
+P05,Control,FAP+/a5B1-,CD16,Proximal-vs-distant median difference,104,72,0.30053188608001236
+P05,Control,FAP+/a5B1-,CD16,Spearman correlation with proximity,104,72,0.11726296063172349
+P05,Control,FAP+/a5B1-,CD11b,Proximal-vs-distant median difference,104,72,0.29728533763744736
+P05,Control,FAP+/a5B1-,CD11b,Spearman correlation with proximity,104,72,0.21582885099565113
+P05,Control,FAP+/a5B1-,Ki67,Proximal-vs-distant median difference,104,72,0.27236936967842984
+P05,Control,FAP+/a5B1-,Ki67,Spearman correlation with proximity,104,72,0.2273576001937088
+P05,Control,FAP+/a5B1-,NF-niche program,Proximal-vs-distant median difference,104,72,0.22284060147912643
+P05,Control,FAP+/a5B1-,NF-niche program,Spearman correlation with proximity,104,72,0.27065260929274426
+P05,Control,FAP-/a5B1+,OSM,Proximal-vs-distant median difference,125,30,0.20836008841784537
+P05,Control,FAP-/a5B1+,OSM,Spearman correlation with proximity,125,30,0.03967059430535817
+P05,Control,FAP-/a5B1+,CXCR4,Proximal-vs-distant median difference,125,30,-0.31128182072765176
+P05,Control,FAP-/a5B1+,CXCR4,Spearman correlation with proximity,125,30,-0.18908288509956508
+P05,Control,FAP-/a5B1+,PDL1,Proximal-vs-distant median difference,125,30,0.6399454184145728
+P05,Control,FAP-/a5B1+,PDL1,Spearman correlation with proximity,125,30,0.08039438471382088
+P05,Control,FAP-/a5B1+,HLA_ABC,Proximal-vs-distant median difference,125,30,-0.27298342115396057
+P05,Control,FAP-/a5B1+,HLA_ABC,Spearman correlation with proximity,125,30,-0.1840967612726024
+P05,Control,FAP-/a5B1+,a5B1,Proximal-vs-distant median difference,125,30,0.365011709541337
+P05,Control,FAP-/a5B1+,a5B1,Spearman correlation with proximity,125,30,0.0850022888532845
+P05,Control,FAP-/a5B1+,PADI4,Proximal-vs-distant median difference,125,30,0.8234491748416266
+P05,Control,FAP-/a5B1+,PADI4,Spearman correlation with proximity,125,30,0.04952895811545678
+P05,Control,FAP-/a5B1+,MX1,Proximal-vs-distant median difference,125,30,0.2029482703441019
+P05,Control,FAP-/a5B1+,MX1,Spearman correlation with proximity,125,30,-0.030003311686972428
+P05,Control,FAP-/a5B1+,CD66b,Proximal-vs-distant median difference,125,30,0.34169377355770214
+P05,Control,FAP-/a5B1+,CD66b,Spearman correlation with proximity,125,30,0.02147945754177157
+P05,Control,FAP-/a5B1+,CD16,Proximal-vs-distant median difference,125,30,-0.1776821482178379
+P05,Control,FAP-/a5B1+,CD16,Spearman correlation with proximity,125,30,-0.021213378347447923
+P05,Control,FAP-/a5B1+,CD11b,Proximal-vs-distant median difference,125,30,-0.25582527982382075
+P05,Control,FAP-/a5B1+,CD11b,Spearman correlation with proximity,125,30,-0.14863527122911419
+P05,Control,FAP-/a5B1+,Ki67,Proximal-vs-distant median difference,125,30,-0.029008431156917217
+P05,Control,FAP-/a5B1+,Ki67,Spearman correlation with proximity,125,30,-0.1285155815531316
+P05,Control,FAP-/a5B1+,NF-niche program,Proximal-vs-distant median difference,125,30,0.048188927035586776
+P05,Control,FAP-/a5B1+,NF-niche program,Spearman correlation with proximity,125,30,-0.03790698672465095
+P05,Control,FAP-/a5B1-,OSM,Spearman correlation with proximity,218,8,0.052411810560684564
+P05,Control,FAP-/a5B1-,CXCR4,Spearman correlation with proximity,218,8,-0.11193104540908437
+P05,Control,FAP-/a5B1-,PDL1,Spearman correlation with proximity,218,8,0.10952587699120257
+P05,Control,FAP-/a5B1-,HLA_ABC,Spearman correlation with proximity,218,8,-0.08060450067396539
+P05,Control,FAP-/a5B1-,a5B1,Spearman correlation with proximity,218,8,0.17437885327695282
+P05,Control,FAP-/a5B1-,PADI4,Spearman correlation with proximity,218,8,0.09147070909683278
+P05,Control,FAP-/a5B1-,MX1,Spearman correlation with proximity,218,8,-0.014504192718793182
+P05,Control,FAP-/a5B1-,CD66b,Spearman correlation with proximity,218,8,0.04997426827301628
+P05,Control,FAP-/a5B1-,CD16,Spearman correlation with proximity,218,8,0.04009214068298947
+P05,Control,FAP-/a5B1-,CD11b,Spearman correlation with proximity,218,8,-0.003044891223997113
+P05,Control,FAP-/a5B1-,Ki67,Spearman correlation with proximity,218,8,0.035152877627086875
+P05,Control,FAP-/a5B1-,NF-niche program,Spearman correlation with proximity,218,8,0.044935212911714977
+P06,Control,FAP+/a5B1+,OSM,Proximal-vs-distant median difference,84,163,0.1625253238985116
+P06,Control,FAP+/a5B1+,OSM,Spearman correlation with proximity,84,163,0.1536243054963214
+P06,Control,FAP+/a5B1+,CXCR4,Proximal-vs-distant median difference,84,163,0.23842939507295213
+P06,Control,FAP+/a5B1+,CXCR4,Spearman correlation with proximity,84,163,0.11604799433584555
+P06,Control,FAP+/a5B1+,PDL1,Proximal-vs-distant median difference,84,163,0.45621989646886707
+P06,Control,FAP+/a5B1+,PDL1,Spearman correlation with proximity,84,163,0.24177087949166703
+P06,Control,FAP+/a5B1+,HLA_ABC,Proximal-vs-distant median difference,84,163,0.11832972618992965
+P06,Control,FAP+/a5B1+,HLA_ABC,Spearman correlation with proximity,84,163,0.14556884134483952
+P06,Control,FAP+/a5B1+,a5B1,Proximal-vs-distant median difference,84,163,0.4235955151832598
+P06,Control,FAP+/a5B1+,a5B1,Spearman correlation with proximity,84,163,0.19361038296602623
+P06,Control,FAP+/a5B1+,PADI4,Proximal-vs-distant median difference,84,163,-1.404410746214566
+P06,Control,FAP+/a5B1+,PADI4,Spearman correlation with proximity,84,163,-0.0943396801785721
+P06,Control,FAP+/a5B1+,MX1,Proximal-vs-distant median difference,84,163,0.41888042352031896
+P06,Control,FAP+/a5B1+,MX1,Spearman correlation with proximity,84,163,0.18330230704514455
+P06,Control,FAP+/a5B1+,CD66b,Proximal-vs-distant median difference,84,163,0.17221022790454388
+P06,Control,FAP+/a5B1+,CD66b,Spearman correlation with proximity,84,163,-0.043387896769853655
+P06,Control,FAP+/a5B1+,CD16,Proximal-vs-distant median difference,84,163,-0.1047929228544966
+P06,Control,FAP+/a5B1+,CD16,Spearman correlation with proximity,84,163,-0.04141502927124689
+P06,Control,FAP+/a5B1+,CD11b,Proximal-vs-distant median difference,84,163,-0.055847397261529874
+P06,Control,FAP+/a5B1+,CD11b,Spearman correlation with proximity,84,163,0.0376499310275217
+P06,Control,FAP+/a5B1+,Ki67,Proximal-vs-distant median difference,84,163,-0.35200515253179676
+P06,Control,FAP+/a5B1+,Ki67,Spearman correlation with proximity,84,163,-0.076158135825119
+P06,Control,FAP+/a5B1+,NF-niche program,Proximal-vs-distant median difference,84,163,0.24876186277724177
+P06,Control,FAP+/a5B1+,NF-niche program,Spearman correlation with proximity,84,163,0.19478122266334702
+P06,Control,FAP+/a5B1-,OSM,Proximal-vs-distant median difference,193,50,1.0934506911908415
+P06,Control,FAP+/a5B1-,OSM,Spearman correlation with proximity,193,50,0.2988056515418785
+P06,Control,FAP+/a5B1-,CXCR4,Proximal-vs-distant median difference,193,50,2.977842224016149
+P06,Control,FAP+/a5B1-,CXCR4,Spearman correlation with proximity,193,50,0.3038099202411026
+P06,Control,FAP+/a5B1-,PDL1,Proximal-vs-distant median difference,193,50,1.6409204658955212
+P06,Control,FAP+/a5B1-,PDL1,Spearman correlation with proximity,193,50,0.2681258713903105
+P06,Control,FAP+/a5B1-,HLA_ABC,Proximal-vs-distant median difference,193,50,2.037700848944929
+P06,Control,FAP+/a5B1-,HLA_ABC,Spearman correlation with proximity,193,50,0.29152186782527856
+P06,Control,FAP+/a5B1-,a5B1,Proximal-vs-distant median difference,193,50,2.6664862595510663
+P06,Control,FAP+/a5B1-,a5B1,Spearman correlation with proximity,193,50,0.27619273371748726
+P06,Control,FAP+/a5B1-,PADI4,Proximal-vs-distant median difference,193,50,-1.5602761957327145
+P06,Control,FAP+/a5B1-,PADI4,Spearman correlation with proximity,193,50,0.04632922819947544
+P06,Control,FAP+/a5B1-,MX1,Proximal-vs-distant median difference,193,50,2.4267903311187937
+P06,Control,FAP+/a5B1-,MX1,Spearman correlation with proximity,193,50,0.2259725967370712
+P06,Control,FAP+/a5B1-,CD66b,Proximal-vs-distant median difference,193,50,-0.16704054244477984
+P06,Control,FAP+/a5B1-,CD66b,Spearman correlation with proximity,193,50,0.027487426584654636
+P06,Control,FAP+/a5B1-,CD16,Proximal-vs-distant median difference,193,50,0.2169263390407945
+P06,Control,FAP+/a5B1-,CD16,Spearman correlation with proximity,193,50,0.06893904346948389
+P06,Control,FAP+/a5B1-,CD11b,Proximal-vs-distant median difference,193,50,0.2660561874829783
+P06,Control,FAP+/a5B1-,CD11b,Spearman correlation with proximity,193,50,0.13839748334566987
+P06,Control,FAP+/a5B1-,Ki67,Proximal-vs-distant median difference,193,50,0.82117069949481
+P06,Control,FAP+/a5B1-,Ki67,Spearman correlation with proximity,193,50,0.24547770227837493
+P06,Control,FAP+/a5B1-,NF-niche program,Proximal-vs-distant median difference,193,50,1.8786891207418335
+P06,Control,FAP+/a5B1-,NF-niche program,Spearman correlation with proximity,193,50,0.32899893176771416
+P06,Control,FAP-/a5B1+,OSM,Proximal-vs-distant median difference,274,34,1.2122150091843764
+P06,Control,FAP-/a5B1+,OSM,Spearman correlation with proximity,274,34,0.13705454678044995
+P06,Control,FAP-/a5B1+,CXCR4,Proximal-vs-distant median difference,274,34,3.4572753638185953
+P06,Control,FAP-/a5B1+,CXCR4,Spearman correlation with proximity,274,34,0.1422703660451826
+P06,Control,FAP-/a5B1+,PDL1,Proximal-vs-distant median difference,274,34,1.9324316063069302
+P06,Control,FAP-/a5B1+,PDL1,Spearman correlation with proximity,274,34,0.3031091652528269
+P06,Control,FAP-/a5B1+,HLA_ABC,Proximal-vs-distant median difference,274,34,1.9824348711980009
+P06,Control,FAP-/a5B1+,HLA_ABC,Spearman correlation with proximity,274,34,0.09537548445677271
+P06,Control,FAP-/a5B1+,a5B1,Proximal-vs-distant median difference,274,34,2.724624477056449
+P06,Control,FAP-/a5B1+,a5B1,Spearman correlation with proximity,274,34,0.33061717386411904
+P06,Control,FAP-/a5B1+,PADI4,Proximal-vs-distant median difference,274,34,-1.6521811569621256
+P06,Control,FAP-/a5B1+,PADI4,Spearman correlation with proximity,274,34,-0.06801249384198468
+P06,Control,FAP-/a5B1+,MX1,Proximal-vs-distant median difference,274,34,3.3374363328739327
+P06,Control,FAP-/a5B1+,MX1,Spearman correlation with proximity,274,34,0.3023506257825902
+P06,Control,FAP-/a5B1+,CD66b,Proximal-vs-distant median difference,274,34,-0.19632026322640028
+P06,Control,FAP-/a5B1+,CD66b,Spearman correlation with proximity,274,34,-0.08477128078376722
+P06,Control,FAP-/a5B1+,CD16,Proximal-vs-distant median difference,274,34,-0.09394786874975658
+P06,Control,FAP-/a5B1+,CD16,Spearman correlation with proximity,274,34,-0.07515476751228047
+P06,Control,FAP-/a5B1+,CD11b,Proximal-vs-distant median difference,274,34,0.28988007960526874
+P06,Control,FAP-/a5B1+,CD11b,Spearman correlation with proximity,274,34,-0.10741853677410672
+P06,Control,FAP-/a5B1+,Ki67,Proximal-vs-distant median difference,274,34,0.6430830565122103
+P06,Control,FAP-/a5B1+,Ki67,Spearman correlation with proximity,274,34,-0.06461334035114391
+P06,Control,FAP-/a5B1+,NF-niche program,Proximal-vs-distant median difference,274,34,1.9463486476608822
+P06,Control,FAP-/a5B1+,NF-niche program,Spearman correlation with proximity,274,34,0.2479005450508041
+P06,Control,FAP-/a5B1-,OSM,Proximal-vs-distant median difference,345,23,1.3075829975989355
+P06,Control,FAP-/a5B1-,OSM,Spearman correlation with proximity,345,23,0.19733778824610393
+P06,Control,FAP-/a5B1-,CXCR4,Proximal-vs-distant median difference,345,23,4.298647982106278
+P06,Control,FAP-/a5B1-,CXCR4,Spearman correlation with proximity,345,23,0.25873850375337687
+P06,Control,FAP-/a5B1-,PDL1,Proximal-vs-distant median difference,345,23,2.022006542165894
+P06,Control,FAP-/a5B1-,PDL1,Spearman correlation with proximity,345,23,0.3898140111183918
+P06,Control,FAP-/a5B1-,HLA_ABC,Proximal-vs-distant median difference,345,23,2.6971393623016167
+P06,Control,FAP-/a5B1-,HLA_ABC,Spearman correlation with proximity,345,23,0.18462776860510383
+P06,Control,FAP-/a5B1-,a5B1,Proximal-vs-distant median difference,345,23,3.197183601945819
+P06,Control,FAP-/a5B1-,a5B1,Spearman correlation with proximity,345,23,0.29622103872032113
+P06,Control,FAP-/a5B1-,PADI4,Proximal-vs-distant median difference,345,23,-2.854216073685249
+P06,Control,FAP-/a5B1-,PADI4,Spearman correlation with proximity,345,23,-0.08126798129316701
+P06,Control,FAP-/a5B1-,MX1,Proximal-vs-distant median difference,345,23,3.897113047814222
+P06,Control,FAP-/a5B1-,MX1,Spearman correlation with proximity,345,23,0.2636549884426462
+P06,Control,FAP-/a5B1-,CD66b,Proximal-vs-distant median difference,345,23,-0.2195440255032004
+P06,Control,FAP-/a5B1-,CD66b,Spearman correlation with proximity,345,23,-0.05575436838423399
+P06,Control,FAP-/a5B1-,CD16,Proximal-vs-distant median difference,345,23,-0.1855614379615842
+P06,Control,FAP-/a5B1-,CD16,Spearman correlation with proximity,345,23,-0.019585870735482135
+P06,Control,FAP-/a5B1-,CD11b,Proximal-vs-distant median difference,345,23,0.4732286392509977
+P06,Control,FAP-/a5B1-,CD11b,Spearman correlation with proximity,345,23,-0.02282105847520355
+P06,Control,FAP-/a5B1-,Ki67,Proximal-vs-distant median difference,345,23,0.827782587250197
+P06,Control,FAP-/a5B1-,Ki67,Spearman correlation with proximity,345,23,0.13334210910080455
+P06,Control,FAP-/a5B1-,NF-niche program,Proximal-vs-distant median difference,345,23,2.3719826804947832
+P06,Control,FAP-/a5B1-,NF-niche program,Spearman correlation with proximity,345,23,0.30403888533746043
+P07,UC_Inflamed,FAP+/a5B1+,OSM,Proximal-vs-distant median difference,10,495,-1.3830802010011505
+P07,UC_Inflamed,FAP+/a5B1+,OSM,Spearman correlation with proximity,10,495,-0.14191689539262084
+P07,UC_Inflamed,FAP+/a5B1+,CXCR4,Proximal-vs-distant median difference,10,495,-0.8297283958210784
+P07,UC_Inflamed,FAP+/a5B1+,CXCR4,Spearman correlation with proximity,10,495,-0.09296922234135697
+P07,UC_Inflamed,FAP+/a5B1+,PDL1,Proximal-vs-distant median difference,10,495,-1.6890669750463545
+P07,UC_Inflamed,FAP+/a5B1+,PDL1,Spearman correlation with proximity,10,495,-0.26549915820412434
+P07,UC_Inflamed,FAP+/a5B1+,HLA_ABC,Proximal-vs-distant median difference,10,495,0.1356612137965758
+P07,UC_Inflamed,FAP+/a5B1+,HLA_ABC,Spearman correlation with proximity,10,495,0.0067636766489658886
+P07,UC_Inflamed,FAP+/a5B1+,a5B1,Proximal-vs-distant median difference,10,495,-0.6452135364267999
+P07,UC_Inflamed,FAP+/a5B1+,a5B1,Spearman correlation with proximity,10,495,-0.22033590246474882
+P07,UC_Inflamed,FAP+/a5B1+,PADI4,Proximal-vs-distant median difference,10,495,0.7573174684046968
+P07,UC_Inflamed,FAP+/a5B1+,PADI4,Spearman correlation with proximity,10,495,0.015633132996934432
+P07,UC_Inflamed,FAP+/a5B1+,MX1,Proximal-vs-distant median difference,10,495,-2.374405566358086
+P07,UC_Inflamed,FAP+/a5B1+,MX1,Spearman correlation with proximity,10,495,-0.17347294479187284
+P07,UC_Inflamed,FAP+/a5B1+,CD66b,Proximal-vs-distant median difference,10,495,0.17876044263626945
+P07,UC_Inflamed,FAP+/a5B1+,CD66b,Spearman correlation with proximity,10,495,-0.06550652555904189
+P07,UC_Inflamed,FAP+/a5B1+,CD16,Proximal-vs-distant median difference,10,495,0.2935083522479589
+P07,UC_Inflamed,FAP+/a5B1+,CD16,Spearman correlation with proximity,10,495,-0.037650691593732605
+P07,UC_Inflamed,FAP+/a5B1+,CD11b,Proximal-vs-distant median difference,10,495,0.21559046238624724
+P07,UC_Inflamed,FAP+/a5B1+,CD11b,Spearman correlation with proximity,10,495,0.09261491269687361
+P07,UC_Inflamed,FAP+/a5B1+,Ki67,Proximal-vs-distant median difference,10,495,-1.3881239742781628
+P07,UC_Inflamed,FAP+/a5B1+,Ki67,Spearman correlation with proximity,10,495,-0.24163795766779247
+P07,UC_Inflamed,FAP+/a5B1+,NF-niche program,Proximal-vs-distant median difference,10,495,-0.7740489760044605
+P07,UC_Inflamed,FAP+/a5B1+,NF-niche program,Spearman correlation with proximity,10,495,-0.2000964810842665
+P07,UC_Inflamed,FAP+/a5B1-,OSM,Proximal-vs-distant median difference,79,273,0.31555384379355306
+P07,UC_Inflamed,FAP+/a5B1-,OSM,Spearman correlation with proximity,79,273,0.20967721263079628
+P07,UC_Inflamed,FAP+/a5B1-,CXCR4,Proximal-vs-distant median difference,79,273,0.5257175462997772
+P07,UC_Inflamed,FAP+/a5B1-,CXCR4,Spearman correlation with proximity,79,273,0.19237662231819083
+P07,UC_Inflamed,FAP+/a5B1-,PDL1,Proximal-vs-distant median difference,79,273,0.2002588279436338
+P07,UC_Inflamed,FAP+/a5B1-,PDL1,Spearman correlation with proximity,79,273,0.09808758547326184
+P07,UC_Inflamed,FAP+/a5B1-,HLA_ABC,Proximal-vs-distant median difference,79,273,0.12696627865393761
+P07,UC_Inflamed,FAP+/a5B1-,HLA_ABC,Spearman correlation with proximity,79,273,0.1715103805583025
+P07,UC_Inflamed,FAP+/a5B1-,a5B1,Proximal-vs-distant median difference,79,273,0.05056839852731132
+P07,UC_Inflamed,FAP+/a5B1-,a5B1,Spearman correlation with proximity,79,273,0.04973994649744442
+P07,UC_Inflamed,FAP+/a5B1-,PADI4,Proximal-vs-distant median difference,79,273,-0.05445855360468421
+P07,UC_Inflamed,FAP+/a5B1-,PADI4,Spearman correlation with proximity,79,273,0.017587585943896634
+P07,UC_Inflamed,FAP+/a5B1-,MX1,Proximal-vs-distant median difference,79,273,0.6149417207631891
+P07,UC_Inflamed,FAP+/a5B1-,MX1,Spearman correlation with proximity,79,273,0.19964029181294896
+P07,UC_Inflamed,FAP+/a5B1-,CD66b,Proximal-vs-distant median difference,79,273,0.0014034926590977825
+P07,UC_Inflamed,FAP+/a5B1-,CD66b,Spearman correlation with proximity,79,273,0.026530462028347763
+P07,UC_Inflamed,FAP+/a5B1-,CD16,Proximal-vs-distant median difference,79,273,0.23935482364016103
+P07,UC_Inflamed,FAP+/a5B1-,CD16,Spearman correlation with proximity,79,273,0.0930470450491782
+P07,UC_Inflamed,FAP+/a5B1-,CD11b,Proximal-vs-distant median difference,79,273,0.24671053665795117
+P07,UC_Inflamed,FAP+/a5B1-,CD11b,Spearman correlation with proximity,79,273,0.2161126641663331
+P07,UC_Inflamed,FAP+/a5B1-,Ki67,Proximal-vs-distant median difference,79,273,0.18123194768400386
+P07,UC_Inflamed,FAP+/a5B1-,Ki67,Spearman correlation with proximity,79,273,0.11696396929479803
+P07,UC_Inflamed,FAP+/a5B1-,NF-niche program,Proximal-vs-distant median difference,79,273,0.20214723990920463
+P07,UC_Inflamed,FAP+/a5B1-,NF-niche program,Spearman correlation with proximity,79,273,0.17450278523034762
+P07,UC_Inflamed,FAP-/a5B1+,OSM,Proximal-vs-distant median difference,325,76,0.32438850631506155
+P07,UC_Inflamed,FAP-/a5B1+,OSM,Spearman correlation with proximity,325,76,0.00502698013065778
+P07,UC_Inflamed,FAP-/a5B1+,CXCR4,Proximal-vs-distant median difference,325,76,0.01819028418224633
+P07,UC_Inflamed,FAP-/a5B1+,CXCR4,Spearman correlation with proximity,325,76,0.011608728649392368
+P07,UC_Inflamed,FAP-/a5B1+,PDL1,Proximal-vs-distant median difference,325,76,1.0877860591800073
+P07,UC_Inflamed,FAP-/a5B1+,PDL1,Spearman correlation with proximity,325,76,0.08842698177806456
+P07,UC_Inflamed,FAP-/a5B1+,HLA_ABC,Proximal-vs-distant median difference,325,76,-0.025535463309662276
+P07,UC_Inflamed,FAP-/a5B1+,HLA_ABC,Spearman correlation with proximity,325,76,-0.022700298307793403
+P07,UC_Inflamed,FAP-/a5B1+,a5B1,Proximal-vs-distant median difference,325,76,0.5452424903850641
+P07,UC_Inflamed,FAP-/a5B1+,a5B1,Spearman correlation with proximity,325,76,0.2434372218397698
+P07,UC_Inflamed,FAP-/a5B1+,PADI4,Proximal-vs-distant median difference,325,76,0.28987900516860865
+P07,UC_Inflamed,FAP-/a5B1+,PADI4,Spearman correlation with proximity,325,76,0.079414211276955
+P07,UC_Inflamed,FAP-/a5B1+,MX1,Proximal-vs-distant median difference,325,76,-0.05796126927078271
+P07,UC_Inflamed,FAP-/a5B1+,MX1,Spearman correlation with proximity,325,76,0.024764869365390622
+P07,UC_Inflamed,FAP-/a5B1+,CD66b,Proximal-vs-distant median difference,325,76,0.4228514761507487
+P07,UC_Inflamed,FAP-/a5B1+,CD66b,Spearman correlation with proximity,325,76,0.05488425582939541
+P07,UC_Inflamed,FAP-/a5B1+,CD16,Proximal-vs-distant median difference,325,76,0.1298563494898879
+P07,UC_Inflamed,FAP-/a5B1+,CD16,Spearman correlation with proximity,325,76,0.08819988567488987
+P07,UC_Inflamed,FAP-/a5B1+,CD11b,Proximal-vs-distant median difference,325,76,0.05660099354845016
+P07,UC_Inflamed,FAP-/a5B1+,CD11b,Spearman correlation with proximity,325,76,-0.0010008667971626462
+P07,UC_Inflamed,FAP-/a5B1+,Ki67,Proximal-vs-distant median difference,325,76,-0.21475321936939573
+P07,UC_Inflamed,FAP-/a5B1+,Ki67,Spearman correlation with proximity,325,76,-0.053461941065381914
+P07,UC_Inflamed,FAP-/a5B1+,NF-niche program,Proximal-vs-distant median difference,325,76,0.12350452895040975
+P07,UC_Inflamed,FAP-/a5B1+,NF-niche program,Spearman correlation with proximity,325,76,0.07827888167771332
+P07,UC_Inflamed,FAP-/a5B1-,OSM,Spearman correlation with proximity,507,6,0.06681690976038489
+P07,UC_Inflamed,FAP-/a5B1-,CXCR4,Spearman correlation with proximity,507,6,0.052332563585609886
+P07,UC_Inflamed,FAP-/a5B1-,PDL1,Spearman correlation with proximity,507,6,0.08650717329350771
+P07,UC_Inflamed,FAP-/a5B1-,HLA_ABC,Spearman correlation with proximity,507,6,0.043220425422606755
+P07,UC_Inflamed,FAP-/a5B1-,a5B1,Spearman correlation with proximity,507,6,0.14525768612900017
+P07,UC_Inflamed,FAP-/a5B1-,PADI4,Spearman correlation with proximity,507,6,0.05711073688569575
+P07,UC_Inflamed,FAP-/a5B1-,MX1,Spearman correlation with proximity,507,6,0.12393692920162556
+P07,UC_Inflamed,FAP-/a5B1-,CD66b,Spearman correlation with proximity,507,6,-0.018110360930319237
+P07,UC_Inflamed,FAP-/a5B1-,CD16,Spearman correlation with proximity,507,6,0.07734392832167304
+P07,UC_Inflamed,FAP-/a5B1-,CD11b,Spearman correlation with proximity,507,6,-0.051938115767469296
+P07,UC_Inflamed,FAP-/a5B1-,Ki67,Spearman correlation with proximity,507,6,0.19246786510004313
+P07,UC_Inflamed,FAP-/a5B1-,NF-niche program,Spearman correlation with proximity,507,6,0.09505598211781639
+P08,UC_Inflamed,FAP+/a5B1+,OSM,Proximal-vs-distant median difference,12,564,-1.083196641585143
+P08,UC_Inflamed,FAP+/a5B1+,OSM,Spearman correlation with proximity,12,564,-0.4608630681146545
+P08,UC_Inflamed,FAP+/a5B1+,CXCR4,Proximal-vs-distant median difference,12,564,-0.9066038424304113
+P08,UC_Inflamed,FAP+/a5B1+,CXCR4,Spearman correlation with proximity,12,564,-0.4553752283161727
+P08,UC_Inflamed,FAP+/a5B1+,PDL1,Proximal-vs-distant median difference,12,564,-1.1775427825137093
+P08,UC_Inflamed,FAP+/a5B1+,PDL1,Spearman correlation with proximity,12,564,-0.6063110775034445
+P08,UC_Inflamed,FAP+/a5B1+,HLA_ABC,Proximal-vs-distant median difference,12,564,0.011051018711459193
+P08,UC_Inflamed,FAP+/a5B1+,HLA_ABC,Spearman correlation with proximity,12,564,-0.2920745994250676
+P08,UC_Inflamed,FAP+/a5B1+,a5B1,Proximal-vs-distant median difference,12,564,-1.091969829507332
+P08,UC_Inflamed,FAP+/a5B1+,a5B1,Spearman correlation with proximity,12,564,-0.2216562487928271
+P08,UC_Inflamed,FAP+/a5B1+,PADI4,Proximal-vs-distant median difference,12,564,-2.1554047560074063
+P08,UC_Inflamed,FAP+/a5B1+,PADI4,Spearman correlation with proximity,12,564,-0.2905605337816585
+P08,UC_Inflamed,FAP+/a5B1+,MX1,Proximal-vs-distant median difference,12,564,0.15310727513001776
+P08,UC_Inflamed,FAP+/a5B1+,MX1,Spearman correlation with proximity,12,564,-0.3131996161517519
+P08,UC_Inflamed,FAP+/a5B1+,CD66b,Proximal-vs-distant median difference,12,564,0.07865284910211567
+P08,UC_Inflamed,FAP+/a5B1+,CD66b,Spearman correlation with proximity,12,564,-0.2620557959009564
+P08,UC_Inflamed,FAP+/a5B1+,CD16,Proximal-vs-distant median difference,12,564,0.24476099342919344
+P08,UC_Inflamed,FAP+/a5B1+,CD16,Spearman correlation with proximity,12,564,-0.30130033289957125
+P08,UC_Inflamed,FAP+/a5B1+,CD11b,Proximal-vs-distant median difference,12,564,-0.06613972787155653
+P08,UC_Inflamed,FAP+/a5B1+,CD11b,Spearman correlation with proximity,12,564,-0.2675866145902416
+P08,UC_Inflamed,FAP+/a5B1+,Ki67,Proximal-vs-distant median difference,12,564,-0.5584949751253232
+P08,UC_Inflamed,FAP+/a5B1+,Ki67,Spearman correlation with proximity,12,564,-0.27004063994088046
+P08,UC_Inflamed,FAP+/a5B1+,NF-niche program,Proximal-vs-distant median difference,12,564,-0.6081651151907049
+P08,UC_Inflamed,FAP+/a5B1+,NF-niche program,Spearman correlation with proximity,12,564,-0.5203717036510097
+P08,UC_Inflamed,FAP+/a5B1-,OSM,Proximal-vs-distant median difference,67,434,-0.21074886759699107
+P08,UC_Inflamed,FAP+/a5B1-,OSM,Spearman correlation with proximity,67,434,-0.06217472724363943
+P08,UC_Inflamed,FAP+/a5B1-,CXCR4,Proximal-vs-distant median difference,67,434,-0.19574818578490571
+P08,UC_Inflamed,FAP+/a5B1-,CXCR4,Spearman correlation with proximity,67,434,-0.10514020857849145
+P08,UC_Inflamed,FAP+/a5B1-,PDL1,Proximal-vs-distant median difference,67,434,-0.9569081086549036
+P08,UC_Inflamed,FAP+/a5B1-,PDL1,Spearman correlation with proximity,67,434,-0.28494567028580775
+P08,UC_Inflamed,FAP+/a5B1-,HLA_ABC,Proximal-vs-distant median difference,67,434,-0.07077091558071036
+P08,UC_Inflamed,FAP+/a5B1-,HLA_ABC,Spearman correlation with proximity,67,434,-0.1139995774530966
+P08,UC_Inflamed,FAP+/a5B1-,a5B1,Proximal-vs-distant median difference,67,434,-0.46392906526990263
+P08,UC_Inflamed,FAP+/a5B1-,a5B1,Spearman correlation with proximity,67,434,-0.11522621210539347
+P08,UC_Inflamed,FAP+/a5B1-,PADI4,Proximal-vs-distant median difference,67,434,-1.6061148558842357
+P08,UC_Inflamed,FAP+/a5B1-,PADI4,Spearman correlation with proximity,67,434,-0.11620901451790105
+P08,UC_Inflamed,FAP+/a5B1-,MX1,Proximal-vs-distant median difference,67,434,-0.7569412782359515
+P08,UC_Inflamed,FAP+/a5B1-,MX1,Spearman correlation with proximity,67,434,-0.254535366678826
+P08,UC_Inflamed,FAP+/a5B1-,CD66b,Proximal-vs-distant median difference,67,434,-0.7261477478532172
+P08,UC_Inflamed,FAP+/a5B1-,CD66b,Spearman correlation with proximity,67,434,-0.07294690936826366
+P08,UC_Inflamed,FAP+/a5B1-,CD16,Proximal-vs-distant median difference,67,434,-0.03242051810252278
+P08,UC_Inflamed,FAP+/a5B1-,CD16,Spearman correlation with proximity,67,434,-0.038301121098938705
+P08,UC_Inflamed,FAP+/a5B1-,CD11b,Proximal-vs-distant median difference,67,434,0.14617906962161076
+P08,UC_Inflamed,FAP+/a5B1-,CD11b,Spearman correlation with proximity,67,434,0.07701474593339395
+P08,UC_Inflamed,FAP+/a5B1-,Ki67,Proximal-vs-distant median difference,67,434,-0.5693789523392663
+P08,UC_Inflamed,FAP+/a5B1-,Ki67,Spearman correlation with proximity,67,434,-0.08519803480650161
+P08,UC_Inflamed,FAP+/a5B1-,NF-niche program,Proximal-vs-distant median difference,67,434,-0.3104632129781736
+P08,UC_Inflamed,FAP+/a5B1-,NF-niche program,Spearman correlation with proximity,67,434,-0.18753594165751314
+P08,UC_Inflamed,FAP-/a5B1+,OSM,Proximal-vs-distant median difference,160,226,-0.21817011588968632
+P08,UC_Inflamed,FAP-/a5B1+,OSM,Spearman correlation with proximity,160,226,-0.0614292047739286
+P08,UC_Inflamed,FAP-/a5B1+,CXCR4,Proximal-vs-distant median difference,160,226,-0.22944539843461964
+P08,UC_Inflamed,FAP-/a5B1+,CXCR4,Spearman correlation with proximity,160,226,0.010019342721372818
+P08,UC_Inflamed,FAP-/a5B1+,PDL1,Proximal-vs-distant median difference,160,226,-0.3994662300537992
+P08,UC_Inflamed,FAP-/a5B1+,PDL1,Spearman correlation with proximity,160,226,-0.016046740780654007
+P08,UC_Inflamed,FAP-/a5B1+,HLA_ABC,Proximal-vs-distant median difference,160,226,0.01432079058770519
+P08,UC_Inflamed,FAP-/a5B1+,HLA_ABC,Spearman correlation with proximity,160,226,0.06943472961393651
+P08,UC_Inflamed,FAP-/a5B1+,a5B1,Proximal-vs-distant median difference,160,226,0.48662592833162144
+P08,UC_Inflamed,FAP-/a5B1+,a5B1,Spearman correlation with proximity,160,226,0.2064611553459066
+P08,UC_Inflamed,FAP-/a5B1+,PADI4,Proximal-vs-distant median difference,160,226,0.9072641570716007
+P08,UC_Inflamed,FAP-/a5B1+,PADI4,Spearman correlation with proximity,160,226,0.0640052488174128
+P08,UC_Inflamed,FAP-/a5B1+,MX1,Proximal-vs-distant median difference,160,226,-0.43681613061103475
+P08,UC_Inflamed,FAP-/a5B1+,MX1,Spearman correlation with proximity,160,226,-0.04244840711780251
+P08,UC_Inflamed,FAP-/a5B1+,CD66b,Proximal-vs-distant median difference,160,226,-0.5103056752746866
+P08,UC_Inflamed,FAP-/a5B1+,CD66b,Spearman correlation with proximity,160,226,-0.08704729746609102
+P08,UC_Inflamed,FAP-/a5B1+,CD16,Proximal-vs-distant median difference,160,226,-0.02516078137400779
+P08,UC_Inflamed,FAP-/a5B1+,CD16,Spearman correlation with proximity,160,226,0.06299141506008994
+P08,UC_Inflamed,FAP-/a5B1+,CD11b,Proximal-vs-distant median difference,160,226,-0.25092279437920695
+P08,UC_Inflamed,FAP-/a5B1+,CD11b,Spearman correlation with proximity,160,226,-0.15757346714044476
+P08,UC_Inflamed,FAP-/a5B1+,Ki67,Proximal-vs-distant median difference,160,226,-0.5393360807035339
+P08,UC_Inflamed,FAP-/a5B1+,Ki67,Spearman correlation with proximity,160,226,-0.047559307784023425
+P08,UC_Inflamed,FAP-/a5B1+,NF-niche program,Proximal-vs-distant median difference,160,226,-0.04867024980912843
+P08,UC_Inflamed,FAP-/a5B1+,NF-niche program,Spearman correlation with proximity,160,226,0.03298592893278765
+P08,UC_Inflamed,FAP-/a5B1-,OSM,Proximal-vs-distant median difference,527,17,2.6278694129402735
+P08,UC_Inflamed,FAP-/a5B1-,OSM,Spearman correlation with proximity,527,17,-0.14547956485471014
+P08,UC_Inflamed,FAP-/a5B1-,CXCR4,Proximal-vs-distant median difference,527,17,6.083087274529243
+P08,UC_Inflamed,FAP-/a5B1-,CXCR4,Spearman correlation with proximity,527,17,-0.16150568364543508
+P08,UC_Inflamed,FAP-/a5B1-,PDL1,Proximal-vs-distant median difference,527,17,3.215403122663138
+P08,UC_Inflamed,FAP-/a5B1-,PDL1,Spearman correlation with proximity,527,17,-0.30542691515773346
+P08,UC_Inflamed,FAP-/a5B1-,HLA_ABC,Proximal-vs-distant median difference,527,17,2.24550801702351
+P08,UC_Inflamed,FAP-/a5B1-,HLA_ABC,Spearman correlation with proximity,527,17,0.004369766917051575
+P08,UC_Inflamed,FAP-/a5B1-,a5B1,Proximal-vs-distant median difference,527,17,4.46970077074663
+P08,UC_Inflamed,FAP-/a5B1-,a5B1,Spearman correlation with proximity,527,17,0.023639100061855333
+P08,UC_Inflamed,FAP-/a5B1-,PADI4,Proximal-vs-distant median difference,527,17,2.71093749483563
+P08,UC_Inflamed,FAP-/a5B1-,PADI4,Spearman correlation with proximity,527,17,-0.1743650536548991
+P08,UC_Inflamed,FAP-/a5B1-,MX1,Proximal-vs-distant median difference,527,17,6.4211222902020815
+P08,UC_Inflamed,FAP-/a5B1-,MX1,Spearman correlation with proximity,527,17,-0.25979100204827743
+P08,UC_Inflamed,FAP-/a5B1-,CD66b,Proximal-vs-distant median difference,527,17,-1.6771966040488735
+P08,UC_Inflamed,FAP-/a5B1-,CD66b,Spearman correlation with proximity,527,17,-0.3855256364971973
+P08,UC_Inflamed,FAP-/a5B1-,CD16,Proximal-vs-distant median difference,527,17,1.8134813682410087
+P08,UC_Inflamed,FAP-/a5B1-,CD16,Spearman correlation with proximity,527,17,-0.19028008538164531
+P08,UC_Inflamed,FAP-/a5B1-,CD11b,Proximal-vs-distant median difference,527,17,0.20185474496192324
+P08,UC_Inflamed,FAP-/a5B1-,CD11b,Spearman correlation with proximity,527,17,-0.3136576101108092
+P08,UC_Inflamed,FAP-/a5B1-,Ki67,Proximal-vs-distant median difference,527,17,4.421549685710673
+P08,UC_Inflamed,FAP-/a5B1-,Ki67,Spearman correlation with proximity,527,17,0.017518304568664815
+P08,UC_Inflamed,FAP-/a5B1-,NF-niche program,Proximal-vs-distant median difference,527,17,3.326439999499453
+P08,UC_Inflamed,FAP-/a5B1-,NF-niche program,Spearman correlation with proximity,527,17,-0.19267455515321028
+P09,UC_Inflamed,FAP+/a5B1+,OSM,Proximal-vs-distant median difference,23,511,-0.06571470245733568
+P09,UC_Inflamed,FAP+/a5B1+,OSM,Spearman correlation with proximity,23,511,0.02792665541711878
+P09,UC_Inflamed,FAP+/a5B1+,CXCR4,Proximal-vs-distant median difference,23,511,0.12482269066877016
+P09,UC_Inflamed,FAP+/a5B1+,CXCR4,Spearman correlation with proximity,23,511,0.04633914087883588
+P09,UC_Inflamed,FAP+/a5B1+,PDL1,Proximal-vs-distant median difference,23,511,-0.4854268271702416
+P09,UC_Inflamed,FAP+/a5B1+,PDL1,Spearman correlation with proximity,23,511,-0.03033456593858431
+P09,UC_Inflamed,FAP+/a5B1+,HLA_ABC,Proximal-vs-distant median difference,23,511,0.792017652093655
+P09,UC_Inflamed,FAP+/a5B1+,HLA_ABC,Spearman correlation with proximity,23,511,-0.17568037817366705
+P09,UC_Inflamed,FAP+/a5B1+,a5B1,Proximal-vs-distant median difference,23,511,1.2805967555671025
+P09,UC_Inflamed,FAP+/a5B1+,a5B1,Spearman correlation with proximity,23,511,-0.046510789170696475
+P09,UC_Inflamed,FAP+/a5B1+,PADI4,Proximal-vs-distant median difference,23,511,-0.9595726607055051
+P09,UC_Inflamed,FAP+/a5B1+,PADI4,Spearman correlation with proximity,23,511,0.18461598071136592
+P09,UC_Inflamed,FAP+/a5B1+,MX1,Proximal-vs-distant median difference,23,511,-1.0438289254371522
+P09,UC_Inflamed,FAP+/a5B1+,MX1,Spearman correlation with proximity,23,511,-0.16059305326420725
+P09,UC_Inflamed,FAP+/a5B1+,CD66b,Proximal-vs-distant median difference,23,511,-0.10348163879685757
+P09,UC_Inflamed,FAP+/a5B1+,CD66b,Spearman correlation with proximity,23,511,0.14557517408464488
+P09,UC_Inflamed,FAP+/a5B1+,CD16,Proximal-vs-distant median difference,23,511,0.1978874672268489
+P09,UC_Inflamed,FAP+/a5B1+,CD16,Spearman correlation with proximity,23,511,-0.12722807477478545
+P09,UC_Inflamed,FAP+/a5B1+,CD11b,Proximal-vs-distant median difference,23,511,0.07779863616711058
+P09,UC_Inflamed,FAP+/a5B1+,CD11b,Spearman correlation with proximity,23,511,0.029586244505304136
+P09,UC_Inflamed,FAP+/a5B1+,Ki67,Proximal-vs-distant median difference,23,511,-1.0939908342954174
+P09,UC_Inflamed,FAP+/a5B1+,Ki67,Spearman correlation with proximity,23,511,-0.14382665745545037
+P09,UC_Inflamed,FAP+/a5B1+,NF-niche program,Proximal-vs-distant median difference,23,511,0.2288507366566865
+P09,UC_Inflamed,FAP+/a5B1+,NF-niche program,Spearman correlation with proximity,23,511,-0.030576720867943517
+P09,UC_Inflamed,FAP+/a5B1-,OSM,Proximal-vs-distant median difference,122,281,0.7343133845539325
+P09,UC_Inflamed,FAP+/a5B1-,OSM,Spearman correlation with proximity,122,281,0.23594226821609515
+P09,UC_Inflamed,FAP+/a5B1-,CXCR4,Proximal-vs-distant median difference,122,281,0.7886909133951518
+P09,UC_Inflamed,FAP+/a5B1-,CXCR4,Spearman correlation with proximity,122,281,0.283413818308616
+P09,UC_Inflamed,FAP+/a5B1-,PDL1,Proximal-vs-distant median difference,122,281,0.2514564253724733
+P09,UC_Inflamed,FAP+/a5B1-,PDL1,Spearman correlation with proximity,122,281,0.13416179126710376
+P09,UC_Inflamed,FAP+/a5B1-,HLA_ABC,Proximal-vs-distant median difference,122,281,1.4573616409812535
+P09,UC_Inflamed,FAP+/a5B1-,HLA_ABC,Spearman correlation with proximity,122,281,0.43864455156574916
+P09,UC_Inflamed,FAP+/a5B1-,a5B1,Proximal-vs-distant median difference,122,281,1.8048222819066724
+P09,UC_Inflamed,FAP+/a5B1-,a5B1,Spearman correlation with proximity,122,281,0.4449754209641321
+P09,UC_Inflamed,FAP+/a5B1-,PADI4,Proximal-vs-distant median difference,122,281,-1.8636012153941328
+P09,UC_Inflamed,FAP+/a5B1-,PADI4,Spearman correlation with proximity,122,281,-0.21226978803463717
+P09,UC_Inflamed,FAP+/a5B1-,MX1,Proximal-vs-distant median difference,122,281,0.5911007000118969
+P09,UC_Inflamed,FAP+/a5B1-,MX1,Spearman correlation with proximity,122,281,0.14286080290779657
+P09,UC_Inflamed,FAP+/a5B1-,CD66b,Proximal-vs-distant median difference,122,281,-0.6646858653730323
+P09,UC_Inflamed,FAP+/a5B1-,CD66b,Spearman correlation with proximity,122,281,-0.10768297448464295
+P09,UC_Inflamed,FAP+/a5B1-,CD16,Proximal-vs-distant median difference,122,281,0.7189756051093044
+P09,UC_Inflamed,FAP+/a5B1-,CD16,Spearman correlation with proximity,122,281,0.29062026274784497
+P09,UC_Inflamed,FAP+/a5B1-,CD11b,Proximal-vs-distant median difference,122,281,0.12794399332024842
+P09,UC_Inflamed,FAP+/a5B1-,CD11b,Spearman correlation with proximity,122,281,0.12287029023882315
+P09,UC_Inflamed,FAP+/a5B1-,Ki67,Proximal-vs-distant median difference,122,281,-0.5353463344678138
+P09,UC_Inflamed,FAP+/a5B1-,Ki67,Spearman correlation with proximity,122,281,-0.13823865442302513
+P09,UC_Inflamed,FAP+/a5B1-,NF-niche program,Proximal-vs-distant median difference,122,281,0.7427178398612845
+P09,UC_Inflamed,FAP+/a5B1-,NF-niche program,Spearman correlation with proximity,122,281,0.3647697009485734
+P09,UC_Inflamed,FAP-/a5B1+,OSM,Proximal-vs-distant median difference,181,292,0.14371483313312083
+P09,UC_Inflamed,FAP-/a5B1+,OSM,Spearman correlation with proximity,181,292,0.14734368671236223
+P09,UC_Inflamed,FAP-/a5B1+,CXCR4,Proximal-vs-distant median difference,181,292,0.37856689184819103
+P09,UC_Inflamed,FAP-/a5B1+,CXCR4,Spearman correlation with proximity,181,292,0.20841603179590842
+P09,UC_Inflamed,FAP-/a5B1+,PDL1,Proximal-vs-distant median difference,181,292,0.07112514923781021
+P09,UC_Inflamed,FAP-/a5B1+,PDL1,Spearman correlation with proximity,181,292,0.11440805207083979
+P09,UC_Inflamed,FAP-/a5B1+,HLA_ABC,Proximal-vs-distant median difference,181,292,1.437479121241351
+P09,UC_Inflamed,FAP-/a5B1+,HLA_ABC,Spearman correlation with proximity,181,292,0.3721962939391797
+P09,UC_Inflamed,FAP-/a5B1+,a5B1,Proximal-vs-distant median difference,181,292,1.507440498168835
+P09,UC_Inflamed,FAP-/a5B1+,a5B1,Spearman correlation with proximity,181,292,0.4322962934869245
+P09,UC_Inflamed,FAP-/a5B1+,PADI4,Proximal-vs-distant median difference,181,292,-1.504481368670631
+P09,UC_Inflamed,FAP-/a5B1+,PADI4,Spearman correlation with proximity,181,292,-0.2096155885967992
+P09,UC_Inflamed,FAP-/a5B1+,MX1,Proximal-vs-distant median difference,181,292,0.6391334005319296
+P09,UC_Inflamed,FAP-/a5B1+,MX1,Spearman correlation with proximity,181,292,0.10120992426399657
+P09,UC_Inflamed,FAP-/a5B1+,CD66b,Proximal-vs-distant median difference,181,292,-0.6825110667159526
+P09,UC_Inflamed,FAP-/a5B1+,CD66b,Spearman correlation with proximity,181,292,-0.16181103391812326
+P09,UC_Inflamed,FAP-/a5B1+,CD16,Proximal-vs-distant median difference,181,292,0.6593528244354658
+P09,UC_Inflamed,FAP-/a5B1+,CD16,Spearman correlation with proximity,181,292,0.27900108895910053
+P09,UC_Inflamed,FAP-/a5B1+,CD11b,Proximal-vs-distant median difference,181,292,0.06849587689376246
+P09,UC_Inflamed,FAP-/a5B1+,CD11b,Spearman correlation with proximity,181,292,0.054946515605618584
+P09,UC_Inflamed,FAP-/a5B1+,Ki67,Proximal-vs-distant median difference,181,292,-0.6490318223787435
+P09,UC_Inflamed,FAP-/a5B1+,Ki67,Spearman correlation with proximity,181,292,-0.14568625422211087
+P09,UC_Inflamed,FAP-/a5B1+,NF-niche program,Proximal-vs-distant median difference,181,292,0.5403089770998223
+P09,UC_Inflamed,FAP-/a5B1+,NF-niche program,Spearman correlation with proximity,181,292,0.3056742975216425
+P09,UC_Inflamed,FAP-/a5B1-,OSM,Proximal-vs-distant median difference,438,27,0.8203734820188251
+P09,UC_Inflamed,FAP-/a5B1-,OSM,Spearman correlation with proximity,438,27,0.08972320254829477
+P09,UC_Inflamed,FAP-/a5B1-,CXCR4,Proximal-vs-distant median difference,438,27,2.0128682175512678
+P09,UC_Inflamed,FAP-/a5B1-,CXCR4,Spearman correlation with proximity,438,27,0.17540510062318265
+P09,UC_Inflamed,FAP-/a5B1-,PDL1,Proximal-vs-distant median difference,438,27,1.1535225778696445
+P09,UC_Inflamed,FAP-/a5B1-,PDL1,Spearman correlation with proximity,438,27,0.09848450896791107
+P09,UC_Inflamed,FAP-/a5B1-,HLA_ABC,Proximal-vs-distant median difference,438,27,1.8956164123298374
+P09,UC_Inflamed,FAP-/a5B1-,HLA_ABC,Spearman correlation with proximity,438,27,0.5142481941030613
+P09,UC_Inflamed,FAP-/a5B1-,a5B1,Proximal-vs-distant median difference,438,27,1.170640626943067
+P09,UC_Inflamed,FAP-/a5B1-,a5B1,Spearman correlation with proximity,438,27,0.4523963858841328
+P09,UC_Inflamed,FAP-/a5B1-,PADI4,Proximal-vs-distant median difference,438,27,-0.7083862113005637
+P09,UC_Inflamed,FAP-/a5B1-,PADI4,Spearman correlation with proximity,438,27,-0.3103458122651731
+P09,UC_Inflamed,FAP-/a5B1-,MX1,Proximal-vs-distant median difference,438,27,0.9624940339223855
+P09,UC_Inflamed,FAP-/a5B1-,MX1,Spearman correlation with proximity,438,27,0.1961398600171656
+P09,UC_Inflamed,FAP-/a5B1-,CD66b,Proximal-vs-distant median difference,438,27,-1.040772286025823
+P09,UC_Inflamed,FAP-/a5B1-,CD66b,Spearman correlation with proximity,438,27,-0.3236530825299117
+P09,UC_Inflamed,FAP-/a5B1-,CD16,Proximal-vs-distant median difference,438,27,-0.05553367042403057
+P09,UC_Inflamed,FAP-/a5B1-,CD16,Spearman correlation with proximity,438,27,0.25490329280890783
+P09,UC_Inflamed,FAP-/a5B1-,CD11b,Proximal-vs-distant median difference,438,27,-0.22261358353341443
+P09,UC_Inflamed,FAP-/a5B1-,CD11b,Spearman correlation with proximity,438,27,-0.09936230247406862
+P09,UC_Inflamed,FAP-/a5B1-,Ki67,Proximal-vs-distant median difference,438,27,0.22877869248117566
+P09,UC_Inflamed,FAP-/a5B1-,Ki67,Spearman correlation with proximity,438,27,-0.06842153936406618
+P09,UC_Inflamed,FAP-/a5B1-,NF-niche program,Proximal-vs-distant median difference,438,27,1.0485603916607529
+P09,UC_Inflamed,FAP-/a5B1-,NF-niche program,Spearman correlation with proximity,438,27,0.3139671832651099
+P10,UC_Inflamed,FAP+/a5B1+,OSM,Proximal-vs-distant median difference,209,415,0.26846207003243283
+P10,UC_Inflamed,FAP+/a5B1+,OSM,Spearman correlation with proximity,209,415,0.22511374169652362
+P10,UC_Inflamed,FAP+/a5B1+,CXCR4,Proximal-vs-distant median difference,209,415,0.4005441212136196
+P10,UC_Inflamed,FAP+/a5B1+,CXCR4,Spearman correlation with proximity,209,415,0.2460609773673623
+P10,UC_Inflamed,FAP+/a5B1+,PDL1,Proximal-vs-distant median difference,209,415,0.3745736362757536
+P10,UC_Inflamed,FAP+/a5B1+,PDL1,Spearman correlation with proximity,209,415,0.23183576638228162
+P10,UC_Inflamed,FAP+/a5B1+,HLA_ABC,Proximal-vs-distant median difference,209,415,0.258847539642157
+P10,UC_Inflamed,FAP+/a5B1+,HLA_ABC,Spearman correlation with proximity,209,415,0.2907638037794056
+P10,UC_Inflamed,FAP+/a5B1+,a5B1,Proximal-vs-distant median difference,209,415,0.5390919414827104
+P10,UC_Inflamed,FAP+/a5B1+,a5B1,Spearman correlation with proximity,209,415,0.32561045944110734
+P10,UC_Inflamed,FAP+/a5B1+,PADI4,Proximal-vs-distant median difference,209,415,0.030898596897469766
+P10,UC_Inflamed,FAP+/a5B1+,PADI4,Spearman correlation with proximity,209,415,0.027465688421451636
+P10,UC_Inflamed,FAP+/a5B1+,MX1,Proximal-vs-distant median difference,209,415,0.3533096808965217
+P10,UC_Inflamed,FAP+/a5B1+,MX1,Spearman correlation with proximity,209,415,0.12506197278928524
+P10,UC_Inflamed,FAP+/a5B1+,CD66b,Proximal-vs-distant median difference,209,415,-0.24607281125377867
+P10,UC_Inflamed,FAP+/a5B1+,CD66b,Spearman correlation with proximity,209,415,-0.11115297517563509
+P10,UC_Inflamed,FAP+/a5B1+,CD16,Proximal-vs-distant median difference,209,415,0.2966268987440799
+P10,UC_Inflamed,FAP+/a5B1+,CD16,Spearman correlation with proximity,209,415,0.19904021258403748
+P10,UC_Inflamed,FAP+/a5B1+,CD11b,Proximal-vs-distant median difference,209,415,0.07720208525506767
+P10,UC_Inflamed,FAP+/a5B1+,CD11b,Spearman correlation with proximity,209,415,0.0865533623678569
+P10,UC_Inflamed,FAP+/a5B1+,Ki67,Proximal-vs-distant median difference,209,415,-0.29217797413951363
+P10,UC_Inflamed,FAP+/a5B1+,Ki67,Spearman correlation with proximity,209,415,-0.09366163469429091
+P10,UC_Inflamed,FAP+/a5B1+,NF-niche program,Proximal-vs-distant median difference,209,415,0.23479412141234035
+P10,UC_Inflamed,FAP+/a5B1+,NF-niche program,Spearman correlation with proximity,209,415,0.2735123320571553
+P10,UC_Inflamed,FAP+/a5B1-,OSM,Proximal-vs-distant median difference,449,262,1.247824608240982
+P10,UC_Inflamed,FAP+/a5B1-,OSM,Spearman correlation with proximity,449,262,0.4581844257670642
+P10,UC_Inflamed,FAP+/a5B1-,CXCR4,Proximal-vs-distant median difference,449,262,1.2686486869931723
+P10,UC_Inflamed,FAP+/a5B1-,CXCR4,Spearman correlation with proximity,449,262,0.4541661175970663
+P10,UC_Inflamed,FAP+/a5B1-,PDL1,Proximal-vs-distant median difference,449,262,1.2989689063062584
+P10,UC_Inflamed,FAP+/a5B1-,PDL1,Spearman correlation with proximity,449,262,0.5180360216817744
+P10,UC_Inflamed,FAP+/a5B1-,HLA_ABC,Proximal-vs-distant median difference,449,262,0.6202703418266085
+P10,UC_Inflamed,FAP+/a5B1-,HLA_ABC,Spearman correlation with proximity,449,262,0.4605188643348026
+P10,UC_Inflamed,FAP+/a5B1-,a5B1,Proximal-vs-distant median difference,449,262,1.465385585021965
+P10,UC_Inflamed,FAP+/a5B1-,a5B1,Spearman correlation with proximity,449,262,0.28820644417749053
+P10,UC_Inflamed,FAP+/a5B1-,PADI4,Proximal-vs-distant median difference,449,262,0.22192881658365504
+P10,UC_Inflamed,FAP+/a5B1-,PADI4,Spearman correlation with proximity,449,262,0.05898346776575188
+P10,UC_Inflamed,FAP+/a5B1-,MX1,Proximal-vs-distant median difference,449,262,0.9449797757455958
+P10,UC_Inflamed,FAP+/a5B1-,MX1,Spearman correlation with proximity,449,262,0.325182063447364
+P10,UC_Inflamed,FAP+/a5B1-,CD66b,Proximal-vs-distant median difference,449,262,-0.48021267526683165
+P10,UC_Inflamed,FAP+/a5B1-,CD66b,Spearman correlation with proximity,449,262,-0.14592568290333427
+P10,UC_Inflamed,FAP+/a5B1-,CD16,Proximal-vs-distant median difference,449,262,0.7245189290089318
+P10,UC_Inflamed,FAP+/a5B1-,CD16,Spearman correlation with proximity,449,262,0.38247159999703206
+P10,UC_Inflamed,FAP+/a5B1-,CD11b,Proximal-vs-distant median difference,449,262,0.15295995196332512
+P10,UC_Inflamed,FAP+/a5B1-,CD11b,Spearman correlation with proximity,449,262,0.19237057354674342
+P10,UC_Inflamed,FAP+/a5B1-,Ki67,Proximal-vs-distant median difference,449,262,0.14713245282547138
+P10,UC_Inflamed,FAP+/a5B1-,Ki67,Spearman correlation with proximity,449,262,0.12618527537689142
+P10,UC_Inflamed,FAP+/a5B1-,NF-niche program,Proximal-vs-distant median difference,449,262,1.0660790414468422
+P10,UC_Inflamed,FAP+/a5B1-,NF-niche program,Spearman correlation with proximity,449,262,0.5075404549855732
+P10,UC_Inflamed,FAP-/a5B1+,OSM,Proximal-vs-distant median difference,571,166,1.522586973658308
+P10,UC_Inflamed,FAP-/a5B1+,OSM,Spearman correlation with proximity,571,166,0.17810777362904787
+P10,UC_Inflamed,FAP-/a5B1+,CXCR4,Proximal-vs-distant median difference,571,166,1.7138796830054637
+P10,UC_Inflamed,FAP-/a5B1+,CXCR4,Spearman correlation with proximity,571,166,0.17920907266289351
+P10,UC_Inflamed,FAP-/a5B1+,PDL1,Proximal-vs-distant median difference,571,166,1.129594586580367
+P10,UC_Inflamed,FAP-/a5B1+,PDL1,Spearman correlation with proximity,571,166,0.13775839966797307
+P10,UC_Inflamed,FAP-/a5B1+,HLA_ABC,Proximal-vs-distant median difference,571,166,1.277950874818246
+P10,UC_Inflamed,FAP-/a5B1+,HLA_ABC,Spearman correlation with proximity,571,166,0.2516838351963707
+P10,UC_Inflamed,FAP-/a5B1+,a5B1,Proximal-vs-distant median difference,571,166,2.643998544274135
+P10,UC_Inflamed,FAP-/a5B1+,a5B1,Spearman correlation with proximity,571,166,0.45173917262197777
+P10,UC_Inflamed,FAP-/a5B1+,PADI4,Proximal-vs-distant median difference,571,166,0.2626732219075807
+P10,UC_Inflamed,FAP-/a5B1+,PADI4,Spearman correlation with proximity,571,166,0.01631969274563474
+P10,UC_Inflamed,FAP-/a5B1+,MX1,Proximal-vs-distant median difference,571,166,0.9447705337234633
+P10,UC_Inflamed,FAP-/a5B1+,MX1,Spearman correlation with proximity,571,166,0.0746760504307712
+P10,UC_Inflamed,FAP-/a5B1+,CD66b,Proximal-vs-distant median difference,571,166,-0.5777579297647168
+P10,UC_Inflamed,FAP-/a5B1+,CD66b,Spearman correlation with proximity,571,166,-0.1514059801624718
+P10,UC_Inflamed,FAP-/a5B1+,CD16,Proximal-vs-distant median difference,571,166,0.7084231972241497
+P10,UC_Inflamed,FAP-/a5B1+,CD16,Spearman correlation with proximity,571,166,0.19919492808042544
+P10,UC_Inflamed,FAP-/a5B1+,CD11b,Proximal-vs-distant median difference,571,166,0.11245985550494542
+P10,UC_Inflamed,FAP-/a5B1+,CD11b,Spearman correlation with proximity,571,166,-0.03294976735217199
+P10,UC_Inflamed,FAP-/a5B1+,Ki67,Proximal-vs-distant median difference,571,166,-0.11532503577766828
+P10,UC_Inflamed,FAP-/a5B1+,Ki67,Spearman correlation with proximity,571,166,-0.14160802915027718
+P10,UC_Inflamed,FAP-/a5B1+,NF-niche program,Proximal-vs-distant median difference,571,166,1.5049588933560316
+P10,UC_Inflamed,FAP-/a5B1+,NF-niche program,Spearman correlation with proximity,571,166,0.228896911215102
+P10,UC_Inflamed,FAP-/a5B1-,OSM,Proximal-vs-distant median difference,650,127,1.7953045100303286
+P10,UC_Inflamed,FAP-/a5B1-,OSM,Spearman correlation with proximity,650,127,0.275956990754185
+P10,UC_Inflamed,FAP-/a5B1-,CXCR4,Proximal-vs-distant median difference,650,127,1.895553895210059
+P10,UC_Inflamed,FAP-/a5B1-,CXCR4,Spearman correlation with proximity,650,127,0.3301462615028061
+P10,UC_Inflamed,FAP-/a5B1-,PDL1,Proximal-vs-distant median difference,650,127,1.4616921194828787
+P10,UC_Inflamed,FAP-/a5B1-,PDL1,Spearman correlation with proximity,650,127,0.317803923849574
+P10,UC_Inflamed,FAP-/a5B1-,HLA_ABC,Proximal-vs-distant median difference,650,127,1.4716569281617744
+P10,UC_Inflamed,FAP-/a5B1-,HLA_ABC,Spearman correlation with proximity,650,127,0.3488506353232149
+P10,UC_Inflamed,FAP-/a5B1-,a5B1,Proximal-vs-distant median difference,650,127,2.8091720250427317
+P10,UC_Inflamed,FAP-/a5B1-,a5B1,Spearman correlation with proximity,650,127,0.35988969212832045
+P10,UC_Inflamed,FAP-/a5B1-,PADI4,Proximal-vs-distant median difference,650,127,0.14267320482196233
+P10,UC_Inflamed,FAP-/a5B1-,PADI4,Spearman correlation with proximity,650,127,-0.10559772144760218
+P10,UC_Inflamed,FAP-/a5B1-,MX1,Proximal-vs-distant median difference,650,127,1.4079479499883918
+P10,UC_Inflamed,FAP-/a5B1-,MX1,Spearman correlation with proximity,650,127,0.2858837363331167
+P10,UC_Inflamed,FAP-/a5B1-,CD66b,Proximal-vs-distant median difference,650,127,-0.8048893698642638
+P10,UC_Inflamed,FAP-/a5B1-,CD66b,Spearman correlation with proximity,650,127,-0.3165888309389106
+P10,UC_Inflamed,FAP-/a5B1-,CD16,Proximal-vs-distant median difference,650,127,0.7945218780204693
+P10,UC_Inflamed,FAP-/a5B1-,CD16,Spearman correlation with proximity,650,127,0.22853295233398774
+P10,UC_Inflamed,FAP-/a5B1-,CD11b,Proximal-vs-distant median difference,650,127,0.12654769494133156
+P10,UC_Inflamed,FAP-/a5B1-,CD11b,Spearman correlation with proximity,650,127,0.0013820437902485232
+P10,UC_Inflamed,FAP-/a5B1-,Ki67,Proximal-vs-distant median difference,650,127,-0.0778220049454248
+P10,UC_Inflamed,FAP-/a5B1-,Ki67,Spearman correlation with proximity,650,127,0.0553683374855855
+P10,UC_Inflamed,FAP-/a5B1-,NF-niche program,Proximal-vs-distant median difference,650,127,1.685343654243899
+P10,UC_Inflamed,FAP-/a5B1-,NF-niche program,Spearman correlation with proximity,650,127,0.35244923203273715
+P11,UC_Inflamed,FAP+/a5B1+,OSM,Proximal-vs-distant median difference,175,91,-0.9532074722277717
+P11,UC_Inflamed,FAP+/a5B1+,OSM,Spearman correlation with proximity,175,91,-0.3919296477860162
+P11,UC_Inflamed,FAP+/a5B1+,CXCR4,Proximal-vs-distant median difference,175,91,-0.8493275276840322
+P11,UC_Inflamed,FAP+/a5B1+,CXCR4,Spearman correlation with proximity,175,91,-0.32918480116896864
+P11,UC_Inflamed,FAP+/a5B1+,PDL1,Proximal-vs-distant median difference,175,91,-1.356780646666916
+P11,UC_Inflamed,FAP+/a5B1+,PDL1,Spearman correlation with proximity,175,91,-0.4261110951087299
+P11,UC_Inflamed,FAP+/a5B1+,HLA_ABC,Proximal-vs-distant median difference,175,91,-0.20147950238139867
+P11,UC_Inflamed,FAP+/a5B1+,HLA_ABC,Spearman correlation with proximity,175,91,-0.16236290652170265
+P11,UC_Inflamed,FAP+/a5B1+,a5B1,Proximal-vs-distant median difference,175,91,0.009861657933487145
+P11,UC_Inflamed,FAP+/a5B1+,a5B1,Spearman correlation with proximity,175,91,0.11773853845335601
+P11,UC_Inflamed,FAP+/a5B1+,PADI4,Proximal-vs-distant median difference,175,91,-1.1749561742900791
+P11,UC_Inflamed,FAP+/a5B1+,PADI4,Spearman correlation with proximity,175,91,-0.2448499282593141
+P11,UC_Inflamed,FAP+/a5B1+,MX1,Proximal-vs-distant median difference,175,91,-1.9332244985877818
+P11,UC_Inflamed,FAP+/a5B1+,MX1,Spearman correlation with proximity,175,91,-0.4773952666648584
+P11,UC_Inflamed,FAP+/a5B1+,CD66b,Proximal-vs-distant median difference,175,91,-0.7044913259849097
+P11,UC_Inflamed,FAP+/a5B1+,CD66b,Spearman correlation with proximity,175,91,-0.30418052682470875
+P11,UC_Inflamed,FAP+/a5B1+,CD16,Proximal-vs-distant median difference,175,91,-0.023176284948921655
+P11,UC_Inflamed,FAP+/a5B1+,CD16,Spearman correlation with proximity,175,91,-0.008209988858967973
+P11,UC_Inflamed,FAP+/a5B1+,CD11b,Proximal-vs-distant median difference,175,91,-0.3173346676269757
+P11,UC_Inflamed,FAP+/a5B1+,CD11b,Spearman correlation with proximity,175,91,-0.2731339967510175
+P11,UC_Inflamed,FAP+/a5B1+,Ki67,Proximal-vs-distant median difference,175,91,-0.25266928892843543
+P11,UC_Inflamed,FAP+/a5B1+,Ki67,Spearman correlation with proximity,175,91,-0.11081626564968641
+P11,UC_Inflamed,FAP+/a5B1+,NF-niche program,Proximal-vs-distant median difference,175,91,-0.6478833076141016
+P11,UC_Inflamed,FAP+/a5B1+,NF-niche program,Spearman correlation with proximity,175,91,-0.29754785325189376
+P11,UC_Inflamed,FAP+/a5B1-,OSM,Spearman correlation with proximity,450,6,0.22571758339652326
+P11,UC_Inflamed,FAP+/a5B1-,CXCR4,Spearman correlation with proximity,450,6,0.28626301156444833
+P11,UC_Inflamed,FAP+/a5B1-,PDL1,Spearman correlation with proximity,450,6,0.21743135560804563
+P11,UC_Inflamed,FAP+/a5B1-,HLA_ABC,Spearman correlation with proximity,450,6,0.24716156999880062
+P11,UC_Inflamed,FAP+/a5B1-,a5B1,Spearman correlation with proximity,450,6,0.16466328692150842
+P11,UC_Inflamed,FAP+/a5B1-,PADI4,Spearman correlation with proximity,450,6,0.06956425249582424
+P11,UC_Inflamed,FAP+/a5B1-,MX1,Spearman correlation with proximity,450,6,0.22734436063910568
+P11,UC_Inflamed,FAP+/a5B1-,CD66b,Spearman correlation with proximity,450,6,-0.051837266906426566
+P11,UC_Inflamed,FAP+/a5B1-,CD16,Spearman correlation with proximity,450,6,0.14168431923167876
+P11,UC_Inflamed,FAP+/a5B1-,CD11b,Spearman correlation with proximity,450,6,0.09574810874667106
+P11,UC_Inflamed,FAP+/a5B1-,Ki67,Spearman correlation with proximity,450,6,0.25310176295089803
+P11,UC_Inflamed,FAP+/a5B1-,NF-niche program,Spearman correlation with proximity,450,6,0.2626028733003141
+P11,UC_Inflamed,FAP-/a5B1+,OSM,Proximal-vs-distant median difference,125,199,-0.8355588459418289
+P11,UC_Inflamed,FAP-/a5B1+,OSM,Spearman correlation with proximity,125,199,-0.42155617625608893
+P11,UC_Inflamed,FAP-/a5B1+,CXCR4,Proximal-vs-distant median difference,125,199,-0.8529853324790126
+P11,UC_Inflamed,FAP-/a5B1+,CXCR4,Spearman correlation with proximity,125,199,-0.44052984284986485
+P11,UC_Inflamed,FAP-/a5B1+,PDL1,Proximal-vs-distant median difference,125,199,-1.57908203504535
+P11,UC_Inflamed,FAP-/a5B1+,PDL1,Spearman correlation with proximity,125,199,-0.5267625182067412
+P11,UC_Inflamed,FAP-/a5B1+,HLA_ABC,Proximal-vs-distant median difference,125,199,-0.19134631818684422
+P11,UC_Inflamed,FAP-/a5B1+,HLA_ABC,Spearman correlation with proximity,125,199,-0.2321653351547148
+P11,UC_Inflamed,FAP-/a5B1+,a5B1,Proximal-vs-distant median difference,125,199,0.26661813954246716
+P11,UC_Inflamed,FAP-/a5B1+,a5B1,Spearman correlation with proximity,125,199,0.14260229874761363
+P11,UC_Inflamed,FAP-/a5B1+,PADI4,Proximal-vs-distant median difference,125,199,-1.2338299901790517
+P11,UC_Inflamed,FAP-/a5B1+,PADI4,Spearman correlation with proximity,125,199,-0.2776199921785013
+P11,UC_Inflamed,FAP-/a5B1+,MX1,Proximal-vs-distant median difference,125,199,-1.8138122140539297
+P11,UC_Inflamed,FAP-/a5B1+,MX1,Spearman correlation with proximity,125,199,-0.5147598309113676
+P11,UC_Inflamed,FAP-/a5B1+,CD66b,Proximal-vs-distant median difference,125,199,-0.936553893455176
+P11,UC_Inflamed,FAP-/a5B1+,CD66b,Spearman correlation with proximity,125,199,-0.4552711765061719
+P11,UC_Inflamed,FAP-/a5B1+,CD16,Proximal-vs-distant median difference,125,199,-0.14574173100972754
+P11,UC_Inflamed,FAP-/a5B1+,CD16,Spearman correlation with proximity,125,199,-0.03628471775119108
+P11,UC_Inflamed,FAP-/a5B1+,CD11b,Proximal-vs-distant median difference,125,199,-0.3906705364736469
+P11,UC_Inflamed,FAP-/a5B1+,CD11b,Spearman correlation with proximity,125,199,-0.3065925883190644
+P11,UC_Inflamed,FAP-/a5B1+,Ki67,Proximal-vs-distant median difference,125,199,-0.6295188778022878
+P11,UC_Inflamed,FAP-/a5B1+,Ki67,Spearman correlation with proximity,125,199,-0.22433465153020268
+P11,UC_Inflamed,FAP-/a5B1+,NF-niche program,Proximal-vs-distant median difference,125,199,-0.5582654344108204
+P11,UC_Inflamed,FAP-/a5B1+,NF-niche program,Spearman correlation with proximity,125,199,-0.3818741567246486
+P11,UC_Inflamed,FAP-/a5B1-,OSM,Spearman correlation with proximity,384,2,-0.001681624297799972
+P11,UC_Inflamed,FAP-/a5B1-,CXCR4,Spearman correlation with proximity,384,2,0.03762208947536377
+P11,UC_Inflamed,FAP-/a5B1-,PDL1,Spearman correlation with proximity,384,2,0.0025505694567041852
+P11,UC_Inflamed,FAP-/a5B1-,HLA_ABC,Spearman correlation with proximity,384,2,0.01442242986468405
+P11,UC_Inflamed,FAP-/a5B1-,a5B1,Spearman correlation with proximity,384,2,0.15655534965485196
+P11,UC_Inflamed,FAP-/a5B1-,PADI4,Spearman correlation with proximity,384,2,-0.003279290597477114
+P11,UC_Inflamed,FAP-/a5B1-,MX1,Spearman correlation with proximity,384,2,0.005576484775707744
+P11,UC_Inflamed,FAP-/a5B1-,CD66b,Spearman correlation with proximity,384,2,-0.11664336147451734
+P11,UC_Inflamed,FAP-/a5B1-,CD16,Spearman correlation with proximity,384,2,-0.08748341441839895
+P11,UC_Inflamed,FAP-/a5B1-,CD11b,Spearman correlation with proximity,384,2,-0.01911969104965573
+P11,UC_Inflamed,FAP-/a5B1-,Ki67,Spearman correlation with proximity,384,2,0.12469726414035645
+P11,UC_Inflamed,FAP-/a5B1-,NF-niche program,Spearman correlation with proximity,384,2,0.010879357739098304
+P12,UC_Inflamed,FAP+/a5B1+,OSM,Proximal-vs-distant median difference,37,2860,0.9682980727111796
+P12,UC_Inflamed,FAP+/a5B1+,OSM,Spearman correlation with proximity,37,2860,0.1616095697018294
+P12,UC_Inflamed,FAP+/a5B1+,CXCR4,Proximal-vs-distant median difference,37,2860,0.9242401837059839
+P12,UC_Inflamed,FAP+/a5B1+,CXCR4,Spearman correlation with proximity,37,2860,0.21673813906122125
+P12,UC_Inflamed,FAP+/a5B1+,PDL1,Proximal-vs-distant median difference,37,2860,0.8576229496649121
+P12,UC_Inflamed,FAP+/a5B1+,PDL1,Spearman correlation with proximity,37,2860,0.15044135895373723
+P12,UC_Inflamed,FAP+/a5B1+,HLA_ABC,Proximal-vs-distant median difference,37,2860,1.2147934789133252
+P12,UC_Inflamed,FAP+/a5B1+,HLA_ABC,Spearman correlation with proximity,37,2860,0.27039943689259877
+P12,UC_Inflamed,FAP+/a5B1+,a5B1,Proximal-vs-distant median difference,37,2860,1.4151706894035616
+P12,UC_Inflamed,FAP+/a5B1+,a5B1,Spearman correlation with proximity,37,2860,0.25608479412525337
+P12,UC_Inflamed,FAP+/a5B1+,PADI4,Proximal-vs-distant median difference,37,2860,0.08844891287961154
+P12,UC_Inflamed,FAP+/a5B1+,PADI4,Spearman correlation with proximity,37,2860,0.16332603439335003
+P12,UC_Inflamed,FAP+/a5B1+,MX1,Proximal-vs-distant median difference,37,2860,0.7860360079122479
+P12,UC_Inflamed,FAP+/a5B1+,MX1,Spearman correlation with proximity,37,2860,0.012157643936088168
+P12,UC_Inflamed,FAP+/a5B1+,CD66b,Proximal-vs-distant median difference,37,2860,-1.1197360479721188
+P12,UC_Inflamed,FAP+/a5B1+,CD66b,Spearman correlation with proximity,37,2860,-0.3249292096309422
+P12,UC_Inflamed,FAP+/a5B1+,CD16,Proximal-vs-distant median difference,37,2860,0.9072110591944886
+P12,UC_Inflamed,FAP+/a5B1+,CD16,Spearman correlation with proximity,37,2860,0.3160845212391713
+P12,UC_Inflamed,FAP+/a5B1+,CD11b,Proximal-vs-distant median difference,37,2860,0.14908854337973043
+P12,UC_Inflamed,FAP+/a5B1+,CD11b,Spearman correlation with proximity,37,2860,0.13891682724054735
+P12,UC_Inflamed,FAP+/a5B1+,Ki67,Proximal-vs-distant median difference,37,2860,0.6154260290614642
+P12,UC_Inflamed,FAP+/a5B1+,Ki67,Spearman correlation with proximity,37,2860,0.010140276676345605
+P12,UC_Inflamed,FAP+/a5B1+,NF-niche program,Proximal-vs-distant median difference,37,2860,0.9750164101385022
+P12,UC_Inflamed,FAP+/a5B1+,NF-niche program,Spearman correlation with proximity,37,2860,0.2356629075877628
+P12,UC_Inflamed,FAP+/a5B1-,OSM,Proximal-vs-distant median difference,492,2019,1.5402822553496232
+P12,UC_Inflamed,FAP+/a5B1-,OSM,Spearman correlation with proximity,492,2019,0.4493334846833443
+P12,UC_Inflamed,FAP+/a5B1-,CXCR4,Proximal-vs-distant median difference,492,2019,1.4560702250082613
+P12,UC_Inflamed,FAP+/a5B1-,CXCR4,Spearman correlation with proximity,492,2019,0.4838883979411042
+P12,UC_Inflamed,FAP+/a5B1-,PDL1,Proximal-vs-distant median difference,492,2019,1.1985189093303121
+P12,UC_Inflamed,FAP+/a5B1-,PDL1,Spearman correlation with proximity,492,2019,0.3485878422279042
+P12,UC_Inflamed,FAP+/a5B1-,HLA_ABC,Proximal-vs-distant median difference,492,2019,1.5283349763868666
+P12,UC_Inflamed,FAP+/a5B1-,HLA_ABC,Spearman correlation with proximity,492,2019,0.5771020242166858
+P12,UC_Inflamed,FAP+/a5B1-,a5B1,Proximal-vs-distant median difference,492,2019,1.7257489687071828
+P12,UC_Inflamed,FAP+/a5B1-,a5B1,Spearman correlation with proximity,492,2019,0.4915158070563255
+P12,UC_Inflamed,FAP+/a5B1-,PADI4,Proximal-vs-distant median difference,492,2019,-0.15301531558012105
+P12,UC_Inflamed,FAP+/a5B1-,PADI4,Spearman correlation with proximity,492,2019,0.09615368251723043
+P12,UC_Inflamed,FAP+/a5B1-,MX1,Proximal-vs-distant median difference,492,2019,1.0245005159539429
+P12,UC_Inflamed,FAP+/a5B1-,MX1,Spearman correlation with proximity,492,2019,0.20512411158537178
+P12,UC_Inflamed,FAP+/a5B1-,CD66b,Proximal-vs-distant median difference,492,2019,-1.2899846593857536
+P12,UC_Inflamed,FAP+/a5B1-,CD66b,Spearman correlation with proximity,492,2019,-0.48445042012703954
+P12,UC_Inflamed,FAP+/a5B1-,CD16,Proximal-vs-distant median difference,492,2019,1.0535362874700729
+P12,UC_Inflamed,FAP+/a5B1-,CD16,Spearman correlation with proximity,492,2019,0.5757412771451781
+P12,UC_Inflamed,FAP+/a5B1-,CD11b,Proximal-vs-distant median difference,492,2019,0.28002438880637026
+P12,UC_Inflamed,FAP+/a5B1-,CD11b,Spearman correlation with proximity,492,2019,0.2637153688412796
+P12,UC_Inflamed,FAP+/a5B1-,Ki67,Proximal-vs-distant median difference,492,2019,0.9978613155810283
+P12,UC_Inflamed,FAP+/a5B1-,Ki67,Spearman correlation with proximity,492,2019,0.27037074243413717
+P12,UC_Inflamed,FAP+/a5B1-,NF-niche program,Proximal-vs-distant median difference,492,2019,1.3314529357679064
+P12,UC_Inflamed,FAP+/a5B1-,NF-niche program,Spearman correlation with proximity,492,2019,0.5244385477473943
+P12,UC_Inflamed,FAP-/a5B1+,OSM,Proximal-vs-distant median difference,308,2254,0.8633499765636741
+P12,UC_Inflamed,FAP-/a5B1+,OSM,Spearman correlation with proximity,308,2254,0.23613325309082125
+P12,UC_Inflamed,FAP-/a5B1+,CXCR4,Proximal-vs-distant median difference,308,2254,0.6613252718268958
+P12,UC_Inflamed,FAP-/a5B1+,CXCR4,Spearman correlation with proximity,308,2254,0.2597501592270054
+P12,UC_Inflamed,FAP-/a5B1+,PDL1,Proximal-vs-distant median difference,308,2254,0.511159382647405
+P12,UC_Inflamed,FAP-/a5B1+,PDL1,Spearman correlation with proximity,308,2254,0.18922714757874232
+P12,UC_Inflamed,FAP-/a5B1+,HLA_ABC,Proximal-vs-distant median difference,308,2254,1.1630210663012202
+P12,UC_Inflamed,FAP-/a5B1+,HLA_ABC,Spearman correlation with proximity,308,2254,0.3789167879291004
+P12,UC_Inflamed,FAP-/a5B1+,a5B1,Proximal-vs-distant median difference,308,2254,1.698705271027479
+P12,UC_Inflamed,FAP-/a5B1+,a5B1,Spearman correlation with proximity,308,2254,0.33696863772981117
+P12,UC_Inflamed,FAP-/a5B1+,PADI4,Proximal-vs-distant median difference,308,2254,-0.1343831478208699
+P12,UC_Inflamed,FAP-/a5B1+,PADI4,Spearman correlation with proximity,308,2254,0.11389932954756626
+P12,UC_Inflamed,FAP-/a5B1+,MX1,Proximal-vs-distant median difference,308,2254,0.0723018330991716
+P12,UC_Inflamed,FAP-/a5B1+,MX1,Spearman correlation with proximity,308,2254,0.01750698791325104
+P12,UC_Inflamed,FAP-/a5B1+,CD66b,Proximal-vs-distant median difference,308,2254,-1.1290657681887568
+P12,UC_Inflamed,FAP-/a5B1+,CD66b,Spearman correlation with proximity,308,2254,-0.4387221038743154
+P12,UC_Inflamed,FAP-/a5B1+,CD16,Proximal-vs-distant median difference,308,2254,0.809164728102667
+P12,UC_Inflamed,FAP-/a5B1+,CD16,Spearman correlation with proximity,308,2254,0.37750334817600273
+P12,UC_Inflamed,FAP-/a5B1+,CD11b,Proximal-vs-distant median difference,308,2254,0.06641731642188553
+P12,UC_Inflamed,FAP-/a5B1+,CD11b,Spearman correlation with proximity,308,2254,0.1332961516555793
+P12,UC_Inflamed,FAP-/a5B1+,Ki67,Proximal-vs-distant median difference,308,2254,-0.31399566424935177
+P12,UC_Inflamed,FAP-/a5B1+,Ki67,Spearman correlation with proximity,308,2254,0.022531311621398008
+P12,UC_Inflamed,FAP-/a5B1+,NF-niche program,Proximal-vs-distant median difference,308,2254,0.8946704245006474
+P12,UC_Inflamed,FAP-/a5B1+,NF-niche program,Spearman correlation with proximity,308,2254,0.31210651063633743
+P12,UC_Inflamed,FAP-/a5B1-,OSM,Proximal-vs-distant median difference,946,1241,1.036569959840801
+P12,UC_Inflamed,FAP-/a5B1-,OSM,Spearman correlation with proximity,946,1241,0.40637589896563103
+P12,UC_Inflamed,FAP-/a5B1-,CXCR4,Proximal-vs-distant median difference,946,1241,0.999822308753453
+P12,UC_Inflamed,FAP-/a5B1-,CXCR4,Spearman correlation with proximity,946,1241,0.38251210762933896
+P12,UC_Inflamed,FAP-/a5B1-,PDL1,Proximal-vs-distant median difference,946,1241,0.782381864202347
+P12,UC_Inflamed,FAP-/a5B1-,PDL1,Spearman correlation with proximity,946,1241,0.3631773078818916
+P12,UC_Inflamed,FAP-/a5B1-,HLA_ABC,Proximal-vs-distant median difference,946,1241,1.3138480121132936
+P12,UC_Inflamed,FAP-/a5B1-,HLA_ABC,Spearman correlation with proximity,946,1241,0.5077037622197156
+P12,UC_Inflamed,FAP-/a5B1-,a5B1,Proximal-vs-distant median difference,946,1241,1.3247092353585754
+P12,UC_Inflamed,FAP-/a5B1-,a5B1,Spearman correlation with proximity,946,1241,0.4598623668740345
+P12,UC_Inflamed,FAP-/a5B1-,PADI4,Proximal-vs-distant median difference,946,1241,-0.06472508579883485
+P12,UC_Inflamed,FAP-/a5B1-,PADI4,Spearman correlation with proximity,946,1241,0.036702192450089495
+P12,UC_Inflamed,FAP-/a5B1-,MX1,Proximal-vs-distant median difference,946,1241,0.47986945119182534
+P12,UC_Inflamed,FAP-/a5B1-,MX1,Spearman correlation with proximity,946,1241,0.13531948571236563
+P12,UC_Inflamed,FAP-/a5B1-,CD66b,Proximal-vs-distant median difference,946,1241,-1.0676553680961325
+P12,UC_Inflamed,FAP-/a5B1-,CD66b,Spearman correlation with proximity,946,1241,-0.42842577980830227
+P12,UC_Inflamed,FAP-/a5B1-,CD16,Proximal-vs-distant median difference,946,1241,0.758810455541254
+P12,UC_Inflamed,FAP-/a5B1-,CD16,Spearman correlation with proximity,946,1241,0.4917314525098567
+P12,UC_Inflamed,FAP-/a5B1-,CD11b,Proximal-vs-distant median difference,946,1241,0.12369891326880911
+P12,UC_Inflamed,FAP-/a5B1-,CD11b,Spearman correlation with proximity,946,1241,0.18260022471091125
+P12,UC_Inflamed,FAP-/a5B1-,Ki67,Proximal-vs-distant median difference,946,1241,0.31506399419929076
+P12,UC_Inflamed,FAP-/a5B1-,Ki67,Spearman correlation with proximity,946,1241,0.19537022465038295
+P12,UC_Inflamed,FAP-/a5B1-,NF-niche program,Proximal-vs-distant median difference,946,1241,1.043900325661653
+P12,UC_Inflamed,FAP-/a5B1-,NF-niche program,Spearman correlation with proximity,946,1241,0.47767325446183406
+P13,UC_Inflamed,FAP+/a5B1+,OSM,Proximal-vs-distant median difference,277,2022,0.32862284942093006
+P13,UC_Inflamed,FAP+/a5B1+,OSM,Spearman correlation with proximity,277,2022,0.19687705173785675
+P13,UC_Inflamed,FAP+/a5B1+,CXCR4,Proximal-vs-distant median difference,277,2022,0.26067439752756183
+P13,UC_Inflamed,FAP+/a5B1+,CXCR4,Spearman correlation with proximity,277,2022,0.1791303482914851
+P13,UC_Inflamed,FAP+/a5B1+,PDL1,Proximal-vs-distant median difference,277,2022,0.10035787146547825
+P13,UC_Inflamed,FAP+/a5B1+,PDL1,Spearman correlation with proximity,277,2022,0.05158560072075666
+P13,UC_Inflamed,FAP+/a5B1+,HLA_ABC,Proximal-vs-distant median difference,277,2022,0.11493561310556366
+P13,UC_Inflamed,FAP+/a5B1+,HLA_ABC,Spearman correlation with proximity,277,2022,0.05361835782712411
+P13,UC_Inflamed,FAP+/a5B1+,a5B1,Proximal-vs-distant median difference,277,2022,0.4167761320141192
+P13,UC_Inflamed,FAP+/a5B1+,a5B1,Spearman correlation with proximity,277,2022,0.13887704039306462
+P13,UC_Inflamed,FAP+/a5B1+,PADI4,Proximal-vs-distant median difference,277,2022,0.31109439969412467
+P13,UC_Inflamed,FAP+/a5B1+,PADI4,Spearman correlation with proximity,277,2022,0.06489450520166025
+P13,UC_Inflamed,FAP+/a5B1+,MX1,Proximal-vs-distant median difference,277,2022,-0.013647112764624936
+P13,UC_Inflamed,FAP+/a5B1+,MX1,Spearman correlation with proximity,277,2022,-0.029384440495931193
+P13,UC_Inflamed,FAP+/a5B1+,CD66b,Proximal-vs-distant median difference,277,2022,-0.04255632769187123
+P13,UC_Inflamed,FAP+/a5B1+,CD66b,Spearman correlation with proximity,277,2022,-0.05919509687342364
+P13,UC_Inflamed,FAP+/a5B1+,CD16,Proximal-vs-distant median difference,277,2022,0.046563569554678
+P13,UC_Inflamed,FAP+/a5B1+,CD16,Spearman correlation with proximity,277,2022,0.01153348859200228
+P13,UC_Inflamed,FAP+/a5B1+,CD11b,Proximal-vs-distant median difference,277,2022,0.30919935077562055
+P13,UC_Inflamed,FAP+/a5B1+,CD11b,Spearman correlation with proximity,277,2022,0.1950740735404109
+P13,UC_Inflamed,FAP+/a5B1+,Ki67,Proximal-vs-distant median difference,277,2022,0.20377972142269551
+P13,UC_Inflamed,FAP+/a5B1+,Ki67,Spearman correlation with proximity,277,2022,0.07494939118723265
+P13,UC_Inflamed,FAP+/a5B1+,NF-niche program,Proximal-vs-distant median difference,277,2022,0.22315279492876483
+P13,UC_Inflamed,FAP+/a5B1+,NF-niche program,Spearman correlation with proximity,277,2022,0.16278295426650838
+P13,UC_Inflamed,FAP+/a5B1-,OSM,Proximal-vs-distant median difference,1579,282,0.7135536759930746
+P13,UC_Inflamed,FAP+/a5B1-,OSM,Spearman correlation with proximity,1579,282,0.2811073535575519
+P13,UC_Inflamed,FAP+/a5B1-,CXCR4,Proximal-vs-distant median difference,1579,282,0.5010889853868816
+P13,UC_Inflamed,FAP+/a5B1-,CXCR4,Spearman correlation with proximity,1579,282,0.23768373594025308
+P13,UC_Inflamed,FAP+/a5B1-,PDL1,Proximal-vs-distant median difference,1579,282,0.4519372565156691
+P13,UC_Inflamed,FAP+/a5B1-,PDL1,Spearman correlation with proximity,1579,282,0.17967769950226212
+P13,UC_Inflamed,FAP+/a5B1-,HLA_ABC,Proximal-vs-distant median difference,1579,282,0.10891541722406917
+P13,UC_Inflamed,FAP+/a5B1-,HLA_ABC,Spearman correlation with proximity,1579,282,0.1277318536969116
+P13,UC_Inflamed,FAP+/a5B1-,a5B1,Proximal-vs-distant median difference,1579,282,0.1890737991371365
+P13,UC_Inflamed,FAP+/a5B1-,a5B1,Spearman correlation with proximity,1579,282,0.12030817540494346
+P13,UC_Inflamed,FAP+/a5B1-,PADI4,Proximal-vs-distant median difference,1579,282,0.4960265356811995
+P13,UC_Inflamed,FAP+/a5B1-,PADI4,Spearman correlation with proximity,1579,282,0.12337599472644088
+P13,UC_Inflamed,FAP+/a5B1-,MX1,Proximal-vs-distant median difference,1579,282,-0.05436495885243886
+P13,UC_Inflamed,FAP+/a5B1-,MX1,Spearman correlation with proximity,1579,282,0.0051055691842956845
+P13,UC_Inflamed,FAP+/a5B1-,CD66b,Proximal-vs-distant median difference,1579,282,0.19962240581926505
+P13,UC_Inflamed,FAP+/a5B1-,CD66b,Spearman correlation with proximity,1579,282,0.04026082693653588
+P13,UC_Inflamed,FAP+/a5B1-,CD16,Proximal-vs-distant median difference,1579,282,0.2359381424372824
+P13,UC_Inflamed,FAP+/a5B1-,CD16,Spearman correlation with proximity,1579,282,0.14026209129053305
+P13,UC_Inflamed,FAP+/a5B1-,CD11b,Proximal-vs-distant median difference,1579,282,0.35170272460023977
+P13,UC_Inflamed,FAP+/a5B1-,CD11b,Spearman correlation with proximity,1579,282,0.258024749501452
+P13,UC_Inflamed,FAP+/a5B1-,Ki67,Proximal-vs-distant median difference,1579,282,0.37279304190002605
+P13,UC_Inflamed,FAP+/a5B1-,Ki67,Spearman correlation with proximity,1579,282,0.1601217740879355
+P13,UC_Inflamed,FAP+/a5B1-,NF-niche program,Proximal-vs-distant median difference,1579,282,0.37709284322314385
+P13,UC_Inflamed,FAP+/a5B1-,NF-niche program,Spearman correlation with proximity,1579,282,0.2425088192362744
+P13,UC_Inflamed,FAP-/a5B1+,OSM,Proximal-vs-distant median difference,512,1721,-0.038727043735267155
+P13,UC_Inflamed,FAP-/a5B1+,OSM,Spearman correlation with proximity,512,1721,0.07035728006158297
+P13,UC_Inflamed,FAP-/a5B1+,CXCR4,Proximal-vs-distant median difference,512,1721,0.16759524942480297
+P13,UC_Inflamed,FAP-/a5B1+,CXCR4,Spearman correlation with proximity,512,1721,0.17520577230576453
+P13,UC_Inflamed,FAP-/a5B1+,PDL1,Proximal-vs-distant median difference,512,1721,-0.05879051725721485
+P13,UC_Inflamed,FAP-/a5B1+,PDL1,Spearman correlation with proximity,512,1721,0.02045470018078614
+P13,UC_Inflamed,FAP-/a5B1+,HLA_ABC,Proximal-vs-distant median difference,512,1721,-0.12940057048944098
+P13,UC_Inflamed,FAP-/a5B1+,HLA_ABC,Spearman correlation with proximity,512,1721,-0.165158381703991
+P13,UC_Inflamed,FAP-/a5B1+,a5B1,Proximal-vs-distant median difference,512,1721,0.497823552855889
+P13,UC_Inflamed,FAP-/a5B1+,a5B1,Spearman correlation with proximity,512,1721,0.2209913883903607
+P13,UC_Inflamed,FAP-/a5B1+,PADI4,Proximal-vs-distant median difference,512,1721,-0.15673209484895878
+P13,UC_Inflamed,FAP-/a5B1+,PADI4,Spearman correlation with proximity,512,1721,0.02761448478629098
+P13,UC_Inflamed,FAP-/a5B1+,MX1,Proximal-vs-distant median difference,512,1721,-0.2096761941980292
+P13,UC_Inflamed,FAP-/a5B1+,MX1,Spearman correlation with proximity,512,1721,-0.16092783588832232
+P13,UC_Inflamed,FAP-/a5B1+,CD66b,Proximal-vs-distant median difference,512,1721,-0.4692363586142534
+P13,UC_Inflamed,FAP-/a5B1+,CD66b,Spearman correlation with proximity,512,1721,-0.14455440558668012
+P13,UC_Inflamed,FAP-/a5B1+,CD16,Proximal-vs-distant median difference,512,1721,-0.08944991699530647
+P13,UC_Inflamed,FAP-/a5B1+,CD16,Spearman correlation with proximity,512,1721,-0.021494277333919194
+P13,UC_Inflamed,FAP-/a5B1+,CD11b,Proximal-vs-distant median difference,512,1721,-0.17184329559104228
+P13,UC_Inflamed,FAP-/a5B1+,CD11b,Spearman correlation with proximity,512,1721,-0.06972509868241
+P13,UC_Inflamed,FAP-/a5B1+,Ki67,Proximal-vs-distant median difference,512,1721,-0.23876003176660499
+P13,UC_Inflamed,FAP-/a5B1+,Ki67,Spearman correlation with proximity,512,1721,-0.05069688926095796
+P13,UC_Inflamed,FAP-/a5B1+,NF-niche program,Proximal-vs-distant median difference,512,1721,0.07573453745826202
+P13,UC_Inflamed,FAP-/a5B1+,NF-niche program,Spearman correlation with proximity,512,1721,0.09121561326968658
+P13,UC_Inflamed,FAP-/a5B1-,OSM,Proximal-vs-distant median difference,2360,61,0.9285553449484812
+P13,UC_Inflamed,FAP-/a5B1-,OSM,Spearman correlation with proximity,2360,61,0.0973790585743393
+P13,UC_Inflamed,FAP-/a5B1-,CXCR4,Proximal-vs-distant median difference,2360,61,0.4645529618801616
+P13,UC_Inflamed,FAP-/a5B1-,CXCR4,Spearman correlation with proximity,2360,61,0.11993121615369272
+P13,UC_Inflamed,FAP-/a5B1-,PDL1,Proximal-vs-distant median difference,2360,61,0.7517372224147126
+P13,UC_Inflamed,FAP-/a5B1-,PDL1,Spearman correlation with proximity,2360,61,0.04454996189527127
+P13,UC_Inflamed,FAP-/a5B1-,HLA_ABC,Proximal-vs-distant median difference,2360,61,-0.4444107040658958
+P13,UC_Inflamed,FAP-/a5B1-,HLA_ABC,Spearman correlation with proximity,2360,61,-0.21389105237967554
+P13,UC_Inflamed,FAP-/a5B1-,a5B1,Proximal-vs-distant median difference,2360,61,1.15890774641816
+P13,UC_Inflamed,FAP-/a5B1-,a5B1,Spearman correlation with proximity,2360,61,0.1755903099077533
+P13,UC_Inflamed,FAP-/a5B1-,PADI4,Proximal-vs-distant median difference,2360,61,0.05032102186617493
+P13,UC_Inflamed,FAP-/a5B1-,PADI4,Spearman correlation with proximity,2360,61,-0.03973879464755229
+P13,UC_Inflamed,FAP-/a5B1-,MX1,Proximal-vs-distant median difference,2360,61,-0.41632489660108796
+P13,UC_Inflamed,FAP-/a5B1-,MX1,Spearman correlation with proximity,2360,61,-0.12337667026232126
+P13,UC_Inflamed,FAP-/a5B1-,CD66b,Proximal-vs-distant median difference,2360,61,-0.45549098719821846
+P13,UC_Inflamed,FAP-/a5B1-,CD66b,Spearman correlation with proximity,2360,61,-0.1782262882038506
+P13,UC_Inflamed,FAP-/a5B1-,CD16,Proximal-vs-distant median difference,2360,61,0.21662369844731622
+P13,UC_Inflamed,FAP-/a5B1-,CD16,Spearman correlation with proximity,2360,61,-0.11725220771805436
+P13,UC_Inflamed,FAP-/a5B1-,CD11b,Proximal-vs-distant median difference,2360,61,0.07843120830276451
+P13,UC_Inflamed,FAP-/a5B1-,CD11b,Spearman correlation with proximity,2360,61,-0.11496649738094633
+P13,UC_Inflamed,FAP-/a5B1-,Ki67,Proximal-vs-distant median difference,2360,61,0.42152817800079734
+P13,UC_Inflamed,FAP-/a5B1-,Ki67,Spearman correlation with proximity,2360,61,-0.07688994667981862
+P13,UC_Inflamed,FAP-/a5B1-,NF-niche program,Proximal-vs-distant median difference,2360,61,0.641888995983802
+P13,UC_Inflamed,FAP-/a5B1-,NF-niche program,Spearman correlation with proximity,2360,61,0.06847935342909192
+P14,UC_Inflamed,FAP+/a5B1+,OSM,Proximal-vs-distant median difference,66,835,-0.11260763012713328
+P14,UC_Inflamed,FAP+/a5B1+,OSM,Spearman correlation with proximity,66,835,0.21378835950803424
+P14,UC_Inflamed,FAP+/a5B1+,CXCR4,Proximal-vs-distant median difference,66,835,-0.08128079785699249
+P14,UC_Inflamed,FAP+/a5B1+,CXCR4,Spearman correlation with proximity,66,835,0.28109716040336535
+P14,UC_Inflamed,FAP+/a5B1+,PDL1,Proximal-vs-distant median difference,66,835,-0.2717879288464996
+P14,UC_Inflamed,FAP+/a5B1+,PDL1,Spearman correlation with proximity,66,835,0.09459139281752708
+P14,UC_Inflamed,FAP+/a5B1+,HLA_ABC,Proximal-vs-distant median difference,66,835,0.007461395749214894
+P14,UC_Inflamed,FAP+/a5B1+,HLA_ABC,Spearman correlation with proximity,66,835,0.28161554616637585
+P14,UC_Inflamed,FAP+/a5B1+,a5B1,Proximal-vs-distant median difference,66,835,0.44575570348903604
+P14,UC_Inflamed,FAP+/a5B1+,a5B1,Spearman correlation with proximity,66,835,0.1106041274862472
+P14,UC_Inflamed,FAP+/a5B1+,PADI4,Proximal-vs-distant median difference,66,835,0.1330065706686261
+P14,UC_Inflamed,FAP+/a5B1+,PADI4,Spearman correlation with proximity,66,835,0.09436681298039812
+P14,UC_Inflamed,FAP+/a5B1+,MX1,Proximal-vs-distant median difference,66,835,-0.2024526765231096
+P14,UC_Inflamed,FAP+/a5B1+,MX1,Spearman correlation with proximity,66,835,0.17802739492589745
+P14,UC_Inflamed,FAP+/a5B1+,CD66b,Proximal-vs-distant median difference,66,835,-0.2989883446574355
+P14,UC_Inflamed,FAP+/a5B1+,CD66b,Spearman correlation with proximity,66,835,-0.014455471177351721
+P14,UC_Inflamed,FAP+/a5B1+,CD16,Proximal-vs-distant median difference,66,835,0.1205452516341845
+P14,UC_Inflamed,FAP+/a5B1+,CD16,Spearman correlation with proximity,66,835,0.1694616942061697
+P14,UC_Inflamed,FAP+/a5B1+,CD11b,Proximal-vs-distant median difference,66,835,-0.11134387324844486
+P14,UC_Inflamed,FAP+/a5B1+,CD11b,Spearman correlation with proximity,66,835,0.0913496481862057
+P14,UC_Inflamed,FAP+/a5B1+,Ki67,Proximal-vs-distant median difference,66,835,0.3712429823780705
+P14,UC_Inflamed,FAP+/a5B1+,Ki67,Spearman correlation with proximity,66,835,0.3853422025281938
+P14,UC_Inflamed,FAP+/a5B1+,NF-niche program,Proximal-vs-distant median difference,66,835,-0.08054175950561032
+P14,UC_Inflamed,FAP+/a5B1+,NF-niche program,Spearman correlation with proximity,66,835,0.24086447149949822
+P14,UC_Inflamed,FAP+/a5B1-,OSM,Proximal-vs-distant median difference,395,292,0.4852404547512155
+P14,UC_Inflamed,FAP+/a5B1-,OSM,Spearman correlation with proximity,395,292,0.30594481653879074
+P14,UC_Inflamed,FAP+/a5B1-,CXCR4,Proximal-vs-distant median difference,395,292,0.6649015996241356
+P14,UC_Inflamed,FAP+/a5B1-,CXCR4,Spearman correlation with proximity,395,292,0.34362882339447404
+P14,UC_Inflamed,FAP+/a5B1-,PDL1,Proximal-vs-distant median difference,395,292,0.7703344769051461
+P14,UC_Inflamed,FAP+/a5B1-,PDL1,Spearman correlation with proximity,395,292,0.30332433749794263
+P14,UC_Inflamed,FAP+/a5B1-,HLA_ABC,Proximal-vs-distant median difference,395,292,0.4065483387374771
+P14,UC_Inflamed,FAP+/a5B1-,HLA_ABC,Spearman correlation with proximity,395,292,0.38668537286419113
+P14,UC_Inflamed,FAP+/a5B1-,a5B1,Proximal-vs-distant median difference,395,292,0.48128885877779215
+P14,UC_Inflamed,FAP+/a5B1-,a5B1,Spearman correlation with proximity,395,292,0.2390034460281089
+P14,UC_Inflamed,FAP+/a5B1-,PADI4,Proximal-vs-distant median difference,395,292,0.4666657895954689
+P14,UC_Inflamed,FAP+/a5B1-,PADI4,Spearman correlation with proximity,395,292,0.10918726742425934
+P14,UC_Inflamed,FAP+/a5B1-,MX1,Proximal-vs-distant median difference,395,292,0.5538977186435803
+P14,UC_Inflamed,FAP+/a5B1-,MX1,Spearman correlation with proximity,395,292,0.3116974179133051
+P14,UC_Inflamed,FAP+/a5B1-,CD66b,Proximal-vs-distant median difference,395,292,0.19793692882668923
+P14,UC_Inflamed,FAP+/a5B1-,CD66b,Spearman correlation with proximity,395,292,0.047801750404684124
+P14,UC_Inflamed,FAP+/a5B1-,CD16,Proximal-vs-distant median difference,395,292,0.37325501252654103
+P14,UC_Inflamed,FAP+/a5B1-,CD16,Spearman correlation with proximity,395,292,0.2541051518501389
+P14,UC_Inflamed,FAP+/a5B1-,CD11b,Proximal-vs-distant median difference,395,292,0.2979877601081258
+P14,UC_Inflamed,FAP+/a5B1-,CD11b,Spearman correlation with proximity,395,292,0.26782123042956246
+P14,UC_Inflamed,FAP+/a5B1-,Ki67,Proximal-vs-distant median difference,395,292,0.7464831586584872
+P14,UC_Inflamed,FAP+/a5B1-,Ki67,Spearman correlation with proximity,395,292,0.28862905791623295
+P14,UC_Inflamed,FAP+/a5B1-,NF-niche program,Proximal-vs-distant median difference,395,292,0.4879630072178795
+P14,UC_Inflamed,FAP+/a5B1-,NF-niche program,Spearman correlation with proximity,395,292,0.4027821181432149
+P14,UC_Inflamed,FAP-/a5B1+,OSM,Proximal-vs-distant median difference,352,273,-0.19192120339015936
+P14,UC_Inflamed,FAP-/a5B1+,OSM,Spearman correlation with proximity,352,273,-0.08475234297997417
+P14,UC_Inflamed,FAP-/a5B1+,CXCR4,Proximal-vs-distant median difference,352,273,-0.12834397769601846
+P14,UC_Inflamed,FAP-/a5B1+,CXCR4,Spearman correlation with proximity,352,273,-0.029714225754906936
+P14,UC_Inflamed,FAP-/a5B1+,PDL1,Proximal-vs-distant median difference,352,273,0.16767375970533194
+P14,UC_Inflamed,FAP-/a5B1+,PDL1,Spearman correlation with proximity,352,273,0.08081714247382743
+P14,UC_Inflamed,FAP-/a5B1+,HLA_ABC,Proximal-vs-distant median difference,352,273,-0.24808894619857824
+P14,UC_Inflamed,FAP-/a5B1+,HLA_ABC,Spearman correlation with proximity,352,273,-0.21015229893659998
+P14,UC_Inflamed,FAP-/a5B1+,a5B1,Proximal-vs-distant median difference,352,273,0.45234067553982005
+P14,UC_Inflamed,FAP-/a5B1+,a5B1,Spearman correlation with proximity,352,273,0.19778958028153518
+P14,UC_Inflamed,FAP-/a5B1+,PADI4,Proximal-vs-distant median difference,352,273,-0.0077926782446136045
+P14,UC_Inflamed,FAP-/a5B1+,PADI4,Spearman correlation with proximity,352,273,0.03640938766925295
+P14,UC_Inflamed,FAP-/a5B1+,MX1,Proximal-vs-distant median difference,352,273,-0.204909129229204
+P14,UC_Inflamed,FAP-/a5B1+,MX1,Spearman correlation with proximity,352,273,-0.1015336354697253
+P14,UC_Inflamed,FAP-/a5B1+,CD66b,Proximal-vs-distant median difference,352,273,0.06618518620361247
+P14,UC_Inflamed,FAP-/a5B1+,CD66b,Spearman correlation with proximity,352,273,0.028932200479253888
+P14,UC_Inflamed,FAP-/a5B1+,CD16,Proximal-vs-distant median difference,352,273,0.12307785011862205
+P14,UC_Inflamed,FAP-/a5B1+,CD16,Spearman correlation with proximity,352,273,0.05843817812764718
+P14,UC_Inflamed,FAP-/a5B1+,CD11b,Proximal-vs-distant median difference,352,273,-0.06877290532202718
+P14,UC_Inflamed,FAP-/a5B1+,CD11b,Spearman correlation with proximity,352,273,-0.021836393693163276
+P14,UC_Inflamed,FAP-/a5B1+,Ki67,Proximal-vs-distant median difference,352,273,-0.3976557188003098
+P14,UC_Inflamed,FAP-/a5B1+,Ki67,Spearman correlation with proximity,352,273,-0.11218597409032423
+P14,UC_Inflamed,FAP-/a5B1+,NF-niche program,Proximal-vs-distant median difference,352,273,0.004478802491396025
+P14,UC_Inflamed,FAP-/a5B1+,NF-niche program,Spearman correlation with proximity,352,273,0.013309547703003546
+P14,UC_Inflamed,FAP-/a5B1-,OSM,Proximal-vs-distant median difference,906,24,0.9265667058524372
+P14,UC_Inflamed,FAP-/a5B1-,OSM,Spearman correlation with proximity,906,24,-0.11845494072135922
+P14,UC_Inflamed,FAP-/a5B1-,CXCR4,Proximal-vs-distant median difference,906,24,1.5173837128919843
+P14,UC_Inflamed,FAP-/a5B1-,CXCR4,Spearman correlation with proximity,906,24,-0.06817123743349389
+P14,UC_Inflamed,FAP-/a5B1-,PDL1,Proximal-vs-distant median difference,906,24,2.1599784647222546
+P14,UC_Inflamed,FAP-/a5B1-,PDL1,Spearman correlation with proximity,906,24,0.009119059204550842
+P14,UC_Inflamed,FAP-/a5B1-,HLA_ABC,Proximal-vs-distant median difference,906,24,0.22104833345995445
+P14,UC_Inflamed,FAP-/a5B1-,HLA_ABC,Spearman correlation with proximity,906,24,-0.14823355724411064
+P14,UC_Inflamed,FAP-/a5B1-,a5B1,Proximal-vs-distant median difference,906,24,0.6458651755866891
+P14,UC_Inflamed,FAP-/a5B1-,a5B1,Spearman correlation with proximity,906,24,0.014109305241577856
+P14,UC_Inflamed,FAP-/a5B1-,PADI4,Proximal-vs-distant median difference,906,24,3.344245637958357
+P14,UC_Inflamed,FAP-/a5B1-,PADI4,Spearman correlation with proximity,906,24,0.031189173004084633
+P14,UC_Inflamed,FAP-/a5B1-,MX1,Proximal-vs-distant median difference,906,24,1.3369357524326038
+P14,UC_Inflamed,FAP-/a5B1-,MX1,Spearman correlation with proximity,906,24,-0.10410119856603409
+P14,UC_Inflamed,FAP-/a5B1-,CD66b,Proximal-vs-distant median difference,906,24,-0.15318986928987632
+P14,UC_Inflamed,FAP-/a5B1-,CD66b,Spearman correlation with proximity,906,24,-0.0030061901904708073
+P14,UC_Inflamed,FAP-/a5B1-,CD16,Proximal-vs-distant median difference,906,24,0.8610473162401124
+P14,UC_Inflamed,FAP-/a5B1-,CD16,Spearman correlation with proximity,906,24,-0.024511050959903302
+P14,UC_Inflamed,FAP-/a5B1-,CD11b,Proximal-vs-distant median difference,906,24,0.429025226911528
+P14,UC_Inflamed,FAP-/a5B1-,CD11b,Spearman correlation with proximity,906,24,-0.02049910605272524
+P14,UC_Inflamed,FAP-/a5B1-,Ki67,Proximal-vs-distant median difference,906,24,1.199123261376382
+P14,UC_Inflamed,FAP-/a5B1-,Ki67,Spearman correlation with proximity,906,24,-0.07277757358580904
+P14,UC_Inflamed,FAP-/a5B1-,NF-niche program,Proximal-vs-distant median difference,906,24,1.266620654349346
+P14,UC_Inflamed,FAP-/a5B1-,NF-niche program,Spearman correlation with proximity,906,24,-0.07652249634105324
+P15,UC_Inflamed,FAP+/a5B1+,OSM,Proximal-vs-distant median difference,22,861,0.10044292971742577
+P15,UC_Inflamed,FAP+/a5B1+,OSM,Spearman correlation with proximity,22,861,0.011684280907486324
+P15,UC_Inflamed,FAP+/a5B1+,CXCR4,Proximal-vs-distant median difference,22,861,-0.021160759231140247
+P15,UC_Inflamed,FAP+/a5B1+,CXCR4,Spearman correlation with proximity,22,861,0.025888782376535684
+P15,UC_Inflamed,FAP+/a5B1+,PDL1,Proximal-vs-distant median difference,22,861,0.7644752083407576
+P15,UC_Inflamed,FAP+/a5B1+,PDL1,Spearman correlation with proximity,22,861,0.1898076325821912
+P15,UC_Inflamed,FAP+/a5B1+,HLA_ABC,Proximal-vs-distant median difference,22,861,0.16557968426927694
+P15,UC_Inflamed,FAP+/a5B1+,HLA_ABC,Spearman correlation with proximity,22,861,-0.03720789735903422
+P15,UC_Inflamed,FAP+/a5B1+,a5B1,Proximal-vs-distant median difference,22,861,0.5999670566431026
+P15,UC_Inflamed,FAP+/a5B1+,a5B1,Spearman correlation with proximity,22,861,0.06963908037769559
+P15,UC_Inflamed,FAP+/a5B1+,PADI4,Proximal-vs-distant median difference,22,861,0.4342127162003342
+P15,UC_Inflamed,FAP+/a5B1+,PADI4,Spearman correlation with proximity,22,861,0.16058381966929378
+P15,UC_Inflamed,FAP+/a5B1+,MX1,Proximal-vs-distant median difference,22,861,0.47461421219948186
+P15,UC_Inflamed,FAP+/a5B1+,MX1,Spearman correlation with proximity,22,861,0.06070903824021224
+P15,UC_Inflamed,FAP+/a5B1+,CD66b,Proximal-vs-distant median difference,22,861,-0.5156454019216428
+P15,UC_Inflamed,FAP+/a5B1+,CD66b,Spearman correlation with proximity,22,861,0.13218656227784542
+P15,UC_Inflamed,FAP+/a5B1+,CD16,Proximal-vs-distant median difference,22,861,-0.08373918916172851
+P15,UC_Inflamed,FAP+/a5B1+,CD16,Spearman correlation with proximity,22,861,0.14163480293312095
+P15,UC_Inflamed,FAP+/a5B1+,CD11b,Proximal-vs-distant median difference,22,861,0.06706368047181588
+P15,UC_Inflamed,FAP+/a5B1+,CD11b,Spearman correlation with proximity,22,861,0.05848576313102511
+P15,UC_Inflamed,FAP+/a5B1+,Ki67,Proximal-vs-distant median difference,22,861,-0.2872819093386665
+P15,UC_Inflamed,FAP+/a5B1+,Ki67,Spearman correlation with proximity,22,861,0.012562819217197155
+P15,UC_Inflamed,FAP+/a5B1+,NF-niche program,Proximal-vs-distant median difference,22,861,0.2312077971727624
+P15,UC_Inflamed,FAP+/a5B1+,NF-niche program,Spearman correlation with proximity,22,861,0.07682917298552053
+P15,UC_Inflamed,FAP+/a5B1-,OSM,Proximal-vs-distant median difference,570,64,0.9153964404989625
+P15,UC_Inflamed,FAP+/a5B1-,OSM,Spearman correlation with proximity,570,64,0.2829250091321435
+P15,UC_Inflamed,FAP+/a5B1-,CXCR4,Proximal-vs-distant median difference,570,64,1.0666677421753494
+P15,UC_Inflamed,FAP+/a5B1-,CXCR4,Spearman correlation with proximity,570,64,0.2946659630789379
+P15,UC_Inflamed,FAP+/a5B1-,PDL1,Proximal-vs-distant median difference,570,64,1.2586099435923426
+P15,UC_Inflamed,FAP+/a5B1-,PDL1,Spearman correlation with proximity,570,64,0.2832399972101973
+P15,UC_Inflamed,FAP+/a5B1-,HLA_ABC,Proximal-vs-distant median difference,570,64,0.3785784204911167
+P15,UC_Inflamed,FAP+/a5B1-,HLA_ABC,Spearman correlation with proximity,570,64,0.0763243773021296
+P15,UC_Inflamed,FAP+/a5B1-,a5B1,Proximal-vs-distant median difference,570,64,0.4571090463439713
+P15,UC_Inflamed,FAP+/a5B1-,a5B1,Spearman correlation with proximity,570,64,0.1741289352405677
+P15,UC_Inflamed,FAP+/a5B1-,PADI4,Proximal-vs-distant median difference,570,64,1.9781607313599263
+P15,UC_Inflamed,FAP+/a5B1-,PADI4,Spearman correlation with proximity,570,64,0.19236662934615908
+P15,UC_Inflamed,FAP+/a5B1-,MX1,Proximal-vs-distant median difference,570,64,0.5273286062306628
+P15,UC_Inflamed,FAP+/a5B1-,MX1,Spearman correlation with proximity,570,64,0.09997484739508213
+P15,UC_Inflamed,FAP+/a5B1-,CD66b,Proximal-vs-distant median difference,570,64,1.0870282074769482
+P15,UC_Inflamed,FAP+/a5B1-,CD66b,Spearman correlation with proximity,570,64,0.14991595800120905
+P15,UC_Inflamed,FAP+/a5B1-,CD16,Proximal-vs-distant median difference,570,64,0.835441585327799
+P15,UC_Inflamed,FAP+/a5B1-,CD16,Spearman correlation with proximity,570,64,0.26392660562813763
+P15,UC_Inflamed,FAP+/a5B1-,CD11b,Proximal-vs-distant median difference,570,64,0.4595693711009181
+P15,UC_Inflamed,FAP+/a5B1-,CD11b,Spearman correlation with proximity,570,64,0.25259941448896084
+P15,UC_Inflamed,FAP+/a5B1-,Ki67,Proximal-vs-distant median difference,570,64,1.1981294804000897
+P15,UC_Inflamed,FAP+/a5B1-,Ki67,Spearman correlation with proximity,570,64,0.31717073121824957
+P15,UC_Inflamed,FAP+/a5B1-,NF-niche program,Proximal-vs-distant median difference,570,64,0.7662881649229254
+P15,UC_Inflamed,FAP+/a5B1-,NF-niche program,Spearman correlation with proximity,570,64,0.3043813126715194
+P15,UC_Inflamed,FAP-/a5B1+,OSM,Proximal-vs-distant median difference,128,578,-0.5603978108990492
+P15,UC_Inflamed,FAP-/a5B1+,OSM,Spearman correlation with proximity,128,578,-0.0536579324401259
+P15,UC_Inflamed,FAP-/a5B1+,CXCR4,Proximal-vs-distant median difference,128,578,-0.4907403964040489
+P15,UC_Inflamed,FAP-/a5B1+,CXCR4,Spearman correlation with proximity,128,578,-0.03723083025246945
+P15,UC_Inflamed,FAP-/a5B1+,PDL1,Proximal-vs-distant median difference,128,578,-0.06207071136064679
+P15,UC_Inflamed,FAP-/a5B1+,PDL1,Spearman correlation with proximity,128,578,0.1082803970929756
+P15,UC_Inflamed,FAP-/a5B1+,HLA_ABC,Proximal-vs-distant median difference,128,578,-0.03759870575889401
+P15,UC_Inflamed,FAP-/a5B1+,HLA_ABC,Spearman correlation with proximity,128,578,0.02944814646691386
+P15,UC_Inflamed,FAP-/a5B1+,a5B1,Proximal-vs-distant median difference,128,578,0.11534193715739027
+P15,UC_Inflamed,FAP-/a5B1+,a5B1,Spearman correlation with proximity,128,578,0.06792413348618741
+P15,UC_Inflamed,FAP-/a5B1+,PADI4,Proximal-vs-distant median difference,128,578,-0.8583402070088537
+P15,UC_Inflamed,FAP-/a5B1+,PADI4,Spearman correlation with proximity,128,578,-0.10593252663580294
+P15,UC_Inflamed,FAP-/a5B1+,MX1,Proximal-vs-distant median difference,128,578,-0.10937167875187193
+P15,UC_Inflamed,FAP-/a5B1+,MX1,Spearman correlation with proximity,128,578,0.0843077860670824
+P15,UC_Inflamed,FAP-/a5B1+,CD66b,Proximal-vs-distant median difference,128,578,-0.534657371562778
+P15,UC_Inflamed,FAP-/a5B1+,CD66b,Spearman correlation with proximity,128,578,-0.13255334200997182
+P15,UC_Inflamed,FAP-/a5B1+,CD16,Proximal-vs-distant median difference,128,578,-0.25247591897359367
+P15,UC_Inflamed,FAP-/a5B1+,CD16,Spearman correlation with proximity,128,578,-0.10367348352694727
+P15,UC_Inflamed,FAP-/a5B1+,CD11b,Proximal-vs-distant median difference,128,578,-0.1497818940113964
+P15,UC_Inflamed,FAP-/a5B1+,CD11b,Spearman correlation with proximity,128,578,-0.04223520891014721
+P15,UC_Inflamed,FAP-/a5B1+,Ki67,Proximal-vs-distant median difference,128,578,-0.48479293768648235
+P15,UC_Inflamed,FAP-/a5B1+,Ki67,Spearman correlation with proximity,128,578,-0.0598261457462019
+P15,UC_Inflamed,FAP-/a5B1+,NF-niche program,Proximal-vs-distant median difference,128,578,-0.2088386031000325
+P15,UC_Inflamed,FAP-/a5B1+,NF-niche program,Spearman correlation with proximity,128,578,0.04643993879815939
+P15,UC_Inflamed,FAP-/a5B1-,OSM,Spearman correlation with proximity,905,7,0.14306405122063603
+P15,UC_Inflamed,FAP-/a5B1-,CXCR4,Spearman correlation with proximity,905,7,0.18379713717169047
+P15,UC_Inflamed,FAP-/a5B1-,PDL1,Spearman correlation with proximity,905,7,0.1857144227118784
+P15,UC_Inflamed,FAP-/a5B1-,HLA_ABC,Spearman correlation with proximity,905,7,-0.0075217933870236715
+P15,UC_Inflamed,FAP-/a5B1-,a5B1,Spearman correlation with proximity,905,7,0.01851933760836487
+P15,UC_Inflamed,FAP-/a5B1-,PADI4,Spearman correlation with proximity,905,7,0.05123136831062966
+P15,UC_Inflamed,FAP-/a5B1-,MX1,Spearman correlation with proximity,905,7,0.004307490945400301
+P15,UC_Inflamed,FAP-/a5B1-,CD66b,Spearman correlation with proximity,905,7,-0.031887121594327494
+P15,UC_Inflamed,FAP-/a5B1-,CD16,Spearman correlation with proximity,905,7,0.09897710452612085
+P15,UC_Inflamed,FAP-/a5B1-,CD11b,Spearman correlation with proximity,905,7,0.09772061017350564
+P15,UC_Inflamed,FAP-/a5B1-,Ki67,Spearman correlation with proximity,905,7,0.18860303559664804
+P15,UC_Inflamed,FAP-/a5B1-,NF-niche program,Spearman correlation with proximity,905,7,0.15128918969578223
+P16,UC_Noninflamed,FAP+/a5B1+,OSM,Proximal-vs-distant median difference,8,27,0.7325233642269531
+P16,UC_Noninflamed,FAP+/a5B1+,OSM,Spearman correlation with proximity,8,27,0.3538518499753522
+P16,UC_Noninflamed,FAP+/a5B1+,CXCR4,Proximal-vs-distant median difference,8,27,1.4505625924686445
+P16,UC_Noninflamed,FAP+/a5B1+,CXCR4,Spearman correlation with proximity,8,27,0.34049770283542186
+P16,UC_Noninflamed,FAP+/a5B1+,PDL1,Proximal-vs-distant median difference,8,27,0.6643059979742216
+P16,UC_Noninflamed,FAP+/a5B1+,PDL1,Spearman correlation with proximity,8,27,0.24378661732963305
+P16,UC_Noninflamed,FAP+/a5B1+,HLA_ABC,Proximal-vs-distant median difference,8,27,0.7861452331213368
+P16,UC_Noninflamed,FAP+/a5B1+,HLA_ABC,Spearman correlation with proximity,8,27,0.32210915818686403
+P16,UC_Noninflamed,FAP+/a5B1+,a5B1,Proximal-vs-distant median difference,8,27,0.5271295434353568
+P16,UC_Noninflamed,FAP+/a5B1+,a5B1,Spearman correlation with proximity,8,27,0.0963922294172063
+P16,UC_Noninflamed,FAP+/a5B1+,PADI4,Proximal-vs-distant median difference,8,27,-0.14113063052188313
+P16,UC_Noninflamed,FAP+/a5B1+,PADI4,Spearman correlation with proximity,8,27,0.09344353367834385
+P16,UC_Noninflamed,FAP+/a5B1+,MX1,Proximal-vs-distant median difference,8,27,2.0256015551469035
+P16,UC_Noninflamed,FAP+/a5B1+,MX1,Spearman correlation with proximity,8,27,0.14532815839391142
+P16,UC_Noninflamed,FAP+/a5B1+,CD66b,Proximal-vs-distant median difference,8,27,-0.905249099271416
+P16,UC_Noninflamed,FAP+/a5B1+,CD66b,Spearman correlation with proximity,8,27,-0.10928489937047049
+P16,UC_Noninflamed,FAP+/a5B1+,CD16,Proximal-vs-distant median difference,8,27,-0.269814664240152
+P16,UC_Noninflamed,FAP+/a5B1+,CD16,Spearman correlation with proximity,8,27,-0.17545482577860003
+P16,UC_Noninflamed,FAP+/a5B1+,CD11b,Proximal-vs-distant median difference,8,27,0.8438954629923487
+P16,UC_Noninflamed,FAP+/a5B1+,CD11b,Spearman correlation with proximity,8,27,0.22239353675503193
+P16,UC_Noninflamed,FAP+/a5B1+,Ki67,Proximal-vs-distant median difference,8,27,1.2106601655969067
+P16,UC_Noninflamed,FAP+/a5B1+,Ki67,Spearman correlation with proximity,8,27,0.41103916127042855
+P16,UC_Noninflamed,FAP+/a5B1+,NF-niche program,Proximal-vs-distant median difference,8,27,0.6166841706985651
+P16,UC_Noninflamed,FAP+/a5B1+,NF-niche program,Spearman correlation with proximity,8,27,0.34320074005550416
+P16,UC_Noninflamed,FAP+/a5B1-,OSM,Proximal-vs-distant median difference,11,22,-0.1777850839590207
+P16,UC_Noninflamed,FAP+/a5B1-,OSM,Spearman correlation with proximity,11,22,-0.06285079921995536
+P16,UC_Noninflamed,FAP+/a5B1-,CXCR4,Proximal-vs-distant median difference,11,22,0.3281510369378058
+P16,UC_Noninflamed,FAP+/a5B1-,CXCR4,Spearman correlation with proximity,11,22,-0.04458971909980257
+P16,UC_Noninflamed,FAP+/a5B1-,PDL1,Proximal-vs-distant median difference,11,22,-0.5659580440313459
+P16,UC_Noninflamed,FAP+/a5B1-,PDL1,Spearman correlation with proximity,11,22,-0.0734505087881591
+P16,UC_Noninflamed,FAP+/a5B1-,HLA_ABC,Proximal-vs-distant median difference,11,22,0.47007619143843105
+P16,UC_Noninflamed,FAP+/a5B1-,HLA_ABC,Spearman correlation with proximity,11,22,0.02337341967314215
+P16,UC_Noninflamed,FAP+/a5B1-,a5B1,Proximal-vs-distant median difference,11,22,-0.3135874888402366
+P16,UC_Noninflamed,FAP+/a5B1-,a5B1,Spearman correlation with proximity,11,22,-0.11551032994141228
+P16,UC_Noninflamed,FAP+/a5B1-,PADI4,Proximal-vs-distant median difference,11,22,-0.3610199510952814
+P16,UC_Noninflamed,FAP+/a5B1-,PADI4,Spearman correlation with proximity,11,22,-0.11219391931413032
+P16,UC_Noninflamed,FAP+/a5B1-,MX1,Proximal-vs-distant median difference,11,22,-0.24106719633035345
+P16,UC_Noninflamed,FAP+/a5B1-,MX1,Spearman correlation with proximity,11,22,-0.1226862221189738
+P16,UC_Noninflamed,FAP+/a5B1-,CD66b,Proximal-vs-distant median difference,11,22,0.16244264136835174
+P16,UC_Noninflamed,FAP+/a5B1-,CD66b,Spearman correlation with proximity,11,22,-0.0830121188220391
+P16,UC_Noninflamed,FAP+/a5B1-,CD16,Proximal-vs-distant median difference,11,22,-0.08953783668000082
+P16,UC_Noninflamed,FAP+/a5B1-,CD16,Spearman correlation with proximity,11,22,-0.25624421831637373
+P16,UC_Noninflamed,FAP+/a5B1-,CD11b,Proximal-vs-distant median difference,11,22,0.697787801850895
+P16,UC_Noninflamed,FAP+/a5B1-,CD11b,Spearman correlation with proximity,11,22,0.09880045642860819
+P16,UC_Noninflamed,FAP+/a5B1-,Ki67,Proximal-vs-distant median difference,11,22,-0.07038276190776381
+P16,UC_Noninflamed,FAP+/a5B1-,Ki67,Spearman correlation with proximity,11,22,-0.032624113475177303
+P16,UC_Noninflamed,FAP+/a5B1-,NF-niche program,Proximal-vs-distant median difference,11,22,-0.02454876495728775
+P16,UC_Noninflamed,FAP+/a5B1-,NF-niche program,Spearman correlation with proximity,11,22,-0.06753006475485661
+P16,UC_Noninflamed,FAP-/a5B1+,OSM,Spearman correlation with proximity,35,4,0.19435021427093166
+P16,UC_Noninflamed,FAP-/a5B1+,CXCR4,Spearman correlation with proximity,35,4,0.1486940701931176
+P16,UC_Noninflamed,FAP-/a5B1+,PDL1,Spearman correlation with proximity,35,4,0.22466851680542707
+P16,UC_Noninflamed,FAP-/a5B1+,HLA_ABC,Spearman correlation with proximity,35,4,0.22417514646931852
+P16,UC_Noninflamed,FAP-/a5B1+,a5B1,Spearman correlation with proximity,35,4,0.42362010484119644
+P16,UC_Noninflamed,FAP-/a5B1+,PADI4,Spearman correlation with proximity,35,4,0.12946401134709157
+P16,UC_Noninflamed,FAP-/a5B1+,MX1,Spearman correlation with proximity,35,4,0.2180876390077559
+P16,UC_Noninflamed,FAP-/a5B1+,CD66b,Spearman correlation with proximity,35,4,0.0778315705448836
+P16,UC_Noninflamed,FAP-/a5B1+,CD16,Spearman correlation with proximity,35,4,0.25390070921985813
+P16,UC_Noninflamed,FAP-/a5B1+,CD11b,Spearman correlation with proximity,35,4,0.1399981498707494
+P16,UC_Noninflamed,FAP-/a5B1+,Ki67,Spearman correlation with proximity,35,4,0.2582176996608079
+P16,UC_Noninflamed,FAP-/a5B1+,NF-niche program,Spearman correlation with proximity,35,4,0.2967005858772741
+P16,UC_Noninflamed,FAP-/a5B1-,OSM,Spearman correlation with proximity,39,2,0.3626102537920683
+P16,UC_Noninflamed,FAP-/a5B1-,CXCR4,Spearman correlation with proximity,39,2,0.4338092450179962
+P16,UC_Noninflamed,FAP-/a5B1-,PDL1,Spearman correlation with proximity,39,2,0.24798026518655564
+P16,UC_Noninflamed,FAP-/a5B1-,HLA_ABC,Spearman correlation with proximity,39,2,0.1320382362010484
+P16,UC_Noninflamed,FAP-/a5B1-,a5B1,Spearman correlation with proximity,39,2,0.16213382670366944
+P16,UC_Noninflamed,FAP-/a5B1-,PADI4,Spearman correlation with proximity,39,2,0.11059026791106964
+P16,UC_Noninflamed,FAP-/a5B1-,MX1,Spearman correlation with proximity,39,2,0.14558256217228152
+P16,UC_Noninflamed,FAP-/a5B1-,CD66b,Spearman correlation with proximity,39,2,-0.14098492097116
+P16,UC_Noninflamed,FAP-/a5B1-,CD16,Spearman correlation with proximity,39,2,-0.21911810052420597
+P16,UC_Noninflamed,FAP-/a5B1-,CD11b,Spearman correlation with proximity,39,2,0.06093311545035261
+P16,UC_Noninflamed,FAP-/a5B1-,Ki67,Spearman correlation with proximity,39,2,0.27548566142460684
+P16,UC_Noninflamed,FAP-/a5B1-,NF-niche program,Spearman correlation with proximity,39,2,0.36367560900400864
+P17,UC_Noninflamed,FAP+/a5B1+,OSM,Proximal-vs-distant median difference,9,62,0.6690459902565382
+P17,UC_Noninflamed,FAP+/a5B1+,OSM,Spearman correlation with proximity,9,62,-0.0203998417767817
+P17,UC_Noninflamed,FAP+/a5B1+,CXCR4,Proximal-vs-distant median difference,9,62,2.0105748514667607
+P17,UC_Noninflamed,FAP+/a5B1+,CXCR4,Spearman correlation with proximity,9,62,0.15085199610516067
+P17,UC_Noninflamed,FAP+/a5B1+,PDL1,Proximal-vs-distant median difference,9,62,1.1105442522044935
+P17,UC_Noninflamed,FAP+/a5B1+,PDL1,Spearman correlation with proximity,9,62,0.12309284002899365
+P17,UC_Noninflamed,FAP+/a5B1+,HLA_ABC,Proximal-vs-distant median difference,9,62,0.26152997319861626
+P17,UC_Noninflamed,FAP+/a5B1+,HLA_ABC,Spearman correlation with proximity,9,62,0.14033592989289193
+P17,UC_Noninflamed,FAP+/a5B1+,a5B1,Proximal-vs-distant median difference,9,62,0.810431404359699
+P17,UC_Noninflamed,FAP+/a5B1+,a5B1,Spearman correlation with proximity,9,62,0.11280428432327166
+P17,UC_Noninflamed,FAP+/a5B1+,PADI4,Proximal-vs-distant median difference,9,62,0.047134460219238505
+P17,UC_Noninflamed,FAP+/a5B1+,PADI4,Spearman correlation with proximity,9,62,0.05396819600998193
+P17,UC_Noninflamed,FAP+/a5B1+,MX1,Proximal-vs-distant median difference,9,62,2.3684142033106745
+P17,UC_Noninflamed,FAP+/a5B1+,MX1,Spearman correlation with proximity,9,62,0.08304044555364387
+P17,UC_Noninflamed,FAP+/a5B1+,CD66b,Proximal-vs-distant median difference,9,62,-1.154244671936387
+P17,UC_Noninflamed,FAP+/a5B1+,CD66b,Spearman correlation with proximity,9,62,-0.0255111976630964
+P17,UC_Noninflamed,FAP+/a5B1+,CD16,Proximal-vs-distant median difference,9,62,0.1951566821919224
+P17,UC_Noninflamed,FAP+/a5B1+,CD16,Spearman correlation with proximity,9,62,0.13176728334956184
+P17,UC_Noninflamed,FAP+/a5B1+,CD11b,Proximal-vs-distant median difference,9,62,0.9621956969483283
+P17,UC_Noninflamed,FAP+/a5B1+,CD11b,Spearman correlation with proximity,9,62,0.3060856864654333
+P17,UC_Noninflamed,FAP+/a5B1+,Ki67,Proximal-vs-distant median difference,9,62,0.5512864336331089
+P17,UC_Noninflamed,FAP+/a5B1+,Ki67,Spearman correlation with proximity,9,62,0.05844693281402142
+P17,UC_Noninflamed,FAP+/a5B1+,NF-niche program,Proximal-vs-distant median difference,9,62,0.8410574250297327
+P17,UC_Noninflamed,FAP+/a5B1+,NF-niche program,Spearman correlation with proximity,9,62,0.17151898734177215
+P17,UC_Noninflamed,FAP+/a5B1-,OSM,Proximal-vs-distant median difference,12,61,0.45720658393896274
+P17,UC_Noninflamed,FAP+/a5B1-,OSM,Spearman correlation with proximity,12,61,0.058485226573649206
+P17,UC_Noninflamed,FAP+/a5B1-,CXCR4,Proximal-vs-distant median difference,12,61,2.025808119939933
+P17,UC_Noninflamed,FAP+/a5B1-,CXCR4,Spearman correlation with proximity,12,61,0.33748782862706916
+P17,UC_Noninflamed,FAP+/a5B1-,PDL1,Proximal-vs-distant median difference,12,61,1.2815523128285666
+P17,UC_Noninflamed,FAP+/a5B1-,PDL1,Spearman correlation with proximity,12,61,0.36266926347314293
+P17,UC_Noninflamed,FAP+/a5B1-,HLA_ABC,Proximal-vs-distant median difference,12,61,0.3920579971311353
+P17,UC_Noninflamed,FAP+/a5B1-,HLA_ABC,Spearman correlation with proximity,12,61,0.3522395326192794
+P17,UC_Noninflamed,FAP+/a5B1-,a5B1,Proximal-vs-distant median difference,12,61,0.5016901965703283
+P17,UC_Noninflamed,FAP+/a5B1-,a5B1,Spearman correlation with proximity,12,61,0.20854430379746836
+P17,UC_Noninflamed,FAP+/a5B1-,PADI4,Proximal-vs-distant median difference,12,61,0.6799890678917766
+P17,UC_Noninflamed,FAP+/a5B1-,PADI4,Spearman correlation with proximity,12,61,0.23324143891278387
+P17,UC_Noninflamed,FAP+/a5B1-,MX1,Proximal-vs-distant median difference,12,61,0.8264500726807997
+P17,UC_Noninflamed,FAP+/a5B1-,MX1,Spearman correlation with proximity,12,61,0.25604753588935963
+P17,UC_Noninflamed,FAP+/a5B1-,CD66b,Proximal-vs-distant median difference,12,61,0.18999767808432155
+P17,UC_Noninflamed,FAP+/a5B1-,CD66b,Spearman correlation with proximity,12,61,-0.1008763388510224
+P17,UC_Noninflamed,FAP+/a5B1-,CD16,Proximal-vs-distant median difference,12,61,0.15834294413208294
+P17,UC_Noninflamed,FAP+/a5B1-,CD16,Spearman correlation with proximity,12,61,0.13274099318403118
+P17,UC_Noninflamed,FAP+/a5B1-,CD11b,Proximal-vs-distant median difference,12,61,0.8570811455067218
+P17,UC_Noninflamed,FAP+/a5B1-,CD11b,Spearman correlation with proximity,12,61,0.5194255111976631
+P17,UC_Noninflamed,FAP+/a5B1-,Ki67,Proximal-vs-distant median difference,12,61,0.7300284683476299
+P17,UC_Noninflamed,FAP+/a5B1-,Ki67,Spearman correlation with proximity,12,61,0.24790652385589096
+P17,UC_Noninflamed,FAP+/a5B1-,NF-niche program,Proximal-vs-distant median difference,12,61,0.9213066782159998
+P17,UC_Noninflamed,FAP+/a5B1-,NF-niche program,Spearman correlation with proximity,12,61,0.3520934761441091
+P17,UC_Noninflamed,FAP-/a5B1+,OSM,Spearman correlation with proximity,72,3,0.04602136143079452
+P17,UC_Noninflamed,FAP-/a5B1+,CXCR4,Spearman correlation with proximity,72,3,0.09627555988315482
+P17,UC_Noninflamed,FAP-/a5B1+,PDL1,Spearman correlation with proximity,72,3,0.15284058066291636
+P17,UC_Noninflamed,FAP-/a5B1+,HLA_ABC,Spearman correlation with proximity,72,3,0.22775073028237586
+P17,UC_Noninflamed,FAP-/a5B1+,a5B1,Spearman correlation with proximity,72,3,0.3669912366114898
+P17,UC_Noninflamed,FAP-/a5B1+,PADI4,Spearman correlation with proximity,72,3,-0.03993451761586619
+P17,UC_Noninflamed,FAP-/a5B1+,MX1,Spearman correlation with proximity,72,3,-0.030921412569618945
+P17,UC_Noninflamed,FAP-/a5B1+,CD66b,Spearman correlation with proximity,72,3,0.0185491723466407
+P17,UC_Noninflamed,FAP-/a5B1+,CD16,Spearman correlation with proximity,72,3,0.011879259980525804
+P17,UC_Noninflamed,FAP-/a5B1+,CD11b,Spearman correlation with proximity,72,3,-0.15240993184031157
+P17,UC_Noninflamed,FAP-/a5B1+,Ki67,Spearman correlation with proximity,72,3,0.15640214216163584
+P17,UC_Noninflamed,FAP-/a5B1+,NF-niche program,Spearman correlation with proximity,72,3,0.23198636806231743
+P17,UC_Noninflamed,FAP-/a5B1-,OSM,Spearman correlation with proximity,70,2,0.21150838338611908
+P17,UC_Noninflamed,FAP-/a5B1-,CXCR4,Spearman correlation with proximity,70,2,0.27524342745861735
+P17,UC_Noninflamed,FAP-/a5B1-,PDL1,Spearman correlation with proximity,70,2,0.5544837661940873
+P17,UC_Noninflamed,FAP-/a5B1-,HLA_ABC,Spearman correlation with proximity,70,2,0.15012171372930866
+P17,UC_Noninflamed,FAP-/a5B1-,a5B1,Spearman correlation with proximity,70,2,0.23588120740019478
+P17,UC_Noninflamed,FAP-/a5B1-,PADI4,Spearman correlation with proximity,70,2,0.03169444799503674
+P17,UC_Noninflamed,FAP-/a5B1-,MX1,Spearman correlation with proximity,70,2,0.18318687781379675
+P17,UC_Noninflamed,FAP-/a5B1-,CD66b,Spearman correlation with proximity,70,2,-0.0974926971762415
+P17,UC_Noninflamed,FAP-/a5B1-,CD16,Spearman correlation with proximity,70,2,0.06830574488802336
+P17,UC_Noninflamed,FAP-/a5B1-,CD11b,Spearman correlation with proximity,70,2,-0.043573515092502436
+P17,UC_Noninflamed,FAP-/a5B1-,Ki67,Spearman correlation with proximity,70,2,0.3493914313534566
+P17,UC_Noninflamed,FAP-/a5B1-,NF-niche program,Spearman correlation with proximity,70,2,0.393427458617332
+P18,UC_Noninflamed,FAP+/a5B1+,OSM,Spearman correlation with proximity,2,33,0.5009559050262103
+P18,UC_Noninflamed,FAP+/a5B1+,CXCR4,Spearman correlation with proximity,2,33,0.47900092506938013
+P18,UC_Noninflamed,FAP+/a5B1+,PDL1,Spearman correlation with proximity,2,33,0.5158803576934936
+P18,UC_Noninflamed,FAP+/a5B1+,HLA_ABC,Spearman correlation with proximity,2,33,0.1459759481961147
+P18,UC_Noninflamed,FAP+/a5B1+,a5B1,Spearman correlation with proximity,2,33,0.21665124884366327
+P18,UC_Noninflamed,FAP+/a5B1+,PADI4,Spearman correlation with proximity,2,33,0.3330762863884771
+P18,UC_Noninflamed,FAP+/a5B1+,MX1,Spearman correlation with proximity,2,33,0.36590705867099405
+P18,UC_Noninflamed,FAP+/a5B1+,CD66b,Spearman correlation with proximity,2,33,0.22318840579710145
+P18,UC_Noninflamed,FAP+/a5B1+,CD16,Spearman correlation with proximity,2,33,0.29374036386062286
+P18,UC_Noninflamed,FAP+/a5B1+,CD11b,Spearman correlation with proximity,2,33,0.0011717545482577859
+P18,UC_Noninflamed,FAP+/a5B1+,Ki67,Spearman correlation with proximity,2,33,0.25390070921985813
+P18,UC_Noninflamed,FAP+/a5B1+,NF-niche program,Spearman correlation with proximity,2,33,0.42867715078630897
+P18,UC_Noninflamed,FAP+/a5B1-,OSM,Proximal-vs-distant median difference,10,18,0.31446689838364617
+P18,UC_Noninflamed,FAP+/a5B1-,OSM,Spearman correlation with proximity,10,18,0.1400555041628122
+P18,UC_Noninflamed,FAP+/a5B1-,CXCR4,Proximal-vs-distant median difference,10,18,0.4197385077220277
+P18,UC_Noninflamed,FAP+/a5B1-,CXCR4,Spearman correlation with proximity,10,18,0.15892691951896393
+P18,UC_Noninflamed,FAP+/a5B1-,PDL1,Proximal-vs-distant median difference,10,18,0.8475465663556183
+P18,UC_Noninflamed,FAP+/a5B1-,PDL1,Spearman correlation with proximity,10,18,0.21566450817144617
+P18,UC_Noninflamed,FAP+/a5B1-,HLA_ABC,Proximal-vs-distant median difference,10,18,0.26166463362564585
+P18,UC_Noninflamed,FAP+/a5B1-,HLA_ABC,Spearman correlation with proximity,10,18,0.16632747456059202
+P18,UC_Noninflamed,FAP+/a5B1-,a5B1,Proximal-vs-distant median difference,10,18,-0.3851227465855098
+P18,UC_Noninflamed,FAP+/a5B1-,a5B1,Spearman correlation with proximity,10,18,-0.051618871415356156
+P18,UC_Noninflamed,FAP+/a5B1-,PADI4,Proximal-vs-distant median difference,10,18,1.0895458036780044
+P18,UC_Noninflamed,FAP+/a5B1-,PADI4,Spearman correlation with proximity,10,18,-0.0006791175440728911
+P18,UC_Noninflamed,FAP+/a5B1-,MX1,Proximal-vs-distant median difference,10,18,-0.34761873231315366
+P18,UC_Noninflamed,FAP+/a5B1-,MX1,Spearman correlation with proximity,10,18,-0.13130222954838128
+P18,UC_Noninflamed,FAP+/a5B1-,CD66b,Proximal-vs-distant median difference,10,18,1.7094977389469157
+P18,UC_Noninflamed,FAP+/a5B1-,CD66b,Spearman correlation with proximity,10,18,0.010545790934320074
+P18,UC_Noninflamed,FAP+/a5B1-,CD16,Proximal-vs-distant median difference,10,18,0.09014627503878536
+P18,UC_Noninflamed,FAP+/a5B1-,CD16,Spearman correlation with proximity,10,18,-0.09762565525747763
+P18,UC_Noninflamed,FAP+/a5B1-,CD11b,Proximal-vs-distant median difference,10,18,0.1851422378632268
+P18,UC_Noninflamed,FAP+/a5B1-,CD11b,Spearman correlation with proximity,10,18,-0.057415972864631515
+P18,UC_Noninflamed,FAP+/a5B1-,Ki67,Proximal-vs-distant median difference,10,18,0.4737937894498833
+P18,UC_Noninflamed,FAP+/a5B1-,Ki67,Spearman correlation with proximity,10,18,0.04878199198273204
+P18,UC_Noninflamed,FAP+/a5B1-,NF-niche program,Proximal-vs-distant median difference,10,18,0.39079305065005343
+P18,UC_Noninflamed,FAP+/a5B1-,NF-niche program,Spearman correlation with proximity,10,18,0.16941103916127043
+P18,UC_Noninflamed,FAP-/a5B1+,OSM,Proximal-vs-distant median difference,10,21,0.18048959276598975
+P18,UC_Noninflamed,FAP-/a5B1+,OSM,Spearman correlation with proximity,10,21,0.25587419056429234
+P18,UC_Noninflamed,FAP-/a5B1+,CXCR4,Proximal-vs-distant median difference,10,21,0.23002704845535416
+P18,UC_Noninflamed,FAP-/a5B1+,CXCR4,Spearman correlation with proximity,10,21,0.1267345050878816
+P18,UC_Noninflamed,FAP-/a5B1+,PDL1,Proximal-vs-distant median difference,10,21,0.6587832023513271
+P18,UC_Noninflamed,FAP-/a5B1+,PDL1,Spearman correlation with proximity,10,21,0.21911810052420597
+P18,UC_Noninflamed,FAP-/a5B1+,HLA_ABC,Proximal-vs-distant median difference,10,21,-0.36269792689369673
+P18,UC_Noninflamed,FAP-/a5B1+,HLA_ABC,Spearman correlation with proximity,10,21,-0.2215849522047487
+P18,UC_Noninflamed,FAP-/a5B1+,a5B1,Proximal-vs-distant median difference,10,21,-0.6373236957406891
+P18,UC_Noninflamed,FAP-/a5B1+,a5B1,Spearman correlation with proximity,10,21,-0.14893617021276595
+P18,UC_Noninflamed,FAP-/a5B1+,PADI4,Proximal-vs-distant median difference,10,21,-0.9758411491838124
+P18,UC_Noninflamed,FAP-/a5B1+,PADI4,Spearman correlation with proximity,10,21,0.22225665078749163
+P18,UC_Noninflamed,FAP-/a5B1+,MX1,Proximal-vs-distant median difference,10,21,0.5252460285494778
+P18,UC_Noninflamed,FAP-/a5B1+,MX1,Spearman correlation with proximity,10,21,0.09405162050788234
+P18,UC_Noninflamed,FAP-/a5B1+,CD66b,Proximal-vs-distant median difference,10,21,0.6213891334470574
+P18,UC_Noninflamed,FAP-/a5B1+,CD66b,Spearman correlation with proximity,10,21,0.020659882824545173
+P18,UC_Noninflamed,FAP-/a5B1+,CD16,Proximal-vs-distant median difference,10,21,0.4592079888605296
+P18,UC_Noninflamed,FAP-/a5B1+,CD16,Spearman correlation with proximity,10,21,0.13438174529756397
+P18,UC_Noninflamed,FAP-/a5B1+,CD11b,Proximal-vs-distant median difference,10,21,-0.11552607518316904
+P18,UC_Noninflamed,FAP-/a5B1+,CD11b,Spearman correlation with proximity,10,21,-0.11575701510946655
+P18,UC_Noninflamed,FAP-/a5B1+,Ki67,Proximal-vs-distant median difference,10,21,0.49860224291820343
+P18,UC_Noninflamed,FAP-/a5B1+,Ki67,Spearman correlation with proximity,10,21,0.08652482269503546
+P18,UC_Noninflamed,FAP-/a5B1+,NF-niche program,Proximal-vs-distant median difference,10,21,0.03855368658623799
+P18,UC_Noninflamed,FAP-/a5B1+,NF-niche program,Spearman correlation with proximity,10,21,0.07530064754856612
+P18,UC_Noninflamed,FAP-/a5B1-,OSM,Spearman correlation with proximity,35,0,0.33283996299722474
+P18,UC_Noninflamed,FAP-/a5B1-,CXCR4,Spearman correlation with proximity,35,0,0.34813444341658956
+P18,UC_Noninflamed,FAP-/a5B1-,PDL1,Spearman correlation with proximity,35,0,0.41819303114400247
+P18,UC_Noninflamed,FAP-/a5B1-,HLA_ABC,Spearman correlation with proximity,35,0,0.08196114708603144
+P18,UC_Noninflamed,FAP-/a5B1-,a5B1,Spearman correlation with proximity,35,0,-0.07690410114091889
+P18,UC_Noninflamed,FAP-/a5B1-,PADI4,Spearman correlation with proximity,35,0,0.2379998302182723
+P18,UC_Noninflamed,FAP-/a5B1-,MX1,Spearman correlation with proximity,35,0,0.12643004724010412
+P18,UC_Noninflamed,FAP-/a5B1-,CD66b,Spearman correlation with proximity,35,0,0.15386987357385137
+P18,UC_Noninflamed,FAP-/a5B1-,CD16,Spearman correlation with proximity,35,0,0.18828245451742212
+P18,UC_Noninflamed,FAP-/a5B1-,CD11b,Spearman correlation with proximity,35,0,0.14363243909959914
+P18,UC_Noninflamed,FAP-/a5B1-,Ki67,Spearman correlation with proximity,35,0,0.34912118408880666
+P18,UC_Noninflamed,FAP-/a5B1-,NF-niche program,Spearman correlation with proximity,35,0,0.2743755781683626
+P19,UC_Noninflamed,FAP+/a5B1+,OSM,Proximal-vs-distant median difference,5,24,0.27223490474397716
+P19,UC_Noninflamed,FAP+/a5B1+,OSM,Spearman correlation with proximity,5,24,0.4765395894428152
+P19,UC_Noninflamed,FAP+/a5B1+,CXCR4,Proximal-vs-distant median difference,5,24,0.18419570383343142
+P19,UC_Noninflamed,FAP+/a5B1+,CXCR4,Spearman correlation with proximity,5,24,0.4527126099706744
+P19,UC_Noninflamed,FAP+/a5B1+,PDL1,Proximal-vs-distant median difference,5,24,0.9960849666583573
+P19,UC_Noninflamed,FAP+/a5B1+,PDL1,Spearman correlation with proximity,5,24,0.6715542521994134
+P19,UC_Noninflamed,FAP+/a5B1+,HLA_ABC,Proximal-vs-distant median difference,5,24,0.08224000887663241
+P19,UC_Noninflamed,FAP+/a5B1+,HLA_ABC,Spearman correlation with proximity,5,24,-0.04765395894428152
+P19,UC_Noninflamed,FAP+/a5B1+,a5B1,Proximal-vs-distant median difference,5,24,0.9010790783065561
+P19,UC_Noninflamed,FAP+/a5B1+,a5B1,Spearman correlation with proximity,5,24,0.45161290322580644
+P19,UC_Noninflamed,FAP+/a5B1+,PADI4,Proximal-vs-distant median difference,5,24,-2.0342894969183862
+P19,UC_Noninflamed,FAP+/a5B1+,PADI4,Spearman correlation with proximity,5,24,-0.07001466275659823
+P19,UC_Noninflamed,FAP+/a5B1+,MX1,Proximal-vs-distant median difference,5,24,1.2469162860815666
+P19,UC_Noninflamed,FAP+/a5B1+,MX1,Spearman correlation with proximity,5,24,0.16165689149560114
+P19,UC_Noninflamed,FAP+/a5B1+,CD66b,Proximal-vs-distant median difference,5,24,-1.6664950855485852
+P19,UC_Noninflamed,FAP+/a5B1+,CD66b,Spearman correlation with proximity,5,24,-0.564516129032258
+P19,UC_Noninflamed,FAP+/a5B1+,CD16,Proximal-vs-distant median difference,5,24,-0.10769052851027894
+P19,UC_Noninflamed,FAP+/a5B1+,CD16,Spearman correlation with proximity,5,24,-0.28005865102639294
+P19,UC_Noninflamed,FAP+/a5B1+,CD11b,Proximal-vs-distant median difference,5,24,-0.17320399398950048
+P19,UC_Noninflamed,FAP+/a5B1+,CD11b,Spearman correlation with proximity,5,24,0.07954545454545453
+P19,UC_Noninflamed,FAP+/a5B1+,Ki67,Proximal-vs-distant median difference,5,24,-1.23455509015819
+P19,UC_Noninflamed,FAP+/a5B1+,Ki67,Spearman correlation with proximity,5,24,-0.1066715542521994
+P19,UC_Noninflamed,FAP+/a5B1+,NF-niche program,Proximal-vs-distant median difference,5,24,0.4231840554440304
+P19,UC_Noninflamed,FAP+/a5B1+,NF-niche program,Spearman correlation with proximity,5,24,0.4937683284457478
+P19,UC_Noninflamed,FAP+/a5B1-,OSM,Proximal-vs-distant median difference,10,13,-0.16493521298840885
+P19,UC_Noninflamed,FAP+/a5B1-,OSM,Spearman correlation with proximity,10,13,-0.07991202346041056
+P19,UC_Noninflamed,FAP+/a5B1-,CXCR4,Proximal-vs-distant median difference,10,13,-0.4299381611406794
+P19,UC_Noninflamed,FAP+/a5B1-,CXCR4,Spearman correlation with proximity,10,13,-0.1528592375366569
+P19,UC_Noninflamed,FAP+/a5B1-,PDL1,Proximal-vs-distant median difference,10,13,-0.23216338803591707
+P19,UC_Noninflamed,FAP+/a5B1-,PDL1,Spearman correlation with proximity,10,13,0.01686217008797654
+P19,UC_Noninflamed,FAP+/a5B1-,HLA_ABC,Proximal-vs-distant median difference,10,13,0.13930811569917712
+P19,UC_Noninflamed,FAP+/a5B1-,HLA_ABC,Spearman correlation with proximity,10,13,-0.157258064516129
+P19,UC_Noninflamed,FAP+/a5B1-,a5B1,Proximal-vs-distant median difference,10,13,0.7087788935349217
+P19,UC_Noninflamed,FAP+/a5B1-,a5B1,Spearman correlation with proximity,10,13,0.34640762463343105
+P19,UC_Noninflamed,FAP+/a5B1-,PADI4,Proximal-vs-distant median difference,10,13,-1.3965601948353323
+P19,UC_Noninflamed,FAP+/a5B1-,PADI4,Spearman correlation with proximity,10,13,-0.376466275659824
+P19,UC_Noninflamed,FAP+/a5B1-,MX1,Proximal-vs-distant median difference,10,13,-0.05135270137753256
+P19,UC_Noninflamed,FAP+/a5B1-,MX1,Spearman correlation with proximity,10,13,-0.08724340175953077
+P19,UC_Noninflamed,FAP+/a5B1-,CD66b,Proximal-vs-distant median difference,10,13,-2.5759536810029466
+P19,UC_Noninflamed,FAP+/a5B1-,CD66b,Spearman correlation with proximity,10,13,-0.3731671554252199
+P19,UC_Noninflamed,FAP+/a5B1-,CD16,Proximal-vs-distant median difference,10,13,-1.0049985957453291
+P19,UC_Noninflamed,FAP+/a5B1-,CD16,Spearman correlation with proximity,10,13,-0.4237536656891495
+P19,UC_Noninflamed,FAP+/a5B1-,CD11b,Proximal-vs-distant median difference,10,13,-0.22344807848030968
+P19,UC_Noninflamed,FAP+/a5B1-,CD11b,Spearman correlation with proximity,10,13,-0.24853372434017595
+P19,UC_Noninflamed,FAP+/a5B1-,Ki67,Proximal-vs-distant median difference,10,13,-0.11679571476719997
+P19,UC_Noninflamed,FAP+/a5B1-,Ki67,Spearman correlation with proximity,10,13,-0.16752199413489735
+P19,UC_Noninflamed,FAP+/a5B1-,NF-niche program,Proximal-vs-distant median difference,10,13,-0.12145843523933383
+P19,UC_Noninflamed,FAP+/a5B1-,NF-niche program,Spearman correlation with proximity,10,13,-0.012096774193548385
+P19,UC_Noninflamed,FAP-/a5B1+,OSM,Proximal-vs-distant median difference,8,19,0.9255499495603705
+P19,UC_Noninflamed,FAP-/a5B1+,OSM,Spearman correlation with proximity,8,19,0.44391495601173014
+P19,UC_Noninflamed,FAP-/a5B1+,CXCR4,Proximal-vs-distant median difference,8,19,1.0862170410127217
+P19,UC_Noninflamed,FAP-/a5B1+,CXCR4,Spearman correlation with proximity,8,19,0.4428152492668622
+P19,UC_Noninflamed,FAP-/a5B1+,PDL1,Proximal-vs-distant median difference,8,19,1.722976737098668
+P19,UC_Noninflamed,FAP-/a5B1+,PDL1,Spearman correlation with proximity,8,19,0.6224340175953078
+P19,UC_Noninflamed,FAP-/a5B1+,HLA_ABC,Proximal-vs-distant median difference,8,19,-0.11278291656923667
+P19,UC_Noninflamed,FAP-/a5B1+,HLA_ABC,Spearman correlation with proximity,8,19,-0.07661290322580644
+P19,UC_Noninflamed,FAP-/a5B1+,a5B1,Proximal-vs-distant median difference,8,19,0.6096960553713138
+P19,UC_Noninflamed,FAP-/a5B1+,a5B1,Spearman correlation with proximity,8,19,0.4050586510263929
+P19,UC_Noninflamed,FAP-/a5B1+,PADI4,Proximal-vs-distant median difference,8,19,1.4390448735159003
+P19,UC_Noninflamed,FAP-/a5B1+,PADI4,Spearman correlation with proximity,8,19,-0.06121700879765395
+P19,UC_Noninflamed,FAP-/a5B1+,MX1,Proximal-vs-distant median difference,8,19,1.503227968997951
+P19,UC_Noninflamed,FAP-/a5B1+,MX1,Spearman correlation with proximity,8,19,0.0813782991202346
+P19,UC_Noninflamed,FAP-/a5B1+,CD66b,Proximal-vs-distant median difference,8,19,-1.8711644931484552
+P19,UC_Noninflamed,FAP-/a5B1+,CD66b,Spearman correlation with proximity,8,19,-0.5604838709677419
+P19,UC_Noninflamed,FAP-/a5B1+,CD16,Proximal-vs-distant median difference,8,19,-0.33176536668845724
+P19,UC_Noninflamed,FAP-/a5B1+,CD16,Spearman correlation with proximity,8,19,-0.32074780058651026
+P19,UC_Noninflamed,FAP-/a5B1+,CD11b,Proximal-vs-distant median difference,8,19,-0.12839639574813688
+P19,UC_Noninflamed,FAP-/a5B1+,CD11b,Spearman correlation with proximity,8,19,-0.06231671554252198
+P19,UC_Noninflamed,FAP-/a5B1+,Ki67,Proximal-vs-distant median difference,8,19,-0.9685264855957606
+P19,UC_Noninflamed,FAP-/a5B1+,Ki67,Spearman correlation with proximity,8,19,-0.11803519061583577
+P19,UC_Noninflamed,FAP-/a5B1+,NF-niche program,Proximal-vs-distant median difference,8,19,0.9443367981508741
+P19,UC_Noninflamed,FAP-/a5B1+,NF-niche program,Spearman correlation with proximity,8,19,0.438782991202346
+P19,UC_Noninflamed,FAP-/a5B1-,OSM,Spearman correlation with proximity,22,6,0.3079178885630498
+P19,UC_Noninflamed,FAP-/a5B1-,CXCR4,Spearman correlation with proximity,22,6,0.4908357771260997
+P19,UC_Noninflamed,FAP-/a5B1-,PDL1,Spearman correlation with proximity,22,6,0.3955278592375366
+P19,UC_Noninflamed,FAP-/a5B1-,HLA_ABC,Spearman correlation with proximity,22,6,0.029692082111436948
+P19,UC_Noninflamed,FAP-/a5B1-,a5B1,Spearman correlation with proximity,22,6,0.044354838709677415
+P19,UC_Noninflamed,FAP-/a5B1-,PADI4,Spearman correlation with proximity,22,6,0.0469208211143695
+P19,UC_Noninflamed,FAP-/a5B1-,MX1,Spearman correlation with proximity,22,6,-0.026759530791788853
+P19,UC_Noninflamed,FAP-/a5B1-,CD66b,Spearman correlation with proximity,22,6,-0.41788856304985333
+P19,UC_Noninflamed,FAP-/a5B1-,CD16,Spearman correlation with proximity,22,6,-0.28005865102639294
+P19,UC_Noninflamed,FAP-/a5B1-,CD11b,Spearman correlation with proximity,22,6,-0.05828445747800586
+P19,UC_Noninflamed,FAP-/a5B1-,Ki67,Spearman correlation with proximity,22,6,0.026759530791788853
+P19,UC_Noninflamed,FAP-/a5B1-,NF-niche program,Spearman correlation with proximity,22,6,0.31231671554252194
+P20,UC_Noninflamed,FAP+/a5B1+,OSM,Spearman correlation with proximity,3,29,0.40772200772200773
+P20,UC_Noninflamed,FAP+/a5B1+,CXCR4,Spearman correlation with proximity,3,29,0.47361647361647363
+P20,UC_Noninflamed,FAP+/a5B1+,PDL1,Spearman correlation with proximity,3,29,0.5009331370177346
+P20,UC_Noninflamed,FAP+/a5B1+,HLA_ABC,Spearman correlation with proximity,3,29,0.32972972972972975
+P20,UC_Noninflamed,FAP+/a5B1+,a5B1,Spearman correlation with proximity,3,29,0.44607464607464614
+P20,UC_Noninflamed,FAP+/a5B1+,PADI4,Spearman correlation with proximity,3,29,0.13917884223443236
+P20,UC_Noninflamed,FAP+/a5B1+,MX1,Spearman correlation with proximity,3,29,0.21280979538037653
+P20,UC_Noninflamed,FAP+/a5B1+,CD66b,Spearman correlation with proximity,3,29,-0.057275243055727613
+P20,UC_Noninflamed,FAP+/a5B1+,CD16,Spearman correlation with proximity,3,29,0.23963963963963963
+P20,UC_Noninflamed,FAP+/a5B1+,CD11b,Spearman correlation with proximity,3,29,0.22136422136422135
+P20,UC_Noninflamed,FAP+/a5B1+,Ki67,Spearman correlation with proximity,3,29,0.41003861003861003
+P20,UC_Noninflamed,FAP+/a5B1+,NF-niche program,Spearman correlation with proximity,3,29,0.46332046332046334
+P20,UC_Noninflamed,FAP+/a5B1-,OSM,Proximal-vs-distant median difference,12,15,0.19272347206453078
+P20,UC_Noninflamed,FAP+/a5B1-,OSM,Spearman correlation with proximity,12,15,0.12483912483912483
+P20,UC_Noninflamed,FAP+/a5B1-,CXCR4,Proximal-vs-distant median difference,12,15,0.6447529198386857
+P20,UC_Noninflamed,FAP+/a5B1-,CXCR4,Spearman correlation with proximity,12,15,0.2056628056628057
+P20,UC_Noninflamed,FAP+/a5B1-,PDL1,Proximal-vs-distant median difference,12,15,0.8597914253201409
+P20,UC_Noninflamed,FAP+/a5B1-,PDL1,Spearman correlation with proximity,12,15,0.2988609311806731
+P20,UC_Noninflamed,FAP+/a5B1-,HLA_ABC,Proximal-vs-distant median difference,12,15,-0.07243885214475476
+P20,UC_Noninflamed,FAP+/a5B1-,HLA_ABC,Spearman correlation with proximity,12,15,0.12200772200772203
+P20,UC_Noninflamed,FAP+/a5B1-,a5B1,Proximal-vs-distant median difference,12,15,1.3610602628824306
+P20,UC_Noninflamed,FAP+/a5B1-,a5B1,Spearman correlation with proximity,12,15,0.20308880308880312
+P20,UC_Noninflamed,FAP+/a5B1-,PADI4,Proximal-vs-distant median difference,12,15,0.47584325063778765
+P20,UC_Noninflamed,FAP+/a5B1-,PADI4,Spearman correlation with proximity,12,15,0.17886961900672826
+P20,UC_Noninflamed,FAP+/a5B1-,MX1,Proximal-vs-distant median difference,12,15,3.6808062980871323
+P20,UC_Noninflamed,FAP+/a5B1-,MX1,Spearman correlation with proximity,12,15,0.24538140955535248
+P20,UC_Noninflamed,FAP+/a5B1-,CD66b,Proximal-vs-distant median difference,12,15,1.6504376907559757
+P20,UC_Noninflamed,FAP+/a5B1-,CD66b,Spearman correlation with proximity,12,15,0.3267906564460504
+P20,UC_Noninflamed,FAP+/a5B1-,CD16,Proximal-vs-distant median difference,12,15,0.46014644301400764
+P20,UC_Noninflamed,FAP+/a5B1-,CD16,Spearman correlation with proximity,12,15,0.35546975546975546
+P20,UC_Noninflamed,FAP+/a5B1-,CD11b,Proximal-vs-distant median difference,12,15,0.7230495665540912
+P20,UC_Noninflamed,FAP+/a5B1-,CD11b,Spearman correlation with proximity,12,15,0.3541827541827542
+P20,UC_Noninflamed,FAP+/a5B1-,Ki67,Proximal-vs-distant median difference,12,15,1.3736506104009272
+P20,UC_Noninflamed,FAP+/a5B1-,Ki67,Spearman correlation with proximity,12,15,0.427027027027027
+P20,UC_Noninflamed,FAP+/a5B1-,NF-niche program,Proximal-vs-distant median difference,12,15,0.6959254716027423
+P20,UC_Noninflamed,FAP+/a5B1-,NF-niche program,Spearman correlation with proximity,12,15,0.209009009009009
+P20,UC_Noninflamed,FAP-/a5B1+,OSM,Proximal-vs-distant median difference,6,23,0.745377977978875
+P20,UC_Noninflamed,FAP-/a5B1+,OSM,Spearman correlation with proximity,6,23,0.346975546975547
+P20,UC_Noninflamed,FAP-/a5B1+,CXCR4,Proximal-vs-distant median difference,6,23,1.8283852028978547
+P20,UC_Noninflamed,FAP-/a5B1+,CXCR4,Spearman correlation with proximity,6,23,0.409009009009009
+P20,UC_Noninflamed,FAP-/a5B1+,PDL1,Proximal-vs-distant median difference,6,23,0.45556267572802467
+P20,UC_Noninflamed,FAP-/a5B1+,PDL1,Spearman correlation with proximity,6,23,0.35755196676137374
+P20,UC_Noninflamed,FAP-/a5B1+,HLA_ABC,Proximal-vs-distant median difference,6,23,0.8975500551370037
+P20,UC_Noninflamed,FAP-/a5B1+,HLA_ABC,Spearman correlation with proximity,6,23,0.5160875160875161
+P20,UC_Noninflamed,FAP-/a5B1+,a5B1,Proximal-vs-distant median difference,6,23,2.303907464437067
+P20,UC_Noninflamed,FAP-/a5B1+,a5B1,Spearman correlation with proximity,6,23,0.5024453024453025
+P20,UC_Noninflamed,FAP-/a5B1+,PADI4,Proximal-vs-distant median difference,6,23,0.2717369787414752
+P20,UC_Noninflamed,FAP-/a5B1+,PADI4,Spearman correlation with proximity,6,23,0.2629513961164604
+P20,UC_Noninflamed,FAP-/a5B1+,MX1,Proximal-vs-distant median difference,6,23,0.49470357573554713
+P20,UC_Noninflamed,FAP-/a5B1+,MX1,Spearman correlation with proximity,6,23,0.36009013773678955
+P20,UC_Noninflamed,FAP-/a5B1+,CD66b,Proximal-vs-distant median difference,6,23,0.037421352383369966
+P20,UC_Noninflamed,FAP-/a5B1+,CD66b,Spearman correlation with proximity,6,23,0.14659888054039047
+P20,UC_Noninflamed,FAP-/a5B1+,CD16,Proximal-vs-distant median difference,6,23,0.5425907819483609
+P20,UC_Noninflamed,FAP-/a5B1+,CD16,Spearman correlation with proximity,6,23,0.4468468468468469
+P20,UC_Noninflamed,FAP-/a5B1+,CD11b,Proximal-vs-distant median difference,6,23,0.9422165296089764
+P20,UC_Noninflamed,FAP-/a5B1+,CD11b,Spearman correlation with proximity,6,23,0.5557271557271558
+P20,UC_Noninflamed,FAP-/a5B1+,Ki67,Proximal-vs-distant median difference,6,23,0.40380888211349353
+P20,UC_Noninflamed,FAP-/a5B1+,Ki67,Spearman correlation with proximity,6,23,0.4087516087516087
+P20,UC_Noninflamed,FAP-/a5B1+,NF-niche program,Proximal-vs-distant median difference,6,23,0.9313656617065954
+P20,UC_Noninflamed,FAP-/a5B1+,NF-niche program,Spearman correlation with proximity,6,23,0.4406692406692407
+P20,UC_Noninflamed,FAP-/a5B1-,OSM,Spearman correlation with proximity,18,2,0.5081081081081081
+P20,UC_Noninflamed,FAP-/a5B1-,CXCR4,Spearman correlation with proximity,18,2,0.6247104247104248
+P20,UC_Noninflamed,FAP-/a5B1-,PDL1,Spearman correlation with proximity,18,2,0.6031276156385159
+P20,UC_Noninflamed,FAP-/a5B1-,HLA_ABC,Spearman correlation with proximity,18,2,0.6422136422136422
+P20,UC_Noninflamed,FAP-/a5B1-,a5B1,Spearman correlation with proximity,18,2,0.676962676962677
+P20,UC_Noninflamed,FAP-/a5B1-,PADI4,Spearman correlation with proximity,18,2,0.494306844933922
+P20,UC_Noninflamed,FAP-/a5B1-,MX1,Spearman correlation with proximity,18,2,0.6140972316784005
+P20,UC_Noninflamed,FAP-/a5B1-,CD66b,Spearman correlation with proximity,18,2,0.320998777934797
+P20,UC_Noninflamed,FAP-/a5B1-,CD16,Spearman correlation with proximity,18,2,0.676962676962677
+P20,UC_Noninflamed,FAP-/a5B1-,CD11b,Spearman correlation with proximity,18,2,0.7436293436293437
+P20,UC_Noninflamed,FAP-/a5B1-,Ki67,Spearman correlation with proximity,18,2,0.631917631917632
+P20,UC_Noninflamed,FAP-/a5B1-,NF-niche program,Spearman correlation with proximity,18,2,0.6592020592020592
+P21,UC_Noninflamed,FAP+/a5B1+,OSM,Spearman correlation with proximity,2,6,0.34545454545454546
+P21,UC_Noninflamed,FAP+/a5B1+,CXCR4,Spearman correlation with proximity,2,6,0.709090909090909
+P21,UC_Noninflamed,FAP+/a5B1+,PDL1,Spearman correlation with proximity,2,6,-0.24848484848484845
+P21,UC_Noninflamed,FAP+/a5B1+,HLA_ABC,Spearman correlation with proximity,2,6,0.22424242424242422
+P21,UC_Noninflamed,FAP+/a5B1+,a5B1,Spearman correlation with proximity,2,6,0.41818181818181815
+P21,UC_Noninflamed,FAP+/a5B1+,PADI4,Spearman correlation with proximity,2,6,0.1515151515151515
+P21,UC_Noninflamed,FAP+/a5B1+,MX1,Spearman correlation with proximity,2,6,0.01818181818181818
+P21,UC_Noninflamed,FAP+/a5B1+,CD66b,Spearman correlation with proximity,2,6,0.006060606060606061
+P21,UC_Noninflamed,FAP+/a5B1+,CD16,Spearman correlation with proximity,2,6,0.16363636363636364
+P21,UC_Noninflamed,FAP+/a5B1+,CD11b,Spearman correlation with proximity,2,6,0.22424242424242422
+P21,UC_Noninflamed,FAP+/a5B1+,Ki67,Spearman correlation with proximity,2,6,0.17575757575757575
+P21,UC_Noninflamed,FAP+/a5B1+,NF-niche program,Spearman correlation with proximity,2,6,0.2727272727272727
+P21,UC_Noninflamed,FAP+/a5B1-,OSM,Spearman correlation with proximity,5,0,0.23636363636363633
+P21,UC_Noninflamed,FAP+/a5B1-,CXCR4,Spearman correlation with proximity,5,0,0.6363636363636362
+P21,UC_Noninflamed,FAP+/a5B1-,PDL1,Spearman correlation with proximity,5,0,0.4545454545454545
+P21,UC_Noninflamed,FAP+/a5B1-,HLA_ABC,Spearman correlation with proximity,5,0,0.10303030303030303
+P21,UC_Noninflamed,FAP+/a5B1-,a5B1,Spearman correlation with proximity,5,0,0.2606060606060606
+P21,UC_Noninflamed,FAP+/a5B1-,PADI4,Spearman correlation with proximity,5,0,0.29696969696969694
+P21,UC_Noninflamed,FAP+/a5B1-,MX1,Spearman correlation with proximity,5,0,0.19999999999999998
+P21,UC_Noninflamed,FAP+/a5B1-,CD66b,Spearman correlation with proximity,5,0,-0.33333333333333326
+P21,UC_Noninflamed,FAP+/a5B1-,CD16,Spearman correlation with proximity,5,0,-0.17575757575757575
+P21,UC_Noninflamed,FAP+/a5B1-,CD11b,Spearman correlation with proximity,5,0,0.10303030303030303
+P21,UC_Noninflamed,FAP+/a5B1-,Ki67,Spearman correlation with proximity,5,0,-0.01818181818181818
+P21,UC_Noninflamed,FAP+/a5B1-,NF-niche program,Spearman correlation with proximity,5,0,0.34545454545454546
+P21,UC_Noninflamed,FAP-/a5B1+,OSM,Spearman correlation with proximity,1,5,-0.10303030303030303
+P21,UC_Noninflamed,FAP-/a5B1+,CXCR4,Spearman correlation with proximity,1,5,0.34545454545454546
+P21,UC_Noninflamed,FAP-/a5B1+,PDL1,Spearman correlation with proximity,1,5,-0.4424242424242424
+P21,UC_Noninflamed,FAP-/a5B1+,HLA_ABC,Spearman correlation with proximity,1,5,-0.0303030303030303
+P21,UC_Noninflamed,FAP-/a5B1+,a5B1,Spearman correlation with proximity,1,5,-0.04242424242424241
+P21,UC_Noninflamed,FAP-/a5B1+,PADI4,Spearman correlation with proximity,1,5,0.18787878787878787
+P21,UC_Noninflamed,FAP-/a5B1+,MX1,Spearman correlation with proximity,1,5,-0.04242424242424241
+P21,UC_Noninflamed,FAP-/a5B1+,CD66b,Spearman correlation with proximity,1,5,0.06666666666666665
+P21,UC_Noninflamed,FAP-/a5B1+,CD16,Spearman correlation with proximity,1,5,-0.05454545454545454
+P21,UC_Noninflamed,FAP-/a5B1+,CD11b,Spearman correlation with proximity,1,5,-0.24848484848484845
+P21,UC_Noninflamed,FAP-/a5B1+,Ki67,Spearman correlation with proximity,1,5,-0.10303030303030303
+P21,UC_Noninflamed,FAP-/a5B1+,NF-niche program,Spearman correlation with proximity,1,5,-0.0303030303030303
+P21,UC_Noninflamed,FAP-/a5B1-,OSM,Spearman correlation with proximity,10,0,0.33333333333333326
+P21,UC_Noninflamed,FAP-/a5B1-,CXCR4,Spearman correlation with proximity,10,0,0.2606060606060606
+P21,UC_Noninflamed,FAP-/a5B1-,PDL1,Spearman correlation with proximity,10,0,0.7333333333333332
+P21,UC_Noninflamed,FAP-/a5B1-,HLA_ABC,Spearman correlation with proximity,10,0,-0.09090909090909088
+P21,UC_Noninflamed,FAP-/a5B1-,a5B1,Spearman correlation with proximity,10,0,0.24848484848484845
+P21,UC_Noninflamed,FAP-/a5B1-,PADI4,Spearman correlation with proximity,10,0,0.10303030303030303
+P21,UC_Noninflamed,FAP-/a5B1-,MX1,Spearman correlation with proximity,10,0,0.16363636363636364
+P21,UC_Noninflamed,FAP-/a5B1-,CD66b,Spearman correlation with proximity,10,0,-0.17575757575757575
+P21,UC_Noninflamed,FAP-/a5B1-,CD16,Spearman correlation with proximity,10,0,-0.10303030303030303
+P21,UC_Noninflamed,FAP-/a5B1-,CD11b,Spearman correlation with proximity,10,0,0.16363636363636364
+P21,UC_Noninflamed,FAP-/a5B1-,Ki67,Spearman correlation with proximity,10,0,-0.309090909090909
+P21,UC_Noninflamed,FAP-/a5B1-,NF-niche program,Spearman correlation with proximity,10,0,0.41818181818181815
+P22,UC_Noninflamed,FAP+/a5B1+,OSM,Spearman correlation with proximity,2,90,0.13432952735586035
+P22,UC_Noninflamed,FAP+/a5B1+,CXCR4,Spearman correlation with proximity,2,90,-0.20353018411864757
+P22,UC_Noninflamed,FAP+/a5B1+,PDL1,Spearman correlation with proximity,2,90,-0.20215750052221657
+P22,UC_Noninflamed,FAP+/a5B1+,HLA_ABC,Spearman correlation with proximity,2,90,-0.5443138074065231
+P22,UC_Noninflamed,FAP+/a5B1+,a5B1,Spearman correlation with proximity,2,90,-0.4099400196950254
+P22,UC_Noninflamed,FAP+/a5B1+,PADI4,Spearman correlation with proximity,2,90,-0.1256322645280921
+P22,UC_Noninflamed,FAP+/a5B1+,MX1,Spearman correlation with proximity,2,90,-0.18232819074333798
+P22,UC_Noninflamed,FAP+/a5B1+,CD66b,Spearman correlation with proximity,2,90,-0.1328300141381258
+P22,UC_Noninflamed,FAP+/a5B1+,CD16,Spearman correlation with proximity,2,90,-0.2825042523350541
+P22,UC_Noninflamed,FAP+/a5B1+,CD11b,Spearman correlation with proximity,2,90,-0.25906418787860697
+P22,UC_Noninflamed,FAP+/a5B1+,Ki67,Spearman correlation with proximity,2,90,-0.020605174420339586
+P22,UC_Noninflamed,FAP+/a5B1+,NF-niche program,Spearman correlation with proximity,2,90,-0.289114022261347
+P22,UC_Noninflamed,FAP+/a5B1-,OSM,Proximal-vs-distant median difference,19,50,0.6878569131285467
+P22,UC_Noninflamed,FAP+/a5B1-,OSM,Spearman correlation with proximity,19,50,0.13150954727474765
+P22,UC_Noninflamed,FAP+/a5B1-,CXCR4,Proximal-vs-distant median difference,19,50,0.8815210427313716
+P22,UC_Noninflamed,FAP+/a5B1-,CXCR4,Spearman correlation with proximity,19,50,0.34042553191489355
+P22,UC_Noninflamed,FAP+/a5B1-,PDL1,Proximal-vs-distant median difference,19,50,0.8262444074388098
+P22,UC_Noninflamed,FAP+/a5B1-,PDL1,Spearman correlation with proximity,19,50,0.41253618214914506
+P22,UC_Noninflamed,FAP+/a5B1-,HLA_ABC,Proximal-vs-distant median difference,19,50,0.14344214912164333
+P22,UC_Noninflamed,FAP+/a5B1-,HLA_ABC,Spearman correlation with proximity,19,50,0.28498105099817966
+P22,UC_Noninflamed,FAP+/a5B1-,a5B1,Proximal-vs-distant median difference,19,50,-0.3806035349083676
+P22,UC_Noninflamed,FAP+/a5B1-,a5B1,Spearman correlation with proximity,19,50,-0.05107278207155859
+P22,UC_Noninflamed,FAP+/a5B1-,PADI4,Proximal-vs-distant median difference,19,50,1.402666635989862
+P22,UC_Noninflamed,FAP+/a5B1-,PADI4,Spearman correlation with proximity,19,50,0.21554438163572665
+P22,UC_Noninflamed,FAP+/a5B1-,MX1,Proximal-vs-distant median difference,19,50,-0.23242020527147744
+P22,UC_Noninflamed,FAP+/a5B1-,MX1,Spearman correlation with proximity,19,50,0.09862433230879411
+P22,UC_Noninflamed,FAP+/a5B1-,CD66b,Proximal-vs-distant median difference,19,50,0.3773594413769654
+P22,UC_Noninflamed,FAP+/a5B1-,CD66b,Spearman correlation with proximity,19,50,0.17786763252351565
+P22,UC_Noninflamed,FAP+/a5B1-,CD16,Proximal-vs-distant median difference,19,50,0.3567703201014121
+P22,UC_Noninflamed,FAP+/a5B1-,CD16,Spearman correlation with proximity,19,50,0.2783414401241383
+P22,UC_Noninflamed,FAP+/a5B1-,CD11b,Proximal-vs-distant median difference,19,50,0.21050025785937354
+P22,UC_Noninflamed,FAP+/a5B1-,CD11b,Spearman correlation with proximity,19,50,0.27640177852048575
+P22,UC_Noninflamed,FAP+/a5B1-,Ki67,Proximal-vs-distant median difference,19,50,0.9198500833703298
+P22,UC_Noninflamed,FAP+/a5B1-,Ki67,Spearman correlation with proximity,19,50,0.4376025782578854
+P22,UC_Noninflamed,FAP+/a5B1-,NF-niche program,Proximal-vs-distant median difference,19,50,0.23253293687415094
+P22,UC_Noninflamed,FAP+/a5B1-,NF-niche program,Spearman correlation with proximity,19,50,0.28965115932082
+P22,UC_Noninflamed,FAP-/a5B1+,OSM,Proximal-vs-distant median difference,33,35,-0.7800229400864088
+P22,UC_Noninflamed,FAP-/a5B1+,OSM,Spearman correlation with proximity,33,35,-0.42822665776706315
+P22,UC_Noninflamed,FAP-/a5B1+,CXCR4,Proximal-vs-distant median difference,33,35,0.11614865145983977
+P22,UC_Noninflamed,FAP-/a5B1+,CXCR4,Spearman correlation with proximity,33,35,-0.0013130017009340216
+P22,UC_Noninflamed,FAP-/a5B1+,PDL1,Proximal-vs-distant median difference,33,35,0.4430716200213211
+P22,UC_Noninflamed,FAP-/a5B1+,PDL1,Spearman correlation with proximity,33,35,0.06451612903225806
+P22,UC_Noninflamed,FAP-/a5B1+,HLA_ABC,Proximal-vs-distant median difference,33,35,0.7355895965858696
+P22,UC_Noninflamed,FAP-/a5B1+,HLA_ABC,Spearman correlation with proximity,33,35,0.27223896630956995
+P22,UC_Noninflamed,FAP-/a5B1+,a5B1,Proximal-vs-distant median difference,33,35,1.1018001263404318
+P22,UC_Noninflamed,FAP-/a5B1+,a5B1,Spearman correlation with proximity,33,35,0.3242815791829548
+P22,UC_Noninflamed,FAP-/a5B1+,PADI4,Proximal-vs-distant median difference,33,35,0.38353770726070247
+P22,UC_Noninflamed,FAP-/a5B1+,PADI4,Spearman correlation with proximity,33,35,0.07139553275141576
+P22,UC_Noninflamed,FAP-/a5B1+,MX1,Proximal-vs-distant median difference,33,35,0.8143274296012359
+P22,UC_Noninflamed,FAP-/a5B1+,MX1,Spearman correlation with proximity,33,35,0.16889976425651276
+P22,UC_Noninflamed,FAP-/a5B1+,CD66b,Proximal-vs-distant median difference,33,35,-0.4722998620554191
+P22,UC_Noninflamed,FAP-/a5B1+,CD66b,Spearman correlation with proximity,33,35,0.005393771424985395
+P22,UC_Noninflamed,FAP-/a5B1+,CD16,Proximal-vs-distant median difference,33,35,-0.0843654403428804
+P22,UC_Noninflamed,FAP-/a5B1+,CD16,Spearman correlation with proximity,33,35,0.06772403091522186
+P22,UC_Noninflamed,FAP-/a5B1+,CD11b,Proximal-vs-distant median difference,33,35,-0.15110046109873565
+P22,UC_Noninflamed,FAP-/a5B1+,CD11b,Spearman correlation with proximity,33,35,-0.015248724299483749
+P22,UC_Noninflamed,FAP-/a5B1+,Ki67,Proximal-vs-distant median difference,33,35,-0.06892838601502604
+P22,UC_Noninflamed,FAP-/a5B1+,Ki67,Spearman correlation with proximity,33,35,-0.0460595028498105
+P22,UC_Noninflamed,FAP-/a5B1+,NF-niche program,Proximal-vs-distant median difference,33,35,0.2339960785483428
+P22,UC_Noninflamed,FAP-/a5B1+,NF-niche program,Spearman correlation with proximity,33,35,0.04047924562084091
+P22,UC_Noninflamed,FAP-/a5B1-,OSM,Spearman correlation with proximity,82,5,-0.31941123590698434
+P22,UC_Noninflamed,FAP-/a5B1-,CXCR4,Spearman correlation with proximity,82,5,0.03812181074870937
+P22,UC_Noninflamed,FAP-/a5B1-,PDL1,Spearman correlation with proximity,82,5,-0.12940526991137238
+P22,UC_Noninflamed,FAP-/a5B1-,HLA_ABC,Spearman correlation with proximity,82,5,-0.22611978156426246
+P22,UC_Noninflamed,FAP-/a5B1-,a5B1,Spearman correlation with proximity,82,5,-0.028677150786308968
+P22,UC_Noninflamed,FAP-/a5B1-,PADI4,Spearman correlation with proximity,82,5,0.10035660465747594
+P22,UC_Noninflamed,FAP-/a5B1-,MX1,Spearman correlation with proximity,82,5,0.004356778371281071
+P22,UC_Noninflamed,FAP-/a5B1-,CD66b,Spearman correlation with proximity,82,5,0.14799673240506261
+P22,UC_Noninflamed,FAP-/a5B1-,CD16,Spearman correlation with proximity,82,5,0.09052251499507623
+P22,UC_Noninflamed,FAP-/a5B1-,CD11b,Spearman correlation with proximity,82,5,0.11114260988929006
+P22,UC_Noninflamed,FAP-/a5B1-,Ki67,Spearman correlation with proximity,82,5,-0.020366446838351582
+P22,UC_Noninflamed,FAP-/a5B1-,NF-niche program,Spearman correlation with proximity,82,5,-0.19368267136164244
+P23,UC_Noninflamed,FAP+/a5B1+,OSM,Proximal-vs-distant median difference,111,1395,0.24597606254270443
+P23,UC_Noninflamed,FAP+/a5B1+,OSM,Spearman correlation with proximity,111,1395,0.20463070244442946
+P23,UC_Noninflamed,FAP+/a5B1+,CXCR4,Proximal-vs-distant median difference,111,1395,-0.1539303286984781
+P23,UC_Noninflamed,FAP+/a5B1+,CXCR4,Spearman correlation with proximity,111,1395,-0.0648247765285303
+P23,UC_Noninflamed,FAP+/a5B1+,PDL1,Proximal-vs-distant median difference,111,1395,-0.3140050384682173
+P23,UC_Noninflamed,FAP+/a5B1+,PDL1,Spearman correlation with proximity,111,1395,-0.18618928035819649
+P23,UC_Noninflamed,FAP+/a5B1+,HLA_ABC,Proximal-vs-distant median difference,111,1395,0.11171450544981187
+P23,UC_Noninflamed,FAP+/a5B1+,HLA_ABC,Spearman correlation with proximity,111,1395,0.14499258244860375
+P23,UC_Noninflamed,FAP+/a5B1+,a5B1,Proximal-vs-distant median difference,111,1395,0.34638099236076014
+P23,UC_Noninflamed,FAP+/a5B1+,a5B1,Spearman correlation with proximity,111,1395,0.09434794648577138
+P23,UC_Noninflamed,FAP+/a5B1+,PADI4,Proximal-vs-distant median difference,111,1395,0.18882001334509102
+P23,UC_Noninflamed,FAP+/a5B1+,PADI4,Spearman correlation with proximity,111,1395,0.03403533936760973
+P23,UC_Noninflamed,FAP+/a5B1+,MX1,Proximal-vs-distant median difference,111,1395,-6.538949835466212e-05
+P23,UC_Noninflamed,FAP+/a5B1+,MX1,Spearman correlation with proximity,111,1395,-0.06674719085496518
+P23,UC_Noninflamed,FAP+/a5B1+,CD66b,Proximal-vs-distant median difference,111,1395,0.18297047400642663
+P23,UC_Noninflamed,FAP+/a5B1+,CD66b,Spearman correlation with proximity,111,1395,0.03891284890899299
+P23,UC_Noninflamed,FAP+/a5B1+,CD16,Proximal-vs-distant median difference,111,1395,0.02679419272632444
+P23,UC_Noninflamed,FAP+/a5B1+,CD16,Spearman correlation with proximity,111,1395,0.03182623993237063
+P23,UC_Noninflamed,FAP+/a5B1+,CD11b,Proximal-vs-distant median difference,111,1395,0.09566010801792046
+P23,UC_Noninflamed,FAP+/a5B1+,CD11b,Spearman correlation with proximity,111,1395,0.10692228360947405
+P23,UC_Noninflamed,FAP+/a5B1+,Ki67,Proximal-vs-distant median difference,111,1395,0.14578876710008593
+P23,UC_Noninflamed,FAP+/a5B1+,Ki67,Spearman correlation with proximity,111,1395,0.08587831390689436
+P23,UC_Noninflamed,FAP+/a5B1+,NF-niche program,Proximal-vs-distant median difference,111,1395,0.0567936274632187
+P23,UC_Noninflamed,FAP+/a5B1+,NF-niche program,Spearman correlation with proximity,111,1395,0.04917524378803008
+P23,UC_Noninflamed,FAP+/a5B1-,OSM,Proximal-vs-distant median difference,710,657,0.4159463332673251
+P23,UC_Noninflamed,FAP+/a5B1-,OSM,Spearman correlation with proximity,710,657,0.2581984792084045
+P23,UC_Noninflamed,FAP+/a5B1-,CXCR4,Proximal-vs-distant median difference,710,657,-0.04779927423031882
+P23,UC_Noninflamed,FAP+/a5B1-,CXCR4,Spearman correlation with proximity,710,657,0.023804217887118433
+P23,UC_Noninflamed,FAP+/a5B1-,PDL1,Proximal-vs-distant median difference,710,657,-0.47916233933141555
+P23,UC_Noninflamed,FAP+/a5B1-,PDL1,Spearman correlation with proximity,710,657,-0.26741664930715886
+P23,UC_Noninflamed,FAP+/a5B1-,HLA_ABC,Proximal-vs-distant median difference,710,657,-0.05977083631568547
+P23,UC_Noninflamed,FAP+/a5B1-,HLA_ABC,Spearman correlation with proximity,710,657,-0.07282160427427851
+P23,UC_Noninflamed,FAP+/a5B1-,a5B1,Proximal-vs-distant median difference,710,657,-0.07917645414224639
+P23,UC_Noninflamed,FAP+/a5B1-,a5B1,Spearman correlation with proximity,710,657,-0.021480968579673704
+P23,UC_Noninflamed,FAP+/a5B1-,PADI4,Proximal-vs-distant median difference,710,657,0.6700604912206103
+P23,UC_Noninflamed,FAP+/a5B1-,PADI4,Spearman correlation with proximity,710,657,0.05682957135923254
+P23,UC_Noninflamed,FAP+/a5B1-,MX1,Proximal-vs-distant median difference,710,657,-0.6200338944843553
+P23,UC_Noninflamed,FAP+/a5B1-,MX1,Spearman correlation with proximity,710,657,-0.32296330942194784
+P23,UC_Noninflamed,FAP+/a5B1-,CD66b,Proximal-vs-distant median difference,710,657,0.28974184766400324
+P23,UC_Noninflamed,FAP+/a5B1-,CD66b,Spearman correlation with proximity,710,657,0.051439413917019894
+P23,UC_Noninflamed,FAP+/a5B1-,CD16,Proximal-vs-distant median difference,710,657,0.09701522475185609
+P23,UC_Noninflamed,FAP+/a5B1-,CD16,Spearman correlation with proximity,710,657,0.07679099342707736
+P23,UC_Noninflamed,FAP+/a5B1-,CD11b,Proximal-vs-distant median difference,710,657,0.17767858392499924
+P23,UC_Noninflamed,FAP+/a5B1-,CD11b,Spearman correlation with proximity,710,657,0.1554717064284819
+P23,UC_Noninflamed,FAP+/a5B1-,Ki67,Proximal-vs-distant median difference,710,657,0.07564118419238985
+P23,UC_Noninflamed,FAP+/a5B1-,Ki67,Spearman correlation with proximity,710,657,0.03952593523033763
+P23,UC_Noninflamed,FAP+/a5B1-,NF-niche program,Proximal-vs-distant median difference,710,657,-0.044831674651015785
+P23,UC_Noninflamed,FAP+/a5B1-,NF-niche program,Spearman correlation with proximity,710,657,-0.014539878774757249
+P23,UC_Noninflamed,FAP-/a5B1+,OSM,Proximal-vs-distant median difference,94,1407,-0.2115614929626109
+P23,UC_Noninflamed,FAP-/a5B1+,OSM,Spearman correlation with proximity,94,1407,-0.09690348750547625
+P23,UC_Noninflamed,FAP-/a5B1+,CXCR4,Proximal-vs-distant median difference,94,1407,-0.29432640040495883
+P23,UC_Noninflamed,FAP-/a5B1+,CXCR4,Spearman correlation with proximity,94,1407,-0.0517047805518005
+P23,UC_Noninflamed,FAP-/a5B1+,PDL1,Proximal-vs-distant median difference,94,1407,-0.1830865487827345
+P23,UC_Noninflamed,FAP-/a5B1+,PDL1,Spearman correlation with proximity,94,1407,0.005991638523570275
+P23,UC_Noninflamed,FAP-/a5B1+,HLA_ABC,Proximal-vs-distant median difference,94,1407,-0.04756528871899679
+P23,UC_Noninflamed,FAP-/a5B1+,HLA_ABC,Spearman correlation with proximity,94,1407,0.037299856505271796
+P23,UC_Noninflamed,FAP-/a5B1+,a5B1,Proximal-vs-distant median difference,94,1407,0.22594618799327515
+P23,UC_Noninflamed,FAP-/a5B1+,a5B1,Spearman correlation with proximity,94,1407,0.18528898341841873
+P23,UC_Noninflamed,FAP-/a5B1+,PADI4,Proximal-vs-distant median difference,94,1407,-0.142347727862572
+P23,UC_Noninflamed,FAP-/a5B1+,PADI4,Spearman correlation with proximity,94,1407,-0.03549017131997235
+P23,UC_Noninflamed,FAP-/a5B1+,MX1,Proximal-vs-distant median difference,94,1407,-0.07429077911429083
+P23,UC_Noninflamed,FAP-/a5B1+,MX1,Spearman correlation with proximity,94,1407,0.12045841215781859
+P23,UC_Noninflamed,FAP-/a5B1+,CD66b,Proximal-vs-distant median difference,94,1407,-0.13199053752776058
+P23,UC_Noninflamed,FAP-/a5B1+,CD66b,Spearman correlation with proximity,94,1407,-0.0813068728831806
+P23,UC_Noninflamed,FAP-/a5B1+,CD16,Proximal-vs-distant median difference,94,1407,-0.07228170467958783
+P23,UC_Noninflamed,FAP-/a5B1+,CD16,Spearman correlation with proximity,94,1407,-0.1349701167113726
+P23,UC_Noninflamed,FAP-/a5B1+,CD11b,Proximal-vs-distant median difference,94,1407,-0.06760397275576935
+P23,UC_Noninflamed,FAP-/a5B1+,CD11b,Spearman correlation with proximity,94,1407,-0.13541210486309624
+P23,UC_Noninflamed,FAP-/a5B1+,Ki67,Proximal-vs-distant median difference,94,1407,-0.34253441195086753
+P23,UC_Noninflamed,FAP-/a5B1+,Ki67,Spearman correlation with proximity,94,1407,-0.08562970373501239
+P23,UC_Noninflamed,FAP-/a5B1+,NF-niche program,Proximal-vs-distant median difference,94,1407,-0.1487255600073249
+P23,UC_Noninflamed,FAP-/a5B1+,NF-niche program,Spearman correlation with proximity,94,1407,0.0017864624997144523
+P23,UC_Noninflamed,FAP-/a5B1-,OSM,Proximal-vs-distant median difference,1532,24,0.8606766403120758
+P23,UC_Noninflamed,FAP-/a5B1-,OSM,Spearman correlation with proximity,1532,24,0.1536900115157897
+P23,UC_Noninflamed,FAP-/a5B1-,CXCR4,Proximal-vs-distant median difference,1532,24,1.2819659129327157
+P23,UC_Noninflamed,FAP-/a5B1-,CXCR4,Spearman correlation with proximity,1532,24,0.15026846539179106
+P23,UC_Noninflamed,FAP-/a5B1-,PDL1,Proximal-vs-distant median difference,1532,24,1.0907349958219874
+P23,UC_Noninflamed,FAP-/a5B1-,PDL1,Spearman correlation with proximity,1532,24,0.024458545319316356
+P23,UC_Noninflamed,FAP-/a5B1-,HLA_ABC,Proximal-vs-distant median difference,1532,24,-0.022935298625213818
+P23,UC_Noninflamed,FAP-/a5B1-,HLA_ABC,Spearman correlation with proximity,1532,24,-0.1678041848681543
+P23,UC_Noninflamed,FAP-/a5B1-,a5B1,Proximal-vs-distant median difference,1532,24,1.491925226099502
+P23,UC_Noninflamed,FAP-/a5B1-,a5B1,Spearman correlation with proximity,1532,24,0.0010668971307591854
+P23,UC_Noninflamed,FAP-/a5B1-,PADI4,Proximal-vs-distant median difference,1532,24,0.5032062615833341
+P23,UC_Noninflamed,FAP-/a5B1-,PADI4,Spearman correlation with proximity,1532,24,0.014033919346909124
+P23,UC_Noninflamed,FAP-/a5B1-,MX1,Proximal-vs-distant median difference,1532,24,-0.042774800760966514
+P23,UC_Noninflamed,FAP-/a5B1-,MX1,Spearman correlation with proximity,1532,24,-0.14579489136699508
+P23,UC_Noninflamed,FAP-/a5B1-,CD66b,Proximal-vs-distant median difference,1532,24,-0.31081530396015244
+P23,UC_Noninflamed,FAP-/a5B1-,CD66b,Spearman correlation with proximity,1532,24,-0.10400056482783018
+P23,UC_Noninflamed,FAP-/a5B1-,CD16,Proximal-vs-distant median difference,1532,24,0.25596263497608707
+P23,UC_Noninflamed,FAP-/a5B1-,CD16,Spearman correlation with proximity,1532,24,-0.021527491099961493
+P23,UC_Noninflamed,FAP-/a5B1-,CD11b,Proximal-vs-distant median difference,1532,24,0.3696590823372983
+P23,UC_Noninflamed,FAP-/a5B1-,CD11b,Spearman correlation with proximity,1532,24,-0.002627017347261332
+P23,UC_Noninflamed,FAP-/a5B1-,Ki67,Proximal-vs-distant median difference,1532,24,1.5512781717125481
+P23,UC_Noninflamed,FAP-/a5B1-,Ki67,Spearman correlation with proximity,1532,24,0.08030861889918976
+P23,UC_Noninflamed,FAP-/a5B1-,NF-niche program,Proximal-vs-distant median difference,1532,24,0.830025499682045
+P23,UC_Noninflamed,FAP-/a5B1-,NF-niche program,Spearman correlation with proximity,1532,24,0.06163303709217461
+P24,UC_Noninflamed,FAP+/a5B1+,OSM,Proximal-vs-distant median difference,188,221,0.7841412811056425
+P24,UC_Noninflamed,FAP+/a5B1+,OSM,Spearman correlation with proximity,188,221,0.43585115172317856
+P24,UC_Noninflamed,FAP+/a5B1+,CXCR4,Proximal-vs-distant median difference,188,221,0.7442307370129431
+P24,UC_Noninflamed,FAP+/a5B1+,CXCR4,Spearman correlation with proximity,188,221,0.451838456901748
+P24,UC_Noninflamed,FAP+/a5B1+,PDL1,Proximal-vs-distant median difference,188,221,0.8903015502795764
+P24,UC_Noninflamed,FAP+/a5B1+,PDL1,Spearman correlation with proximity,188,221,0.4083568826324384
+P24,UC_Noninflamed,FAP+/a5B1+,HLA_ABC,Proximal-vs-distant median difference,188,221,0.5237125581397661
+P24,UC_Noninflamed,FAP+/a5B1+,HLA_ABC,Spearman correlation with proximity,188,221,0.4404721305963056
+P24,UC_Noninflamed,FAP+/a5B1+,a5B1,Proximal-vs-distant median difference,188,221,0.7351629156778245
+P24,UC_Noninflamed,FAP+/a5B1+,a5B1,Spearman correlation with proximity,188,221,0.4386067270277692
+P24,UC_Noninflamed,FAP+/a5B1+,PADI4,Proximal-vs-distant median difference,188,221,0.11857976981296758
+P24,UC_Noninflamed,FAP+/a5B1+,PADI4,Spearman correlation with proximity,188,221,0.05527138710384023
+P24,UC_Noninflamed,FAP+/a5B1+,MX1,Proximal-vs-distant median difference,188,221,0.6752012589339942
+P24,UC_Noninflamed,FAP+/a5B1+,MX1,Spearman correlation with proximity,188,221,0.38640482270772225
+P24,UC_Noninflamed,FAP+/a5B1+,CD66b,Proximal-vs-distant median difference,188,221,0.014938536907507238
+P24,UC_Noninflamed,FAP+/a5B1+,CD66b,Spearman correlation with proximity,188,221,-0.04810862309324006
+P24,UC_Noninflamed,FAP+/a5B1+,CD16,Proximal-vs-distant median difference,188,221,0.4125925457935944
+P24,UC_Noninflamed,FAP+/a5B1+,CD16,Spearman correlation with proximity,188,221,0.22912295131296512
+P24,UC_Noninflamed,FAP+/a5B1+,CD11b,Proximal-vs-distant median difference,188,221,0.5029725583757427
+P24,UC_Noninflamed,FAP+/a5B1+,CD11b,Spearman correlation with proximity,188,221,0.3945690411675062
+P24,UC_Noninflamed,FAP+/a5B1+,Ki67,Proximal-vs-distant median difference,188,221,0.8150518294877801
+P24,UC_Noninflamed,FAP+/a5B1+,Ki67,Spearman correlation with proximity,188,221,0.29009862201336656
+P24,UC_Noninflamed,FAP+/a5B1+,NF-niche program,Proximal-vs-distant median difference,188,221,0.6459149427467693
+P24,UC_Noninflamed,FAP+/a5B1+,NF-niche program,Spearman correlation with proximity,188,221,0.5554340298176683
+P24,UC_Noninflamed,FAP+/a5B1-,OSM,Proximal-vs-distant median difference,330,82,1.496954288578584
+P24,UC_Noninflamed,FAP+/a5B1-,OSM,Spearman correlation with proximity,330,82,0.4189473834288019
+P24,UC_Noninflamed,FAP+/a5B1-,CXCR4,Proximal-vs-distant median difference,330,82,1.913355472957826
+P24,UC_Noninflamed,FAP+/a5B1-,CXCR4,Spearman correlation with proximity,330,82,0.36578242482774165
+P24,UC_Noninflamed,FAP+/a5B1-,PDL1,Proximal-vs-distant median difference,330,82,2.0535623605176956
+P24,UC_Noninflamed,FAP+/a5B1-,PDL1,Spearman correlation with proximity,330,82,0.4437678321311039
+P24,UC_Noninflamed,FAP+/a5B1-,HLA_ABC,Proximal-vs-distant median difference,330,82,1.1687469277903269
+P24,UC_Noninflamed,FAP+/a5B1-,HLA_ABC,Spearman correlation with proximity,330,82,0.24790944843904783
+P24,UC_Noninflamed,FAP+/a5B1-,a5B1,Proximal-vs-distant median difference,330,82,2.8310990221167445
+P24,UC_Noninflamed,FAP+/a5B1-,a5B1,Spearman correlation with proximity,330,82,0.33462197507742364
+P24,UC_Noninflamed,FAP+/a5B1-,PADI4,Proximal-vs-distant median difference,330,82,0.5792172716367192
+P24,UC_Noninflamed,FAP+/a5B1-,PADI4,Spearman correlation with proximity,330,82,0.09192382559912218
+P24,UC_Noninflamed,FAP+/a5B1-,MX1,Proximal-vs-distant median difference,330,82,1.1201166744973414
+P24,UC_Noninflamed,FAP+/a5B1-,MX1,Spearman correlation with proximity,330,82,0.20475921836083213
+P24,UC_Noninflamed,FAP+/a5B1-,CD66b,Proximal-vs-distant median difference,330,82,-0.21187005182123553
+P24,UC_Noninflamed,FAP+/a5B1-,CD66b,Spearman correlation with proximity,330,82,-0.0022911335909852623
+P24,UC_Noninflamed,FAP+/a5B1-,CD16,Proximal-vs-distant median difference,330,82,0.46706370824833154
+P24,UC_Noninflamed,FAP+/a5B1-,CD16,Spearman correlation with proximity,330,82,0.20928241384218435
+P24,UC_Noninflamed,FAP+/a5B1-,CD11b,Proximal-vs-distant median difference,330,82,0.7648285614152606
+P24,UC_Noninflamed,FAP+/a5B1-,CD11b,Spearman correlation with proximity,330,82,0.39174040334215565
+P24,UC_Noninflamed,FAP+/a5B1-,Ki67,Proximal-vs-distant median difference,330,82,1.027218447516749
+P24,UC_Noninflamed,FAP+/a5B1-,Ki67,Spearman correlation with proximity,330,82,0.19170365147896187
+P24,UC_Noninflamed,FAP+/a5B1-,NF-niche program,Proximal-vs-distant median difference,330,82,1.943045454985469
+P24,UC_Noninflamed,FAP+/a5B1-,NF-niche program,Spearman correlation with proximity,330,82,0.460376479826218
+P24,UC_Noninflamed,FAP-/a5B1+,OSM,Proximal-vs-distant median difference,193,245,0.6853580202384179
+P24,UC_Noninflamed,FAP-/a5B1+,OSM,Spearman correlation with proximity,193,245,0.3850223013442758
+P24,UC_Noninflamed,FAP-/a5B1+,CXCR4,Proximal-vs-distant median difference,193,245,0.5129178529342484
+P24,UC_Noninflamed,FAP-/a5B1+,CXCR4,Spearman correlation with proximity,193,245,0.38701870123964843
+P24,UC_Noninflamed,FAP-/a5B1+,PDL1,Proximal-vs-distant median difference,193,245,0.882844332241957
+P24,UC_Noninflamed,FAP-/a5B1+,PDL1,Spearman correlation with proximity,193,245,0.4410755102016573
+P24,UC_Noninflamed,FAP-/a5B1+,HLA_ABC,Proximal-vs-distant median difference,193,245,-0.07586313307339765
+P24,UC_Noninflamed,FAP-/a5B1+,HLA_ABC,Spearman correlation with proximity,193,245,0.000323118675542997
+P24,UC_Noninflamed,FAP-/a5B1+,a5B1,Proximal-vs-distant median difference,193,245,0.6771104599795557
+P24,UC_Noninflamed,FAP-/a5B1+,a5B1,Spearman correlation with proximity,193,245,0.3891674424321254
+P24,UC_Noninflamed,FAP-/a5B1+,PADI4,Proximal-vs-distant median difference,193,245,-0.07057090121128073
+P24,UC_Noninflamed,FAP-/a5B1+,PADI4,Spearman correlation with proximity,193,245,0.007346163616046488
+P24,UC_Noninflamed,FAP-/a5B1+,MX1,Proximal-vs-distant median difference,193,245,0.10702936773639093
+P24,UC_Noninflamed,FAP-/a5B1+,MX1,Spearman correlation with proximity,193,245,0.17902621745207564
+P24,UC_Noninflamed,FAP-/a5B1+,CD66b,Proximal-vs-distant median difference,193,245,-0.5292226680859171
+P24,UC_Noninflamed,FAP-/a5B1+,CD66b,Spearman correlation with proximity,193,245,-0.18052791503655033
+P24,UC_Noninflamed,FAP-/a5B1+,CD16,Proximal-vs-distant median difference,193,245,0.1244664310207435
+P24,UC_Noninflamed,FAP-/a5B1+,CD16,Spearman correlation with proximity,193,245,0.0982851544999231
+P24,UC_Noninflamed,FAP-/a5B1+,CD11b,Proximal-vs-distant median difference,193,245,0.17066515917174563
+P24,UC_Noninflamed,FAP-/a5B1+,CD11b,Spearman correlation with proximity,193,245,0.15965361199108025
+P24,UC_Noninflamed,FAP-/a5B1+,Ki67,Proximal-vs-distant median difference,193,245,0.12780753168614356
+P24,UC_Noninflamed,FAP-/a5B1+,Ki67,Spearman correlation with proximity,193,245,0.11109950595675813
+P24,UC_Noninflamed,FAP-/a5B1+,NF-niche program,Proximal-vs-distant median difference,193,245,0.4400226892301459
+P24,UC_Noninflamed,FAP-/a5B1+,NF-niche program,Spearman correlation with proximity,193,245,0.42350073412180966
+P24,UC_Noninflamed,FAP-/a5B1-,OSM,Proximal-vs-distant median difference,514,53,1.6176899138904963
+P24,UC_Noninflamed,FAP-/a5B1-,OSM,Spearman correlation with proximity,514,53,0.252696352151423
+P24,UC_Noninflamed,FAP-/a5B1-,CXCR4,Proximal-vs-distant median difference,514,53,2.332190350751669
+P24,UC_Noninflamed,FAP-/a5B1-,CXCR4,Spearman correlation with proximity,514,53,0.29887917339696285
+P24,UC_Noninflamed,FAP-/a5B1-,PDL1,Proximal-vs-distant median difference,514,53,2.304965812090784
+P24,UC_Noninflamed,FAP-/a5B1-,PDL1,Spearman correlation with proximity,514,53,0.3929723841998731
+P24,UC_Noninflamed,FAP-/a5B1-,HLA_ABC,Proximal-vs-distant median difference,514,53,1.6580674592268334
+P24,UC_Noninflamed,FAP-/a5B1-,HLA_ABC,Spearman correlation with proximity,514,53,-0.03165677124642988
+P24,UC_Noninflamed,FAP-/a5B1-,a5B1,Proximal-vs-distant median difference,514,53,3.157261161335863
+P24,UC_Noninflamed,FAP-/a5B1-,a5B1,Spearman correlation with proximity,514,53,0.20401256107821056
+P24,UC_Noninflamed,FAP-/a5B1-,PADI4,Proximal-vs-distant median difference,514,53,-0.01778375715278724
+P24,UC_Noninflamed,FAP-/a5B1-,PADI4,Spearman correlation with proximity,514,53,-0.04543097751883933
+P24,UC_Noninflamed,FAP-/a5B1-,MX1,Proximal-vs-distant median difference,514,53,1.4732170278275607
+P24,UC_Noninflamed,FAP-/a5B1-,MX1,Spearman correlation with proximity,514,53,0.12053101514488188
+P24,UC_Noninflamed,FAP-/a5B1-,CD66b,Proximal-vs-distant median difference,514,53,-1.1168938895501936
+P24,UC_Noninflamed,FAP-/a5B1-,CD66b,Spearman correlation with proximity,514,53,-0.25003216260956873
+P24,UC_Noninflamed,FAP-/a5B1-,CD16,Proximal-vs-distant median difference,514,53,0.33116457868194615
+P24,UC_Noninflamed,FAP-/a5B1-,CD16,Spearman correlation with proximity,514,53,0.001989269569908371
+P24,UC_Noninflamed,FAP-/a5B1-,CD11b,Proximal-vs-distant median difference,514,53,0.6611530232367588
+P24,UC_Noninflamed,FAP-/a5B1-,CD11b,Spearman correlation with proximity,514,53,0.0990564193667079
+P24,UC_Noninflamed,FAP-/a5B1-,Ki67,Proximal-vs-distant median difference,514,53,1.0535208015625468
+P24,UC_Noninflamed,FAP-/a5B1-,Ki67,Spearman correlation with proximity,514,53,0.03693581245549808
+P24,UC_Noninflamed,FAP-/a5B1-,NF-niche program,Proximal-vs-distant median difference,514,53,2.2891063117305057
+P24,UC_Noninflamed,FAP-/a5B1-,NF-niche program,Spearman correlation with proximity,514,53,0.2642246344994493

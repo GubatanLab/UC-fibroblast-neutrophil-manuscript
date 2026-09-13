@@ -1,0 +1,13 @@
+figure,compartment,state,depleted,enriched,tested
+4,Epithelial,Absorptive-secretory transitional epithelial,0,130,130
+4,Epithelial,IFN/MHC-II-responsive epithelial,149,8,234
+4,Immune,Cxcr4+ aged/retained neutrophil,12,0,13
+4,Stromal,Il1r1+ fibroblast,16,0,16
+4,Stromal,Ccl7+ Cxcl1+ inflammatory fibroblast,15,3,21
+4,Stromal,Ackr4+ Pi16-like fibroblast,0,9,15
+5,Epithelial,IFN/MHC-II-responsive epithelial,322,0,558
+5,Epithelial,Injury/inflammatory epithelial,2,217,405
+5,Epithelial,Inflammatory Zg16+ secretory epithelial,0,28,42
+5,Immune,Neutrophil PADI4,1,11,13
+5,Immune,Conventional B cell,84,0,87
+5,Stromal,Il1r1+ fibroblast,15,0,18

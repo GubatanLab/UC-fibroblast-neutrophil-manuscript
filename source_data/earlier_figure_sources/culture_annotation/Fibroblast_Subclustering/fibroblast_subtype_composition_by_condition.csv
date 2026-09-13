@@ -1,0 +1,41 @@
+ConditionCode,condition_label,fibroblast_annotation,annotation_short,cells,total_fibroblasts,pooled_proportion,sample_median_proportion,samples
+CF,"Control fibroblast
+co-culture",CCN1/CCN2+ activated fibroblast,CCN1/CCN2+ activated,1,47,0.0212765957446809,0,4
+CF,"Control fibroblast
+co-culture",COL1A1+ inflammatory ECM fibroblast,COL1A1+ inflammatory ECM,3,47,0.0638297872340426,0.125,4
+CF,"Control fibroblast
+co-culture",CSF3R+ immune-like fibroblast,CSF3R+ immune-like,39,47,0.829787234042553,0.691176470588235,4
+CF,"Control fibroblast
+co-culture",S100A8/A9+ immune-like fibroblast,S100A8/A9+ immune-like,4,47,0.0851063829787234,0.142156862745098,4
+UF,"UC fibroblast
+co-culture",CCN1/CCN2+ activated fibroblast,CCN1/CCN2+ activated,7,34,0.205882352941176,0.243589743589744,4
+UF,"UC fibroblast
+co-culture",COL1A1+ inflammatory ECM fibroblast,COL1A1+ inflammatory ECM,27,34,0.794117647058824,0.756410256410256,4
+UF,"UC fibroblast
+co-culture",CSF3R+ immune-like fibroblast,CSF3R+ immune-like,0,34,0,0,4
+UF,"UC fibroblast
+co-culture",S100A8/A9+ immune-like fibroblast,S100A8/A9+ immune-like,0,34,0,0,4
+UN,"UC +
+NAMPTi",CCN1/CCN2+ activated fibroblast,CCN1/CCN2+ activated,5,33,0.151515151515152,0.240601503759399,4
+UN,"UC +
+NAMPTi",COL1A1+ inflammatory ECM fibroblast,COL1A1+ inflammatory ECM,26,33,0.787878787878788,0.723684210526316,4
+UN,"UC +
+NAMPTi",CSF3R+ immune-like fibroblast,CSF3R+ immune-like,0,33,0,0,4
+UN,"UC +
+NAMPTi",S100A8/A9+ immune-like fibroblast,S100A8/A9+ immune-like,2,33,0.0606060606060606,0,4
+UA5,"UC +
+alpha5beta1i",CCN1/CCN2+ activated fibroblast,CCN1/CCN2+ activated,10,67,0.149253731343284,0.142857142857143,5
+UA5,"UC +
+alpha5beta1i",COL1A1+ inflammatory ECM fibroblast,COL1A1+ inflammatory ECM,39,67,0.582089552238806,0.571428571428571,5
+UA5,"UC +
+alpha5beta1i",CSF3R+ immune-like fibroblast,CSF3R+ immune-like,0,67,0,0,5
+UA5,"UC +
+alpha5beta1i",S100A8/A9+ immune-like fibroblast,S100A8/A9+ immune-like,18,67,0.26865671641791,0.285714285714286,5
+UD,"UC +
+dual blockade",CCN1/CCN2+ activated fibroblast,CCN1/CCN2+ activated,11,57,0.192982456140351,0.215384615384615,6
+UD,"UC +
+dual blockade",COL1A1+ inflammatory ECM fibroblast,COL1A1+ inflammatory ECM,41,57,0.719298245614035,0.712820512820513,6
+UD,"UC +
+dual blockade",CSF3R+ immune-like fibroblast,CSF3R+ immune-like,0,57,0,0,6
+UD,"UC +
+dual blockade",S100A8/A9+ immune-like fibroblast,S100A8/A9+ immune-like,5,57,0.087719298245614,0.0645833333333333,6

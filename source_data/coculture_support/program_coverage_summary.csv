@@ -1,0 +1,15 @@
+program,defined_genes,full_genes,mapping_genes
+NETosis,11,11,8
+Degranulation,9,9,8
+Oxidative_burst,7,7,2
+Phagocytosis,10,10,3
+Chemotaxis,8,8,4
+OSM_inflammation,9,9,9
+Type_I_interferon,12,12,12
+Immature_granulopoiesis,8,8,8
+Survival_antiapoptosis,8,8,0
+Hypoxia_glycolysis,9,9,3
+ER_stress,7,7,3
+Proliferation_stress,6,6,5
+Integrin_adhesion,6,6,1
+CXCR4_aging_retention,6,6,4

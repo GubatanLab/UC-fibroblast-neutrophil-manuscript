@@ -1,0 +1,65 @@
+ConditionCode,neutrophil_cluster_annotation,lineage_eligible,cells
+N,Activated OSM/CXCR4 neutrophil,TRUE,689
+N,CCL3/CCL4 inflammatory neutrophil,TRUE,20
+N,Low-signal neutrophil,TRUE,1326
+NNAMPT,Low-signal neutrophil,TRUE,818
+NNAMPT,Activated OSM/CXCR4 neutrophil,TRUE,293
+N,LTF/BPI immature neutrophil,TRUE,81
+NNAMPT,IL1R2+ inflammatory neutrophil,TRUE,210
+N,IL1R2+ inflammatory neutrophil,TRUE,397
+NNAMPT,LTF/BPI immature neutrophil,TRUE,20
+N,RORA+ atypical neutrophil,TRUE,22
+N,DHFR+ proliferative/stress neutrophil,TRUE,90
+NNAMPT,RORA+ atypical neutrophil,TRUE,13
+NNAMPT,DHFR+ proliferative/stress neutrophil,TRUE,36
+N,PADI4/translation-high neutrophil,TRUE,69
+NNAMPT,CCL3/CCL4 inflammatory neutrophil,TRUE,8
+NNAMPT,PADI4/translation-high neutrophil,TRUE,29
+UF,Low-signal neutrophil,TRUE,5481
+UF,Activated OSM/CXCR4 neutrophil,TRUE,7628
+UF,PADI4/translation-high neutrophil,TRUE,143
+UN,Low-signal neutrophil,TRUE,3102
+UN,Activated OSM/CXCR4 neutrophil,TRUE,4648
+UF,CCL3/CCL4 inflammatory neutrophil,TRUE,65
+UN,IL1R2+ inflammatory neutrophil,TRUE,879
+UF,DHFR+ proliferative/stress neutrophil,TRUE,763
+UN,DHFR+ proliferative/stress neutrophil,TRUE,479
+UN,CCL3/CCL4 inflammatory neutrophil,TRUE,40
+UF,IL1R2+ inflammatory neutrophil,TRUE,1399
+UF,LTF/BPI immature neutrophil,TRUE,68
+UN,LTF/BPI immature neutrophil,TRUE,47
+UN,PADI4/translation-high neutrophil,TRUE,85
+UF,RORA+ atypical neutrophil,TRUE,30
+UN,RORA+ atypical neutrophil,TRUE,14
+UD,Activated OSM/CXCR4 neutrophil,TRUE,6217
+UA5,Low-signal neutrophil,TRUE,11518
+UD,Low-signal neutrophil,TRUE,11081
+UD,IL1R2+ inflammatory neutrophil,TRUE,2685
+UA5,Activated OSM/CXCR4 neutrophil,TRUE,6612
+UD,DHFR+ proliferative/stress neutrophil,TRUE,1045
+UD,PADI4/translation-high neutrophil,TRUE,1111
+UA5,DHFR+ proliferative/stress neutrophil,TRUE,916
+UA5,IL1R2+ inflammatory neutrophil,TRUE,2540
+UA5,PADI4/translation-high neutrophil,TRUE,925
+UA5,RORA+ atypical neutrophil,TRUE,160
+UD,LTF/BPI immature neutrophil,TRUE,260
+UD,CCL3/CCL4 inflammatory neutrophil,TRUE,161
+UA5,LTF/BPI immature neutrophil,TRUE,222
+UD,RORA+ atypical neutrophil,TRUE,117
+UA5,CCL3/CCL4 inflammatory neutrophil,TRUE,124
+NA5,DHFR+ proliferative/stress neutrophil,TRUE,831
+CF,Activated OSM/CXCR4 neutrophil,TRUE,9190
+NA5,Low-signal neutrophil,TRUE,13619
+CF,Low-signal neutrophil,TRUE,9908
+NA5,Activated OSM/CXCR4 neutrophil,TRUE,9531
+CF,IL1R2+ inflammatory neutrophil,TRUE,1899
+NA5,IL1R2+ inflammatory neutrophil,TRUE,2699
+NA5,RORA+ atypical neutrophil,TRUE,133
+NA5,PADI4/translation-high neutrophil,TRUE,246
+CF,DHFR+ proliferative/stress neutrophil,TRUE,742
+CF,PADI4/translation-high neutrophil,TRUE,202
+CF,CCL3/CCL4 inflammatory neutrophil,TRUE,95
+NA5,CCL3/CCL4 inflammatory neutrophil,TRUE,128
+NA5,LTF/BPI immature neutrophil,TRUE,65
+CF,LTF/BPI immature neutrophil,TRUE,47
+CF,RORA+ atypical neutrophil,TRUE,67

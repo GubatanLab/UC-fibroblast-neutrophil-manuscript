@@ -1,0 +1,40 @@
+system,experiment,endpoint,effect,unit,raw_p,FDR,evidence_role,significant_FDR10
+Mouse DSS scRNA-seq,alpha5beta1 blockade,Padi4+ antimicrobial/NET-competent neutrophil,-8.31109489920241,"cells per 10,000 total cells",0.00581771170006464,0.0192846369316958,in vivo pathway perturbation,TRUE
+Mouse DSS scRNA-seq,FAP-TK GCV ablation,Osm+ inflammatory neutrophil,-102.484472049689,"cells per 10,000 total cells",0.00793650793650794,0.00793650793650794,stromal necessity,TRUE
+Mouse DSS scRNA-seq,FAP-TK GCV ablation,Padi4+ antimicrobial/NET-competent neutrophil,-74.7176368375326,"cells per 10,000 total cells",0.00793650793650794,0.00793650793650794,stromal necessity,TRUE
+Mouse DSS scRNA-seq,FAP-TK GCV ablation,Mx1+ interferon-responsive neutrophil,-47.4407739075744,"cells per 10,000 total cells",0.00793650793650794,0.00793650793650794,stromal necessity,TRUE
+Mouse DSS scRNA-seq,FAP-TK GCV ablation,Cxcr4+ aged/retained neutrophil,-59.0062111801242,"cells per 10,000 total cells",0.00793650793650794,0.00793650793650794,stromal necessity,TRUE
+Mouse DSS scRNA-seq,alpha5beta1 blockade,Cxcr4+ aged/retained neutrophil,3.83679076948222,"cells per 10,000 total cells",0.00964231846584788,0.0192846369316958,in vivo pathway perturbation,TRUE
+Mouse DSS scRNA-seq,alpha5beta1 blockade,Osm+ inflammatory neutrophil,1.05067338923072,"cells per 10,000 total cells",0.383107088989442,0.510809451985923,in vivo pathway perturbation,FALSE
+Mouse DSS scRNA-seq,alpha5beta1 blockade,Mx1+ interferon-responsive neutrophil,-1.26736029875212,"cells per 10,000 total cells",0.963693169575522,0.963693169575522,in vivo pathway perturbation,FALSE
+Human donor-paired coculture scRNA-seq,Control fibroblast coculture,CXCR4-like neutrophils,13.4526029614659,percentage-point change,0.0258940575644647,0.0496598364250008,stromal sufficiency,TRUE
+Human donor-paired coculture scRNA-seq,Control fibroblast coculture,OSM-like neutrophils,14.3775183491814,percentage-point change,0.00320929889527276,0.00976743142039536,stromal sufficiency,TRUE
+Human donor-paired coculture scRNA-seq,Control fibroblast coculture,PADI4-like neutrophils,-2.07886625591388,percentage-point change,8.7303324148157e-14,6.53980019029183e-12,stromal sufficiency,TRUE
+Human donor-paired coculture scRNA-seq,Control fibroblast coculture,Low-RNA/unresolved-like neutrophils,-25.5325165355031,percentage-point change,0.00291418315042458,0.00927240093316911,stromal sufficiency,TRUE
+Human donor-paired coculture scRNA-seq,UC fibroblast coculture,CXCR4-like neutrophils,11.9114234818592,percentage-point change,0.0132935783025462,0.0300177574573624,disease-stromal sufficiency,TRUE
+Human donor-paired coculture scRNA-seq,UC fibroblast coculture,OSM-like neutrophils,10.942333153005,percentage-point change,0.0187404471359398,0.0397524636216906,disease-stromal sufficiency,TRUE
+Human donor-paired coculture scRNA-seq,UC fibroblast coculture,PADI4-like neutrophils,-1.63242206642972,percentage-point change,1.05858483568147e-10,3.70504692488515e-09,disease-stromal sufficiency,TRUE
+Human donor-paired coculture scRNA-seq,UC fibroblast coculture,Low-RNA/unresolved-like neutrophils,-21.182861730414,percentage-point change,0.00337843182303743,0.00985375948385918,disease-stromal sufficiency,TRUE
+Human donor-paired coculture scRNA-seq,alpha5beta1 blockade in UC coculture,CXCR4-like neutrophils,-5.0891936152102,percentage-point change,0.00832711352116252,0.0204525595256623,human perturbational validation,TRUE
+Human donor-paired coculture scRNA-seq,alpha5beta1 blockade in UC coculture,OSM-like neutrophils,-8.26224238317705,percentage-point change,2.16240574234067e-05,0.000126140334969872,human perturbational validation,TRUE
+Human donor-paired coculture scRNA-seq,alpha5beta1 blockade in UC coculture,PADI4-like neutrophils,0.378973609445106,percentage-point change,8.74009249393452e-05,0.000453189981166975,human perturbational validation,TRUE
+Human donor-paired coculture scRNA-seq,alpha5beta1 blockade in UC coculture,Low-RNA/unresolved-like neutrophils,12.7039055510583,percentage-point change,1.92763516645958e-05,0.000117334314480148,human perturbational validation,TRUE
+Human UC CosMx/CODEX,Control spatial niche,Neutrophil proximity to FAP+/a5B1+ fibroblasts,-0.270304286754605,50 um log2 observed/expected,0.84375,0.84375,patient-tissue spatial validation,FALSE
+Human UC CosMx/CODEX,UC noninflamed spatial niche,Neutrophil proximity to FAP+/a5B1+ fibroblasts,-1.12343051790005,50 um log2 observed/expected,0.00390625,0.01171875,patient-tissue spatial validation,TRUE
+Human UC CosMx/CODEX,UC inflamed spatial niche,Neutrophil proximity to FAP+/a5B1+ fibroblasts,-0.747644488271369,50 um log2 observed/expected,0.01953125,0.029296875,patient-tissue spatial validation,TRUE
+Human UC CosMx/CODEX,Control spatial niche,Neutrophil proximity to FAP+/a5B1- fibroblasts,-0.0210029164287801,50 um log2 observed/expected,0.84375,1,patient-tissue spatial validation,FALSE
+Human UC CosMx/CODEX,UC noninflamed spatial niche,Neutrophil proximity to FAP+/a5B1- fibroblasts,0.0480602933940481,50 um log2 observed/expected,1,1,patient-tissue spatial validation,FALSE
+Human UC CosMx/CODEX,UC inflamed spatial niche,Neutrophil proximity to FAP+/a5B1- fibroblasts,0.0669579210040296,50 um log2 observed/expected,0.8203125,1,patient-tissue spatial validation,FALSE
+Human UC CosMx/CODEX,Control spatial niche,Neutrophil proximity to FAP-/a5B1+ fibroblasts,-0.0884090841053745,50 um log2 observed/expected,0.5625,0.5625,patient-tissue spatial validation,FALSE
+Human UC CosMx/CODEX,UC noninflamed spatial niche,Neutrophil proximity to FAP-/a5B1+ fibroblasts,-0.523852446634683,50 um log2 observed/expected,0.00390625,0.01171875,patient-tissue spatial validation,TRUE
+Human UC CosMx/CODEX,UC inflamed spatial niche,Neutrophil proximity to FAP-/a5B1+ fibroblasts,-0.627851132373274,50 um log2 observed/expected,0.02734375,0.041015625,patient-tissue spatial validation,TRUE
+Human UC CosMx/CODEX,Control spatial niche,Neutrophil proximity to FAP-/a5B1- fibroblasts,0.0473463615321289,50 um log2 observed/expected,0.4375,0.4375,patient-tissue spatial validation,FALSE
+Human UC CosMx/CODEX,UC noninflamed spatial niche,Neutrophil proximity to FAP-/a5B1- fibroblasts,0.543957619720604,50 um log2 observed/expected,0.00390625,0.01171875,patient-tissue spatial validation,TRUE
+Human UC CosMx/CODEX,UC inflamed spatial niche,Neutrophil proximity to FAP-/a5B1- fibroblasts,0.0184850544120121,50 um log2 observed/expected,0.359375,0.4375,patient-tissue spatial validation,FALSE
+Human UC CosMx/CODEX,UC inflamed FAP+/a5B1- niche,CD11b neutrophil protein,0.263367462732161,within-patient proximal-minus-distant standardized expression,0.0078125,0.0375,patient-tissue phenotypic validation,TRUE
+Human UC CosMx/CODEX,UC inflamed FAP+/a5B1- niche,CD16 neutrophil protein,0.546115308817923,within-patient proximal-minus-distant standardized expression,0.015625,0.0375,patient-tissue phenotypic validation,TRUE
+Human UC CosMx/CODEX,UC inflamed FAP+/a5B1- niche,CXCR4 neutrophil protein,0.726796256509644,within-patient proximal-minus-distant standardized expression,0.015625,0.0375,patient-tissue phenotypic validation,TRUE
+Human UC CosMx/CODEX,UC inflamed FAP+/a5B1- niche,HLA_ABC neutrophil protein,0.392563379614297,within-patient proximal-minus-distant standardized expression,0.015625,0.0375,patient-tissue phenotypic validation,TRUE
+Human UC CosMx/CODEX,UC inflamed FAP+/a5B1- niche,NF-niche program neutrophil protein,0.615340423539582,within-patient proximal-minus-distant standardized expression,0.0234375,0.046875,patient-tissue phenotypic validation,TRUE
+Human UC CosMx/CODEX,UC inflamed FAP+/a5B1- niche,OSM neutrophil protein,0.723933530273504,within-patient proximal-minus-distant standardized expression,0.015625,0.0375,patient-tissue phenotypic validation,TRUE
+Human UC CosMx/CODEX,UC inflamed FAP+/a5B1- niche,a5B1 neutrophil protein,0.469198952560882,within-patient proximal-minus-distant standardized expression,0.0546875,0.09375,patient-tissue phenotypic validation,TRUE

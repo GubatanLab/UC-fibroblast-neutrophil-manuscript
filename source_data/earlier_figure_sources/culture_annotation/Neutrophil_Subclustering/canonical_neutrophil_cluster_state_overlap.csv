@@ -1,0 +1,25 @@
+canonical_cluster,canonical_state,Freq
+1,PADI4 neutrophil,861
+2,PADI4 neutrophil,147
+3,PADI4 neutrophil,558
+4,PADI4 neutrophil,2471
+5,PADI4 neutrophil,436
+6,PADI4 neutrophil,36
+1,OSM neutrophil,11466
+2,OSM neutrophil,7844
+3,OSM neutrophil,3497
+4,OSM neutrophil,645
+5,OSM neutrophil,44
+6,OSM neutrophil,71
+1,CXCR4 neutrophil,13485
+2,CXCR4 neutrophil,2274
+3,CXCR4 neutrophil,3282
+4,CXCR4 neutrophil,559
+5,CXCR4 neutrophil,20
+6,CXCR4 neutrophil,75
+1,MX1/ISG neutrophil,2171
+2,MX1/ISG neutrophil,628
+3,MX1/ISG neutrophil,81
+4,MX1/ISG neutrophil,40
+5,MX1/ISG neutrophil,1
+6,MX1/ISG neutrophil,13

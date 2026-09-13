@@ -1,0 +1,18 @@
+figure,pdf,source_data
+Figure 1,figures/main/Figure_01.pdf,source_data/figure_01
+Figure 2,figures/main/Figure_02.pdf,source_data/figure_02
+Figure 3,figures/main/Figure_03.pdf,source_data/figure_03
+Figure 4,figures/main/Figure_04.pdf,source_data/figure_04
+Figure 5,figures/main/Figure_05.pdf,source_data/figure_05
+Figure 6,figures/main/Figure_06.pdf,source_data/figure_06
+Figure 7,figures/main/Figure_07.pdf,source_data/figure_07
+Extended Data Figure 1,figures/extended_data/Extended_Data_Figure_01.pdf,source_data/extended_data
+Extended Data Figure 2,figures/extended_data/Extended_Data_Figure_02.pdf,source_data/extended_data
+Extended Data Figure 3,figures/extended_data/Extended_Data_Figure_03.pdf,source_data/extended_data
+Extended Data Figure 4,figures/extended_data/Extended_Data_Figure_04.pdf,source_data/extended_data
+Extended Data Figure 5,figures/extended_data/Extended_Data_Figure_05.pdf,source_data/extended_data
+Extended Data Figure 6,figures/extended_data/Extended_Data_Figure_06.pdf,source_data/extended_data
+Extended Data Figure 7,figures/extended_data/Extended_Data_Figure_07.pdf,source_data/extended_data
+Extended Data Figure 8,figures/extended_data/Extended_Data_Figure_08.pdf,source_data/extended_data
+Extended Data Figure 9,figures/extended_data/Extended_Data_Figure_09.pdf,source_data/extended_data
+Extended Data Figure 10,figures/extended_data/Extended_Data_Figure_10.pdf,source_data/extended_data

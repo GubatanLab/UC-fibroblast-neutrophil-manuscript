@@ -1,0 +1,98 @@
+neutrophil_subcluster,neutrophil_cluster_annotation,neutrophil_state_annotation,cleanup_action,cleanup_reason,cells
+1,Low-signal neutrophil,CXCR4 neutrophil,Retained,Retained neutrophil,2471
+1,Low-signal neutrophil,Low RNA neutrophils,Retained,Retained neutrophil,17705
+1,Low-signal neutrophil,MX1/ISG neutrophil,Retained,Retained neutrophil,90
+1,Low-signal neutrophil,OSM neutrophil,Retained,Retained neutrophil,2829
+1,Low-signal neutrophil,PADI4 neutrophil,Retained,Retained neutrophil,663
+2,Activated OSM/CXCR4 neutrophil,CXCR4 neutrophil,Retained,Retained neutrophil,15380
+2,Activated OSM/CXCR4 neutrophil,Low RNA neutrophils,Retained,Retained neutrophil,19993
+2,Activated OSM/CXCR4 neutrophil,MX1/ISG neutrophil,Retained,Retained neutrophil,2729
+2,Activated OSM/CXCR4 neutrophil,OSM neutrophil,Retained,Retained neutrophil,18256
+2,Activated OSM/CXCR4 neutrophil,PADI4 neutrophil,Retained,Retained neutrophil,950
+3,IL1R2+ inflammatory neutrophil,CXCR4 neutrophil,Retained,Retained neutrophil,925
+3,IL1R2+ inflammatory neutrophil,Low RNA neutrophils,Retained,Retained neutrophil,2362
+3,IL1R2+ inflammatory neutrophil,MX1/ISG neutrophil,Retained,Retained neutrophil,49
+3,IL1R2+ inflammatory neutrophil,OSM neutrophil,Retained,Retained neutrophil,1507
+3,IL1R2+ inflammatory neutrophil,PADI4 neutrophil,Retained,Retained neutrophil,303
+4,DHFR+ proliferative/stress neutrophil,CXCR4 neutrophil,Retained,Retained neutrophil,311
+4,DHFR+ proliferative/stress neutrophil,Low RNA neutrophils,Retained,Retained neutrophil,774
+4,DHFR+ proliferative/stress neutrophil,MX1/ISG neutrophil,Retained,Retained neutrophil,6
+4,DHFR+ proliferative/stress neutrophil,OSM neutrophil,Retained,Retained neutrophil,245
+4,DHFR+ proliferative/stress neutrophil,PADI4 neutrophil,Retained,Retained neutrophil,44
+5,PADI4/translation-high neutrophil,CXCR4 neutrophil,Retained,Retained neutrophil,448
+5,PADI4/translation-high neutrophil,Low RNA neutrophils,Retained,Retained neutrophil,346
+5,PADI4/translation-high neutrophil,MX1/ISG neutrophil,Retained,Retained neutrophil,34
+5,PADI4/translation-high neutrophil,OSM neutrophil,Retained,Retained neutrophil,511
+5,PADI4/translation-high neutrophil,PADI4 neutrophil,Retained,Retained neutrophil,2087
+9,LTF/BPI immature neutrophil,CXCR4 neutrophil,Retained,Retained neutrophil,15
+9,LTF/BPI immature neutrophil,Low RNA neutrophils,Retained,Retained neutrophil,71
+9,LTF/BPI immature neutrophil,MX1/ISG neutrophil,Retained,Retained neutrophil,1
+9,LTF/BPI immature neutrophil,OSM neutrophil,Retained,Retained neutrophil,42
+9,LTF/BPI immature neutrophil,PADI4 neutrophil,Retained,Retained neutrophil,413
+10,RORA+ atypical neutrophil,CXCR4 neutrophil,Retained,Retained neutrophil,68
+10,RORA+ atypical neutrophil,Low RNA neutrophils,Retained,Retained neutrophil,56
+10,RORA+ atypical neutrophil,MX1/ISG neutrophil,Retained,Retained neutrophil,12
+10,RORA+ atypical neutrophil,OSM neutrophil,Retained,Retained neutrophil,57
+10,RORA+ atypical neutrophil,PADI4 neutrophil,Retained,Retained neutrophil,33
+28,CCL3/CCL4 inflammatory neutrophil,CXCR4 neutrophil,Retained,Retained neutrophil,77
+28,CCL3/CCL4 inflammatory neutrophil,Low RNA neutrophils,Retained,Retained neutrophil,154
+28,CCL3/CCL4 inflammatory neutrophil,MX1/ISG neutrophil,Retained,Retained neutrophil,13
+28,CCL3/CCL4 inflammatory neutrophil,OSM neutrophil,Retained,Retained neutrophil,120
+28,CCL3/CCL4 inflammatory neutrophil,PADI4 neutrophil,Retained,Retained neutrophil,16
+6,HLA-II antigen-presenting/monocyte-like,CXCR4 neutrophil,Removed,"Doublet, contaminant-like, or singleton/outlier community",167
+6,HLA-II antigen-presenting/monocyte-like,Low RNA neutrophils,Removed,"Doublet, contaminant-like, or singleton/outlier community",578
+6,HLA-II antigen-presenting/monocyte-like,Low-signal/unresolved neutrophil,Removed,"Doublet, contaminant-like, or singleton/outlier community",833
+6,HLA-II antigen-presenting/monocyte-like,MX1/ISG neutrophil,Removed,"Doublet, contaminant-like, or singleton/outlier community",26
+6,HLA-II antigen-presenting/monocyte-like,OSM neutrophil,Removed,"Doublet, contaminant-like, or singleton/outlier community",513
+6,HLA-II antigen-presenting/monocyte-like,PADI4 neutrophil,Removed,"Doublet, contaminant-like, or singleton/outlier community",1049
+7,CLC+ granulocyte-like,CXCR4 neutrophil,Removed,"Doublet, contaminant-like, or singleton/outlier community",102
+7,CLC+ granulocyte-like,Low RNA neutrophils,Removed,"Doublet, contaminant-like, or singleton/outlier community",576
+7,CLC+ granulocyte-like,Low-signal/unresolved neutrophil,Removed,"Doublet, contaminant-like, or singleton/outlier community",908
+7,CLC+ granulocyte-like,MX1/ISG neutrophil,Removed,"Doublet, contaminant-like, or singleton/outlier community",17
+7,CLC+ granulocyte-like,OSM neutrophil,Removed,"Doublet, contaminant-like, or singleton/outlier community",172
+7,CLC+ granulocyte-like,PADI4 neutrophil,Removed,"Doublet, contaminant-like, or singleton/outlier community",40
+8,SPARC/CLU vascular-like outlier,CXCR4 neutrophil,Removed,"Doublet, contaminant-like, or singleton/outlier community",66
+8,SPARC/CLU vascular-like outlier,Low RNA neutrophils,Removed,"Doublet, contaminant-like, or singleton/outlier community",607
+8,SPARC/CLU vascular-like outlier,Low-signal/unresolved neutrophil,Removed,"Doublet, contaminant-like, or singleton/outlier community",960
+8,SPARC/CLU vascular-like outlier,MX1/ISG neutrophil,Removed,"Doublet, contaminant-like, or singleton/outlier community",5
+8,SPARC/CLU vascular-like outlier,OSM neutrophil,Removed,"Doublet, contaminant-like, or singleton/outlier community",51
+8,SPARC/CLU vascular-like outlier,PADI4 neutrophil,Removed,"Doublet, contaminant-like, or singleton/outlier community",16
+11,B-cell-like doublet,CXCR4 neutrophil,Removed,"Doublet, contaminant-like, or singleton/outlier community",31
+11,B-cell-like doublet,Low RNA neutrophils,Removed,"Doublet, contaminant-like, or singleton/outlier community",7
+11,B-cell-like doublet,Low-signal/unresolved neutrophil,Removed,"Doublet, contaminant-like, or singleton/outlier community",81
+11,B-cell-like doublet,MX1/ISG neutrophil,Removed,"Doublet, contaminant-like, or singleton/outlier community",4
+11,B-cell-like doublet,OSM neutrophil,Removed,"Doublet, contaminant-like, or singleton/outlier community",24
+11,B-cell-like doublet,PADI4 neutrophil,Removed,"Doublet, contaminant-like, or singleton/outlier community",183
+12,Singleton/outlier,Low RNA neutrophils,Removed,"Doublet, contaminant-like, or singleton/outlier community",1
+12,Singleton/outlier,Low-signal/unresolved neutrophil,Removed,"Doublet, contaminant-like, or singleton/outlier community",1
+12,Singleton/outlier,OSM neutrophil,Removed,"Doublet, contaminant-like, or singleton/outlier community",1
+13,Singleton/outlier,Low-signal/unresolved neutrophil,Removed,"Doublet, contaminant-like, or singleton/outlier community",3
+14,Singleton/outlier,Low-signal/unresolved neutrophil,Removed,"Doublet, contaminant-like, or singleton/outlier community",2
+15,Singleton/outlier,Low-signal/unresolved neutrophil,Removed,"Doublet, contaminant-like, or singleton/outlier community",2
+16,Singleton/outlier,OSM neutrophil,Removed,"Doublet, contaminant-like, or singleton/outlier community",2
+17,Singleton/outlier,Low-signal/unresolved neutrophil,Removed,"Doublet, contaminant-like, or singleton/outlier community",2
+18,Singleton/outlier,Low-signal/unresolved neutrophil,Removed,"Doublet, contaminant-like, or singleton/outlier community",2
+19,Singleton/outlier,Low-signal/unresolved neutrophil,Removed,"Doublet, contaminant-like, or singleton/outlier community",2
+20,Singleton/outlier,OSM neutrophil,Removed,"Doublet, contaminant-like, or singleton/outlier community",2
+21,Singleton/outlier,CXCR4 neutrophil,Removed,"Doublet, contaminant-like, or singleton/outlier community",1
+21,Singleton/outlier,Low-signal/unresolved neutrophil,Removed,"Doublet, contaminant-like, or singleton/outlier community",1
+22,Singleton/outlier,Low RNA neutrophils,Removed,"Doublet, contaminant-like, or singleton/outlier community",1
+22,Singleton/outlier,Low-signal/unresolved neutrophil,Removed,"Doublet, contaminant-like, or singleton/outlier community",1
+23,Singleton/outlier,Low-signal/unresolved neutrophil,Removed,"Doublet, contaminant-like, or singleton/outlier community",2
+24,Singleton/outlier,Low-signal/unresolved neutrophil,Removed,"Doublet, contaminant-like, or singleton/outlier community",2
+25,Singleton/outlier,OSM neutrophil,Removed,"Doublet, contaminant-like, or singleton/outlier community",2
+26,Singleton/outlier,Low-signal/unresolved neutrophil,Removed,"Doublet, contaminant-like, or singleton/outlier community",2
+27,Singleton/outlier,Low RNA neutrophils,Removed,"Doublet, contaminant-like, or singleton/outlier community",1
+27,Singleton/outlier,Low-signal/unresolved neutrophil,Removed,"Doublet, contaminant-like, or singleton/outlier community",1
+29,Singleton/outlier,Low RNA neutrophils,Removed,"Doublet, contaminant-like, or singleton/outlier community",1
+29,Singleton/outlier,Low-signal/unresolved neutrophil,Removed,"Doublet, contaminant-like, or singleton/outlier community",1
+30,Singleton/outlier,Low RNA neutrophils,Removed,"Doublet, contaminant-like, or singleton/outlier community",2
+31,Singleton/outlier,Low RNA neutrophils,Removed,"Doublet, contaminant-like, or singleton/outlier community",2
+1,Low-signal neutrophil,Low-signal/unresolved neutrophil,Removed,Low-signal/unresolved neutrophil state,51297
+2,Activated OSM/CXCR4 neutrophil,Low-signal/unresolved neutrophil,Removed,Low-signal/unresolved neutrophil state,11321
+3,IL1R2+ inflammatory neutrophil,Low-signal/unresolved neutrophil,Removed,Low-signal/unresolved neutrophil state,10170
+4,DHFR+ proliferative/stress neutrophil,Low-signal/unresolved neutrophil,Removed,Low-signal/unresolved neutrophil state,4312
+5,PADI4/translation-high neutrophil,Low-signal/unresolved neutrophil,Removed,Low-signal/unresolved neutrophil state,1792
+9,LTF/BPI immature neutrophil,Low-signal/unresolved neutrophil,Removed,Low-signal/unresolved neutrophil state,407
+10,RORA+ atypical neutrophil,Low-signal/unresolved neutrophil,Removed,Low-signal/unresolved neutrophil state,386
+28,CCL3/CCL4 inflammatory neutrophil,Low-signal/unresolved neutrophil,Removed,Low-signal/unresolved neutrophil state,426

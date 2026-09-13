@@ -1,0 +1,185 @@
+SampleID,fibroblast_annotation,DonorID,ConditionCode,condition_label,total_fibroblasts,cells,proportion,annotation_short
+C7,COL1A1+ inflammatory ECM fibroblast,Donor1,UN,"UC +
+NAMPTi",2,1,0.5,COL1A1+ inflammatory ECM
+C7,CSF3R+ immune-like fibroblast,Donor1,UN,"UC +
+NAMPTi",2,0,0,CSF3R+ immune-like
+C7,CCN1/CCN2+ activated fibroblast,Donor1,UN,"UC +
+NAMPTi",2,1,0.5,CCN1/CCN2+ activated
+C7,S100A8/A9+ immune-like fibroblast,Donor1,UN,"UC +
+NAMPTi",2,0,0,S100A8/A9+ immune-like
+C8,COL1A1+ inflammatory ECM fibroblast,Donor2,UN,"UC +
+NAMPTi",7,2,0.285714285714286,COL1A1+ inflammatory ECM
+C8,CSF3R+ immune-like fibroblast,Donor2,UN,"UC +
+NAMPTi",7,0,0,CSF3R+ immune-like
+C8,CCN1/CCN2+ activated fibroblast,Donor2,UN,"UC +
+NAMPTi",7,3,0.428571428571429,CCN1/CCN2+ activated
+C8,S100A8/A9+ immune-like fibroblast,Donor2,UN,"UC +
+NAMPTi",7,2,0.285714285714286,S100A8/A9+ immune-like
+C9,COL1A1+ inflammatory ECM fibroblast,Donor3,UN,"UC +
+NAMPTi",19,18,0.947368421052632,COL1A1+ inflammatory ECM
+C9,CSF3R+ immune-like fibroblast,Donor3,UN,"UC +
+NAMPTi",19,0,0,CSF3R+ immune-like
+C9,CCN1/CCN2+ activated fibroblast,Donor3,UN,"UC +
+NAMPTi",19,1,0.0526315789473684,CCN1/CCN2+ activated
+C9,S100A8/A9+ immune-like fibroblast,Donor3,UN,"UC +
+NAMPTi",19,0,0,S100A8/A9+ immune-like
+C4,COL1A1+ inflammatory ECM fibroblast,Donor4,UF,"UC fibroblast
+co-culture",13,12,0.923076923076923,COL1A1+ inflammatory ECM
+C4,CSF3R+ immune-like fibroblast,Donor4,UF,"UC fibroblast
+co-culture",13,0,0,CSF3R+ immune-like
+C4,CCN1/CCN2+ activated fibroblast,Donor4,UF,"UC fibroblast
+co-culture",13,1,0.0769230769230769,CCN1/CCN2+ activated
+C4,S100A8/A9+ immune-like fibroblast,Donor4,UF,"UC fibroblast
+co-culture",13,0,0,S100A8/A9+ immune-like
+C3,COL1A1+ inflammatory ECM fibroblast,Donor3,UF,"UC fibroblast
+co-culture",13,11,0.846153846153846,COL1A1+ inflammatory ECM
+C3,CSF3R+ immune-like fibroblast,Donor3,UF,"UC fibroblast
+co-culture",13,0,0,CSF3R+ immune-like
+C3,CCN1/CCN2+ activated fibroblast,Donor3,UF,"UC fibroblast
+co-culture",13,2,0.153846153846154,CCN1/CCN2+ activated
+C3,S100A8/A9+ immune-like fibroblast,Donor3,UF,"UC fibroblast
+co-culture",13,0,0,S100A8/A9+ immune-like
+C1,COL1A1+ inflammatory ECM fibroblast,Donor1,UF,"UC fibroblast
+co-culture",3,2,0.666666666666667,COL1A1+ inflammatory ECM
+C1,CSF3R+ immune-like fibroblast,Donor1,UF,"UC fibroblast
+co-culture",3,0,0,CSF3R+ immune-like
+C1,CCN1/CCN2+ activated fibroblast,Donor1,UF,"UC fibroblast
+co-culture",3,1,0.333333333333333,CCN1/CCN2+ activated
+C1,S100A8/A9+ immune-like fibroblast,Donor1,UF,"UC fibroblast
+co-culture",3,0,0,S100A8/A9+ immune-like
+C10,COL1A1+ inflammatory ECM fibroblast,Donor4,UN,"UC +
+NAMPTi",5,5,1,COL1A1+ inflammatory ECM
+C10,CSF3R+ immune-like fibroblast,Donor4,UN,"UC +
+NAMPTi",5,0,0,CSF3R+ immune-like
+C10,CCN1/CCN2+ activated fibroblast,Donor4,UN,"UC +
+NAMPTi",5,0,0,CCN1/CCN2+ activated
+C10,S100A8/A9+ immune-like fibroblast,Donor4,UN,"UC +
+NAMPTi",5,0,0,S100A8/A9+ immune-like
+C2,COL1A1+ inflammatory ECM fibroblast,Donor2,UF,"UC fibroblast
+co-culture",5,2,0.4,COL1A1+ inflammatory ECM
+C2,CSF3R+ immune-like fibroblast,Donor2,UF,"UC fibroblast
+co-culture",5,0,0,CSF3R+ immune-like
+C2,CCN1/CCN2+ activated fibroblast,Donor2,UF,"UC fibroblast
+co-culture",5,3,0.6,CCN1/CCN2+ activated
+C2,S100A8/A9+ immune-like fibroblast,Donor2,UF,"UC fibroblast
+co-culture",5,0,0,S100A8/A9+ immune-like
+D10,COL1A1+ inflammatory ECM fibroblast,Donor4,UD,"UC +
+dual blockade",16,13,0.8125,COL1A1+ inflammatory ECM
+D10,CSF3R+ immune-like fibroblast,Donor4,UD,"UC +
+dual blockade",16,0,0,CSF3R+ immune-like
+D10,CCN1/CCN2+ activated fibroblast,Donor4,UD,"UC +
+dual blockade",16,2,0.125,CCN1/CCN2+ activated
+D10,S100A8/A9+ immune-like fibroblast,Donor4,UD,"UC +
+dual blockade",16,1,0.0625,S100A8/A9+ immune-like
+D11,COL1A1+ inflammatory ECM fibroblast,Donor5,UD,"UC +
+dual blockade",13,9,0.692307692307692,COL1A1+ inflammatory ECM
+D11,CSF3R+ immune-like fibroblast,Donor5,UD,"UC +
+dual blockade",13,0,0,CSF3R+ immune-like
+D11,CCN1/CCN2+ activated fibroblast,Donor5,UD,"UC +
+dual blockade",13,3,0.230769230769231,CCN1/CCN2+ activated
+D11,S100A8/A9+ immune-like fibroblast,Donor5,UD,"UC +
+dual blockade",13,1,0.0769230769230769,S100A8/A9+ immune-like
+D3,COL1A1+ inflammatory ECM fibroblast,Donor3,UA5,"UC +
+alpha5beta1i",21,12,0.571428571428571,COL1A1+ inflammatory ECM
+D3,CSF3R+ immune-like fibroblast,Donor3,UA5,"UC +
+alpha5beta1i",21,0,0,CSF3R+ immune-like
+D3,CCN1/CCN2+ activated fibroblast,Donor3,UA5,"UC +
+alpha5beta1i",21,3,0.142857142857143,CCN1/CCN2+ activated
+D3,S100A8/A9+ immune-like fibroblast,Donor3,UA5,"UC +
+alpha5beta1i",21,6,0.285714285714286,S100A8/A9+ immune-like
+D8,COL1A1+ inflammatory ECM fibroblast,Donor2,UD,"UC +
+dual blockade",8,4,0.5,COL1A1+ inflammatory ECM
+D8,CSF3R+ immune-like fibroblast,Donor2,UD,"UC +
+dual blockade",8,0,0,CSF3R+ immune-like
+D8,CCN1/CCN2+ activated fibroblast,Donor2,UD,"UC +
+dual blockade",8,2,0.25,CCN1/CCN2+ activated
+D8,S100A8/A9+ immune-like fibroblast,Donor2,UD,"UC +
+dual blockade",8,2,0.25,S100A8/A9+ immune-like
+D4,COL1A1+ inflammatory ECM fibroblast,Donor4,UA5,"UC +
+alpha5beta1i",14,7,0.5,COL1A1+ inflammatory ECM
+D4,CSF3R+ immune-like fibroblast,Donor4,UA5,"UC +
+alpha5beta1i",14,0,0,CSF3R+ immune-like
+D4,CCN1/CCN2+ activated fibroblast,Donor4,UA5,"UC +
+alpha5beta1i",14,3,0.214285714285714,CCN1/CCN2+ activated
+D4,S100A8/A9+ immune-like fibroblast,Donor4,UA5,"UC +
+alpha5beta1i",14,4,0.285714285714286,S100A8/A9+ immune-like
+D6,COL1A1+ inflammatory ECM fibroblast,Donor6,UA5,"UC +
+alpha5beta1i",4,4,1,COL1A1+ inflammatory ECM
+D6,CSF3R+ immune-like fibroblast,Donor6,UA5,"UC +
+alpha5beta1i",4,0,0,CSF3R+ immune-like
+D6,CCN1/CCN2+ activated fibroblast,Donor6,UA5,"UC +
+alpha5beta1i",4,0,0,CCN1/CCN2+ activated
+D6,S100A8/A9+ immune-like fibroblast,Donor6,UA5,"UC +
+alpha5beta1i",4,0,0,S100A8/A9+ immune-like
+D12,COL1A1+ inflammatory ECM fibroblast,Donor6,UD,"UC +
+dual blockade",3,2,0.666666666666667,COL1A1+ inflammatory ECM
+D12,CSF3R+ immune-like fibroblast,Donor6,UD,"UC +
+dual blockade",3,0,0,CSF3R+ immune-like
+D12,CCN1/CCN2+ activated fibroblast,Donor6,UD,"UC +
+dual blockade",3,1,0.333333333333333,CCN1/CCN2+ activated
+D12,S100A8/A9+ immune-like fibroblast,Donor6,UD,"UC +
+dual blockade",3,0,0,S100A8/A9+ immune-like
+D1,COL1A1+ inflammatory ECM fibroblast,Donor1,UA5,"UC +
+alpha5beta1i",16,9,0.5625,COL1A1+ inflammatory ECM
+D1,CSF3R+ immune-like fibroblast,Donor1,UA5,"UC +
+alpha5beta1i",16,0,0,CSF3R+ immune-like
+D1,CCN1/CCN2+ activated fibroblast,Donor1,UA5,"UC +
+alpha5beta1i",16,3,0.1875,CCN1/CCN2+ activated
+D1,S100A8/A9+ immune-like fibroblast,Donor1,UA5,"UC +
+alpha5beta1i",16,4,0.25,S100A8/A9+ immune-like
+D2,COL1A1+ inflammatory ECM fibroblast,Donor2,UA5,"UC +
+alpha5beta1i",12,7,0.583333333333333,COL1A1+ inflammatory ECM
+D2,CSF3R+ immune-like fibroblast,Donor2,UA5,"UC +
+alpha5beta1i",12,0,0,CSF3R+ immune-like
+D2,CCN1/CCN2+ activated fibroblast,Donor2,UA5,"UC +
+alpha5beta1i",12,1,0.0833333333333333,CCN1/CCN2+ activated
+D2,S100A8/A9+ immune-like fibroblast,Donor2,UA5,"UC +
+alpha5beta1i",12,4,0.333333333333333,S100A8/A9+ immune-like
+D9,COL1A1+ inflammatory ECM fibroblast,Donor3,UD,"UC +
+dual blockade",15,11,0.733333333333333,COL1A1+ inflammatory ECM
+D9,CSF3R+ immune-like fibroblast,Donor3,UD,"UC +
+dual blockade",15,0,0,CSF3R+ immune-like
+D9,CCN1/CCN2+ activated fibroblast,Donor3,UD,"UC +
+dual blockade",15,3,0.2,CCN1/CCN2+ activated
+D9,S100A8/A9+ immune-like fibroblast,Donor3,UD,"UC +
+dual blockade",15,1,0.0666666666666667,S100A8/A9+ immune-like
+D7,COL1A1+ inflammatory ECM fibroblast,Donor1,UD,"UC +
+dual blockade",2,2,1,COL1A1+ inflammatory ECM
+D7,CSF3R+ immune-like fibroblast,Donor1,UD,"UC +
+dual blockade",2,0,0,CSF3R+ immune-like
+D7,CCN1/CCN2+ activated fibroblast,Donor1,UD,"UC +
+dual blockade",2,0,0,CCN1/CCN2+ activated
+D7,S100A8/A9+ immune-like fibroblast,Donor1,UD,"UC +
+dual blockade",2,0,0,S100A8/A9+ immune-like
+E3,COL1A1+ inflammatory ECM fibroblast,Donor3,CF,"Control fibroblast
+co-culture",20,0,0,COL1A1+ inflammatory ECM
+E3,CSF3R+ immune-like fibroblast,Donor3,CF,"Control fibroblast
+co-culture",20,20,1,CSF3R+ immune-like
+E3,CCN1/CCN2+ activated fibroblast,Donor3,CF,"Control fibroblast
+co-culture",20,0,0,CCN1/CCN2+ activated
+E3,S100A8/A9+ immune-like fibroblast,Donor3,CF,"Control fibroblast
+co-culture",20,0,0,S100A8/A9+ immune-like
+E4,COL1A1+ inflammatory ECM fibroblast,Donor4,CF,"Control fibroblast
+co-culture",17,0,0,COL1A1+ inflammatory ECM
+E4,CSF3R+ immune-like fibroblast,Donor4,CF,"Control fibroblast
+co-culture",17,15,0.882352941176471,CSF3R+ immune-like
+E4,CCN1/CCN2+ activated fibroblast,Donor4,CF,"Control fibroblast
+co-culture",17,0,0,CCN1/CCN2+ activated
+E4,S100A8/A9+ immune-like fibroblast,Donor4,CF,"Control fibroblast
+co-culture",17,2,0.117647058823529,S100A8/A9+ immune-like
+E6,COL1A1+ inflammatory ECM fibroblast,Donor6,CF,"Control fibroblast
+co-culture",6,2,0.333333333333333,COL1A1+ inflammatory ECM
+E6,CSF3R+ immune-like fibroblast,Donor6,CF,"Control fibroblast
+co-culture",6,2,0.333333333333333,CSF3R+ immune-like
+E6,CCN1/CCN2+ activated fibroblast,Donor6,CF,"Control fibroblast
+co-culture",6,1,0.166666666666667,CCN1/CCN2+ activated
+E6,S100A8/A9+ immune-like fibroblast,Donor6,CF,"Control fibroblast
+co-culture",6,1,0.166666666666667,S100A8/A9+ immune-like
+E1,COL1A1+ inflammatory ECM fibroblast,Donor1,CF,"Control fibroblast
+co-culture",4,1,0.25,COL1A1+ inflammatory ECM
+E1,CSF3R+ immune-like fibroblast,Donor1,CF,"Control fibroblast
+co-culture",4,2,0.5,CSF3R+ immune-like
+E1,CCN1/CCN2+ activated fibroblast,Donor1,CF,"Control fibroblast
+co-culture",4,0,0,CCN1/CCN2+ activated
+E1,S100A8/A9+ immune-like fibroblast,Donor1,CF,"Control fibroblast
+co-culture",4,1,0.25,S100A8/A9+ immune-like

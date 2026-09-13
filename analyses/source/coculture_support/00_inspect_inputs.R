@@ -1,0 +1,18 @@
+suppressPackageStartupMessages({library(data.table); library(SeuratObject)})
+root <- '.'
+out <- file.path(root,'output/additional_analyses_2026-09-02')
+dir.create(file.path(out,'tables'),recursive=TRUE,showWarnings=FALSE)
+base <- 'input_data/mouse/Neutrophil_Fibroblast_Coculture_Blockade_Figures'
+nd <- file.path(base,'scVI_Harmony_All_Coculture/Neutrophil_Subclustering')
+md <- fread(file.path(nd,'source_data/neutrophil_cell_metadata_annotations_and_umap.csv.gz'))
+cat('NEUT METADATA COLUMNS\n'); print(names(md)); print(md[, .N,by=.(DonorID,ConditionCode,neutrophil_cluster_annotation)])
+can <- fread(file.path(nd,'source_data/canonical_neutrophil_cell_metadata_and_umap.csv.gz'))
+cat('CANONICAL COLUMNS\n');print(names(can));print(can[, .N,by=ConditionCode])
+fwrite(md[, .N,by=.(DonorID,ConditionCode,neutrophil_cluster_annotation)],file.path(out,'tables/input_cell_counts.csv'))
+cat('OBJECT SIZES\n');print(file.info(list.files(file.path(nd,'objects'),pattern='rds$',full.names=TRUE))[,c('size')])
+ob <- readRDS(file.path(nd,'objects/canonical_neutrophils_scVI_Harmony_reclustered.rds'))
+cat('CANONICAL OBJECT\n'); print(dim(ob));print(Assays(ob));print(Layers(ob[['RNA']]));print(names(ob@meta.data));print(head(rownames(ob)))
+cat('PROGRAM DEFINITIONS\n');pr<-fread(file.path(base,'Manuscript_Analyses_1_to_6/source_data/analysis3_curated_functional_program_genes.csv'));print(pr[,.(genes=paste(gene,collapse=',')),by=program])
+saveRDS(list(meta=ob@meta.data,genes=rownames(ob),programs=pr),file.path(out,'tables/input_audit.rds'))
+cat('CODEX\n');sp<-fread('input_data/codex/giotto_codex_results/additional_analyses/codex_extended_cells.csv');print(sp[,.(cells=.N,neut=sum(grepl('Neutrophil',cell_type)),fib=sum(cell_type=='Fibroblast')),by=.(PatientID,Diagnosis2,region)]);print(unique(sp$cell_type))
+cat('PACKAGES\n');p<-installed.packages();print(p[p[,1]%in%c('RANN','FNN','dbscan','sf','spatstat.geom','svglite','Cairo','fgsea','msigdbr','RcppAnnoy','png','pdftools'),c('Package','Version')])

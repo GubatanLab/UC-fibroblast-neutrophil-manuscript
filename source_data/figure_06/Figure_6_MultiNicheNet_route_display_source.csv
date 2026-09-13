@@ -1,0 +1,19 @@
+direction,ligand,receptor,dss_minus_ablation,dss_minus_blockade
+Fibroblast -> Neutrophil,Icam1,Itgb2,0.549242461946454,0.524593151447112
+Fibroblast -> Neutrophil,Fn1,Itga5,0.309760641227663,0.32479862341811
+Fibroblast -> Neutrophil,Csf1,Csf1r,0.535169212351042,0.523908323935855
+Fibroblast -> Neutrophil,Cxcl5,Cxcr2,0.704248497541751,0.340533772356705
+Fibroblast -> Neutrophil,Cxcl2,Cxcr2,0.621593284396852,0.130444064619274
+Fibroblast -> Neutrophil,Cxcl1,Cxcr2,0.517248092655386,0.481449469531862
+Fibroblast -> Neutrophil,Il33,Il1rap,0.548964331900874,0.478013358879872
+Fibroblast -> Neutrophil,Il1b,Il1r2,0.811648743534105,0.048593941270103
+Fibroblast -> Neutrophil,Il1b,Il1rap,0.766935693219639,0.0297742196493008
+Neutrophil -> Fibroblast,Col1a1,Itga5,0.379473087635967,0.765716391019795
+Neutrophil -> Fibroblast,S100a9,Alcam,0.495888981930064,0.418498408142961
+Neutrophil -> Fibroblast,Tgm2,Itga4,0.67776293491337,0.282263447669438
+Neutrophil -> Fibroblast,Thbs1,Itga4,0.74149811691172,0.61585460246799
+Neutrophil -> Fibroblast,Nampt,Itga5,0.651107799475409,0.709198547447522
+Neutrophil -> Fibroblast,Vegfa,Nrp1,0.408501689760116,0.750602005062961
+Neutrophil -> Fibroblast,Il1b,Il1r1,0.598241015499306,0.555320947164483
+Neutrophil -> Fibroblast,Osm,Il6st,0.10556975140906,0.334109868593131
+Neutrophil -> Fibroblast,Osm,Osmr,0.182444332236285,0.496477101169182

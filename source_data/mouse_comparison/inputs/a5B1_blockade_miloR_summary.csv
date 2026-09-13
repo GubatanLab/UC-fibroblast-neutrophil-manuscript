@@ -1,0 +1,7 @@
+compartment,contrast,neighborhoods,fdr_lt_0_05,enriched,depleted
+Epithelial,Severe DSS colitis - Control,2397,865,146,719
+Epithelial,Blockade - severe DSS colitis,2397,1115,715,400
+Immune,Severe DSS colitis - Control,606,445,305,140
+Immune,Blockade - severe DSS colitis,606,367,91,276
+Stromal,Severe DSS colitis - Control,109,102,83,19
+Stromal,Blockade - severe DSS colitis,109,32,3,29

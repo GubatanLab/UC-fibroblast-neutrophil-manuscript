@@ -1,0 +1,21 @@
+group,sample,marker,channel,events,median_fluorescence,raw_sha256,source_file
+Neutrophils alone,P1-6,OSM,R670-A,435,-142.5161923873738,852bf98a19988392e7448ad93a5cb5600a33bf2da4c61860cbe9c50b941708af,input_data/flow\jyye_john_coculture_fixed\samples_p1-6.fcs
+Neutrophils alone,P1-6,CXCR4,V610-A,435,2641.649858379899,852bf98a19988392e7448ad93a5cb5600a33bf2da4c61860cbe9c50b941708af,input_data/flow\jyye_john_coculture_fixed\samples_p1-6.fcs
+Neutrophils alone,P1-6,MX1,B710-A,435,6067.449856855954,852bf98a19988392e7448ad93a5cb5600a33bf2da4c61860cbe9c50b941708af,input_data/flow\jyye_john_coculture_fixed\samples_p1-6.fcs
+Neutrophils alone,P1-6,PADI4,B515-A,435,14220.987738623482,852bf98a19988392e7448ad93a5cb5600a33bf2da4c61860cbe9c50b941708af,input_data/flow\jyye_john_coculture_fixed\samples_p1-6.fcs
+Neutrophils alone,P1-6,MPO,YG610-A,435,681.929848893072,852bf98a19988392e7448ad93a5cb5600a33bf2da4c61860cbe9c50b941708af,input_data/flow\jyye_john_coculture_fixed\samples_p1-6.fcs
+Ctrl FB,P5-2,OSM,R670-A,1866,-47.97714021238524,21e304301418f401117b1317e51d2bf640ff95d0e3774b8398a4e211460844dd,input_data/flow\jyye_john_coculture_fixed\samples_p5-2.fcs
+Ctrl FB,P5-2,CXCR4,V610-A,1866,5309.762711184657,21e304301418f401117b1317e51d2bf640ff95d0e3774b8398a4e211460844dd,input_data/flow\jyye_john_coculture_fixed\samples_p5-2.fcs
+Ctrl FB,P5-2,MX1,B710-A,1866,11376.865532061955,21e304301418f401117b1317e51d2bf640ff95d0e3774b8398a4e211460844dd,input_data/flow\jyye_john_coculture_fixed\samples_p5-2.fcs
+Ctrl FB,P5-2,PADI4,B515-A,1866,18333.326609346183,21e304301418f401117b1317e51d2bf640ff95d0e3774b8398a4e211460844dd,input_data/flow\jyye_john_coculture_fixed\samples_p5-2.fcs
+Ctrl FB,P5-2,MPO,YG610-A,1866,-75.69200265337594,21e304301418f401117b1317e51d2bf640ff95d0e3774b8398a4e211460844dd,input_data/flow\jyye_john_coculture_fixed\samples_p5-2.fcs
+UC FB,P3-5,OSM,R670-A,1478,371.9158393384944,a4901eed18fe5da1a36bb36522f1bbff3fb014408540c1ffa5fe6c1bfcdba019,input_data/flow\jyye_john_coculture_fixed\samples_p3-5.fcs
+UC FB,P3-5,CXCR4,V610-A,1478,11174.624400735465,a4901eed18fe5da1a36bb36522f1bbff3fb014408540c1ffa5fe6c1bfcdba019,input_data/flow\jyye_john_coculture_fixed\samples_p3-5.fcs
+UC FB,P3-5,MX1,B710-A,1478,6349.033588798776,a4901eed18fe5da1a36bb36522f1bbff3fb014408540c1ffa5fe6c1bfcdba019,input_data/flow\jyye_john_coculture_fixed\samples_p3-5.fcs
+UC FB,P3-5,PADI4,B515-A,1478,3328.489138066003,a4901eed18fe5da1a36bb36522f1bbff3fb014408540c1ffa5fe6c1bfcdba019,input_data/flow\jyye_john_coculture_fixed\samples_p3-5.fcs
+UC FB,P3-5,MPO,YG610-A,1478,2995.1637837281205,a4901eed18fe5da1a36bb36522f1bbff3fb014408540c1ffa5fe6c1bfcdba019,input_data/flow\jyye_john_coculture_fixed\samples_p3-5.fcs
+UC FB + α5β1i,P4-2,OSM,R670-A,1247,-27.128676826077864,9ffb28d5bb51b4800fa66cdb9cccd25edab36b60914e0d7c7b3bff887e175850,input_data/flow\jyye_john_coculture_fixed\samples_p4-2.fcs
+UC FB + α5β1i,P4-2,CXCR4,V610-A,1247,4608.838054640459,9ffb28d5bb51b4800fa66cdb9cccd25edab36b60914e0d7c7b3bff887e175850,input_data/flow\jyye_john_coculture_fixed\samples_p4-2.fcs
+UC FB + α5β1i,P4-2,MX1,B710-A,1247,9986.262814903139,9ffb28d5bb51b4800fa66cdb9cccd25edab36b60914e0d7c7b3bff887e175850,input_data/flow\jyye_john_coculture_fixed\samples_p4-2.fcs
+UC FB + α5β1i,P4-2,PADI4,B515-A,1247,14764.44459079643,9ffb28d5bb51b4800fa66cdb9cccd25edab36b60914e0d7c7b3bff887e175850,input_data/flow\jyye_john_coculture_fixed\samples_p4-2.fcs
+UC FB + α5β1i,P4-2,MPO,YG610-A,1247,256.86199168998826,9ffb28d5bb51b4800fa66cdb9cccd25edab36b60914e0d7c7b3bff887e175850,input_data/flow\jyye_john_coculture_fixed\samples_p4-2.fcs

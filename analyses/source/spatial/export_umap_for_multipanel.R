@@ -1,0 +1,8 @@
+suppressPackageStartupMessages({library(Seurat); library(data.table)})
+x<-readRDS("UCCODEX1_Annotated_repaired_withUMAP_neutrophil0.8Matched.rds")
+u<-as.data.table(Embeddings(x,"umap"),keep.rownames="cell_ID")
+setnames(u,c("cell_ID","UMAP_1","UMAP_2"))
+m<-as.data.table(x[[]],keep.rownames="cell_ID")
+z<-merge(u,m[,.(cell_ID,Celltype_updated,Diagnosis2,PatientID)],by="cell_ID")
+dir.create("giotto_codex_results/multipanel",recursive=TRUE,showWarnings=FALSE)
+fwrite(z,"giotto_codex_results/multipanel/umap_cells.csv")

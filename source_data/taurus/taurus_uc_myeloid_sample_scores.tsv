@@ -1,0 +1,108 @@
+sample_id	Patient	Site	Treatment	Inflammation	Inflammation_score	Remission_status	n_cells	myeloid feedback proxy	compartment
+CID003352-2	UC1	Rectum	Post	Inflamed	7.98423196	Non_Remission	98	2.3278850911275586	S100A8/A9-high monocytes
+CID003353-1	UC1	Descending_Colon	Post	Non_Inflamed	0.48461624	Non_Remission	1		S100A8/A9-high monocytes
+CID003354-1	UC1	Ascending_Colon	Post	Non_Inflamed	1.75548643	Non_Remission	6		S100A8/A9-high monocytes
+CID003355-1	UC1	Terminal_Ileum	Post	Non_Inflamed	5.91255513	Non_Remission	12	0.6935425161224505	S100A8/A9-high monocytes
+CID003356-1	UC1	Rectum	Pre	Inflamed	7.39283311	Non_Remission	31	2.2577858994687823	S100A8/A9-high monocytes
+CID003357-1	UC1	Terminal_Ileum	Pre	Non_Inflamed	5.47327062	Non_Remission	16	1.529689540633731	S100A8/A9-high monocytes
+CID003359-1	UC1	Ascending_Colon	Pre	Non_Inflamed	2.92984282	Non_Remission	3		S100A8/A9-high monocytes
+CID003360-1	UC2	Rectum	Post	Inflamed	6.99213596	Non_Remission	39	1.575851117527494	S100A8/A9-high monocytes
+CID003361-1	UC2	Sigmoid	Post	Inflamed	5.96128762	Non_Remission	21	2.02317663082818	S100A8/A9-high monocytes
+CID003362-1	UC2	Descending_Colon	Post	Inflamed	2.94156876	Non_Remission	2		S100A8/A9-high monocytes
+CID003363-1	UC2	Rectum	Pre	Inflamed	6.08680387	Non_Remission	34	2.3790186072072985	S100A8/A9-high monocytes
+CID003364-1	UC2	Sigmoid	Pre	Inflamed	6.65477771	Non_Remission	10	0.9396006344738275	S100A8/A9-high monocytes
+CID003365-1	UC2	Descending_Colon	Pre	Inflamed	2.21513802	Non_Remission	5		S100A8/A9-high monocytes
+CID003366-1	UC3	Rectum	Post	Inflamed	8.75205377	Non_Remission	69	1.7812589279481799	S100A8/A9-high monocytes
+CID003367-2	UC3	Descending_Colon	Post	Inflamed	8.03358015	Non_Remission	51	1.9668588367619064	S100A8/A9-high monocytes
+CID003368-1	UC3	Ascending_Colon	Post	Inflamed	6.63743862	Non_Remission	49	2.242680913030203	S100A8/A9-high monocytes
+CID003369-1	UC3	Terminal_Ileum	Post	Non_Inflamed	6.54934835	Non_Remission	52	1.3603984435596734	S100A8/A9-high monocytes
+CID003370-1	UC3	Rectum	Pre	Non_Inflamed	5.88044616	Non_Remission	24	1.2322558659733078	S100A8/A9-high monocytes
+CID003371-2	UC3	Descending_Colon	Pre	Non_Inflamed	6.23295086	Non_Remission	7		S100A8/A9-high monocytes
+CID003372-1	UC3	Ascending_Colon	Pre	Inflamed	7.38663399	Non_Remission	46	2.2434388954278277	S100A8/A9-high monocytes
+CID003373-1	UC3	Terminal_Ileum	Pre	Non_Inflamed	4.15169843	Non_Remission	6		S100A8/A9-high monocytes
+CID003665-1	UC4	Terminal_Ileum	Pre	Non_Inflamed	2.48212215	Non_Remission	1		S100A8/A9-high monocytes
+CID003666-1	UC4	Ascending_Colon	Pre	Inflamed	0.0	Non_Remission	7		S100A8/A9-high monocytes
+CID003667-1	UC4	Descending_Colon	Pre	Inflamed	8.98094546	Non_Remission	110	2.4501105980123508	S100A8/A9-high monocytes
+CID003669-1	UC4	Descending_Colon	Post	Inflamed	8.91659501	Non_Remission	254	2.3546531357897846	S100A8/A9-high monocytes
+CID003670-1	UC4	Sigmoid	Post	Inflamed	8.27533425	Non_Remission	39	1.98799702253433	S100A8/A9-high monocytes
+CID004696-1	UC5	Descending_Colon	Pre	Inflamed	7.53654144	Remission	106	2.0774392590943647	S100A8/A9-high monocytes
+CID004697-1	UC5	Sigmoid	Pre	Inflamed	8.04981875	Remission	106	2.4023409187742333	S100A8/A9-high monocytes
+CID004698-1	UC5	Rectum	Pre	Inflamed	7.81427266	Remission	73	2.065199403875754	S100A8/A9-high monocytes
+CID004699-1	UC5	Ascending_Colon	Post	Non_Inflamed	4.64795058	Remission	3		S100A8/A9-high monocytes
+CID004700-1	UC5	Descending_Colon	Post	Non_Inflamed	3.37876611	Remission	3		S100A8/A9-high monocytes
+CID004701-1	UC5	Sigmoid	Post	Non_Inflamed	6.15469493	Remission	4		S100A8/A9-high monocytes
+CID004702-1	UC5	Rectum	Post	Non_Inflamed	2.15064041	Remission	8		S100A8/A9-high monocytes
+CID004703-1	UC6	Sigmoid	Pre	Inflamed	7.71323517	Non_Remission	72	2.1025351581833434	S100A8/A9-high monocytes
+CID004704-1	UC6	Rectum	Pre	Inflamed	6.35836306	Non_Remission	24	2.104274219493535	S100A8/A9-high monocytes
+CID004705-1	UC6	Descending_Colon	Post	Inflamed	7.04820953	Non_Remission	39	1.8676481730533563	S100A8/A9-high monocytes
+CID004706-1	UC6	Sigmoid	Post	Inflamed	6.26718746	Non_Remission	45	1.8324061041521214	S100A8/A9-high monocytes
+CID004707-1	UC6	Rectum	Post	Inflamed	6.65319648	Non_Remission	40	1.8706066871579643	S100A8/A9-high monocytes
+CID004739-1	UC22	Ascending_Colon	Pre	Inflamed	6.83674024	Non_Remission	16	1.9161946407410417	S100A8/A9-high monocytes
+CID004740-1	UC22	Descending_Colon	Pre	Inflamed	5.27111852	Non_Remission	26	2.05680276963051	S100A8/A9-high monocytes
+CID004741-1	UC22	Rectum	Pre	Non_Inflamed	4.12438026	Non_Remission	4		S100A8/A9-high monocytes
+CID004742-1	UC22	Descending_Colon	Post	Inflamed	6.53476778	Non_Remission	23	1.7546772431035602	S100A8/A9-high monocytes
+CID004743-1	UC22	Sigmoid	Post	Inflamed	3.60534561	Non_Remission	9		S100A8/A9-high monocytes
+CID004744-1	UC22	Rectum	Post	Inflamed	5.84600575	Non_Remission	20	1.6204647242752308	S100A8/A9-high monocytes
+CID004745-1	UC7	Descending_Colon	Pre	Non_Inflamed	4.33923017	Non_Remission	10	1.6949190222828456	S100A8/A9-high monocytes
+CID004746-1	UC7	Sigmoid	Pre	Non_Inflamed	3.21673859	Non_Remission	17	1.711814456771736	S100A8/A9-high monocytes
+CID004747-1	UC7	Rectum	Pre	Inflamed	8.09057696	Non_Remission	118	2.180873523228317	S100A8/A9-high monocytes
+CID004748-1	UC7	Descending_Colon	Post	Non_Inflamed	3.58075402	Non_Remission	3		S100A8/A9-high monocytes
+CID004749-1	UC7	Sigmoid	Post	Non_Inflamed	1.00493405	Non_Remission	12	1.8194064097242624	S100A8/A9-high monocytes
+CID004750-1	UC7	Rectum	Post	Inflamed	4.81520882	Non_Remission	76	2.032293770681951	S100A8/A9-high monocytes
+CID005704-1	UC8	Sigmoid	Pre	Inflamed	7.74821914	Non_Remission	71	2.3925961092273407	S100A8/A9-high monocytes
+CID005705-1	UC8	Rectum	Pre	Inflamed	7.58178734	Non_Remission	34	1.837116885638128	S100A8/A9-high monocytes
+CID005706-1	UC8	Descending_Colon	Post	Inflamed	5.48640948	Non_Remission	29	1.2448759685422537	S100A8/A9-high monocytes
+CID005707-1	UC8	Sigmoid	Post	Inflamed	8.67735052	Non_Remission	115	2.027583924444973	S100A8/A9-high monocytes
+CID005708-1	UC8	Rectum	Post	Inflamed	8.85170499	Non_Remission	155	2.453733970333895	S100A8/A9-high monocytes
+CID005713-1	UC9	Descending_Colon	Pre	Inflamed	6.99828698	Non_Remission	37	1.8230496983360645	S100A8/A9-high monocytes
+CID005714-1	UC9	Sigmoid	Pre	Inflamed	6.1243129	Non_Remission	13	2.146138811744736	S100A8/A9-high monocytes
+CID005715-1	UC9	Rectum	Pre	Inflamed	7.86942075	Non_Remission	12	2.0448001681235843	S100A8/A9-high monocytes
+CID005716-1	UC9	Descending_Colon	Post	Non_Inflamed	4.68492519	Non_Remission	12	1.6549262575126276	S100A8/A9-high monocytes
+CID005717-1	UC9	Sigmoid	Post	Inflamed	5.4689872	Non_Remission	12	1.3947788731641901	S100A8/A9-high monocytes
+CID005718-1	UC9	Rectum	Post	Inflamed	6.64355453	Non_Remission	12	1.582730224886155	S100A8/A9-high monocytes
+CID005719-1	UC10	Descending_Colon	Pre	Inflamed	7.54121805	Remission	1		S100A8/A9-high monocytes
+CID005720-1	UC10	Sigmoid	Pre	Inflamed	7.59441424	Remission	67	2.0198308433293364	S100A8/A9-high monocytes
+CID005721-1	UC10	Rectum	Pre	Inflamed	8.20309848	Remission	54	2.0845835763291127	S100A8/A9-high monocytes
+CID005722-1	UC10	Descending_Colon	Post	Non_Inflamed	2.63700988	Remission	2		S100A8/A9-high monocytes
+CID005723-1	UC10	Sigmoid	Post	Non_Inflamed	3.10944641	Remission	4		S100A8/A9-high monocytes
+CID005724-1	UC10	Rectum	Post	Non_Inflamed	5.59386069	Remission	18	1.9838368939211395	S100A8/A9-high monocytes
+CID005725-1	UC11	Ascending_Colon	Pre	Non_Inflamed	6.97217528	Remission	17	0.9373378999038424	S100A8/A9-high monocytes
+CID005726-1	UC11	Rectum	Pre	Inflamed	7.21306103	Remission	88	2.055098828960472	S100A8/A9-high monocytes
+CID005727-1	UC11	Descending_Colon	Post	Non_Inflamed	1.76205789	Remission	2		S100A8/A9-high monocytes
+CID005728-1	UC11	Sigmoid	Post	Non_Inflamed	0.95075361	Remission	2		S100A8/A9-high monocytes
+CID005729-1	UC11	Rectum	Post	Non_Inflamed	2.27947021	Remission	2		S100A8/A9-high monocytes
+CID005730-1	UC12	Descending_Colon	Pre	Non_Inflamed	0.93753766	Remission	3		S100A8/A9-high monocytes
+CID005731-1	UC12	Sigmoid	Pre	Non_Inflamed	2.44436943	Remission	3		S100A8/A9-high monocytes
+CID005732-1	UC12	Rectum	Pre	Inflamed	3.72337624	Remission	16	1.7140933898990711	S100A8/A9-high monocytes
+CID005733-1	UC12	Descending_Colon	Post	Non_Inflamed	3.42279193	Remission	4		S100A8/A9-high monocytes
+CID005734-1	UC12	Sigmoid	Post	Non_Inflamed	0.88433591	Remission	2		S100A8/A9-high monocytes
+CID005735-1	UC12	Rectum	Post	Non_Inflamed	2.88521437	Remission	4		S100A8/A9-high monocytes
+CID005736-1	UC13	Descending_Colon	Pre	Non_Inflamed	1.95067375	Remission	2		S100A8/A9-high monocytes
+CID005738-1	UC13	Rectum	Pre	Inflamed	4.19486216	Remission	12	1.5271519327435874	S100A8/A9-high monocytes
+CID005739-1	UC13	Descending_Colon	Post	Non_Inflamed	3.34964456	Remission	4		S100A8/A9-high monocytes
+CID005740-1	UC13	Sigmoid	Post	Non_Inflamed	4.29749448	Remission	9		S100A8/A9-high monocytes
+CID005741-1	UC13	Rectum	Post	Non_Inflamed	5.33127671	Remission	4		S100A8/A9-high monocytes
+CID005742-1	UC14	Sigmoid	Pre	Inflamed	0.78464918	Non_Remission	1		S100A8/A9-high monocytes
+CID005743-1	UC14	Rectum	Pre	Inflamed	7.74033644	Non_Remission	37	1.5637180412618938	S100A8/A9-high monocytes
+CID005744-1	UC14	Descending_Colon	Post	Inflamed	6.98485524	Non_Remission	32	2.177269973668118	S100A8/A9-high monocytes
+CID005745-1	UC14	Sigmoid	Post	Inflamed	8.69151491	Non_Remission	65	2.0722208336597023	S100A8/A9-high monocytes
+CID005746-1	UC14	Rectum	Post	Inflamed	7.05128954	Non_Remission	76	2.108836564560304	S100A8/A9-high monocytes
+CID006562-1	UC15	Descending_Colon	Pre	Inflamed	5.96779763	Non_Remission	1		S100A8/A9-high monocytes
+CID006563-1	UC15	Rectum	Pre	Non_Inflamed	6.47199456	Non_Remission	2		S100A8/A9-high monocytes
+CID006565-1	UC15	Rectum	Post	Inflamed	7.65027814	Non_Remission	7		S100A8/A9-high monocytes
+CID006566-1	UC16	Ascending_Colon	Pre	Non_Inflamed	7.64818173	Non_Remission	16	0.8399202254119701	S100A8/A9-high monocytes
+CID006567-1	UC16	Descending_Colon	Pre	Non_Inflamed	7.13157951	Non_Remission	7		S100A8/A9-high monocytes
+CID006568-1	UC16	Ascending_Colon	Post	Inflamed	8.16793436	Non_Remission	20	1.3535307373605359	S100A8/A9-high monocytes
+CID006569-1	UC16	Descending_Colon	Post	Inflamed	6.21836206	Non_Remission	6		S100A8/A9-high monocytes
+CID006570-1	UC16	Rectum	Post	Inflamed	3.11871709	Non_Remission	12	1.501277212060594	S100A8/A9-high monocytes
+CID006571-1	UC17	Descending_Colon	Pre	Inflamed	8.01915131	Remission	51	2.2107813976149693	S100A8/A9-high monocytes
+CID006572-1	UC17	Rectum	Pre	Inflamed	7.37592399	Remission	69	2.266200319705045	S100A8/A9-high monocytes
+CID006573-1	UC17	Descending_Colon	Post	Non_Inflamed	3.03428302	Remission	13	1.7717196510562638	S100A8/A9-high monocytes
+CID006577-1	UC18	Rectum	Pre	Inflamed	7.37158469	Non_Remission	2		S100A8/A9-high monocytes
+CID006578-1	UC18	Rectum	Post	Inflamed	8.38520405	Non_Remission	9		S100A8/A9-high monocytes
+CID006579-1	UC19	Descending_Colon	Pre	Inflamed	7.17188803	Not_avail	5		S100A8/A9-high monocytes
+CID006580-1	UC19	Rectum	Pre	Inflamed	8.09218424	Not_avail	8		S100A8/A9-high monocytes
+CID006581-1	UC20	Descending_Colon	Pre	Inflamed	8.81427301	Non_Remission	31	2.7355016395721172	S100A8/A9-high monocytes
+CID006582-1	UC20	Rectum	Pre	Inflamed	7.43754394	Non_Remission	39	2.3245031714005537	S100A8/A9-high monocytes
+CID006583-1	UC21	Descending_Colon	Pre	Inflamed	7.86273123	Not_avail	12	1.9819773255602129	S100A8/A9-high monocytes
+CID006584-1	UC21	Rectum	Pre	Inflamed	6.89702533	Not_avail	20	2.1356540292412634	S100A8/A9-high monocytes

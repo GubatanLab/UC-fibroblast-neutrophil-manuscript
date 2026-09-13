@@ -1,0 +1,461 @@
+PatientID,Diagnosis2,marker,model,effect,n_neut
+P01,Control,CXCR4,Unadjusted,0.197482960605235,85
+P01,Control,CXCR4,Density + anatomy adjusted,0.200739462697437,85
+P01,Control,OSM,Unadjusted,0.236616830500141,85
+P01,Control,OSM,Density + anatomy adjusted,0.23689834521892,85
+P01,Control,CD16,Unadjusted,0.254012117936937,85
+P01,Control,CD16,Density + anatomy adjusted,0.260065261113026,85
+P01,Control,CD11b,Unadjusted,0.212463431190722,85
+P01,Control,CD11b,Density + anatomy adjusted,0.224098086830103,85
+P01,Control,CXCR4,Continuous nearest fibroblast FAP,0.313239152697878,85
+P01,Control,OSM,Continuous nearest fibroblast FAP,0.4040045732517,85
+P01,Control,CD16,Continuous nearest fibroblast FAP,0.294517082790166,85
+P01,Control,CD11b,Continuous nearest fibroblast FAP,0.315031797975047,85
+P01,Control,CXCR4,Continuous nearest fibroblast a5,0.0197891010933476,85
+P01,Control,OSM,Continuous nearest fibroblast a5,-0.0517282644607344,85
+P01,Control,CD16,Continuous nearest fibroblast a5,-0.0950969671046698,85
+P01,Control,CD11b,Continuous nearest fibroblast a5,-0.0881476938915803,85
+P01,Control,CXCR4,Continuous nearest fibroblast FAP_a5,-0.243865445615843,85
+P01,Control,OSM,Continuous nearest fibroblast FAP_a5,-0.139821482743416,85
+P01,Control,CD16,Continuous nearest fibroblast FAP_a5,-0.0269024527780526,85
+P01,Control,CD11b,Continuous nearest fibroblast FAP_a5,-0.0524483665505371,85
+P02,Control,CXCR4,Unadjusted,0.0545390345673713,144
+P02,Control,CXCR4,Density + anatomy adjusted,-0.000533258634431529,144
+P02,Control,OSM,Unadjusted,0.099155847845231,144
+P02,Control,OSM,Density + anatomy adjusted,0.0446766692889737,144
+P02,Control,CD16,Unadjusted,0.202568215987748,144
+P02,Control,CD16,Density + anatomy adjusted,0.273345512207225,144
+P02,Control,CD11b,Unadjusted,0.0669890061602445,144
+P02,Control,CD11b,Density + anatomy adjusted,0.0895446090680481,144
+P02,Control,CXCR4,Continuous nearest fibroblast FAP,0.165262925871452,144
+P02,Control,OSM,Continuous nearest fibroblast FAP,0.167892472874802,144
+P02,Control,CD16,Continuous nearest fibroblast FAP,0.2614616991168,144
+P02,Control,CD11b,Continuous nearest fibroblast FAP,0.282006889091971,144
+P02,Control,CXCR4,Continuous nearest fibroblast a5,-0.0365398006152097,144
+P02,Control,OSM,Continuous nearest fibroblast a5,0.0298657642329834,144
+P02,Control,CD16,Continuous nearest fibroblast a5,0.06164196504133,144
+P02,Control,CD11b,Continuous nearest fibroblast a5,-0.0981856453627351,144
+P02,Control,CXCR4,Continuous nearest fibroblast FAP_a5,-0.0322785754620625,144
+P02,Control,OSM,Continuous nearest fibroblast FAP_a5,-0.0650870160971178,144
+P02,Control,CD16,Continuous nearest fibroblast FAP_a5,-0.0984456764496702,144
+P02,Control,CD11b,Continuous nearest fibroblast FAP_a5,-0.139161860039013,144
+P03,Control,CXCR4,Unadjusted,0.262302907797616,252
+P03,Control,CXCR4,Density + anatomy adjusted,0.135326346311726,252
+P03,Control,OSM,Unadjusted,0.192017646249408,252
+P03,Control,OSM,Density + anatomy adjusted,0.133337785018998,252
+P03,Control,CD16,Unadjusted,0.117587395697606,252
+P03,Control,CD16,Density + anatomy adjusted,0.00604883199433747,252
+P03,Control,CD11b,Unadjusted,0.166863891551211,252
+P03,Control,CD11b,Density + anatomy adjusted,0.0635866028270225,252
+P03,Control,CXCR4,Continuous nearest fibroblast FAP,0.113112431778179,252
+P03,Control,OSM,Continuous nearest fibroblast FAP,0.143013566247834,252
+P03,Control,CD16,Continuous nearest fibroblast FAP,0.0342056752840902,252
+P03,Control,CD11b,Continuous nearest fibroblast FAP,-0.00782005171315432,252
+P03,Control,CXCR4,Continuous nearest fibroblast a5,-0.0322640753856529,252
+P03,Control,OSM,Continuous nearest fibroblast a5,-0.0122626809907233,252
+P03,Control,CD16,Continuous nearest fibroblast a5,-0.0378396342113854,252
+P03,Control,CD11b,Continuous nearest fibroblast a5,-0.0291892152863015,252
+P03,Control,CXCR4,Continuous nearest fibroblast FAP_a5,0.0425985404702252,252
+P03,Control,OSM,Continuous nearest fibroblast FAP_a5,-0.012268237320997,252
+P03,Control,CD16,Continuous nearest fibroblast FAP_a5,-0.11761029219644,252
+P03,Control,CD11b,Continuous nearest fibroblast FAP_a5,-0.0718400126731477,252
+P04,Control,CXCR4,Unadjusted,0.457202694857598,129
+P04,Control,CXCR4,Density + anatomy adjusted,0.273922930214728,129
+P04,Control,OSM,Unadjusted,0.369152748565784,129
+P04,Control,OSM,Density + anatomy adjusted,0.274557051933873,129
+P04,Control,CD16,Unadjusted,0.262698155095481,129
+P04,Control,CD16,Density + anatomy adjusted,0.120964101675391,129
+P04,Control,CD11b,Unadjusted,0.257579905614589,129
+P04,Control,CD11b,Density + anatomy adjusted,0.0828978282123789,129
+P04,Control,CXCR4,Continuous nearest fibroblast FAP,0.194505167855252,129
+P04,Control,OSM,Continuous nearest fibroblast FAP,0.235675702681917,129
+P04,Control,CD16,Continuous nearest fibroblast FAP,0.203142060599677,129
+P04,Control,CD11b,Continuous nearest fibroblast FAP,0.22133157043679,129
+P04,Control,CXCR4,Continuous nearest fibroblast a5,-0.112299010444385,129
+P04,Control,OSM,Continuous nearest fibroblast a5,-0.0924559749372207,129
+P04,Control,CD16,Continuous nearest fibroblast a5,0.128527706236274,129
+P04,Control,CD11b,Continuous nearest fibroblast a5,0.021855301992777,129
+P04,Control,CXCR4,Continuous nearest fibroblast FAP_a5,-0.0448582989020017,129
+P04,Control,OSM,Continuous nearest fibroblast FAP_a5,-0.0607973623901616,129
+P04,Control,CD16,Continuous nearest fibroblast FAP_a5,0.0420880808995917,129
+P04,Control,CD11b,Continuous nearest fibroblast FAP_a5,0.10433112086728,129
+P05,Control,CXCR4,Unadjusted,0.262270065573828,256
+P05,Control,CXCR4,Density + anatomy adjusted,0.116063482072773,256
+P05,Control,OSM,Unadjusted,0.00458139285025627,256
+P05,Control,OSM,Density + anatomy adjusted,-0.04350859627683,256
+P05,Control,CD16,Unadjusted,0.119954542708554,256
+P05,Control,CD16,Density + anatomy adjusted,-0.0778701696026829,256
+P05,Control,CD11b,Unadjusted,0.198230093803498,256
+P05,Control,CD11b,Density + anatomy adjusted,0.0183879556564336,256
+P05,Control,CXCR4,Continuous nearest fibroblast FAP,0.0731523028963729,256
+P05,Control,OSM,Continuous nearest fibroblast FAP,0.107279285767215,256
+P05,Control,CD16,Continuous nearest fibroblast FAP,0.112026362703654,256
+P05,Control,CD11b,Continuous nearest fibroblast FAP,0.130113862209163,256
+P05,Control,CXCR4,Continuous nearest fibroblast a5,0.00580670185196051,256
+P05,Control,OSM,Continuous nearest fibroblast a5,-0.0284299573935132,256
+P05,Control,CD16,Continuous nearest fibroblast a5,-0.0324045090984135,256
+P05,Control,CD11b,Continuous nearest fibroblast a5,0.0323465367863375,256
+P05,Control,CXCR4,Continuous nearest fibroblast FAP_a5,-0.0835381192027948,256
+P05,Control,OSM,Continuous nearest fibroblast FAP_a5,0.0434845806848896,256
+P05,Control,CD16,Continuous nearest fibroblast FAP_a5,0.035578533887375,256
+P05,Control,CD11b,Continuous nearest fibroblast FAP_a5,-0.0224626251579338,256
+P06,Control,CXCR4,Unadjusted,0.409905028238514,385
+P06,Control,CXCR4,Density + anatomy adjusted,0.0947542349655021,385
+P06,Control,OSM,Unadjusted,0.364208919666601,385
+P06,Control,OSM,Density + anatomy adjusted,0.176934381451358,385
+P06,Control,CD16,Unadjusted,0.0649449340290778,385
+P06,Control,CD16,Density + anatomy adjusted,0.0672727447099269,385
+P06,Control,CD11b,Unadjusted,0.173835492760034,385
+P06,Control,CD11b,Density + anatomy adjusted,0.072404311401069,385
+P06,Control,CXCR4,Continuous nearest fibroblast FAP,0.132589302067718,385
+P06,Control,OSM,Continuous nearest fibroblast FAP,0.194826022698926,385
+P06,Control,CD16,Continuous nearest fibroblast FAP,0.185788440126845,385
+P06,Control,CD11b,Continuous nearest fibroblast FAP,0.23336038844286,385
+P06,Control,CXCR4,Continuous nearest fibroblast a5,-0.0225844261126917,385
+P06,Control,OSM,Continuous nearest fibroblast a5,-0.08467917686428,385
+P06,Control,CD16,Continuous nearest fibroblast a5,0.0481000199488566,385
+P06,Control,CD11b,Continuous nearest fibroblast a5,-0.0937836330400739,385
+P06,Control,CXCR4,Continuous nearest fibroblast FAP_a5,-0.023660989604929,385
+P06,Control,OSM,Continuous nearest fibroblast FAP_a5,0.0104349431384018,385
+P06,Control,CD16,Continuous nearest fibroblast FAP_a5,-0.0212229465374672,385
+P06,Control,CD11b,Continuous nearest fibroblast FAP_a5,-0.00481473451721901,385
+P07,UC_Inflamed,CXCR4,Unadjusted,0.195834255312788,539
+P07,UC_Inflamed,CXCR4,Density + anatomy adjusted,0.13701189384919,539
+P07,UC_Inflamed,OSM,Unadjusted,0.240030830842262,539
+P07,UC_Inflamed,OSM,Density + anatomy adjusted,0.203871445639856,539
+P07,UC_Inflamed,CD16,Unadjusted,0.100707877106873,539
+P07,UC_Inflamed,CD16,Density + anatomy adjusted,0.0391145699904846,539
+P07,UC_Inflamed,CD11b,Unadjusted,0.235721811171763,539
+P07,UC_Inflamed,CD11b,Density + anatomy adjusted,0.196236837479365,539
+P07,UC_Inflamed,CXCR4,Continuous nearest fibroblast FAP,0.0445735844587447,539
+P07,UC_Inflamed,OSM,Continuous nearest fibroblast FAP,0.192152898913826,539
+P07,UC_Inflamed,CD16,Continuous nearest fibroblast FAP,0.0815403522792971,539
+P07,UC_Inflamed,CD11b,Continuous nearest fibroblast FAP,0.187984650217928,539
+P07,UC_Inflamed,CXCR4,Continuous nearest fibroblast a5,-0.0515115209028608,539
+P07,UC_Inflamed,OSM,Continuous nearest fibroblast a5,-0.0367015733963364,539
+P07,UC_Inflamed,CD16,Continuous nearest fibroblast a5,0.0364573154713505,539
+P07,UC_Inflamed,CD11b,Continuous nearest fibroblast a5,-0.0307763265950313,539
+P07,UC_Inflamed,CXCR4,Continuous nearest fibroblast FAP_a5,0.036647048326529,539
+P07,UC_Inflamed,OSM,Continuous nearest fibroblast FAP_a5,-0.0446475056521025,539
+P07,UC_Inflamed,CD16,Continuous nearest fibroblast FAP_a5,0.0281304689935622,539
+P07,UC_Inflamed,CD11b,Continuous nearest fibroblast FAP_a5,0.00124228335992476,539
+P08,UC_Inflamed,CXCR4,Unadjusted,-0.0368271675910107,619
+P08,UC_Inflamed,CXCR4,Density + anatomy adjusted,0.0381625424448961,619
+P08,UC_Inflamed,OSM,Unadjusted,-0.0520788083110501,619
+P08,UC_Inflamed,OSM,Density + anatomy adjusted,0.100982126817852,619
+P08,UC_Inflamed,CD16,Unadjusted,0.00818886762638346,619
+P08,UC_Inflamed,CD16,Density + anatomy adjusted,0.0751406685545728,619
+P08,UC_Inflamed,CD11b,Unadjusted,0.0819617916558373,619
+P08,UC_Inflamed,CD11b,Density + anatomy adjusted,0.247942344078752,619
+P08,UC_Inflamed,CXCR4,Continuous nearest fibroblast FAP,-0.0589305499521698,619
+P08,UC_Inflamed,OSM,Continuous nearest fibroblast FAP,0.0297276758430734,619
+P08,UC_Inflamed,CD16,Continuous nearest fibroblast FAP,-0.0178691974891385,619
+P08,UC_Inflamed,CD11b,Continuous nearest fibroblast FAP,0.185147911409992,619
+P08,UC_Inflamed,CXCR4,Continuous nearest fibroblast a5,-0.154098387293291,619
+P08,UC_Inflamed,OSM,Continuous nearest fibroblast a5,-0.101582331421897,619
+P08,UC_Inflamed,CD16,Continuous nearest fibroblast a5,-0.0811140635606717,619
+P08,UC_Inflamed,CD11b,Continuous nearest fibroblast a5,-0.102318678386464,619
+P08,UC_Inflamed,CXCR4,Continuous nearest fibroblast FAP_a5,-0.111955322069871,619
+P08,UC_Inflamed,OSM,Continuous nearest fibroblast FAP_a5,-0.121001709754331,619
+P08,UC_Inflamed,CD16,Continuous nearest fibroblast FAP_a5,-0.0422561735623618,619
+P08,UC_Inflamed,CD11b,Continuous nearest fibroblast FAP_a5,-0.0207302214123664,619
+P09,UC_Inflamed,CXCR4,Unadjusted,0.244502135958569,647
+P09,UC_Inflamed,CXCR4,Density + anatomy adjusted,0.22720608280082,647
+P09,UC_Inflamed,OSM,Unadjusted,0.148010220733273,647
+P09,UC_Inflamed,OSM,Density + anatomy adjusted,0.152885310298403,647
+P09,UC_Inflamed,CD16,Unadjusted,0.286592041720545,647
+P09,UC_Inflamed,CD16,Density + anatomy adjusted,0.0314481738778249,647
+P09,UC_Inflamed,CD11b,Unadjusted,0.114819067701516,647
+P09,UC_Inflamed,CD11b,Density + anatomy adjusted,0.0792419083660239,647
+P09,UC_Inflamed,CXCR4,Continuous nearest fibroblast FAP,0.248881497039491,647
+P09,UC_Inflamed,OSM,Continuous nearest fibroblast FAP,0.192031433284938,647
+P09,UC_Inflamed,CD16,Continuous nearest fibroblast FAP,0.198887319254143,647
+P09,UC_Inflamed,CD11b,Continuous nearest fibroblast FAP,0.275155762449173,647
+P09,UC_Inflamed,CXCR4,Continuous nearest fibroblast a5,0.0602410729324523,647
+P09,UC_Inflamed,OSM,Continuous nearest fibroblast a5,0.138699995242412,647
+P09,UC_Inflamed,CD16,Continuous nearest fibroblast a5,0.0304898494403212,647
+P09,UC_Inflamed,CD11b,Continuous nearest fibroblast a5,0.124617572476289,647
+P09,UC_Inflamed,CXCR4,Continuous nearest fibroblast FAP_a5,0.140827650160778,647
+P09,UC_Inflamed,OSM,Continuous nearest fibroblast FAP_a5,0.057242135779004,647
+P09,UC_Inflamed,CD16,Continuous nearest fibroblast FAP_a5,0.0390477096139265,647
+P09,UC_Inflamed,CD11b,Continuous nearest fibroblast FAP_a5,0.0396706506355764,647
+P10,UC_Inflamed,CXCR4,Unadjusted,0.501325685364564,952
+P10,UC_Inflamed,CXCR4,Density + anatomy adjusted,0.111364063458152,952
+P10,UC_Inflamed,OSM,Unadjusted,0.454778358175496,952
+P10,UC_Inflamed,OSM,Density + anatomy adjusted,0.199549949646132,952
+P10,UC_Inflamed,CD16,Unadjusted,0.366609561893649,952
+P10,UC_Inflamed,CD16,Density + anatomy adjusted,0.155138670268141,952
+P10,UC_Inflamed,CD11b,Unadjusted,0.188383499786329,952
+P10,UC_Inflamed,CD11b,Density + anatomy adjusted,0.160892189157482,952
+P10,UC_Inflamed,CXCR4,Continuous nearest fibroblast FAP,0.109882145871744,952
+P10,UC_Inflamed,OSM,Continuous nearest fibroblast FAP,0.123551405694881,952
+P10,UC_Inflamed,CD16,Continuous nearest fibroblast FAP,0.0992808388489318,952
+P10,UC_Inflamed,CD11b,Continuous nearest fibroblast FAP,0.174075456014427,952
+P10,UC_Inflamed,CXCR4,Continuous nearest fibroblast a5,0.00749869102619444,952
+P10,UC_Inflamed,OSM,Continuous nearest fibroblast a5,-0.0462384784808522,952
+P10,UC_Inflamed,CD16,Continuous nearest fibroblast a5,-0.00542500897811598,952
+P10,UC_Inflamed,CD11b,Continuous nearest fibroblast a5,-0.0353782855501884,952
+P10,UC_Inflamed,CXCR4,Continuous nearest fibroblast FAP_a5,-0.0815784417595995,952
+P10,UC_Inflamed,OSM,Continuous nearest fibroblast FAP_a5,-0.112548643792758,952
+P10,UC_Inflamed,CD16,Continuous nearest fibroblast FAP_a5,-0.172145180785753,952
+P10,UC_Inflamed,CD11b,Continuous nearest fibroblast FAP_a5,-0.139813398440782,952
+P11,UC_Inflamed,CXCR4,Unadjusted,0.327189275366424,475
+P11,UC_Inflamed,CXCR4,Density + anatomy adjusted,0.178123739138194,475
+P11,UC_Inflamed,OSM,Unadjusted,0.223212453664782,475
+P11,UC_Inflamed,OSM,Density + anatomy adjusted,0.191634639128383,475
+P11,UC_Inflamed,CD16,Unadjusted,0.158426859170278,475
+P11,UC_Inflamed,CD16,Density + anatomy adjusted,0.143864241743555,475
+P11,UC_Inflamed,CD11b,Unadjusted,0.195384616824391,475
+P11,UC_Inflamed,CD11b,Density + anatomy adjusted,0.27588499221167,475
+P11,UC_Inflamed,CXCR4,Continuous nearest fibroblast FAP,0.0551617285181882,475
+P11,UC_Inflamed,OSM,Continuous nearest fibroblast FAP,-0.00785035979373258,475
+P11,UC_Inflamed,CD16,Continuous nearest fibroblast FAP,0.0466057524937493,475
+P11,UC_Inflamed,CD11b,Continuous nearest fibroblast FAP,0.172889497713881,475
+P11,UC_Inflamed,CXCR4,Continuous nearest fibroblast a5,-0.119660043355606,475
+P11,UC_Inflamed,OSM,Continuous nearest fibroblast a5,-0.137203329563806,475
+P11,UC_Inflamed,CD16,Continuous nearest fibroblast a5,-0.0901029704691905,475
+P11,UC_Inflamed,CD11b,Continuous nearest fibroblast a5,-0.138701237500034,475
+P11,UC_Inflamed,CXCR4,Continuous nearest fibroblast FAP_a5,0.182208355409524,475
+P11,UC_Inflamed,OSM,Continuous nearest fibroblast FAP_a5,0.127954014879852,475
+P11,UC_Inflamed,CD16,Continuous nearest fibroblast FAP_a5,-0.030758409016299,475
+P11,UC_Inflamed,CD11b,Continuous nearest fibroblast FAP_a5,0.0789914467094595,475
+P12,UC_Inflamed,CXCR4,Unadjusted,0.481442604519962,2974
+P12,UC_Inflamed,CXCR4,Density + anatomy adjusted,0.487147127615176,2974
+P12,UC_Inflamed,OSM,Unadjusted,0.510979584661807,2974
+P12,UC_Inflamed,OSM,Density + anatomy adjusted,0.389023318247974,2974
+P12,UC_Inflamed,CD16,Unadjusted,0.667800373203935,2974
+P12,UC_Inflamed,CD16,Density + anatomy adjusted,0.422143520239848,2974
+P12,UC_Inflamed,CD11b,Unadjusted,0.263482069836817,2974
+P12,UC_Inflamed,CD11b,Density + anatomy adjusted,0.38064086891208,2974
+P12,UC_Inflamed,CXCR4,Continuous nearest fibroblast FAP,0.345319488592844,2974
+P12,UC_Inflamed,OSM,Continuous nearest fibroblast FAP,0.270161578726454,2974
+P12,UC_Inflamed,CD16,Continuous nearest fibroblast FAP,0.275199993958293,2974
+P12,UC_Inflamed,CD11b,Continuous nearest fibroblast FAP,0.182324789468461,2974
+P12,UC_Inflamed,CXCR4,Continuous nearest fibroblast a5,-0.0612083810039917,2974
+P12,UC_Inflamed,OSM,Continuous nearest fibroblast a5,-0.065049606280546,2974
+P12,UC_Inflamed,CD16,Continuous nearest fibroblast a5,-0.116888206703781,2974
+P12,UC_Inflamed,CD11b,Continuous nearest fibroblast a5,-0.0927126943615836,2974
+P12,UC_Inflamed,CXCR4,Continuous nearest fibroblast FAP_a5,0.0461660571347225,2974
+P12,UC_Inflamed,OSM,Continuous nearest fibroblast FAP_a5,-0.180421064535695,2974
+P12,UC_Inflamed,CD16,Continuous nearest fibroblast FAP_a5,0.0878637402570618,2974
+P12,UC_Inflamed,CD11b,Continuous nearest fibroblast FAP_a5,-0.0254767871462139,2974
+P13,UC_Inflamed,CXCR4,Unadjusted,0.279711970272838,2758
+P13,UC_Inflamed,CXCR4,Density + anatomy adjusted,0.13610136888751,2758
+P13,UC_Inflamed,OSM,Unadjusted,0.252609841066676,2758
+P13,UC_Inflamed,OSM,Density + anatomy adjusted,0.158117310941847,2758
+P13,UC_Inflamed,CD16,Unadjusted,0.162227938894727,2758
+P13,UC_Inflamed,CD16,Density + anatomy adjusted,0.134612306803261,2758
+P13,UC_Inflamed,CD11b,Unadjusted,0.277755955344955,2758
+P13,UC_Inflamed,CD11b,Density + anatomy adjusted,0.195060596523708,2758
+P13,UC_Inflamed,CXCR4,Continuous nearest fibroblast FAP,0.172494667575902,2758
+P13,UC_Inflamed,OSM,Continuous nearest fibroblast FAP,0.188218061083559,2758
+P13,UC_Inflamed,CD16,Continuous nearest fibroblast FAP,0.204177363227258,2758
+P13,UC_Inflamed,CD11b,Continuous nearest fibroblast FAP,0.304789153014408,2758
+P13,UC_Inflamed,CXCR4,Continuous nearest fibroblast a5,-0.0315581489467706,2758
+P13,UC_Inflamed,OSM,Continuous nearest fibroblast a5,-0.0321361373968423,2758
+P13,UC_Inflamed,CD16,Continuous nearest fibroblast a5,0.0324406761764786,2758
+P13,UC_Inflamed,CD11b,Continuous nearest fibroblast a5,-0.012617860153605,2758
+P13,UC_Inflamed,CXCR4,Continuous nearest fibroblast FAP_a5,0.0670739823039225,2758
+P13,UC_Inflamed,OSM,Continuous nearest fibroblast FAP_a5,0.0636305450421589,2758
+P13,UC_Inflamed,CD16,Continuous nearest fibroblast FAP_a5,0.000549806528225917,2758
+P13,UC_Inflamed,CD11b,Continuous nearest fibroblast FAP_a5,0.0369791967489325,2758
+P14,UC_Inflamed,CXCR4,Unadjusted,0.362721673776661,1003
+P14,UC_Inflamed,CXCR4,Density + anatomy adjusted,0.149023654646222,1003
+P14,UC_Inflamed,OSM,Unadjusted,0.0324603439976805,1003
+P14,UC_Inflamed,OSM,Density + anatomy adjusted,0.107468647519733,1003
+P14,UC_Inflamed,CD16,Unadjusted,0.303192071961118,1003
+P14,UC_Inflamed,CD16,Density + anatomy adjusted,0.150613977084679,1003
+P14,UC_Inflamed,CD11b,Unadjusted,0.303715647068279,1003
+P14,UC_Inflamed,CD11b,Density + anatomy adjusted,0.105429342211637,1003
+P14,UC_Inflamed,CXCR4,Continuous nearest fibroblast FAP,0.132669056296909,1003
+P14,UC_Inflamed,OSM,Continuous nearest fibroblast FAP,0.264131014188223,1003
+P14,UC_Inflamed,CD16,Continuous nearest fibroblast FAP,0.123916396439326,1003
+P14,UC_Inflamed,CD11b,Continuous nearest fibroblast FAP,0.0866737820555326,1003
+P14,UC_Inflamed,CXCR4,Continuous nearest fibroblast a5,-0.00790676219789068,1003
+P14,UC_Inflamed,OSM,Continuous nearest fibroblast a5,-0.0496729945963324,1003
+P14,UC_Inflamed,CD16,Continuous nearest fibroblast a5,0.014444578654766,1003
+P14,UC_Inflamed,CD11b,Continuous nearest fibroblast a5,-0.068533299323968,1003
+P14,UC_Inflamed,CXCR4,Continuous nearest fibroblast FAP_a5,0.0441521245141108,1003
+P14,UC_Inflamed,OSM,Continuous nearest fibroblast FAP_a5,0.0828289353722966,1003
+P14,UC_Inflamed,CD16,Continuous nearest fibroblast FAP_a5,-0.0192219769620356,1003
+P14,UC_Inflamed,CD11b,Continuous nearest fibroblast FAP_a5,-0.00575202262821194,1003
+P15,UC_Inflamed,CXCR4,Unadjusted,0.346343068479547,961
+P15,UC_Inflamed,CXCR4,Density + anatomy adjusted,-0.0236018120875343,961
+P15,UC_Inflamed,OSM,Unadjusted,0.00631066857269782,961
+P15,UC_Inflamed,OSM,Density + anatomy adjusted,0.00621172793360004,961
+P15,UC_Inflamed,CD16,Unadjusted,0.324458705258277,961
+P15,UC_Inflamed,CD16,Density + anatomy adjusted,0.0919521004816378,961
+P15,UC_Inflamed,CD11b,Unadjusted,0.317164469826738,961
+P15,UC_Inflamed,CD11b,Density + anatomy adjusted,0.100637446742963,961
+P15,UC_Inflamed,CXCR4,Continuous nearest fibroblast FAP,0.057066905537684,961
+P15,UC_Inflamed,OSM,Continuous nearest fibroblast FAP,-0.0178973224730131,961
+P15,UC_Inflamed,CD16,Continuous nearest fibroblast FAP,0.177519462491708,961
+P15,UC_Inflamed,CD11b,Continuous nearest fibroblast FAP,0.163929408459433,961
+P15,UC_Inflamed,CXCR4,Continuous nearest fibroblast a5,0.0250304774257939,961
+P15,UC_Inflamed,OSM,Continuous nearest fibroblast a5,-0.112900917673451,961
+P15,UC_Inflamed,CD16,Continuous nearest fibroblast a5,0.05377332461372,961
+P15,UC_Inflamed,CD11b,Continuous nearest fibroblast a5,0.0525206020507171,961
+P15,UC_Inflamed,CXCR4,Continuous nearest fibroblast FAP_a5,-0.0150406227946654,961
+P15,UC_Inflamed,OSM,Continuous nearest fibroblast FAP_a5,-0.00656072294593011,961
+P15,UC_Inflamed,CD16,Continuous nearest fibroblast FAP_a5,-0.0172628467457495,961
+P15,UC_Inflamed,CD11b,Continuous nearest fibroblast FAP_a5,-0.0339943127782977,961
+P16,UC_Noninflamed,CXCR4,Unadjusted,0.0345603896811045,46
+P16,UC_Noninflamed,CXCR4,Density + anatomy adjusted,-0.101089842067973,46
+P16,UC_Noninflamed,OSM,Unadjusted,-0.107846122728061,46
+P16,UC_Noninflamed,OSM,Density + anatomy adjusted,-0.19800834586742,46
+P16,UC_Noninflamed,CD16,Unadjusted,-0.159157850838603,46
+P16,UC_Noninflamed,CD16,Density + anatomy adjusted,-0.158824323959618,46
+P16,UC_Noninflamed,CD11b,Unadjusted,0.149857145682454,46
+P16,UC_Noninflamed,CD11b,Density + anatomy adjusted,0.0378228431927648,46
+P16,UC_Noninflamed,CXCR4,Continuous nearest fibroblast FAP,0.20505833342226,46
+P16,UC_Noninflamed,OSM,Continuous nearest fibroblast FAP,0.209669997196062,46
+P16,UC_Noninflamed,CD16,Continuous nearest fibroblast FAP,-0.117721424547636,46
+P16,UC_Noninflamed,CD11b,Continuous nearest fibroblast FAP,0.112306932447739,46
+P16,UC_Noninflamed,CXCR4,Continuous nearest fibroblast a5,-0.0799020808352689,46
+P16,UC_Noninflamed,OSM,Continuous nearest fibroblast a5,0.0655982398919108,46
+P16,UC_Noninflamed,CD16,Continuous nearest fibroblast a5,0.251708854871547,46
+P16,UC_Noninflamed,CD11b,Continuous nearest fibroblast a5,0.134751200717272,46
+P16,UC_Noninflamed,CXCR4,Continuous nearest fibroblast FAP_a5,0.0100120446196486,46
+P16,UC_Noninflamed,OSM,Continuous nearest fibroblast FAP_a5,0.188425032297513,46
+P16,UC_Noninflamed,CD16,Continuous nearest fibroblast FAP_a5,0.267940211186773,46
+P16,UC_Noninflamed,CD11b,Continuous nearest fibroblast FAP_a5,0.229909561568996,46
+P17,UC_Noninflamed,CXCR4,Unadjusted,0.257196186873054,79
+P17,UC_Noninflamed,CXCR4,Density + anatomy adjusted,0.186946376667398,79
+P17,UC_Noninflamed,OSM,Unadjusted,0.0545400861097525,79
+P17,UC_Noninflamed,OSM,Density + anatomy adjusted,0.0474625389196809,79
+P17,UC_Noninflamed,CD16,Unadjusted,0.127060289981147,79
+P17,UC_Noninflamed,CD16,Density + anatomy adjusted,0.298024194508219,79
+P17,UC_Noninflamed,CD11b,Unadjusted,0.524032287613903,79
+P17,UC_Noninflamed,CD11b,Density + anatomy adjusted,0.655765157539102,79
+P17,UC_Noninflamed,CXCR4,Continuous nearest fibroblast FAP,0.0538624002973993,79
+P17,UC_Noninflamed,OSM,Continuous nearest fibroblast FAP,0.208523792659039,79
+P17,UC_Noninflamed,CD16,Continuous nearest fibroblast FAP,0.20389184024188,79
+P17,UC_Noninflamed,CD11b,Continuous nearest fibroblast FAP,0.423206503479135,79
+P17,UC_Noninflamed,CXCR4,Continuous nearest fibroblast a5,-0.0956832092385335,79
+P17,UC_Noninflamed,OSM,Continuous nearest fibroblast a5,-0.120477224286761,79
+P17,UC_Noninflamed,CD16,Continuous nearest fibroblast a5,0.0523793807347313,79
+P17,UC_Noninflamed,CD11b,Continuous nearest fibroblast a5,-0.10503371782542,79
+P17,UC_Noninflamed,CXCR4,Continuous nearest fibroblast FAP_a5,-0.0815826196533604,79
+P17,UC_Noninflamed,OSM,Continuous nearest fibroblast FAP_a5,-0.0447710362420594,79
+P17,UC_Noninflamed,CD16,Continuous nearest fibroblast FAP_a5,0.105282065251861,79
+P17,UC_Noninflamed,CD11b,Continuous nearest fibroblast FAP_a5,0.0666291008280199,79
+P18,UC_Noninflamed,CXCR4,Unadjusted,0.102583035364956,46
+P18,UC_Noninflamed,CXCR4,Density + anatomy adjusted,-0.0728839516759008,46
+P18,UC_Noninflamed,OSM,Unadjusted,-0.0222685729324315,46
+P18,UC_Noninflamed,OSM,Density + anatomy adjusted,-0.201062062596548,46
+P18,UC_Noninflamed,CD16,Unadjusted,-0.12309312560229,46
+P18,UC_Noninflamed,CD16,Density + anatomy adjusted,-0.0655865679394212,46
+P18,UC_Noninflamed,CD11b,Unadjusted,-0.0900718324224136,46
+P18,UC_Noninflamed,CD11b,Density + anatomy adjusted,-0.138671262108465,46
+P18,UC_Noninflamed,CXCR4,Continuous nearest fibroblast FAP,0.267774740725688,46
+P18,UC_Noninflamed,OSM,Continuous nearest fibroblast FAP,0.385370990301235,46
+P18,UC_Noninflamed,CD16,Continuous nearest fibroblast FAP,0.356340319362503,46
+P18,UC_Noninflamed,CD11b,Continuous nearest fibroblast FAP,0.334395719387421,46
+P18,UC_Noninflamed,CXCR4,Continuous nearest fibroblast a5,0.286276303099949,46
+P18,UC_Noninflamed,OSM,Continuous nearest fibroblast a5,0.535006073631022,46
+P18,UC_Noninflamed,CD16,Continuous nearest fibroblast a5,-0.00923027672189168,46
+P18,UC_Noninflamed,CD11b,Continuous nearest fibroblast a5,0.190945914830336,46
+P18,UC_Noninflamed,CXCR4,Continuous nearest fibroblast FAP_a5,0.154760824827826,46
+P18,UC_Noninflamed,OSM,Continuous nearest fibroblast FAP_a5,0.36238111061389,46
+P18,UC_Noninflamed,CD16,Continuous nearest fibroblast FAP_a5,0.124603666623073,46
+P18,UC_Noninflamed,CD11b,Continuous nearest fibroblast FAP_a5,0.270696671735914,46
+P19,UC_Noninflamed,CXCR4,Unadjusted,0.0200773591299433,32
+P19,UC_Noninflamed,CXCR4,Density + anatomy adjusted,-0.128522898829193,32
+P19,UC_Noninflamed,OSM,Unadjusted,0.0362235702909061,32
+P19,UC_Noninflamed,OSM,Density + anatomy adjusted,-0.0997599141536147,32
+P19,UC_Noninflamed,CD16,Unadjusted,-0.324416866307761,32
+P19,UC_Noninflamed,CD16,Density + anatomy adjusted,-0.0435548498172699,32
+P19,UC_Noninflamed,CD11b,Unadjusted,-0.217189596054782,32
+P19,UC_Noninflamed,CD11b,Density + anatomy adjusted,-0.190239013100704,32
+P19,UC_Noninflamed,CXCR4,Continuous nearest fibroblast FAP,-0.558970363696795,32
+P19,UC_Noninflamed,OSM,Continuous nearest fibroblast FAP,-0.554965603112373,32
+P19,UC_Noninflamed,CD16,Continuous nearest fibroblast FAP,0.0276088226641836,32
+P19,UC_Noninflamed,CD11b,Continuous nearest fibroblast FAP,-0.115335665897943,32
+P19,UC_Noninflamed,CXCR4,Continuous nearest fibroblast a5,-0.0161235513094215,32
+P19,UC_Noninflamed,OSM,Continuous nearest fibroblast a5,0.0777759855677399,32
+P19,UC_Noninflamed,CD16,Continuous nearest fibroblast a5,0.32821938416528,32
+P19,UC_Noninflamed,CD11b,Continuous nearest fibroblast a5,0.419806360209726,32
+P19,UC_Noninflamed,CXCR4,Continuous nearest fibroblast FAP_a5,0.104875937143973,32
+P19,UC_Noninflamed,OSM,Continuous nearest fibroblast FAP_a5,0.232614863076152,32
+P19,UC_Noninflamed,CD16,Continuous nearest fibroblast FAP_a5,0.0686911022127499,32
+P19,UC_Noninflamed,CD11b,Continuous nearest fibroblast FAP_a5,0.220855211094105,32
+P20,UC_Noninflamed,CXCR4,Unadjusted,0.241905839703408,36
+P20,UC_Noninflamed,CXCR4,Density + anatomy adjusted,-0.432758939908694,36
+P20,UC_Noninflamed,OSM,Unadjusted,0.110615329242993,36
+P20,UC_Noninflamed,OSM,Density + anatomy adjusted,-0.36646853191659,36
+P20,UC_Noninflamed,CD16,Unadjusted,0.580234203666114,36
+P20,UC_Noninflamed,CD16,Density + anatomy adjusted,0.393055444648181,36
+P20,UC_Noninflamed,CD11b,Unadjusted,0.429176019991252,36
+P20,UC_Noninflamed,CD11b,Density + anatomy adjusted,-0.0481574262974901,36
+P20,UC_Noninflamed,CXCR4,Continuous nearest fibroblast FAP,-0.249671469282766,36
+P20,UC_Noninflamed,OSM,Continuous nearest fibroblast FAP,-0.31489061373283,36
+P20,UC_Noninflamed,CD16,Continuous nearest fibroblast FAP,0.488656104359093,36
+P20,UC_Noninflamed,CD11b,Continuous nearest fibroblast FAP,0.0510110127098105,36
+P20,UC_Noninflamed,CXCR4,Continuous nearest fibroblast a5,-0.382229008346565,36
+P20,UC_Noninflamed,OSM,Continuous nearest fibroblast a5,-0.282074492718964,36
+P20,UC_Noninflamed,CD16,Continuous nearest fibroblast a5,0.40215108459252,36
+P20,UC_Noninflamed,CD11b,Continuous nearest fibroblast a5,0.14267819650107,36
+P20,UC_Noninflamed,CXCR4,Continuous nearest fibroblast FAP_a5,-0.0739847222688586,36
+P20,UC_Noninflamed,OSM,Continuous nearest fibroblast FAP_a5,-0.0217226285952738,36
+P20,UC_Noninflamed,CD16,Continuous nearest fibroblast FAP_a5,0.151681240073341,36
+P20,UC_Noninflamed,CD11b,Continuous nearest fibroblast FAP_a5,0.181973411596454,36
+P22,UC_Noninflamed,CXCR4,Unadjusted,0.33474047287028,93
+P22,UC_Noninflamed,CXCR4,Density + anatomy adjusted,0.184178055967083,93
+P22,UC_Noninflamed,OSM,Unadjusted,-0.031415079980051,93
+P22,UC_Noninflamed,OSM,Density + anatomy adjusted,-0.0962101392631635,93
+P22,UC_Noninflamed,CD16,Unadjusted,0.277519233837437,93
+P22,UC_Noninflamed,CD16,Density + anatomy adjusted,0.218855228561638,93
+P22,UC_Noninflamed,CD11b,Unadjusted,0.345293389686902,93
+P22,UC_Noninflamed,CD11b,Density + anatomy adjusted,0.238350218875508,93
+P22,UC_Noninflamed,CXCR4,Continuous nearest fibroblast FAP,0.223009412613088,93
+P22,UC_Noninflamed,OSM,Continuous nearest fibroblast FAP,0.0327678854621786,93
+P22,UC_Noninflamed,CD16,Continuous nearest fibroblast FAP,0.330529762674945,93
+P22,UC_Noninflamed,CD11b,Continuous nearest fibroblast FAP,0.298955016704805,93
+P22,UC_Noninflamed,CXCR4,Continuous nearest fibroblast a5,-0.164438224160462,93
+P22,UC_Noninflamed,OSM,Continuous nearest fibroblast a5,0.139145453145319,93
+P22,UC_Noninflamed,CD16,Continuous nearest fibroblast a5,-0.282541976263841,93
+P22,UC_Noninflamed,CD11b,Continuous nearest fibroblast a5,-0.395692393484046,93
+P22,UC_Noninflamed,CXCR4,Continuous nearest fibroblast FAP_a5,0.0527562742870046,93
+P22,UC_Noninflamed,OSM,Continuous nearest fibroblast FAP_a5,-0.187303044428721,93
+P22,UC_Noninflamed,CD16,Continuous nearest fibroblast FAP_a5,0.017449011683641,93
+P22,UC_Noninflamed,CD11b,Continuous nearest fibroblast FAP_a5,0.0387861994259728,93
+P23,UC_Noninflamed,CXCR4,Unadjusted,0.0796707889438434,1754
+P23,UC_Noninflamed,CXCR4,Density + anatomy adjusted,-0.0137842888374498,1754
+P23,UC_Noninflamed,OSM,Unadjusted,0.234913771364721,1754
+P23,UC_Noninflamed,OSM,Density + anatomy adjusted,0.127021057464091,1754
+P23,UC_Noninflamed,CD16,Unadjusted,0.0658909661623164,1754
+P23,UC_Noninflamed,CD16,Density + anatomy adjusted,0.118343646709503,1754
+P23,UC_Noninflamed,CD11b,Unadjusted,0.145257965293777,1754
+P23,UC_Noninflamed,CD11b,Density + anatomy adjusted,0.123699362367209,1754
+P23,UC_Noninflamed,CXCR4,Continuous nearest fibroblast FAP,-0.0395701276373801,1754
+P23,UC_Noninflamed,OSM,Continuous nearest fibroblast FAP,0.071518066280352,1754
+P23,UC_Noninflamed,CD16,Continuous nearest fibroblast FAP,0.107325151668807,1754
+P23,UC_Noninflamed,CD11b,Continuous nearest fibroblast FAP,0.11512717485459,1754
+P23,UC_Noninflamed,CXCR4,Continuous nearest fibroblast a5,-0.0445742229510049,1754
+P23,UC_Noninflamed,OSM,Continuous nearest fibroblast a5,-0.0244163106065228,1754
+P23,UC_Noninflamed,CD16,Continuous nearest fibroblast a5,-0.00860601720134434,1754
+P23,UC_Noninflamed,CD11b,Continuous nearest fibroblast a5,-0.0373156392847327,1754
+P23,UC_Noninflamed,CXCR4,Continuous nearest fibroblast FAP_a5,-0.0787730508734398,1754
+P23,UC_Noninflamed,OSM,Continuous nearest fibroblast FAP_a5,-0.0123859469280282,1754
+P23,UC_Noninflamed,CD16,Continuous nearest fibroblast FAP_a5,0.0121328532392586,1754
+P23,UC_Noninflamed,CD11b,Continuous nearest fibroblast FAP_a5,0.0234987596388733,1754
+P24,UC_Noninflamed,CXCR4,Unadjusted,0.489715531643328,631
+P24,UC_Noninflamed,CXCR4,Density + anatomy adjusted,0.0533314709927766,631
+P24,UC_Noninflamed,OSM,Unadjusted,0.427777132505734,631
+P24,UC_Noninflamed,OSM,Density + anatomy adjusted,0.243770622485138,631
+P24,UC_Noninflamed,CD16,Unadjusted,0.198896840361672,631
+P24,UC_Noninflamed,CD16,Density + anatomy adjusted,0.178565671118007,631
+P24,UC_Noninflamed,CD11b,Unadjusted,0.412897164650428,631
+P24,UC_Noninflamed,CD11b,Density + anatomy adjusted,0.329212178916607,631
+P24,UC_Noninflamed,CXCR4,Continuous nearest fibroblast FAP,0.076339293554255,631
+P24,UC_Noninflamed,OSM,Continuous nearest fibroblast FAP,0.158277871577462,631
+P24,UC_Noninflamed,CD16,Continuous nearest fibroblast FAP,0.132352878439901,631
+P24,UC_Noninflamed,CD11b,Continuous nearest fibroblast FAP,0.32180019597704,631
+P24,UC_Noninflamed,CXCR4,Continuous nearest fibroblast a5,0.0268493674567237,631
+P24,UC_Noninflamed,OSM,Continuous nearest fibroblast a5,-0.00214343603889441,631
+P24,UC_Noninflamed,CD16,Continuous nearest fibroblast a5,-0.0594671706792704,631
+P24,UC_Noninflamed,CD11b,Continuous nearest fibroblast a5,-0.131747113874055,631
+P24,UC_Noninflamed,CXCR4,Continuous nearest fibroblast FAP_a5,0.015946349581745,631
+P24,UC_Noninflamed,OSM,Continuous nearest fibroblast FAP_a5,0.0702901142247698,631
+P24,UC_Noninflamed,CD16,Continuous nearest fibroblast FAP_a5,0.00418180201705752,631
+P24,UC_Noninflamed,CD11b,Continuous nearest fibroblast FAP_a5,0.0624113097467887,631

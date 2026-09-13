@@ -1,0 +1,528 @@
+"Subcluster","Existing_state","Freq"
+"1","Activated FAP+ fibroblast",0
+"2","Activated FAP+ fibroblast",0
+"3","Activated FAP+ fibroblast",0
+"4","Activated FAP+ fibroblast",0
+"5","Activated FAP+ fibroblast",0
+"6","Activated FAP+ fibroblast",0
+"7","Activated FAP+ fibroblast",0
+"8","Activated FAP+ fibroblast",0
+"9","Activated FAP+ fibroblast",0
+"10","Activated FAP+ fibroblast",0
+"11","Activated FAP+ fibroblast",0
+"12","Activated FAP+ fibroblast",0
+"13","Activated FAP+ fibroblast",0
+"14","Activated FAP+ fibroblast",0
+"15","Activated FAP+ fibroblast",0
+"16","Activated FAP+ fibroblast",0
+"17","Activated FAP+ fibroblast",0
+"18","Activated FAP+ fibroblast",0
+"19","Activated FAP+ fibroblast",0
+"20","Activated FAP+ fibroblast",0
+"21","Activated FAP+ fibroblast",0
+"22","Activated FAP+ fibroblast",0
+"23","Activated FAP+ fibroblast",0
+"24","Activated FAP+ fibroblast",0
+"25","Activated FAP+ fibroblast",0
+"26","Activated FAP+ fibroblast",0
+"27","Activated FAP+ fibroblast",0
+"28","Activated FAP+ fibroblast",0
+"29","Activated FAP+ fibroblast",0
+"30","Activated FAP+ fibroblast",0
+"31","Activated FAP+ fibroblast",0
+"1","Antigen-presenting fibroblast-like",0
+"2","Antigen-presenting fibroblast-like",0
+"3","Antigen-presenting fibroblast-like",0
+"4","Antigen-presenting fibroblast-like",0
+"5","Antigen-presenting fibroblast-like",0
+"6","Antigen-presenting fibroblast-like",0
+"7","Antigen-presenting fibroblast-like",0
+"8","Antigen-presenting fibroblast-like",0
+"9","Antigen-presenting fibroblast-like",0
+"10","Antigen-presenting fibroblast-like",0
+"11","Antigen-presenting fibroblast-like",0
+"12","Antigen-presenting fibroblast-like",0
+"13","Antigen-presenting fibroblast-like",0
+"14","Antigen-presenting fibroblast-like",0
+"15","Antigen-presenting fibroblast-like",0
+"16","Antigen-presenting fibroblast-like",0
+"17","Antigen-presenting fibroblast-like",0
+"18","Antigen-presenting fibroblast-like",0
+"19","Antigen-presenting fibroblast-like",0
+"20","Antigen-presenting fibroblast-like",0
+"21","Antigen-presenting fibroblast-like",0
+"22","Antigen-presenting fibroblast-like",0
+"23","Antigen-presenting fibroblast-like",0
+"24","Antigen-presenting fibroblast-like",0
+"25","Antigen-presenting fibroblast-like",0
+"26","Antigen-presenting fibroblast-like",0
+"27","Antigen-presenting fibroblast-like",0
+"28","Antigen-presenting fibroblast-like",0
+"29","Antigen-presenting fibroblast-like",0
+"30","Antigen-presenting fibroblast-like",0
+"31","Antigen-presenting fibroblast-like",0
+"1","CXCR4",2471
+"2","CXCR4",15380
+"3","CXCR4",925
+"4","CXCR4",311
+"5","CXCR4",448
+"6","CXCR4",167
+"7","CXCR4",102
+"8","CXCR4",66
+"9","CXCR4",15
+"10","CXCR4",68
+"11","CXCR4",31
+"12","CXCR4",0
+"13","CXCR4",0
+"14","CXCR4",0
+"15","CXCR4",0
+"16","CXCR4",0
+"17","CXCR4",0
+"18","CXCR4",0
+"19","CXCR4",0
+"20","CXCR4",0
+"21","CXCR4",1
+"22","CXCR4",0
+"23","CXCR4",0
+"24","CXCR4",0
+"25","CXCR4",0
+"26","CXCR4",0
+"27","CXCR4",0
+"28","CXCR4",77
+"29","CXCR4",0
+"30","CXCR4",0
+"31","CXCR4",0
+"1","ECM-remodeling fibroblast",0
+"2","ECM-remodeling fibroblast",0
+"3","ECM-remodeling fibroblast",0
+"4","ECM-remodeling fibroblast",0
+"5","ECM-remodeling fibroblast",0
+"6","ECM-remodeling fibroblast",0
+"7","ECM-remodeling fibroblast",0
+"8","ECM-remodeling fibroblast",0
+"9","ECM-remodeling fibroblast",0
+"10","ECM-remodeling fibroblast",0
+"11","ECM-remodeling fibroblast",0
+"12","ECM-remodeling fibroblast",0
+"13","ECM-remodeling fibroblast",0
+"14","ECM-remodeling fibroblast",0
+"15","ECM-remodeling fibroblast",0
+"16","ECM-remodeling fibroblast",0
+"17","ECM-remodeling fibroblast",0
+"18","ECM-remodeling fibroblast",0
+"19","ECM-remodeling fibroblast",0
+"20","ECM-remodeling fibroblast",0
+"21","ECM-remodeling fibroblast",0
+"22","ECM-remodeling fibroblast",0
+"23","ECM-remodeling fibroblast",0
+"24","ECM-remodeling fibroblast",0
+"25","ECM-remodeling fibroblast",0
+"26","ECM-remodeling fibroblast",0
+"27","ECM-remodeling fibroblast",0
+"28","ECM-remodeling fibroblast",0
+"29","ECM-remodeling fibroblast",0
+"30","ECM-remodeling fibroblast",0
+"31","ECM-remodeling fibroblast",0
+"1","Fibroblast candidate: low stromal signal",0
+"2","Fibroblast candidate: low stromal signal",0
+"3","Fibroblast candidate: low stromal signal",0
+"4","Fibroblast candidate: low stromal signal",0
+"5","Fibroblast candidate: low stromal signal",0
+"6","Fibroblast candidate: low stromal signal",0
+"7","Fibroblast candidate: low stromal signal",0
+"8","Fibroblast candidate: low stromal signal",0
+"9","Fibroblast candidate: low stromal signal",0
+"10","Fibroblast candidate: low stromal signal",0
+"11","Fibroblast candidate: low stromal signal",0
+"12","Fibroblast candidate: low stromal signal",0
+"13","Fibroblast candidate: low stromal signal",0
+"14","Fibroblast candidate: low stromal signal",0
+"15","Fibroblast candidate: low stromal signal",0
+"16","Fibroblast candidate: low stromal signal",0
+"17","Fibroblast candidate: low stromal signal",0
+"18","Fibroblast candidate: low stromal signal",0
+"19","Fibroblast candidate: low stromal signal",0
+"20","Fibroblast candidate: low stromal signal",0
+"21","Fibroblast candidate: low stromal signal",0
+"22","Fibroblast candidate: low stromal signal",0
+"23","Fibroblast candidate: low stromal signal",0
+"24","Fibroblast candidate: low stromal signal",0
+"25","Fibroblast candidate: low stromal signal",0
+"26","Fibroblast candidate: low stromal signal",0
+"27","Fibroblast candidate: low stromal signal",0
+"28","Fibroblast candidate: low stromal signal",0
+"29","Fibroblast candidate: low stromal signal",0
+"30","Fibroblast candidate: low stromal signal",0
+"31","Fibroblast candidate: low stromal signal",0
+"1","Fibroblast candidate: mixed immune-stromal",0
+"2","Fibroblast candidate: mixed immune-stromal",0
+"3","Fibroblast candidate: mixed immune-stromal",0
+"4","Fibroblast candidate: mixed immune-stromal",0
+"5","Fibroblast candidate: mixed immune-stromal",0
+"6","Fibroblast candidate: mixed immune-stromal",0
+"7","Fibroblast candidate: mixed immune-stromal",0
+"8","Fibroblast candidate: mixed immune-stromal",0
+"9","Fibroblast candidate: mixed immune-stromal",0
+"10","Fibroblast candidate: mixed immune-stromal",0
+"11","Fibroblast candidate: mixed immune-stromal",0
+"12","Fibroblast candidate: mixed immune-stromal",0
+"13","Fibroblast candidate: mixed immune-stromal",0
+"14","Fibroblast candidate: mixed immune-stromal",0
+"15","Fibroblast candidate: mixed immune-stromal",0
+"16","Fibroblast candidate: mixed immune-stromal",0
+"17","Fibroblast candidate: mixed immune-stromal",0
+"18","Fibroblast candidate: mixed immune-stromal",0
+"19","Fibroblast candidate: mixed immune-stromal",0
+"20","Fibroblast candidate: mixed immune-stromal",0
+"21","Fibroblast candidate: mixed immune-stromal",0
+"22","Fibroblast candidate: mixed immune-stromal",0
+"23","Fibroblast candidate: mixed immune-stromal",0
+"24","Fibroblast candidate: mixed immune-stromal",0
+"25","Fibroblast candidate: mixed immune-stromal",0
+"26","Fibroblast candidate: mixed immune-stromal",0
+"27","Fibroblast candidate: mixed immune-stromal",0
+"28","Fibroblast candidate: mixed immune-stromal",0
+"29","Fibroblast candidate: mixed immune-stromal",0
+"30","Fibroblast candidate: mixed immune-stromal",0
+"31","Fibroblast candidate: mixed immune-stromal",0
+"1","Inflammatory fibroblast",0
+"2","Inflammatory fibroblast",0
+"3","Inflammatory fibroblast",0
+"4","Inflammatory fibroblast",0
+"5","Inflammatory fibroblast",0
+"6","Inflammatory fibroblast",0
+"7","Inflammatory fibroblast",0
+"8","Inflammatory fibroblast",0
+"9","Inflammatory fibroblast",0
+"10","Inflammatory fibroblast",0
+"11","Inflammatory fibroblast",0
+"12","Inflammatory fibroblast",0
+"13","Inflammatory fibroblast",0
+"14","Inflammatory fibroblast",0
+"15","Inflammatory fibroblast",0
+"16","Inflammatory fibroblast",0
+"17","Inflammatory fibroblast",0
+"18","Inflammatory fibroblast",0
+"19","Inflammatory fibroblast",0
+"20","Inflammatory fibroblast",0
+"21","Inflammatory fibroblast",0
+"22","Inflammatory fibroblast",0
+"23","Inflammatory fibroblast",0
+"24","Inflammatory fibroblast",0
+"25","Inflammatory fibroblast",0
+"26","Inflammatory fibroblast",0
+"27","Inflammatory fibroblast",0
+"28","Inflammatory fibroblast",0
+"29","Inflammatory fibroblast",0
+"30","Inflammatory fibroblast",0
+"31","Inflammatory fibroblast",0
+"1","Low-signal/unresolved",51297
+"2","Low-signal/unresolved",11321
+"3","Low-signal/unresolved",10170
+"4","Low-signal/unresolved",4312
+"5","Low-signal/unresolved",1792
+"6","Low-signal/unresolved",833
+"7","Low-signal/unresolved",908
+"8","Low-signal/unresolved",960
+"9","Low-signal/unresolved",407
+"10","Low-signal/unresolved",386
+"11","Low-signal/unresolved",81
+"12","Low-signal/unresolved",1
+"13","Low-signal/unresolved",3
+"14","Low-signal/unresolved",2
+"15","Low-signal/unresolved",2
+"16","Low-signal/unresolved",0
+"17","Low-signal/unresolved",2
+"18","Low-signal/unresolved",2
+"19","Low-signal/unresolved",2
+"20","Low-signal/unresolved",0
+"21","Low-signal/unresolved",1
+"22","Low-signal/unresolved",1
+"23","Low-signal/unresolved",2
+"24","Low-signal/unresolved",2
+"25","Low-signal/unresolved",0
+"26","Low-signal/unresolved",2
+"27","Low-signal/unresolved",1
+"28","Low-signal/unresolved",426
+"29","Low-signal/unresolved",1
+"30","Low-signal/unresolved",0
+"31","Low-signal/unresolved",0
+"1","MX1/ISG-like",89
+"2","MX1/ISG-like",2728
+"3","MX1/ISG-like",49
+"4","MX1/ISG-like",6
+"5","MX1/ISG-like",34
+"6","MX1/ISG-like",26
+"7","MX1/ISG-like",17
+"8","MX1/ISG-like",5
+"9","MX1/ISG-like",1
+"10","MX1/ISG-like",12
+"11","MX1/ISG-like",4
+"12","MX1/ISG-like",0
+"13","MX1/ISG-like",0
+"14","MX1/ISG-like",0
+"15","MX1/ISG-like",0
+"16","MX1/ISG-like",0
+"17","MX1/ISG-like",0
+"18","MX1/ISG-like",0
+"19","MX1/ISG-like",0
+"20","MX1/ISG-like",0
+"21","MX1/ISG-like",0
+"22","MX1/ISG-like",0
+"23","MX1/ISG-like",0
+"24","MX1/ISG-like",0
+"25","MX1/ISG-like",0
+"26","MX1/ISG-like",0
+"27","MX1/ISG-like",0
+"28","MX1/ISG-like",13
+"29","MX1/ISG-like",0
+"30","MX1/ISG-like",0
+"31","MX1/ISG-like",0
+"1","Myofibroblast-like",0
+"2","Myofibroblast-like",0
+"3","Myofibroblast-like",0
+"4","Myofibroblast-like",0
+"5","Myofibroblast-like",0
+"6","Myofibroblast-like",0
+"7","Myofibroblast-like",0
+"8","Myofibroblast-like",0
+"9","Myofibroblast-like",0
+"10","Myofibroblast-like",0
+"11","Myofibroblast-like",0
+"12","Myofibroblast-like",0
+"13","Myofibroblast-like",0
+"14","Myofibroblast-like",0
+"15","Myofibroblast-like",0
+"16","Myofibroblast-like",0
+"17","Myofibroblast-like",0
+"18","Myofibroblast-like",0
+"19","Myofibroblast-like",0
+"20","Myofibroblast-like",0
+"21","Myofibroblast-like",0
+"22","Myofibroblast-like",0
+"23","Myofibroblast-like",0
+"24","Myofibroblast-like",0
+"25","Myofibroblast-like",0
+"26","Myofibroblast-like",0
+"27","Myofibroblast-like",0
+"28","Myofibroblast-like",0
+"29","Myofibroblast-like",0
+"30","Myofibroblast-like",0
+"31","Myofibroblast-like",0
+"1","OSM",2829
+"2","OSM",18256
+"3","OSM",1507
+"4","OSM",245
+"5","OSM",511
+"6","OSM",513
+"7","OSM",172
+"8","OSM",51
+"9","OSM",42
+"10","OSM",57
+"11","OSM",24
+"12","OSM",1
+"13","OSM",0
+"14","OSM",0
+"15","OSM",0
+"16","OSM",2
+"17","OSM",0
+"18","OSM",0
+"19","OSM",0
+"20","OSM",2
+"21","OSM",0
+"22","OSM",0
+"23","OSM",0
+"24","OSM",0
+"25","OSM",2
+"26","OSM",0
+"27","OSM",0
+"28","OSM",120
+"29","OSM",0
+"30","OSM",0
+"31","OSM",0
+"1","PADI4",663
+"2","PADI4",950
+"3","PADI4",303
+"4","PADI4",44
+"5","PADI4",2087
+"6","PADI4",1049
+"7","PADI4",40
+"8","PADI4",16
+"9","PADI4",413
+"10","PADI4",33
+"11","PADI4",183
+"12","PADI4",0
+"13","PADI4",0
+"14","PADI4",0
+"15","PADI4",0
+"16","PADI4",0
+"17","PADI4",0
+"18","PADI4",0
+"19","PADI4",0
+"20","PADI4",0
+"21","PADI4",0
+"22","PADI4",0
+"23","PADI4",0
+"24","PADI4",0
+"25","PADI4",0
+"26","PADI4",0
+"27","PADI4",0
+"28","PADI4",16
+"29","PADI4",0
+"30","PADI4",0
+"31","PADI4",0
+"1","Perivascular-like fibroblast",0
+"2","Perivascular-like fibroblast",0
+"3","Perivascular-like fibroblast",0
+"4","Perivascular-like fibroblast",0
+"5","Perivascular-like fibroblast",0
+"6","Perivascular-like fibroblast",0
+"7","Perivascular-like fibroblast",0
+"8","Perivascular-like fibroblast",0
+"9","Perivascular-like fibroblast",0
+"10","Perivascular-like fibroblast",0
+"11","Perivascular-like fibroblast",0
+"12","Perivascular-like fibroblast",0
+"13","Perivascular-like fibroblast",0
+"14","Perivascular-like fibroblast",0
+"15","Perivascular-like fibroblast",0
+"16","Perivascular-like fibroblast",0
+"17","Perivascular-like fibroblast",0
+"18","Perivascular-like fibroblast",0
+"19","Perivascular-like fibroblast",0
+"20","Perivascular-like fibroblast",0
+"21","Perivascular-like fibroblast",0
+"22","Perivascular-like fibroblast",0
+"23","Perivascular-like fibroblast",0
+"24","Perivascular-like fibroblast",0
+"25","Perivascular-like fibroblast",0
+"26","Perivascular-like fibroblast",0
+"27","Perivascular-like fibroblast",0
+"28","Perivascular-like fibroblast",0
+"29","Perivascular-like fibroblast",0
+"30","Perivascular-like fibroblast",0
+"31","Perivascular-like fibroblast",0
+"1","Resting/adventitial fibroblast",0
+"2","Resting/adventitial fibroblast",0
+"3","Resting/adventitial fibroblast",0
+"4","Resting/adventitial fibroblast",0
+"5","Resting/adventitial fibroblast",0
+"6","Resting/adventitial fibroblast",0
+"7","Resting/adventitial fibroblast",0
+"8","Resting/adventitial fibroblast",0
+"9","Resting/adventitial fibroblast",0
+"10","Resting/adventitial fibroblast",0
+"11","Resting/adventitial fibroblast",0
+"12","Resting/adventitial fibroblast",0
+"13","Resting/adventitial fibroblast",0
+"14","Resting/adventitial fibroblast",0
+"15","Resting/adventitial fibroblast",0
+"16","Resting/adventitial fibroblast",0
+"17","Resting/adventitial fibroblast",0
+"18","Resting/adventitial fibroblast",0
+"19","Resting/adventitial fibroblast",0
+"20","Resting/adventitial fibroblast",0
+"21","Resting/adventitial fibroblast",0
+"22","Resting/adventitial fibroblast",0
+"23","Resting/adventitial fibroblast",0
+"24","Resting/adventitial fibroblast",0
+"25","Resting/adventitial fibroblast",0
+"26","Resting/adventitial fibroblast",0
+"27","Resting/adventitial fibroblast",0
+"28","Resting/adventitial fibroblast",0
+"29","Resting/adventitial fibroblast",0
+"30","Resting/adventitial fibroblast",0
+"31","Resting/adventitial fibroblast",0
+"1","Unresolved fibroblast-like",0
+"2","Unresolved fibroblast-like",0
+"3","Unresolved fibroblast-like",0
+"4","Unresolved fibroblast-like",0
+"5","Unresolved fibroblast-like",0
+"6","Unresolved fibroblast-like",0
+"7","Unresolved fibroblast-like",0
+"8","Unresolved fibroblast-like",0
+"9","Unresolved fibroblast-like",0
+"10","Unresolved fibroblast-like",0
+"11","Unresolved fibroblast-like",0
+"12","Unresolved fibroblast-like",0
+"13","Unresolved fibroblast-like",0
+"14","Unresolved fibroblast-like",0
+"15","Unresolved fibroblast-like",0
+"16","Unresolved fibroblast-like",0
+"17","Unresolved fibroblast-like",0
+"18","Unresolved fibroblast-like",0
+"19","Unresolved fibroblast-like",0
+"20","Unresolved fibroblast-like",0
+"21","Unresolved fibroblast-like",0
+"22","Unresolved fibroblast-like",0
+"23","Unresolved fibroblast-like",0
+"24","Unresolved fibroblast-like",0
+"25","Unresolved fibroblast-like",0
+"26","Unresolved fibroblast-like",0
+"27","Unresolved fibroblast-like",0
+"28","Unresolved fibroblast-like",0
+"29","Unresolved fibroblast-like",0
+"30","Unresolved fibroblast-like",0
+"31","Unresolved fibroblast-like",0
+"1","LowRNA",17705
+"2","LowRNA",19993
+"3","LowRNA",2362
+"4","LowRNA",774
+"5","LowRNA",346
+"6","LowRNA",578
+"7","LowRNA",576
+"8","LowRNA",607
+"9","LowRNA",71
+"10","LowRNA",56
+"11","LowRNA",7
+"12","LowRNA",1
+"13","LowRNA",0
+"14","LowRNA",0
+"15","LowRNA",0
+"16","LowRNA",0
+"17","LowRNA",0
+"18","LowRNA",0
+"19","LowRNA",0
+"20","LowRNA",0
+"21","LowRNA",0
+"22","LowRNA",1
+"23","LowRNA",0
+"24","LowRNA",0
+"25","LowRNA",0
+"26","LowRNA",0
+"27","LowRNA",1
+"28","LowRNA",154
+"29","LowRNA",1
+"30","LowRNA",2
+"31","LowRNA",2
+"1","MX1",1
+"2","MX1",1
+"3","MX1",0
+"4","MX1",0
+"5","MX1",0
+"6","MX1",0
+"7","MX1",0
+"8","MX1",0
+"9","MX1",0
+"10","MX1",0
+"11","MX1",0
+"12","MX1",0
+"13","MX1",0
+"14","MX1",0
+"15","MX1",0
+"16","MX1",0
+"17","MX1",0
+"18","MX1",0
+"19","MX1",0
+"20","MX1",0
+"21","MX1",0
+"22","MX1",0
+"23","MX1",0
+"24","MX1",0
+"25","MX1",0
+"26","MX1",0
+"27","MX1",0
+"28","MX1",0
+"29","MX1",0
+"30","MX1",0
+"31","MX1",0

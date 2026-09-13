@@ -1,0 +1,5 @@
+"fibroblast_subcluster","fibroblast_annotation","annotation_confidence","defining_features","interpretation"
+"1","COL1A1+ inflammatory ECM fibroblast","Moderate","COL1A1, COL1A2, COL3A1, DCN, LUM, FAP, IL6, CXCL8","Matrix-producing fibroblasts with an inflammatory program"
+"2","CSF3R+ immune-like fibroblast","Low","CSF3R, C5AR1, TYROBP, FCER1G; weak stromal program","Low-confidence immune-like fibroblast profile; possible mixed/ambient signal"
+"3","CCN1/CCN2+ activated fibroblast","High","CCN1, CCN2, SPARC, CCL2, FOXF1, TFPI, ACTA2/TAGLN","Coherent activated and matrix-remodeling stromal program"
+"4","S100A8/A9+ immune-like fibroblast","Low","S100A8, S100A9, CLEC12A, SIGLEC14; weak stromal program","Low-confidence myeloid-like fibroblast profile; possible mixed/ambient signal"

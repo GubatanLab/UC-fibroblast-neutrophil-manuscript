@@ -1,0 +1,8 @@
+check,status
+Original composition effect reproduced,PASS
+Decomposition sums exactly,PASS
+Clinical site means reproduced,PASS
+Canonical counts match full source,PASS
+Unresolved fractions sum correctly,PASS
+17 UC spatial IDs included,PASS
+At least 3 units for inferential rows,PASS

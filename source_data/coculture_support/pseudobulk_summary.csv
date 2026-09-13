@@ -1,0 +1,7 @@
+population,contrast,n_donors,tested_genes,significant_FDR_05,significant_FDR_05_absLFC05
+Resolved,alpha_interaction,4,16812,2462,2462
+Resolved,alpha_in_UC,5,17753,2673,1982
+Resolved,UC_vs_control_fibroblasts,5,17816,1002,1002
+All_annotated,alpha_interaction,4,20214,3020,3020
+All_annotated,alpha_in_UC,5,22105,5110,4001
+All_annotated,UC_vs_control_fibroblasts,6,19713,988,981

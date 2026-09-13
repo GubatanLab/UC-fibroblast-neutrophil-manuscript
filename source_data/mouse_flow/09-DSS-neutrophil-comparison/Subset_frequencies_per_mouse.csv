@@ -1,0 +1,562 @@
+sample,group,subset,kind,events,denominator_events,value
+FD1,FD,All neutrophils / viable cells,total abundance,1691,148026,1.1423668814937917
+FD1,FD,All neutrophils / CD45-CD11b gate,total abundance,1691,13076,12.93208932395228
+FD1,FD,Saved: cd177+ all neutrophil,saved gate,159,1691,9.402720283855707
+FD1,FD,Saved: cd177+ all neutrophil/cxcr4+,saved gate,75,1691,4.4352454169130695
+FD1,FD,Saved: cd177+ all neutrophil/cxcr4+/padi4+,saved gate,15,1691,0.8870490833826138
+FD1,FD,Saved: cd177+ all neutrophil/cxcr4- osm+,saved gate,0,1691,0.0
+FD1,FD,Saved: cd177+ all neutrophil/mx1+ cxcr4-,saved gate,0,1691,0.0
+FD1,FD,Saved: cd177+ all neutrophil/padi4+,saved gate,54,1691,3.1933767001774096
+FD1,FD,Saved: cd177+ all neutrophil/padi4+ cxcr4-,saved gate,10,1691,0.5913660555884093
+FD1,FD,Saved: cd177- all neutrophils,saved gate,1327,1691,78.4742755765819
+FD1,FD,Saved: cd177- all neutrophils/cxcr4+ osm+,saved gate,250,1691,14.78415138971023
+FD1,FD,Saved: cd177- all neutrophils/cxcr4- mx1+,saved gate,97,1691,5.73625073920757
+FD1,FD,Saved: cd177- all neutrophils/cxcr4- osm+,saved gate,49,1691,2.8976936723832054
+FD1,FD,Saved: cd177- all neutrophils/mx1+ cxcr4+,saved gate,168,1691,9.934949733885276
+FD1,FD,Saved: cd177- all neutrophils/mx1+ osm+,saved gate,165,1691,9.757539917208753
+FD1,FD,Saved: cd177- all neutrophils/osm+ padi4+,saved gate,147,1691,8.693081017149616
+FD1,FD,Saved: cd177- all neutrophils/padi4+ cxcr4+,saved gate,476,1691,28.149024246008278
+FD1,FD,Saved: cd177- all neutrophils/padi4+ cxcr4-,saved gate,113,1691,6.682436428149024
+FD1,FD,Saved: cd177- all neutrophils/padi4+ mx1+,saved gate,84,1691,4.967474866942638
+FD1,FD,Saved: cxcr4+,saved gate,1081,1691,63.926670609107035
+FD1,FD,Saved: cxcr4+/cd177 hi,saved gate,73,1691,4.316972205795388
+FD1,FD,"Saved: cxcr4+/mx1, osm+",saved gate,93,1691,5.499704316972206
+FD1,FD,"Saved: cxcr4+/mx1, padi4+",saved gate,92,1691,5.440567711413365
+FD1,FD,"Saved: cxcr4+/padi4, osm+",saved gate,101,1691,5.972797161442934
+FD1,FD,Saved: cxcr4+/padi4- or osm-,saved gate,835,1691,49.379065641632174
+FD1,FD,Saved: cxcr4+/padi4- or osm-/true cxcr+ neutro,saved gate,778,1691,46.00827912477824
+FD1,FD,Saved: cxcr4-,saved gate,510,1691,30.15966883500887
+FD1,FD,Saved: cxcr4-/cd177 hi,saved gate,86,1691,5.08574807806032
+FD1,FD,Saved: mx1+,saved gate,106,1691,6.268480189237137
+FD1,FD,Saved: mx1+/cd177 hi,saved gate,0,1691,0.0
+FD1,FD,Saved: osm+,saved gate,334,1691,19.75162625665287
+FD1,FD,Saved: osm+/cd177 hi,saved gate,0,1691,0.0
+FD1,FD,Saved: padi4+,saved gate,119,1691,7.037256061502069
+FD1,FD,Saved: padi4+/cd177 hi,saved gate,1,1691,0.05913660555884092
+FD1,FD,FMO: CXCR4+,fixed FMO,786,1691,46.48137196924897
+FD1,FD,FMO: OSM+,fixed FMO,18,1691,1.0644589000591367
+FD1,FD,FMO: PADI4+,fixed FMO,0,1691,0.0
+FD1,FD,FMO: MX1+,fixed FMO,106,1691,6.268480189237137
+FD1,FD,FMO: NAMPT+,fixed FMO,176,1691,10.408042578356003
+FD1,FD,FMO: CXCR4+ & OSM+,fixed FMO coexpression,16,1691,0.9461856889414547
+FD1,FD,FMO: CXCR4+ & PADI4+,fixed FMO coexpression,0,1691,0.0
+FD1,FD,FMO: CXCR4+ & MX1+,fixed FMO coexpression,74,1691,4.376108811354229
+FD1,FD,FMO: CXCR4+ & NAMPT+,fixed FMO coexpression,111,1691,6.564163217031342
+FD1,FD,FMO: OSM+ & PADI4+,fixed FMO coexpression,0,1691,0.0
+FD1,FD,FMO: OSM+ & MX1+,fixed FMO coexpression,18,1691,1.0644589000591367
+FD1,FD,FMO: OSM+ & NAMPT+,fixed FMO coexpression,18,1691,1.0644589000591367
+FD1,FD,FMO: PADI4+ & MX1+,fixed FMO coexpression,0,1691,0.0
+FD1,FD,FMO: PADI4+ & NAMPT+,fixed FMO coexpression,0,1691,0.0
+FD1,FD,FMO: MX1+ & NAMPT+,fixed FMO coexpression,88,1691,5.2040212891780016
+FD1,FD,F4/80 gate overlap,gate overlap,417,1691,24.659964518036666
+FD1,FD,Outside F4/80 gate,gate overlap,1274,1691,75.34003548196334
+FD2,FD,All neutrophils / viable cells,total abundance,112,15265,0.7337045528987881
+FD2,FD,All neutrophils / CD45-CD11b gate,total abundance,112,388,28.8659793814433
+FD2,FD,Saved: cd177+ all neutrophil,saved gate,33,112,29.464285714285715
+FD2,FD,Saved: cd177+ all neutrophil/cxcr4+,saved gate,4,112,3.5714285714285716
+FD2,FD,Saved: cd177+ all neutrophil/cxcr4+/padi4+,saved gate,2,112,1.7857142857142858
+FD2,FD,Saved: cd177+ all neutrophil/cxcr4- osm+,saved gate,0,112,0.0
+FD2,FD,Saved: cd177+ all neutrophil/mx1+ cxcr4-,saved gate,0,112,0.0
+FD2,FD,Saved: cd177+ all neutrophil/padi4+,saved gate,8,112,7.142857142857143
+FD2,FD,Saved: cd177+ all neutrophil/padi4+ cxcr4-,saved gate,4,112,3.5714285714285716
+FD2,FD,Saved: cd177- all neutrophils,saved gate,74,112,66.07142857142857
+FD2,FD,Saved: cd177- all neutrophils/cxcr4+ osm+,saved gate,48,112,42.857142857142854
+FD2,FD,Saved: cd177- all neutrophils/cxcr4- mx1+,saved gate,6,112,5.357142857142857
+FD2,FD,Saved: cd177- all neutrophils/cxcr4- osm+,saved gate,1,112,0.8928571428571429
+FD2,FD,Saved: cd177- all neutrophils/mx1+ cxcr4+,saved gate,39,112,34.82142857142857
+FD2,FD,Saved: cd177- all neutrophils/mx1+ osm+,saved gate,12,112,10.714285714285714
+FD2,FD,Saved: cd177- all neutrophils/osm+ padi4+,saved gate,33,112,29.464285714285715
+FD2,FD,Saved: cd177- all neutrophils/padi4+ cxcr4+,saved gate,42,112,37.5
+FD2,FD,Saved: cd177- all neutrophils/padi4+ cxcr4-,saved gate,3,112,2.6785714285714284
+FD2,FD,Saved: cd177- all neutrophils/padi4+ mx1+,saved gate,18,112,16.071428571428573
+FD2,FD,Saved: cxcr4+,saved gate,72,112,64.28571428571429
+FD2,FD,Saved: cxcr4+/cd177 hi,saved gate,4,112,3.5714285714285716
+FD2,FD,"Saved: cxcr4+/mx1, osm+",saved gate,11,112,9.821428571428571
+FD2,FD,"Saved: cxcr4+/mx1, padi4+",saved gate,31,112,27.678571428571427
+FD2,FD,"Saved: cxcr4+/padi4, osm+",saved gate,27,112,24.107142857142858
+FD2,FD,Saved: cxcr4+/padi4- or osm-,saved gate,37,112,33.035714285714285
+FD2,FD,Saved: cxcr4+/padi4- or osm-/true cxcr+ neutro,saved gate,33,112,29.464285714285715
+FD2,FD,Saved: cxcr4-,saved gate,37,112,33.035714285714285
+FD2,FD,Saved: cxcr4-/cd177 hi,saved gate,29,112,25.892857142857142
+FD2,FD,Saved: mx1+,saved gate,20,112,17.857142857142858
+FD2,FD,Saved: mx1+/cd177 hi,saved gate,0,112,0.0
+FD2,FD,Saved: osm+,saved gate,52,112,46.42857142857143
+FD2,FD,Saved: osm+/cd177 hi,saved gate,0,112,0.0
+FD2,FD,Saved: padi4+,saved gate,27,112,24.107142857142858
+FD2,FD,Saved: padi4+/cd177 hi,saved gate,1,112,0.8928571428571429
+FD2,FD,FMO: CXCR4+,fixed FMO,36,112,32.142857142857146
+FD2,FD,FMO: OSM+,fixed FMO,1,112,0.8928571428571429
+FD2,FD,FMO: PADI4+,fixed FMO,1,112,0.8928571428571429
+FD2,FD,FMO: MX1+,fixed FMO,8,112,7.142857142857143
+FD2,FD,FMO: NAMPT+,fixed FMO,23,112,20.535714285714285
+FD2,FD,FMO: CXCR4+ & OSM+,fixed FMO coexpression,1,112,0.8928571428571429
+FD2,FD,FMO: CXCR4+ & PADI4+,fixed FMO coexpression,0,112,0.0
+FD2,FD,FMO: CXCR4+ & MX1+,fixed FMO coexpression,5,112,4.464285714285714
+FD2,FD,FMO: CXCR4+ & NAMPT+,fixed FMO coexpression,16,112,14.285714285714286
+FD2,FD,FMO: OSM+ & PADI4+,fixed FMO coexpression,0,112,0.0
+FD2,FD,FMO: OSM+ & MX1+,fixed FMO coexpression,0,112,0.0
+FD2,FD,FMO: OSM+ & NAMPT+,fixed FMO coexpression,1,112,0.8928571428571429
+FD2,FD,FMO: PADI4+ & MX1+,fixed FMO coexpression,0,112,0.0
+FD2,FD,FMO: PADI4+ & NAMPT+,fixed FMO coexpression,0,112,0.0
+FD2,FD,FMO: MX1+ & NAMPT+,fixed FMO coexpression,6,112,5.357142857142857
+FD2,FD,F4/80 gate overlap,gate overlap,16,112,14.285714285714286
+FD2,FD,Outside F4/80 gate,gate overlap,96,112,85.71428571428571
+FD4,FD,All neutrophils / viable cells,total abundance,640,93156,0.6870196229979819
+FD4,FD,All neutrophils / CD45-CD11b gate,total abundance,640,3332,19.20768307322929
+FD4,FD,Saved: cd177+ all neutrophil,saved gate,279,640,43.59375
+FD4,FD,Saved: cd177+ all neutrophil/cxcr4+,saved gate,29,640,4.53125
+FD4,FD,Saved: cd177+ all neutrophil/cxcr4+/padi4+,saved gate,11,640,1.71875
+FD4,FD,Saved: cd177+ all neutrophil/cxcr4- osm+,saved gate,0,640,0.0
+FD4,FD,Saved: cd177+ all neutrophil/mx1+ cxcr4-,saved gate,1,640,0.15625
+FD4,FD,Saved: cd177+ all neutrophil/padi4+,saved gate,86,640,13.4375
+FD4,FD,Saved: cd177+ all neutrophil/padi4+ cxcr4-,saved gate,16,640,2.5
+FD4,FD,Saved: cd177- all neutrophils,saved gate,310,640,48.4375
+FD4,FD,Saved: cd177- all neutrophils/cxcr4+ osm+,saved gate,63,640,9.84375
+FD4,FD,Saved: cd177- all neutrophils/cxcr4- mx1+,saved gate,26,640,4.0625
+FD4,FD,Saved: cd177- all neutrophils/cxcr4- osm+,saved gate,24,640,3.75
+FD4,FD,Saved: cd177- all neutrophils/mx1+ cxcr4+,saved gate,42,640,6.5625
+FD4,FD,Saved: cd177- all neutrophils/mx1+ osm+,saved gate,32,640,5.0
+FD4,FD,Saved: cd177- all neutrophils/osm+ padi4+,saved gate,12,640,1.875
+FD4,FD,Saved: cd177- all neutrophils/padi4+ cxcr4+,saved gate,72,640,11.25
+FD4,FD,Saved: cd177- all neutrophils/padi4+ cxcr4-,saved gate,55,640,8.59375
+FD4,FD,Saved: cd177- all neutrophils/padi4+ mx1+,saved gate,7,640,1.09375
+FD4,FD,Saved: cxcr4+,saved gate,185,640,28.90625
+FD4,FD,Saved: cxcr4+/cd177 hi,saved gate,28,640,4.375
+FD4,FD,"Saved: cxcr4+/mx1, osm+",saved gate,22,640,3.4375
+FD4,FD,"Saved: cxcr4+/mx1, padi4+",saved gate,5,640,0.78125
+FD4,FD,"Saved: cxcr4+/padi4, osm+",saved gate,8,640,1.25
+FD4,FD,Saved: cxcr4+/padi4- or osm-,saved gate,159,640,24.84375
+FD4,FD,Saved: cxcr4+/padi4- or osm-/true cxcr+ neutro,saved gate,132,640,20.625
+FD4,FD,Saved: cxcr4-,saved gate,429,640,67.03125
+FD4,FD,Saved: cxcr4-/cd177 hi,saved gate,249,640,38.90625
+FD4,FD,Saved: mx1+,saved gate,53,640,8.28125
+FD4,FD,Saved: mx1+/cd177 hi,saved gate,0,640,0.0
+FD4,FD,Saved: osm+,saved gate,43,640,6.71875
+FD4,FD,Saved: osm+/cd177 hi,saved gate,0,640,0.0
+FD4,FD,Saved: padi4+,saved gate,35,640,5.46875
+FD4,FD,Saved: padi4+/cd177 hi,saved gate,3,640,0.46875
+FD4,FD,FMO: CXCR4+,fixed FMO,104,640,16.25
+FD4,FD,FMO: OSM+,fixed FMO,1,640,0.15625
+FD4,FD,FMO: PADI4+,fixed FMO,0,640,0.0
+FD4,FD,FMO: MX1+,fixed FMO,32,640,5.0
+FD4,FD,FMO: NAMPT+,fixed FMO,134,640,20.9375
+FD4,FD,FMO: CXCR4+ & OSM+,fixed FMO coexpression,1,640,0.15625
+FD4,FD,FMO: CXCR4+ & PADI4+,fixed FMO coexpression,0,640,0.0
+FD4,FD,FMO: CXCR4+ & MX1+,fixed FMO coexpression,14,640,2.1875
+FD4,FD,FMO: CXCR4+ & NAMPT+,fixed FMO coexpression,29,640,4.53125
+FD4,FD,FMO: OSM+ & PADI4+,fixed FMO coexpression,0,640,0.0
+FD4,FD,FMO: OSM+ & MX1+,fixed FMO coexpression,1,640,0.15625
+FD4,FD,FMO: OSM+ & NAMPT+,fixed FMO coexpression,1,640,0.15625
+FD4,FD,FMO: PADI4+ & MX1+,fixed FMO coexpression,0,640,0.0
+FD4,FD,FMO: PADI4+ & NAMPT+,fixed FMO coexpression,0,640,0.0
+FD4,FD,FMO: MX1+ & NAMPT+,fixed FMO coexpression,31,640,4.84375
+FD4,FD,F4/80 gate overlap,gate overlap,145,640,22.65625
+FD4,FD,Outside F4/80 gate,gate overlap,495,640,77.34375
+FD5,FD,All neutrophils / viable cells,total abundance,477,39589,1.2048801434741974
+FD5,FD,All neutrophils / CD45-CD11b gate,total abundance,477,1643,29.032258064516128
+FD5,FD,Saved: cd177+ all neutrophil,saved gate,156,477,32.704402515723274
+FD5,FD,Saved: cd177+ all neutrophil/cxcr4+,saved gate,55,477,11.530398322851154
+FD5,FD,Saved: cd177+ all neutrophil/cxcr4+/padi4+,saved gate,7,477,1.4675052410901468
+FD5,FD,Saved: cd177+ all neutrophil/cxcr4- osm+,saved gate,0,477,0.0
+FD5,FD,Saved: cd177+ all neutrophil/mx1+ cxcr4-,saved gate,0,477,0.0
+FD5,FD,Saved: cd177+ all neutrophil/padi4+,saved gate,31,477,6.49895178197065
+FD5,FD,Saved: cd177+ all neutrophil/padi4+ cxcr4-,saved gate,4,477,0.8385744234800838
+FD5,FD,Saved: cd177- all neutrophils,saved gate,295,477,61.84486373165618
+FD5,FD,Saved: cd177- all neutrophils/cxcr4+ osm+,saved gate,15,477,3.1446540880503147
+FD5,FD,Saved: cd177- all neutrophils/cxcr4- mx1+,saved gate,9,477,1.8867924528301887
+FD5,FD,Saved: cd177- all neutrophils/cxcr4- osm+,saved gate,0,477,0.0
+FD5,FD,Saved: cd177- all neutrophils/mx1+ cxcr4+,saved gate,15,477,3.1446540880503147
+FD5,FD,Saved: cd177- all neutrophils/mx1+ osm+,saved gate,11,477,2.3060796645702304
+FD5,FD,Saved: cd177- all neutrophils/osm+ padi4+,saved gate,1,477,0.20964360587002095
+FD5,FD,Saved: cd177- all neutrophils/padi4+ cxcr4+,saved gate,117,477,24.528301886792452
+FD5,FD,Saved: cd177- all neutrophils/padi4+ cxcr4-,saved gate,68,477,14.255765199161425
+FD5,FD,Saved: cd177- all neutrophils/padi4+ mx1+,saved gate,3,477,0.6289308176100629
+FD5,FD,Saved: cxcr4+,saved gate,221,477,46.331236897274636
+FD5,FD,Saved: cxcr4+/cd177 hi,saved gate,51,477,10.69182389937107
+FD5,FD,"Saved: cxcr4+/mx1, osm+",saved gate,8,477,1.6771488469601676
+FD5,FD,"Saved: cxcr4+/mx1, padi4+",saved gate,2,477,0.4192872117400419
+FD5,FD,"Saved: cxcr4+/padi4, osm+",saved gate,1,477,0.20964360587002095
+FD5,FD,Saved: cxcr4+/padi4- or osm-,saved gate,179,477,37.526205450733755
+FD5,FD,Saved: cxcr4+/padi4- or osm-/true cxcr+ neutro,saved gate,165,477,34.59119496855346
+FD5,FD,Saved: cxcr4-,saved gate,238,477,49.895178197064986
+FD5,FD,Saved: cxcr4-/cd177 hi,saved gate,101,477,21.17400419287212
+FD5,FD,Saved: mx1+,saved gate,13,477,2.7253668763102725
+FD5,FD,Saved: mx1+/cd177 hi,saved gate,1,477,0.20964360587002095
+FD5,FD,Saved: osm+,saved gate,19,477,3.9832285115303985
+FD5,FD,Saved: osm+/cd177 hi,saved gate,2,477,0.4192872117400419
+FD5,FD,Saved: padi4+,saved gate,89,477,18.658280922431867
+FD5,FD,Saved: padi4+/cd177 hi,saved gate,0,477,0.0
+FD5,FD,FMO: CXCR4+,fixed FMO,155,477,32.494758909853246
+FD5,FD,FMO: OSM+,fixed FMO,2,477,0.4192872117400419
+FD5,FD,FMO: PADI4+,fixed FMO,3,477,0.6289308176100629
+FD5,FD,FMO: MX1+,fixed FMO,14,477,2.9350104821802936
+FD5,FD,FMO: NAMPT+,fixed FMO,113,477,23.68972746331237
+FD5,FD,FMO: CXCR4+ & OSM+,fixed FMO coexpression,2,477,0.4192872117400419
+FD5,FD,FMO: CXCR4+ & PADI4+,fixed FMO coexpression,3,477,0.6289308176100629
+FD5,FD,FMO: CXCR4+ & MX1+,fixed FMO coexpression,6,477,1.2578616352201257
+FD5,FD,FMO: CXCR4+ & NAMPT+,fixed FMO coexpression,41,477,8.59538784067086
+FD5,FD,FMO: OSM+ & PADI4+,fixed FMO coexpression,0,477,0.0
+FD5,FD,FMO: OSM+ & MX1+,fixed FMO coexpression,2,477,0.4192872117400419
+FD5,FD,FMO: OSM+ & NAMPT+,fixed FMO coexpression,2,477,0.4192872117400419
+FD5,FD,FMO: PADI4+ & MX1+,fixed FMO coexpression,0,477,0.0
+FD5,FD,FMO: PADI4+ & NAMPT+,fixed FMO coexpression,0,477,0.0
+FD5,FD,FMO: MX1+ & NAMPT+,fixed FMO coexpression,12,477,2.5157232704402515
+FD5,FD,F4/80 gate overlap,gate overlap,226,477,47.37945492662474
+FD5,FD,Outside F4/80 gate,gate overlap,251,477,52.62054507337526
+FD6,FD,All neutrophils / viable cells,total abundance,956,133892,0.714008305201207
+FD6,FD,All neutrophils / CD45-CD11b gate,total abundance,956,1962,48.72579001019368
+FD6,FD,Saved: cd177+ all neutrophil,saved gate,47,956,4.916317991631799
+FD6,FD,Saved: cd177+ all neutrophil/cxcr4+,saved gate,11,956,1.1506276150627615
+FD6,FD,Saved: cd177+ all neutrophil/cxcr4+/padi4+,saved gate,2,956,0.20920502092050208
+FD6,FD,Saved: cd177+ all neutrophil/cxcr4- osm+,saved gate,2,956,0.20920502092050208
+FD6,FD,Saved: cd177+ all neutrophil/mx1+ cxcr4-,saved gate,2,956,0.20920502092050208
+FD6,FD,Saved: cd177+ all neutrophil/padi4+,saved gate,23,956,2.405857740585774
+FD6,FD,Saved: cd177+ all neutrophil/padi4+ cxcr4-,saved gate,3,956,0.3138075313807531
+FD6,FD,Saved: cd177- all neutrophils,saved gate,869,956,90.89958158995816
+FD6,FD,Saved: cd177- all neutrophils/cxcr4+ osm+,saved gate,506,956,52.92887029288703
+FD6,FD,Saved: cd177- all neutrophils/cxcr4- mx1+,saved gate,244,956,25.523012552301257
+FD6,FD,Saved: cd177- all neutrophils/cxcr4- osm+,saved gate,84,956,8.786610878661088
+FD6,FD,Saved: cd177- all neutrophils/mx1+ cxcr4+,saved gate,303,956,31.694560669456067
+FD6,FD,Saved: cd177- all neutrophils/mx1+ osm+,saved gate,470,956,49.16317991631799
+FD6,FD,Saved: cd177- all neutrophils/osm+ padi4+,saved gate,121,956,12.656903765690377
+FD6,FD,Saved: cd177- all neutrophils/padi4+ cxcr4+,saved gate,221,956,23.11715481171548
+FD6,FD,Saved: cd177- all neutrophils/padi4+ cxcr4-,saved gate,57,956,5.96234309623431
+FD6,FD,Saved: cd177- all neutrophils/padi4+ mx1+,saved gate,87,956,9.100418410041842
+FD6,FD,Saved: cxcr4+,saved gate,548,956,57.32217573221757
+FD6,FD,Saved: cxcr4+/cd177 hi,saved gate,10,956,1.0460251046025104
+FD6,FD,"Saved: cxcr4+/mx1, osm+",saved gate,292,956,30.543933054393307
+FD6,FD,"Saved: cxcr4+/mx1, padi4+",saved gate,61,956,6.380753138075314
+FD6,FD,"Saved: cxcr4+/padi4, osm+",saved gate,66,956,6.903765690376569
+FD6,FD,Saved: cxcr4+/padi4- or osm-,saved gate,434,956,45.39748953974895
+FD6,FD,Saved: cxcr4+/padi4- or osm-/true cxcr+ neutro,saved gate,173,956,18.09623430962343
+FD6,FD,Saved: cxcr4-,saved gate,261,956,27.301255230125523
+FD6,FD,Saved: cxcr4-/cd177 hi,saved gate,36,956,3.7656903765690375
+FD6,FD,Saved: mx1+,saved gate,166,956,17.364016736401673
+FD6,FD,Saved: mx1+/cd177 hi,saved gate,0,956,0.0
+FD6,FD,Saved: osm+,saved gate,619,956,64.7489539748954
+FD6,FD,Saved: osm+/cd177 hi,saved gate,4,956,0.41841004184100417
+FD6,FD,Saved: padi4+,saved gate,61,956,6.380753138075314
+FD6,FD,Saved: padi4+/cd177 hi,saved gate,1,956,0.10460251046025104
+FD6,FD,FMO: CXCR4+,fixed FMO,235,956,24.581589958158997
+FD6,FD,FMO: OSM+,fixed FMO,43,956,4.497907949790795
+FD6,FD,FMO: PADI4+,fixed FMO,0,956,0.0
+FD6,FD,FMO: MX1+,fixed FMO,331,956,34.62343096234309
+FD6,FD,FMO: NAMPT+,fixed FMO,551,956,57.63598326359833
+FD6,FD,FMO: CXCR4+ & OSM+,fixed FMO coexpression,39,956,4.079497907949791
+FD6,FD,FMO: CXCR4+ & PADI4+,fixed FMO coexpression,0,956,0.0
+FD6,FD,FMO: CXCR4+ & MX1+,fixed FMO coexpression,123,956,12.866108786610878
+FD6,FD,FMO: CXCR4+ & NAMPT+,fixed FMO coexpression,156,956,16.317991631799163
+FD6,FD,FMO: OSM+ & PADI4+,fixed FMO coexpression,0,956,0.0
+FD6,FD,FMO: OSM+ & MX1+,fixed FMO coexpression,42,956,4.393305439330544
+FD6,FD,FMO: OSM+ & NAMPT+,fixed FMO coexpression,43,956,4.497907949790795
+FD6,FD,FMO: PADI4+ & MX1+,fixed FMO coexpression,0,956,0.0
+FD6,FD,FMO: PADI4+ & NAMPT+,fixed FMO coexpression,0,956,0.0
+FD6,FD,FMO: MX1+ & NAMPT+,fixed FMO coexpression,311,956,32.53138075313807
+FD6,FD,F4/80 gate overlap,gate overlap,53,956,5.543933054393306
+FD6,FD,Outside F4/80 gate,gate overlap,903,956,94.4560669456067
+WD1,WD,All neutrophils / viable cells,total abundance,127,36211,0.350722156250863
+WD1,WD,All neutrophils / CD45-CD11b gate,total abundance,127,700,18.142857142857142
+WD1,WD,Saved: cd177+ all neutrophil,saved gate,18,127,14.173228346456693
+WD1,WD,Saved: cd177+ all neutrophil/cxcr4+,saved gate,5,127,3.937007874015748
+WD1,WD,Saved: cd177+ all neutrophil/cxcr4+/padi4+,saved gate,3,127,2.3622047244094486
+WD1,WD,Saved: cd177+ all neutrophil/cxcr4- osm+,saved gate,0,127,0.0
+WD1,WD,Saved: cd177+ all neutrophil/mx1+ cxcr4-,saved gate,0,127,0.0
+WD1,WD,Saved: cd177+ all neutrophil/padi4+,saved gate,6,127,4.724409448818897
+WD1,WD,Saved: cd177+ all neutrophil/padi4+ cxcr4-,saved gate,2,127,1.5748031496062993
+WD1,WD,Saved: cd177- all neutrophils,saved gate,104,127,81.88976377952756
+WD1,WD,Saved: cd177- all neutrophils/cxcr4+ osm+,saved gate,21,127,16.53543307086614
+WD1,WD,Saved: cd177- all neutrophils/cxcr4- mx1+,saved gate,8,127,6.299212598425197
+WD1,WD,Saved: cd177- all neutrophils/cxcr4- osm+,saved gate,8,127,6.299212598425197
+WD1,WD,Saved: cd177- all neutrophils/mx1+ cxcr4+,saved gate,20,127,15.748031496062993
+WD1,WD,Saved: cd177- all neutrophils/mx1+ osm+,saved gate,8,127,6.299212598425197
+WD1,WD,Saved: cd177- all neutrophils/osm+ padi4+,saved gate,7,127,5.511811023622047
+WD1,WD,Saved: cd177- all neutrophils/padi4+ cxcr4+,saved gate,27,127,21.25984251968504
+WD1,WD,Saved: cd177- all neutrophils/padi4+ cxcr4-,saved gate,11,127,8.661417322834646
+WD1,WD,Saved: cd177- all neutrophils/padi4+ mx1+,saved gate,1,127,0.7874015748031497
+WD1,WD,Saved: cxcr4+,saved gate,62,127,48.818897637795274
+WD1,WD,Saved: cxcr4+/cd177 hi,saved gate,5,127,3.937007874015748
+WD1,WD,"Saved: cxcr4+/mx1, osm+",saved gate,4,127,3.1496062992125986
+WD1,WD,"Saved: cxcr4+/mx1, padi4+",saved gate,3,127,2.3622047244094486
+WD1,WD,"Saved: cxcr4+/padi4, osm+",saved gate,4,127,3.1496062992125986
+WD1,WD,Saved: cxcr4+/padi4- or osm-,saved gate,54,127,42.51968503937008
+WD1,WD,Saved: cxcr4+/padi4- or osm-/true cxcr+ neutro,saved gate,46,127,36.22047244094488
+WD1,WD,Saved: cxcr4-,saved gate,54,127,42.51968503937008
+WD1,WD,Saved: cxcr4-/cd177 hi,saved gate,13,127,10.236220472440944
+WD1,WD,Saved: mx1+,saved gate,8,127,6.299212598425197
+WD1,WD,Saved: mx1+/cd177 hi,saved gate,0,127,0.0
+WD1,WD,Saved: osm+,saved gate,13,127,10.236220472440944
+WD1,WD,Saved: osm+/cd177 hi,saved gate,0,127,0.0
+WD1,WD,Saved: padi4+,saved gate,14,127,11.023622047244094
+WD1,WD,Saved: padi4+/cd177 hi,saved gate,0,127,0.0
+WD1,WD,FMO: CXCR4+,fixed FMO,51,127,40.15748031496063
+WD1,WD,FMO: OSM+,fixed FMO,1,127,0.7874015748031497
+WD1,WD,FMO: PADI4+,fixed FMO,0,127,0.0
+WD1,WD,FMO: MX1+,fixed FMO,8,127,6.299212598425197
+WD1,WD,FMO: NAMPT+,fixed FMO,10,127,7.874015748031496
+WD1,WD,FMO: CXCR4+ & OSM+,fixed FMO coexpression,1,127,0.7874015748031497
+WD1,WD,FMO: CXCR4+ & PADI4+,fixed FMO coexpression,0,127,0.0
+WD1,WD,FMO: CXCR4+ & MX1+,fixed FMO coexpression,7,127,5.511811023622047
+WD1,WD,FMO: CXCR4+ & NAMPT+,fixed FMO coexpression,8,127,6.299212598425197
+WD1,WD,FMO: OSM+ & PADI4+,fixed FMO coexpression,0,127,0.0
+WD1,WD,FMO: OSM+ & MX1+,fixed FMO coexpression,1,127,0.7874015748031497
+WD1,WD,FMO: OSM+ & NAMPT+,fixed FMO coexpression,1,127,0.7874015748031497
+WD1,WD,FMO: PADI4+ & MX1+,fixed FMO coexpression,0,127,0.0
+WD1,WD,FMO: PADI4+ & NAMPT+,fixed FMO coexpression,0,127,0.0
+WD1,WD,FMO: MX1+ & NAMPT+,fixed FMO coexpression,6,127,4.724409448818897
+WD1,WD,F4/80 gate overlap,gate overlap,17,127,13.385826771653543
+WD1,WD,Outside F4/80 gate,gate overlap,110,127,86.61417322834646
+WD2,WD,All neutrophils / viable cells,total abundance,197,16583,1.1879635771573298
+WD2,WD,All neutrophils / CD45-CD11b gate,total abundance,197,936,21.04700854700855
+WD2,WD,Saved: cd177+ all neutrophil,saved gate,26,197,13.197969543147208
+WD2,WD,Saved: cd177+ all neutrophil/cxcr4+,saved gate,0,197,0.0
+WD2,WD,Saved: cd177+ all neutrophil/cxcr4+/padi4+,saved gate,0,197,0.0
+WD2,WD,Saved: cd177+ all neutrophil/cxcr4- osm+,saved gate,0,197,0.0
+WD2,WD,Saved: cd177+ all neutrophil/mx1+ cxcr4-,saved gate,0,197,0.0
+WD2,WD,Saved: cd177+ all neutrophil/padi4+,saved gate,2,197,1.015228426395939
+WD2,WD,Saved: cd177+ all neutrophil/padi4+ cxcr4-,saved gate,0,197,0.0
+WD2,WD,Saved: cd177- all neutrophils,saved gate,159,197,80.71065989847716
+WD2,WD,Saved: cd177- all neutrophils/cxcr4+ osm+,saved gate,6,197,3.045685279187817
+WD2,WD,Saved: cd177- all neutrophils/cxcr4- mx1+,saved gate,5,197,2.5380710659898478
+WD2,WD,Saved: cd177- all neutrophils/cxcr4- osm+,saved gate,2,197,1.015228426395939
+WD2,WD,Saved: cd177- all neutrophils/mx1+ cxcr4+,saved gate,5,197,2.5380710659898478
+WD2,WD,Saved: cd177- all neutrophils/mx1+ osm+,saved gate,4,197,2.030456852791878
+WD2,WD,Saved: cd177- all neutrophils/osm+ padi4+,saved gate,3,197,1.5228426395939085
+WD2,WD,Saved: cd177- all neutrophils/padi4+ cxcr4+,saved gate,23,197,11.6751269035533
+WD2,WD,Saved: cd177- all neutrophils/padi4+ cxcr4-,saved gate,66,197,33.50253807106599
+WD2,WD,Saved: cd177- all neutrophils/padi4+ mx1+,saved gate,2,197,1.015228426395939
+WD2,WD,Saved: cxcr4+,saved gate,28,197,14.213197969543147
+WD2,WD,Saved: cxcr4+/cd177 hi,saved gate,0,197,0.0
+WD2,WD,"Saved: cxcr4+/mx1, osm+",saved gate,2,197,1.015228426395939
+WD2,WD,"Saved: cxcr4+/mx1, padi4+",saved gate,3,197,1.5228426395939085
+WD2,WD,"Saved: cxcr4+/padi4, osm+",saved gate,0,197,0.0
+WD2,WD,Saved: cxcr4+/padi4- or osm-,saved gate,27,197,13.705583756345177
+WD2,WD,Saved: cxcr4+/padi4- or osm-/true cxcr+ neutro,saved gate,24,197,12.182741116751268
+WD2,WD,Saved: cxcr4-,saved gate,167,197,84.77157360406092
+WD2,WD,Saved: cxcr4-/cd177 hi,saved gate,26,197,13.197969543147208
+WD2,WD,Saved: mx1+,saved gate,5,197,2.5380710659898478
+WD2,WD,Saved: mx1+/cd177 hi,saved gate,0,197,0.0
+WD2,WD,Saved: osm+,saved gate,10,197,5.0761421319796955
+WD2,WD,Saved: osm+/cd177 hi,saved gate,0,197,0.0
+WD2,WD,Saved: padi4+,saved gate,19,197,9.644670050761421
+WD2,WD,Saved: padi4+/cd177 hi,saved gate,0,197,0.0
+WD2,WD,FMO: CXCR4+,fixed FMO,19,197,9.644670050761421
+WD2,WD,FMO: OSM+,fixed FMO,0,197,0.0
+WD2,WD,FMO: PADI4+,fixed FMO,0,197,0.0
+WD2,WD,FMO: MX1+,fixed FMO,5,197,2.5380710659898478
+WD2,WD,FMO: NAMPT+,fixed FMO,36,197,18.274111675126903
+WD2,WD,FMO: CXCR4+ & OSM+,fixed FMO coexpression,0,197,0.0
+WD2,WD,FMO: CXCR4+ & PADI4+,fixed FMO coexpression,0,197,0.0
+WD2,WD,FMO: CXCR4+ & MX1+,fixed FMO coexpression,2,197,1.015228426395939
+WD2,WD,FMO: CXCR4+ & NAMPT+,fixed FMO coexpression,4,197,2.030456852791878
+WD2,WD,FMO: OSM+ & PADI4+,fixed FMO coexpression,0,197,0.0
+WD2,WD,FMO: OSM+ & MX1+,fixed FMO coexpression,0,197,0.0
+WD2,WD,FMO: OSM+ & NAMPT+,fixed FMO coexpression,0,197,0.0
+WD2,WD,FMO: PADI4+ & MX1+,fixed FMO coexpression,0,197,0.0
+WD2,WD,FMO: PADI4+ & NAMPT+,fixed FMO coexpression,0,197,0.0
+WD2,WD,FMO: MX1+ & NAMPT+,fixed FMO coexpression,4,197,2.030456852791878
+WD2,WD,F4/80 gate overlap,gate overlap,124,197,62.944162436548226
+WD2,WD,Outside F4/80 gate,gate overlap,73,197,37.055837563451774
+WD3,WD,All neutrophils / viable cells,total abundance,261,72284,0.3610757567373139
+WD3,WD,All neutrophils / CD45-CD11b gate,total abundance,261,1264,20.64873417721519
+WD3,WD,Saved: cd177+ all neutrophil,saved gate,128,261,49.04214559386973
+WD3,WD,Saved: cd177+ all neutrophil/cxcr4+,saved gate,20,261,7.662835249042145
+WD3,WD,Saved: cd177+ all neutrophil/cxcr4+/padi4+,saved gate,1,261,0.3831417624521073
+WD3,WD,Saved: cd177+ all neutrophil/cxcr4- osm+,saved gate,0,261,0.0
+WD3,WD,Saved: cd177+ all neutrophil/mx1+ cxcr4-,saved gate,0,261,0.0
+WD3,WD,Saved: cd177+ all neutrophil/padi4+,saved gate,28,261,10.727969348659004
+WD3,WD,Saved: cd177+ all neutrophil/padi4+ cxcr4-,saved gate,4,261,1.5325670498084292
+WD3,WD,Saved: cd177- all neutrophils,saved gate,118,261,45.21072796934866
+WD3,WD,Saved: cd177- all neutrophils/cxcr4+ osm+,saved gate,5,261,1.9157088122605364
+WD3,WD,Saved: cd177- all neutrophils/cxcr4- mx1+,saved gate,19,261,7.2796934865900385
+WD3,WD,Saved: cd177- all neutrophils/cxcr4- osm+,saved gate,22,261,8.42911877394636
+WD3,WD,Saved: cd177- all neutrophils/mx1+ cxcr4+,saved gate,13,261,4.980842911877395
+WD3,WD,Saved: cd177- all neutrophils/mx1+ osm+,saved gate,7,261,2.681992337164751
+WD3,WD,Saved: cd177- all neutrophils/osm+ padi4+,saved gate,1,261,0.3831417624521073
+WD3,WD,Saved: cd177- all neutrophils/padi4+ cxcr4+,saved gate,27,261,10.344827586206897
+WD3,WD,Saved: cd177- all neutrophils/padi4+ cxcr4-,saved gate,6,261,2.2988505747126435
+WD3,WD,Saved: cd177- all neutrophils/padi4+ mx1+,saved gate,4,261,1.5325670498084292
+WD3,WD,Saved: cxcr4+,saved gate,68,261,26.053639846743295
+WD3,WD,Saved: cxcr4+/cd177 hi,saved gate,16,261,6.130268199233717
+WD3,WD,"Saved: cxcr4+/mx1, osm+",saved gate,1,261,0.3831417624521073
+WD3,WD,"Saved: cxcr4+/mx1, padi4+",saved gate,3,261,1.1494252873563218
+WD3,WD,"Saved: cxcr4+/padi4, osm+",saved gate,0,261,0.0
+WD3,WD,Saved: cxcr4+/padi4- or osm-,saved gate,58,261,22.22222222222222
+WD3,WD,Saved: cxcr4+/padi4- or osm-/true cxcr+ neutro,saved gate,52,261,19.92337164750958
+WD3,WD,Saved: cxcr4-,saved gate,186,261,71.26436781609195
+WD3,WD,Saved: cxcr4-/cd177 hi,saved gate,107,261,40.99616858237548
+WD3,WD,Saved: mx1+,saved gate,11,261,4.21455938697318
+WD3,WD,Saved: mx1+/cd177 hi,saved gate,0,261,0.0
+WD3,WD,Saved: osm+,saved gate,30,261,11.494252873563218
+WD3,WD,Saved: osm+/cd177 hi,saved gate,0,261,0.0
+WD3,WD,Saved: padi4+,saved gate,8,261,3.0651340996168583
+WD3,WD,Saved: padi4+/cd177 hi,saved gate,1,261,0.3831417624521073
+WD3,WD,FMO: CXCR4+,fixed FMO,52,261,19.92337164750958
+WD3,WD,FMO: OSM+,fixed FMO,0,261,0.0
+WD3,WD,FMO: PADI4+,fixed FMO,0,261,0.0
+WD3,WD,FMO: MX1+,fixed FMO,12,261,4.597701149425287
+WD3,WD,FMO: NAMPT+,fixed FMO,29,261,11.11111111111111
+WD3,WD,FMO: CXCR4+ & OSM+,fixed FMO coexpression,0,261,0.0
+WD3,WD,FMO: CXCR4+ & PADI4+,fixed FMO coexpression,0,261,0.0
+WD3,WD,FMO: CXCR4+ & MX1+,fixed FMO coexpression,5,261,1.9157088122605364
+WD3,WD,FMO: CXCR4+ & NAMPT+,fixed FMO coexpression,7,261,2.681992337164751
+WD3,WD,FMO: OSM+ & PADI4+,fixed FMO coexpression,0,261,0.0
+WD3,WD,FMO: OSM+ & MX1+,fixed FMO coexpression,0,261,0.0
+WD3,WD,FMO: OSM+ & NAMPT+,fixed FMO coexpression,0,261,0.0
+WD3,WD,FMO: PADI4+ & MX1+,fixed FMO coexpression,0,261,0.0
+WD3,WD,FMO: PADI4+ & NAMPT+,fixed FMO coexpression,0,261,0.0
+WD3,WD,FMO: MX1+ & NAMPT+,fixed FMO coexpression,7,261,2.681992337164751
+WD3,WD,F4/80 gate overlap,gate overlap,38,261,14.559386973180077
+WD3,WD,Outside F4/80 gate,gate overlap,223,261,85.44061302681992
+WD4,WD,All neutrophils / viable cells,total abundance,337,41798,0.8062586726637638
+WD4,WD,All neutrophils / CD45-CD11b gate,total abundance,337,2591,13.006561173292166
+WD4,WD,Saved: cd177+ all neutrophil,saved gate,73,337,21.661721068249257
+WD4,WD,Saved: cd177+ all neutrophil/cxcr4+,saved gate,3,337,0.8902077151335311
+WD4,WD,Saved: cd177+ all neutrophil/cxcr4+/padi4+,saved gate,0,337,0.0
+WD4,WD,Saved: cd177+ all neutrophil/cxcr4- osm+,saved gate,0,337,0.0
+WD4,WD,Saved: cd177+ all neutrophil/mx1+ cxcr4-,saved gate,0,337,0.0
+WD4,WD,Saved: cd177+ all neutrophil/padi4+,saved gate,13,337,3.857566765578635
+WD4,WD,Saved: cd177+ all neutrophil/padi4+ cxcr4-,saved gate,2,337,0.5934718100890207
+WD4,WD,Saved: cd177- all neutrophils,saved gate,256,337,75.96439169139465
+WD4,WD,Saved: cd177- all neutrophils/cxcr4+ osm+,saved gate,5,337,1.4836795252225519
+WD4,WD,Saved: cd177- all neutrophils/cxcr4- mx1+,saved gate,22,337,6.528189910979228
+WD4,WD,Saved: cd177- all neutrophils/cxcr4- osm+,saved gate,13,337,3.857566765578635
+WD4,WD,Saved: cd177- all neutrophils/mx1+ cxcr4+,saved gate,9,337,2.6706231454005933
+WD4,WD,Saved: cd177- all neutrophils/mx1+ osm+,saved gate,6,337,1.7804154302670623
+WD4,WD,Saved: cd177- all neutrophils/osm+ padi4+,saved gate,1,337,0.29673590504451036
+WD4,WD,Saved: cd177- all neutrophils/padi4+ cxcr4+,saved gate,48,337,14.243323442136498
+WD4,WD,Saved: cd177- all neutrophils/padi4+ cxcr4-,saved gate,58,337,17.2106824925816
+WD4,WD,Saved: cd177- all neutrophils/padi4+ mx1+,saved gate,4,337,1.1869436201780414
+WD4,WD,Saved: cxcr4+,saved gate,89,337,26.409495548961424
+WD4,WD,Saved: cxcr4+/cd177 hi,saved gate,4,337,1.1869436201780414
+WD4,WD,"Saved: cxcr4+/mx1, osm+",saved gate,2,337,0.5934718100890207
+WD4,WD,"Saved: cxcr4+/mx1, padi4+",saved gate,3,337,0.8902077151335311
+WD4,WD,"Saved: cxcr4+/padi4, osm+",saved gate,1,337,0.29673590504451036
+WD4,WD,Saved: cxcr4+/padi4- or osm-,saved gate,81,337,24.03560830860534
+WD4,WD,Saved: cxcr4+/padi4- or osm-/true cxcr+ neutro,saved gate,77,337,22.8486646884273
+WD4,WD,Saved: cxcr4-,saved gate,230,337,68.24925816023739
+WD4,WD,Saved: cxcr4-/cd177 hi,saved gate,69,337,20.474777448071215
+WD4,WD,Saved: mx1+,saved gate,11,337,3.264094955489614
+WD4,WD,Saved: mx1+/cd177 hi,saved gate,0,337,0.0
+WD4,WD,Saved: osm+,saved gate,30,337,8.90207715133531
+WD4,WD,Saved: osm+/cd177 hi,saved gate,0,337,0.0
+WD4,WD,Saved: padi4+,saved gate,6,337,1.7804154302670623
+WD4,WD,Saved: padi4+/cd177 hi,saved gate,0,337,0.0
+WD4,WD,FMO: CXCR4+,fixed FMO,54,337,16.023738872403563
+WD4,WD,FMO: OSM+,fixed FMO,1,337,0.29673590504451036
+WD4,WD,FMO: PADI4+,fixed FMO,0,337,0.0
+WD4,WD,FMO: MX1+,fixed FMO,7,337,2.077151335311573
+WD4,WD,FMO: NAMPT+,fixed FMO,84,337,24.92581602373887
+WD4,WD,FMO: CXCR4+ & OSM+,fixed FMO coexpression,0,337,0.0
+WD4,WD,FMO: CXCR4+ & PADI4+,fixed FMO coexpression,0,337,0.0
+WD4,WD,FMO: CXCR4+ & MX1+,fixed FMO coexpression,3,337,0.8902077151335311
+WD4,WD,FMO: CXCR4+ & NAMPT+,fixed FMO coexpression,19,337,5.637982195845697
+WD4,WD,FMO: OSM+ & PADI4+,fixed FMO coexpression,0,337,0.0
+WD4,WD,FMO: OSM+ & MX1+,fixed FMO coexpression,0,337,0.0
+WD4,WD,FMO: OSM+ & NAMPT+,fixed FMO coexpression,0,337,0.0
+WD4,WD,FMO: PADI4+ & MX1+,fixed FMO coexpression,0,337,0.0
+WD4,WD,FMO: PADI4+ & NAMPT+,fixed FMO coexpression,0,337,0.0
+WD4,WD,FMO: MX1+ & NAMPT+,fixed FMO coexpression,7,337,2.077151335311573
+WD4,WD,F4/80 gate overlap,gate overlap,61,337,18.100890207715132
+WD4,WD,Outside F4/80 gate,gate overlap,276,337,81.89910979228486
+WD5,WD,All neutrophils / viable cells,total abundance,301,48432,0.6214899240171787
+WD5,WD,All neutrophils / CD45-CD11b gate,total abundance,301,1426,21.107994389901823
+WD5,WD,Saved: cd177+ all neutrophil,saved gate,36,301,11.960132890365449
+WD5,WD,Saved: cd177+ all neutrophil/cxcr4+,saved gate,32,301,10.631229235880399
+WD5,WD,Saved: cd177+ all neutrophil/cxcr4+/padi4+,saved gate,10,301,3.3222591362126246
+WD5,WD,Saved: cd177+ all neutrophil/cxcr4- osm+,saved gate,0,301,0.0
+WD5,WD,Saved: cd177+ all neutrophil/mx1+ cxcr4-,saved gate,0,301,0.0
+WD5,WD,Saved: cd177+ all neutrophil/padi4+,saved gate,17,301,5.647840531561462
+WD5,WD,Saved: cd177+ all neutrophil/padi4+ cxcr4-,saved gate,3,301,0.9966777408637874
+WD5,WD,Saved: cd177- all neutrophils,saved gate,254,301,84.38538205980066
+WD5,WD,Saved: cd177- all neutrophils/cxcr4+ osm+,saved gate,49,301,16.27906976744186
+WD5,WD,Saved: cd177- all neutrophils/cxcr4- mx1+,saved gate,23,301,7.641196013289036
+WD5,WD,Saved: cd177- all neutrophils/cxcr4- osm+,saved gate,11,301,3.654485049833887
+WD5,WD,Saved: cd177- all neutrophils/mx1+ cxcr4+,saved gate,86,301,28.571428571428573
+WD5,WD,Saved: cd177- all neutrophils/mx1+ osm+,saved gate,10,301,3.3222591362126246
+WD5,WD,Saved: cd177- all neutrophils/osm+ padi4+,saved gate,22,301,7.308970099667774
+WD5,WD,Saved: cd177- all neutrophils/padi4+ cxcr4+,saved gate,126,301,41.86046511627907
+WD5,WD,Saved: cd177- all neutrophils/padi4+ cxcr4-,saved gate,7,301,2.3255813953488373
+WD5,WD,Saved: cd177- all neutrophils/padi4+ mx1+,saved gate,21,301,6.976744186046512
+WD5,WD,Saved: cxcr4+,saved gate,247,301,82.05980066445183
+WD5,WD,Saved: cxcr4+/cd177 hi,saved gate,31,301,10.299003322259136
+WD5,WD,"Saved: cxcr4+/mx1, osm+",saved gate,8,301,2.6578073089700998
+WD5,WD,"Saved: cxcr4+/mx1, padi4+",saved gate,25,301,8.305647840531561
+WD5,WD,"Saved: cxcr4+/padi4, osm+",saved gate,15,301,4.983388704318937
+WD5,WD,Saved: cxcr4+/padi4- or osm-,saved gate,213,301,70.7641196013289
+WD5,WD,Saved: cxcr4+/padi4- or osm-/true cxcr+ neutro,saved gate,164,301,54.48504983388705
+WD5,WD,Saved: cxcr4-,saved gate,48,301,15.946843853820598
+WD5,WD,Saved: cxcr4-/cd177 hi,saved gate,4,301,1.3289036544850499
+WD5,WD,Saved: mx1+,saved gate,63,301,20.930232558139537
+WD5,WD,Saved: mx1+/cd177 hi,saved gate,1,301,0.33222591362126247
+WD5,WD,Saved: osm+,saved gate,52,301,17.27574750830565
+WD5,WD,Saved: osm+/cd177 hi,saved gate,0,301,0.0
+WD5,WD,Saved: padi4+,saved gate,48,301,15.946843853820598
+WD5,WD,Saved: padi4+/cd177 hi,saved gate,1,301,0.33222591362126247
+WD5,WD,FMO: CXCR4+,fixed FMO,216,301,71.76079734219269
+WD5,WD,FMO: OSM+,fixed FMO,2,301,0.6644518272425249
+WD5,WD,FMO: PADI4+,fixed FMO,0,301,0.0
+WD5,WD,FMO: MX1+,fixed FMO,71,301,23.588039867109636
+WD5,WD,FMO: NAMPT+,fixed FMO,108,301,35.880398671096344
+WD5,WD,FMO: CXCR4+ & OSM+,fixed FMO coexpression,0,301,0.0
+WD5,WD,FMO: CXCR4+ & PADI4+,fixed FMO coexpression,0,301,0.0
+WD5,WD,FMO: CXCR4+ & MX1+,fixed FMO coexpression,53,301,17.60797342192691
+WD5,WD,FMO: CXCR4+ & NAMPT+,fixed FMO coexpression,89,301,29.568106312292358
+WD5,WD,FMO: OSM+ & PADI4+,fixed FMO coexpression,0,301,0.0
+WD5,WD,FMO: OSM+ & MX1+,fixed FMO coexpression,2,301,0.6644518272425249
+WD5,WD,FMO: OSM+ & NAMPT+,fixed FMO coexpression,2,301,0.6644518272425249
+WD5,WD,FMO: PADI4+ & MX1+,fixed FMO coexpression,0,301,0.0
+WD5,WD,FMO: PADI4+ & NAMPT+,fixed FMO coexpression,0,301,0.0
+WD5,WD,FMO: MX1+ & NAMPT+,fixed FMO coexpression,52,301,17.27574750830565
+WD5,WD,F4/80 gate overlap,gate overlap,40,301,13.289036544850498
+WD5,WD,Outside F4/80 gate,gate overlap,261,301,86.7109634551495
+WD6,WD,All neutrophils / viable cells,total abundance,885,59247,1.493746518811079
+WD6,WD,All neutrophils / CD45-CD11b gate,total abundance,885,3039,29.12142152023692
+WD6,WD,Saved: cd177+ all neutrophil,saved gate,450,885,50.847457627118644
+WD6,WD,Saved: cd177+ all neutrophil/cxcr4+,saved gate,44,885,4.971751412429379
+WD6,WD,Saved: cd177+ all neutrophil/cxcr4+/padi4+,saved gate,5,885,0.5649717514124294
+WD6,WD,Saved: cd177+ all neutrophil/cxcr4- osm+,saved gate,0,885,0.0
+WD6,WD,Saved: cd177+ all neutrophil/mx1+ cxcr4-,saved gate,0,885,0.0
+WD6,WD,Saved: cd177+ all neutrophil/padi4+,saved gate,89,885,10.056497175141242
+WD6,WD,Saved: cd177+ all neutrophil/padi4+ cxcr4-,saved gate,11,885,1.2429378531073447
+WD6,WD,Saved: cd177- all neutrophils,saved gate,340,885,38.4180790960452
+WD6,WD,Saved: cd177- all neutrophils/cxcr4+ osm+,saved gate,27,885,3.0508474576271185
+WD6,WD,Saved: cd177- all neutrophils/cxcr4- mx1+,saved gate,13,885,1.4689265536723164
+WD6,WD,Saved: cd177- all neutrophils/cxcr4- osm+,saved gate,11,885,1.2429378531073447
+WD6,WD,Saved: cd177- all neutrophils/mx1+ cxcr4+,saved gate,29,885,3.2768361581920904
+WD6,WD,Saved: cd177- all neutrophils/mx1+ osm+,saved gate,16,885,1.807909604519774
+WD6,WD,Saved: cd177- all neutrophils/osm+ padi4+,saved gate,4,885,0.4519774011299435
+WD6,WD,Saved: cd177- all neutrophils/padi4+ cxcr4+,saved gate,134,885,15.141242937853107
+WD6,WD,Saved: cd177- all neutrophils/padi4+ cxcr4-,saved gate,39,885,4.406779661016949
+WD6,WD,Saved: cd177- all neutrophils/padi4+ mx1+,saved gate,0,885,0.0
+WD6,WD,Saved: cxcr4+,saved gate,282,885,31.864406779661017
+WD6,WD,Saved: cxcr4+/cd177 hi,saved gate,42,885,4.745762711864407
+WD6,WD,"Saved: cxcr4+/mx1, osm+",saved gate,4,885,0.4519774011299435
+WD6,WD,"Saved: cxcr4+/mx1, padi4+",saved gate,5,885,0.5649717514124294
+WD6,WD,"Saved: cxcr4+/padi4, osm+",saved gate,2,885,0.22598870056497175
+WD6,WD,Saved: cxcr4+/padi4- or osm-,saved gate,253,885,28.587570621468927
+WD6,WD,Saved: cxcr4+/padi4- or osm-/true cxcr+ neutro,saved gate,246,885,27.796610169491526
+WD6,WD,Saved: cxcr4-,saved gate,578,885,65.31073446327683
+WD6,WD,Saved: cxcr4-/cd177 hi,saved gate,405,885,45.76271186440678
+WD6,WD,Saved: mx1+,saved gate,14,885,1.5819209039548023
+WD6,WD,Saved: mx1+/cd177 hi,saved gate,0,885,0.0
+WD6,WD,Saved: osm+,saved gate,50,885,5.649717514124294
+WD6,WD,Saved: osm+/cd177 hi,saved gate,0,885,0.0
+WD6,WD,Saved: padi4+,saved gate,33,885,3.7288135593220337
+WD6,WD,Saved: padi4+/cd177 hi,saved gate,1,885,0.11299435028248588
+WD6,WD,FMO: CXCR4+,fixed FMO,203,885,22.937853107344633
+WD6,WD,FMO: OSM+,fixed FMO,2,885,0.22598870056497175
+WD6,WD,FMO: PADI4+,fixed FMO,0,885,0.0
+WD6,WD,FMO: MX1+,fixed FMO,10,885,1.1299435028248588
+WD6,WD,FMO: NAMPT+,fixed FMO,10,885,1.1299435028248588
+WD6,WD,FMO: CXCR4+ & OSM+,fixed FMO coexpression,0,885,0.0
+WD6,WD,FMO: CXCR4+ & PADI4+,fixed FMO coexpression,0,885,0.0
+WD6,WD,FMO: CXCR4+ & MX1+,fixed FMO coexpression,4,885,0.4519774011299435
+WD6,WD,FMO: CXCR4+ & NAMPT+,fixed FMO coexpression,5,885,0.5649717514124294
+WD6,WD,FMO: OSM+ & PADI4+,fixed FMO coexpression,0,885,0.0
+WD6,WD,FMO: OSM+ & MX1+,fixed FMO coexpression,2,885,0.22598870056497175
+WD6,WD,FMO: OSM+ & NAMPT+,fixed FMO coexpression,1,885,0.11299435028248588
+WD6,WD,FMO: PADI4+ & MX1+,fixed FMO coexpression,0,885,0.0
+WD6,WD,FMO: PADI4+ & NAMPT+,fixed FMO coexpression,0,885,0.0
+WD6,WD,FMO: MX1+ & NAMPT+,fixed FMO coexpression,6,885,0.6779661016949152
+WD6,WD,F4/80 gate overlap,gate overlap,232,885,26.214689265536723
+WD6,WD,Outside F4/80 gate,gate overlap,653,885,73.78531073446328

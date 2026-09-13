@@ -1,0 +1,3 @@
+test,effect,low,high,p,q,n_remission,n_nonremission
+Recruitment delta: remission minus nonremission,-0.09662645864283739,-0.6182905147039465,0.1651587432128968,0.14514652014652016,0.2902930402930403,5,11
+Outcome-adjusted rank association,0.05619579389901454,,,0.83635,0.83635,5,11

@@ -1,0 +1,18 @@
+condition,neut_state,n_cells,n_patients
+Healthy,Erythrocyte,2,2
+Healthy,Monocyte-derived macrophage,7,1
+Healthy,Neutrophil CXCR4,44,5
+Healthy,Neutrophil MX1,13,3
+Healthy,Neutrophil OSM,62,6
+Healthy,Neutrophil PADI4,48,4
+Healthy,Neutrophil lowRNA,109,6
+Inflamed UC,Neutrophil CXCR4,9344,19
+Inflamed UC,Neutrophil MX1,5028,18
+Inflamed UC,Neutrophil OSM,8118,19
+Inflamed UC,Neutrophil PADI4,5659,18
+Inflamed UC,Neutrophil lowRNA,8944,18
+Uninflamed UC,Neutrophil CXCR4,226,14
+Uninflamed UC,Neutrophil MX1,181,10
+Uninflamed UC,Neutrophil OSM,252,16
+Uninflamed UC,Neutrophil PADI4,204,14
+Uninflamed UC,Neutrophil lowRNA,452,17

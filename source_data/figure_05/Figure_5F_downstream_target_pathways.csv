@@ -1,0 +1,51 @@
+direction,downstream_pathway,receiver,lr_pathway,overlap,target_genes,pathway_genes,gene_ratio,p_value,leading_targets,fdr,enrichment_strength
+Fibroblast -> Neutrophil,Apoptosis,Neutrophil,IL1,16,150,43,0.106666666666667,2.93588442086428e-08,"Bcl2l1, Birc3, Cd44, Cyld, Dcn",2.09706030061734e-07,6
+Fibroblast -> Neutrophil,Apoptosis,Neutrophil,CXCL-CXCR2,23,175,43,0.131428571428571,4.04461950171662e-14,"App, Bcl2l1, Bcl2l11, Birc3, Cd44",1.01115487542915e-12,6
+Fibroblast -> Neutrophil,Apoptosis,Neutrophil,CSF1,13,141,43,0.0921985815602837,4.68765678543059e-06,"App, Bcl2l11, Birc3, Gsn, Ccnd1",5.85957098178824e-05,4.23213418040899
+Fibroblast -> Neutrophil,Apoptosis,Neutrophil,alpha5-integrin/ECM,22,151,43,0.145695364238411,2.07669188881004e-14,"App, Bcl2l1, Bcl2l11, Birc3, Cd14",5.19172972202509e-13,6
+Fibroblast -> Neutrophil,Apoptosis,Neutrophil,ICAM adhesion,20,135,43,0.148148148148148,3.92436980982011e-13,"App, Bcl2l1, Bcl2l11, Birc3, Cd44",9.81092452455028e-12,6
+Fibroblast -> Neutrophil,Il2 Stat5 Signaling,Neutrophil,IL1,9,150,54,0.06,0.0194823419739486,"Bcl2l1, Cd44, Cd83, Csf1, Lif",0.0621896856391236,1.20628163848378
+Fibroblast -> Neutrophil,Il2 Stat5 Signaling,Neutrophil,CXCL-CXCR2,16,175,54,0.0914285714285714,8.97882029324444e-06,"Bcl2l1, Bhlhe40, Cd44, Cd83, Il10",4.48941014662222e-05,4.34781071621164
+Fibroblast -> Neutrophil,Il2 Stat5 Signaling,Neutrophil,CSF1,17,141,54,0.120567375886525,7.20941142944448e-08,"Cd83, Ctsz, Il10, Il1r2, Itgav",1.80235285736112e-06,5.74416018061383
+Fibroblast -> Neutrophil,Il2 Stat5 Signaling,Neutrophil,alpha5-integrin/ECM,14,151,54,0.0927152317880795,3.25014482623799e-05,"Bcl2l1, Bhlhe40, Cd44, Igf1r, Il10",0.000125005570239923,3.90307063442744
+Fibroblast -> Neutrophil,Il2 Stat5 Signaling,Neutrophil,ICAM adhesion,17,135,54,0.125925925925926,3.68682575423186e-08,"Bcl2l1, Bhlhe40, Cd44, Cd83, Csf1",2.63344696730847e-07,6
+Fibroblast -> Neutrophil,Inflammatory Response,Neutrophil,IL1,26,150,59,0.173333333333333,5.93555182797607e-15,"Atp2b1, Ccl2, Ccl7, Cd82, Csf1",1.48388795699402e-13,6
+Fibroblast -> Neutrophil,Inflammatory Response,Neutrophil,CXCL-CXCR2,16,175,59,0.0914285714285714,3.11652049187237e-05,"Abca1, Ccr7, Ebi3, Hif1a, Il10",0.000141660022357835,3.84875269399405
+Fibroblast -> Neutrophil,Inflammatory Response,Neutrophil,CSF1,12,141,59,0.0851063829787234,0.000734342498617023,"Abca1, Ccl7, Ccrl2, Fpr1, Il10",0.00458964061635639,2.3382213197882
+Fibroblast -> Neutrophil,Inflammatory Response,Neutrophil,alpha5-integrin/ECM,16,151,59,0.105960264900662,4.48614490082585e-06,"Cd14, Cd82, Ebi3, Hif1a, Il10",2.80384056301616e-05,4.55224668563083
+Fibroblast -> Neutrophil,Inflammatory Response,Neutrophil,ICAM adhesion,18,135,59,0.133333333333333,2.45603322685029e-08,"Abca1, Ccr7, Csf1, Ebi3, Hif1a",2.26495193832586e-07,6
+Fibroblast -> Neutrophil,Tnfa Signaling via Nfkb,Neutrophil,IL1,53,150,78,0.353333333333333,2.28162658279042e-44,"Atp2b1, B4galt5, Bcl3, Birc3, Ccl2",1.14081329139521e-42,6
+Fibroblast -> Neutrophil,Tnfa Signaling via Nfkb,Neutrophil,CXCL-CXCR2,47,175,78,0.268571428571429,7.20816093610136e-32,"Abca1, Bcl3, Bhlhe40, Birc3, Ccl4",3.60408046805068e-30,6
+Fibroblast -> Neutrophil,Tnfa Signaling via Nfkb,Neutrophil,CSF1,28,141,78,0.198581560283688,4.85557149139198e-14,"Abca1, Bcl3, Birc3, Ccrl2, Cd83",2.42778574569599e-12,6
+Fibroblast -> Neutrophil,Tnfa Signaling via Nfkb,Neutrophil,alpha5-integrin/ECM,36,151,78,0.23841059602649,2.40382040196342e-21,"Bcl3, Bhlhe40, Birc3, Btg1, Cd44",1.20191020098171e-19,6
+Fibroblast -> Neutrophil,Tnfa Signaling via Nfkb,Neutrophil,ICAM adhesion,48,135,78,0.355555555555556,2.24590270307796e-39,"Abca1, Bcl3, Bhlhe40, Birc3, Ccl4",1.12295135153898e-37,6
+Neutrophil -> Fibroblast,Apoptosis,Fibroblast,OSM,23,219,90,0.105022831050228,4.64461126956051e-11,"Bmp2, Casp4, Cd14, Cd44, Cdkn1a",4.64461126956051e-10,6
+Neutrophil -> Fibroblast,Apoptosis,Fibroblast,IL1,32,233,90,0.137339055793991,6.10947428631176e-19,"Atf3, Birc3, Bmp2, Btg3, Cflar",7.6368428578897e-18,6
+Neutrophil -> Fibroblast,Apoptosis,Fibroblast,VEGF,22,204,90,0.107843137254902,7.91492847633281e-11,"Atf3, Bmp2, Cd44, Cflar, Egr3",7.91492847633281e-10,6
+Neutrophil -> Fibroblast,Apoptosis,Fibroblast,alpha5-integrin/ECM,32,207,90,0.154589371980676,1.47723330520881e-20,"Atf3, Bcl2l11, Birc3, Btg2, Cd44",2.46205550868134e-19,6
+Neutrophil -> Fibroblast,Apoptosis,Fibroblast,Integrin/ECM,36,268,90,0.134328358208955,3.84898302546322e-21,"Atf3, Bcl2l11, Birc3, Btg2, Cd44",6.41497170910536e-20,6
+Neutrophil -> Fibroblast,Apoptosis,Fibroblast,S100A9-ALCAM,34,203,90,0.167487684729064,4.14472914036649e-23,"Atf3, Birc3, Btg2, Cd14, Cdkn1a",1.03618228509162e-21,6
+Neutrophil -> Fibroblast,Hypoxia,Fibroblast,OSM,27,219,101,0.123287671232877,2.52681846894299e-13,"Adm, Bhlhe40, Cdkn1a, Cp, Cxcr4",3.15852308617874e-12,6
+Neutrophil -> Fibroblast,Hypoxia,Fibroblast,IL1,28,233,101,0.120171673819742,1.58350424713046e-13,"Ackr3, Atf3, Cp, Cxcr4, Ddit4",9.89690154456537e-13,6
+Neutrophil -> Fibroblast,Hypoxia,Fibroblast,VEGF,32,204,101,0.156862745098039,5.18341797849138e-19,"Ackr3, Atf3, Bhlhe40, Cxcr4, Ddit4",1.29585449462285e-17,6
+Neutrophil -> Fibroblast,Hypoxia,Fibroblast,alpha5-integrin/ECM,37,207,101,0.178743961352657,3.05308331525238e-24,"Adm, Atf3, Bhlhe40, Btg1, Cdkn1a",7.63270828813095e-23,6
+Neutrophil -> Fibroblast,Hypoxia,Fibroblast,Integrin/ECM,38,268,101,0.141791044776119,3.73088089392907e-21,"Adm, Atf3, Bhlhe40, Btg1, Cdkn1a",6.41497170910536e-20,6
+Neutrophil -> Fibroblast,Hypoxia,Fibroblast,S100A9-ALCAM,35,203,101,0.172413793103448,2.6498801978923e-22,"Atf3, Bhlhe40, Btg1, Cdkn1a, Cxcr4",4.41646699648717e-21,6
+Neutrophil -> Fibroblast,Inflammatory Response,Fibroblast,OSM,18,219,78,0.0821917808219178,3.80924418329374e-08,"Abca1, Adm, Cd14, Cdkn1a, Hif1a",3.17437015274479e-07,6
+Neutrophil -> Fibroblast,Inflammatory Response,Fibroblast,IL1,37,233,78,0.158798283261803,3.2360561184454e-27,"Ccl2, Ccl7, Csf1, Cxcl10, Cxcl5",8.09014029611351e-26,6
+Neutrophil -> Fibroblast,Inflammatory Response,Fibroblast,VEGF,20,204,78,0.0980392156862745,2.39148851478306e-10,"Ccl2, Cxcl10, Gch1, Icam1, Il6",1.99290709565255e-09,6
+Neutrophil -> Fibroblast,Inflammatory Response,Fibroblast,alpha5-integrin/ECM,22,207,78,0.106280193236715,4.69840002150936e-12,"Abca1, Adm, Btg2, Ccr7, Cdkn1a",3.35600001536383e-11,6
+Neutrophil -> Fibroblast,Inflammatory Response,Fibroblast,Integrin/ECM,19,268,78,0.0708955223880597,1.63218155806411e-07,"Adm, Btg2, Cdkn1a, Hif1a, Icam1",6.80075649193378e-07,6
+Neutrophil -> Fibroblast,Inflammatory Response,Fibroblast,S100A9-ALCAM,21,203,78,0.103448275862069,2.7150586512214e-11,"Abca1, Btg2, Ccr7, Cd14, Cdkn1a",2.26254887601783e-10,6
+Neutrophil -> Fibroblast,Interferon Gamma Response,Fibroblast,OSM,30,219,97,0.136986301369863,1.22175336785897e-16,"Arid5b, B2m, Casp4, Cd274, Cdkn1a",3.05438341964742e-15,6
+Neutrophil -> Fibroblast,Interferon Gamma Response,Fibroblast,IL1,33,233,97,0.141630901287554,7.97675058749333e-19,"Ccl2, Ccl7, Cd274, Cxcl10, Fas",7.97675058749333e-18,6
+Neutrophil -> Fibroblast,Interferon Gamma Response,Fibroblast,VEGF,15,204,97,0.0735294117647059,4.14567130975246e-05,"Ccl2, Cd86, Cxcl10, Gch1, Icam1",0.000130834161696355,3.8832788439389
+Neutrophil -> Fibroblast,Interferon Gamma Response,Fibroblast,alpha5-integrin/ECM,17,207,97,0.0821256038647343,2.63221830673667e-06,"Arid5b, Btg1, Cdkn1a, Fas, Hif1a",8.77406102245555e-06,5.05679934945882
+Neutrophil -> Fibroblast,Interferon Gamma Response,Fibroblast,Integrin/ECM,19,268,97,0.0708955223880597,5.73628786835036e-06,"Arid5b, Btg1, Cdkn1a, Fas, Hif1a",1.91209595611679e-05,4.71849031699384
+Neutrophil -> Fibroblast,Interferon Gamma Response,Fibroblast,S100A9-ALCAM,21,203,97,0.103448275862069,2.23722217210256e-09,"Arid5b, Btg1, Cdkn1a, Fas, Hif1a",1.24290120672364e-08,6
+Neutrophil -> Fibroblast,Tnfa Signaling via Nfkb,Fibroblast,OSM,49,219,142,0.223744292237443,1.67329592741983e-29,"Abca1, Bcl3, Bcl6, Bhlhe40, Bmp2",8.36647963709917e-28,6
+Neutrophil -> Fibroblast,Tnfa Signaling via Nfkb,Fibroblast,IL1,90,233,142,0.386266094420601,2.77453915621839e-84,"Ackr3, Atf3, Bcl3, Birc2, Birc3",1.38726957810919e-82,6
+Neutrophil -> Fibroblast,Tnfa Signaling via Nfkb,Fibroblast,VEGF,65,204,142,0.318627450980392,2.95120691991801e-51,"Ackr3, Atf3, Bcl6, Bhlhe40, Bmp2",1.47560345995901e-49,6
+Neutrophil -> Fibroblast,Tnfa Signaling via Nfkb,Fibroblast,alpha5-integrin/ECM,66,207,142,0.318840579710145,3.59031563620386e-52,"Abca1, Atf3, Bcl3, Bcl6, Bhlhe40",1.79515781810193e-50,6
+Neutrophil -> Fibroblast,Tnfa Signaling via Nfkb,Fibroblast,Integrin/ECM,68,268,142,0.253731343283582,1.75559498008518e-46,"Atf3, Bcl3, Bcl6, Bhlhe40, Birc3",8.77797490042588e-45,6
+Neutrophil -> Fibroblast,Tnfa Signaling via Nfkb,Fibroblast,S100A9-ALCAM,68,203,142,0.334975369458128,1.18390716554801e-55,"Abca1, Atf3, Bcl3, Bcl6, Bhlhe40",5.91953582774003e-54,6

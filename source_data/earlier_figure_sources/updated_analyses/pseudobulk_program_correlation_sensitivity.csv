@@ -1,0 +1,113 @@
+program,NGenes,Direction,PValue,FDR,population,contrast,n_donors,correlation_method,Correlation
+OSM_inflammation,9,Down,2.22014405585187e-09,3.10820167819261e-08,Resolved,alpha_interaction,4,Fixed 0.01,
+Phagocytosis,10,Down,5.34226682427209e-09,3.73958677699046e-08,Resolved,alpha_interaction,4,Fixed 0.01,
+CXCR4_aging_retention,6,Down,1.29166095964777e-08,6.02775114502293e-08,Resolved,alpha_interaction,4,Fixed 0.01,
+Chemotaxis,8,Down,6.52115771294497e-08,2.28240519953074e-07,Resolved,alpha_interaction,4,Fixed 0.01,
+ER_stress,7,Down,2.82478894421087e-05,7.90940904379043e-05,Resolved,alpha_interaction,4,Fixed 0.01,
+Immature_granulopoiesis,8,Up,7.66703214670792e-05,0.000178897416756518,Resolved,alpha_interaction,4,Fixed 0.01,
+Survival_antiapoptosis,8,Down,0.00111580777781447,0.00223161555562894,Resolved,alpha_interaction,4,Fixed 0.01,
+Integrin_adhesion,6,Down,0.0027086062030526,0.00474006085534206,Resolved,alpha_interaction,4,Fixed 0.01,
+Oxidative_burst,7,Down,0.0329331599207515,0.0512293598767246,Resolved,alpha_interaction,4,Fixed 0.01,
+Degranulation,9,Up,0.0368182413916949,0.0515455379483728,Resolved,alpha_interaction,4,Fixed 0.01,
+Hypoxia_glycolysis,8,Down,0.0534702501513544,0.0680530456471784,Resolved,alpha_interaction,4,Fixed 0.01,
+NETosis,9,Down,0.462219375661836,0.539255938272142,Resolved,alpha_interaction,4,Fixed 0.01,
+Proliferation_stress,5,Up,0.811851667558859,0.874301795832618,Resolved,alpha_interaction,4,Fixed 0.01,
+Type_I_interferon,9,Down,0.955999722734946,0.955999722734946,Resolved,alpha_interaction,4,Fixed 0.01,
+OSM_inflammation,9,Down,0.00520700950044591,0.0338953698174474,Resolved,alpha_interaction,4,Estimated within gene set,0.235304131949072
+ER_stress,7,Down,0.00828981267818134,0.0338953698174474,Resolved,alpha_interaction,4,Estimated within gene set,0.106656253744014
+CXCR4_aging_retention,6,Down,0.0107097448714363,0.0338953698174474,Resolved,alpha_interaction,4,Estimated within gene set,0.461203508347502
+Phagocytosis,10,Down,0.0119649690996289,0.0338953698174474,Resolved,alpha_interaction,4,Estimated within gene set,0.308386694276247
+Integrin_adhesion,6,Down,0.0132787016574235,0.0338953698174474,Resolved,alpha_interaction,4,Estimated within gene set,-0.0772945156335327
+Chemotaxis,8,Down,0.0145265870646203,0.0338953698174474,Resolved,alpha_interaction,4,Estimated within gene set,0.347809579340647
+Survival_antiapoptosis,8,Down,0.0386439303412904,0.0772878606825809,Resolved,alpha_interaction,4,Estimated within gene set,0.134731444895446
+Hypoxia_glycolysis,8,Down,0.0768423481579663,0.127995041027715,Resolved,alpha_interaction,4,Estimated within gene set,-0.0320169631954826
+Immature_granulopoiesis,8,Up,0.0822825263749596,0.127995041027715,Resolved,alpha_interaction,4,Estimated within gene set,0.483012958941594
+Oxidative_burst,7,Down,0.257460407916163,0.360444571082628,Resolved,alpha_interaction,4,Estimated within gene set,0.383406613510486
+Degranulation,9,Up,0.335267434698383,0.426704007797942,Resolved,alpha_interaction,4,Estimated within gene set,0.443131812895962
+NETosis,9,Down,0.654063671835929,0.763074283808584,Resolved,alpha_interaction,4,Estimated within gene set,0.214887444421054
+Proliferation_stress,5,Up,0.821942723086633,0.885169086400989,Resolved,alpha_interaction,4,Estimated within gene set,0.0243982183815338
+Type_I_interferon,9,Down,0.960472277247616,0.960472277247616,Resolved,alpha_interaction,4,Estimated within gene set,0.0332814916776749
+CXCR4_aging_retention,6,Down,4.39510495029965e-11,6.15314693041951e-10,Resolved,alpha_in_UC,5,Fixed 0.01,
+Chemotaxis,8,Down,4.43580353292547e-07,3.10506247304783e-06,Resolved,alpha_in_UC,5,Fixed 0.01,
+OSM_inflammation,9,Down,2.74518639772228e-06,1.28108698560373e-05,Resolved,alpha_in_UC,5,Fixed 0.01,
+Immature_granulopoiesis,8,Up,2.78197621723759e-05,9.73691676033157e-05,Resolved,alpha_in_UC,5,Fixed 0.01,
+ER_stress,7,Down,0.000395096719188546,0.00110627081372793,Resolved,alpha_in_UC,5,Fixed 0.01,
+Degranulation,9,Up,0.000853465201611962,0.00199141880376125,Resolved,alpha_in_UC,5,Fixed 0.01,
+Phagocytosis,10,Down,0.0156123005253851,0.0312246010507703,Resolved,alpha_in_UC,5,Fixed 0.01,
+NETosis,9,Up,0.059655825283674,0.10439769424643,Resolved,alpha_in_UC,5,Fixed 0.01,
+Hypoxia_glycolysis,8,Up,0.209631042459422,0.326092732714656,Resolved,alpha_in_UC,5,Fixed 0.01,
+Survival_antiapoptosis,8,Down,0.347700264201458,0.486780369882041,Resolved,alpha_in_UC,5,Fixed 0.01,
+Integrin_adhesion,6,Down,0.623561238462955,0.793623394407397,Resolved,alpha_in_UC,5,Fixed 0.01,
+Proliferation_stress,5,Down,0.936694316742104,0.978771682879809,Resolved,alpha_in_UC,5,Fixed 0.01,
+Type_I_interferon,10,Up,0.965326085145871,0.978771682879809,Resolved,alpha_in_UC,5,Fixed 0.01,
+Oxidative_burst,7,Up,0.978771682879809,0.978771682879809,Resolved,alpha_in_UC,5,Fixed 0.01,
+ER_stress,7,Down,0.0217956003124071,0.214755460006665,Resolved,alpha_in_UC,5,Estimated within gene set,-0.0247501995034358
+CXCR4_aging_retention,6,Down,0.0306793514295236,0.214755460006665,Resolved,alpha_in_UC,5,Estimated within gene set,0.652217394841472
+Chemotaxis,8,Down,0.0611909450942592,0.255020028528974,Resolved,alpha_in_UC,5,Estimated within gene set,0.442265127924653
+OSM_inflammation,9,Down,0.0887755863701886,0.255020028528974,Resolved,alpha_in_UC,5,Estimated within gene set,0.467988310430943
+Immature_granulopoiesis,8,Up,0.0958821978210311,0.255020028528974,Resolved,alpha_in_UC,5,Estimated within gene set,0.428032434272001
+NETosis,9,Up,0.121931422557213,0.255020028528974,Resolved,alpha_in_UC,5,Estimated within gene set,-0.0853503204826739
+Degranulation,9,Up,0.127510014264487,0.255020028528974,Resolved,alpha_in_UC,5,Estimated within gene set,0.283228866793819
+Phagocytosis,10,Down,0.162765257979732,0.284839201464531,Resolved,alpha_in_UC,5,Estimated within gene set,0.131613847238424
+Hypoxia_glycolysis,8,Up,0.40865499395198,0.635685546147525,Resolved,alpha_in_UC,5,Estimated within gene set,0.140172182706282
+Survival_antiapoptosis,8,Down,0.478455950057529,0.669838330080541,Resolved,alpha_in_UC,5,Estimated within gene set,0.0781887130379949
+Integrin_adhesion,6,Down,0.641440081213328,0.816378285180599,Resolved,alpha_in_UC,5,Estimated within gene set,-0.110104460929233
+Proliferation_stress,5,Down,0.956496882357803,0.983032155330419,Resolved,alpha_in_UC,5,Estimated within gene set,0.236890168597595
+Type_I_interferon,10,Up,0.975416279794794,0.983032155330419,Resolved,alpha_in_UC,5,Estimated within gene set,0.101862145590776
+Oxidative_burst,7,Up,0.983032155330419,0.983032155330419,Resolved,alpha_in_UC,5,Estimated within gene set,0.0776998255524472
+OSM_inflammation,9,Down,1.40492314666266e-11,1.96689240532772e-10,All_annotated,alpha_interaction,4,Fixed 0.01,
+Phagocytosis,10,Down,1.07822867055144e-10,7.54760069386011e-10,All_annotated,alpha_interaction,4,Fixed 0.01,
+CXCR4_aging_retention,6,Down,9.35044449523656e-10,4.36354076444373e-09,All_annotated,alpha_interaction,4,Fixed 0.01,
+Chemotaxis,8,Down,1.37385228288318e-09,4.80848299009112e-09,All_annotated,alpha_interaction,4,Fixed 0.01,
+ER_stress,7,Down,2.09657874538987e-06,5.87042048709163e-06,All_annotated,alpha_interaction,4,Fixed 0.01,
+Survival_antiapoptosis,8,Down,0.000153403868164108,0.000357942359049585,All_annotated,alpha_interaction,4,Fixed 0.01,
+Immature_granulopoiesis,8,Up,0.000390375006520038,0.000780750013040076,All_annotated,alpha_interaction,4,Fixed 0.01,
+Integrin_adhesion,6,Down,0.00105872867999169,0.00185277518998545,All_annotated,alpha_interaction,4,Fixed 0.01,
+Oxidative_burst,7,Down,0.0118702139684173,0.0184647772842047,All_annotated,alpha_interaction,4,Fixed 0.01,
+Degranulation,9,Up,0.119408177965725,0.167171449152015,All_annotated,alpha_interaction,4,Fixed 0.01,
+Hypoxia_glycolysis,9,Down,0.174157723675059,0.221655284677348,All_annotated,alpha_interaction,4,Fixed 0.01,
+NETosis,10,Down,0.243494695159679,0.284077144352959,All_annotated,alpha_interaction,4,Fixed 0.01,
+Proliferation_stress,6,Down,0.897306304927655,0.920750078768404,All_annotated,alpha_interaction,4,Fixed 0.01,
+Type_I_interferon,10,Down,0.920750078768404,0.920750078768404,All_annotated,alpha_interaction,4,Fixed 0.01,
+OSM_inflammation,9,Down,0.000710957459831838,0.00605348289351524,All_annotated,alpha_interaction,4,Estimated within gene set,0.119130735797402
+ER_stress,7,Down,0.000864783270502178,0.00605348289351524,All_annotated,alpha_interaction,4,Estimated within gene set,-0.0117683112714289
+CXCR4_aging_retention,6,Down,0.00161339051310584,0.00752915572782726,All_annotated,alpha_interaction,4,Estimated within gene set,0.198657889716071
+Phagocytosis,10,Down,0.00272588757331789,0.00954060650661262,All_annotated,alpha_interaction,4,Estimated within gene set,0.191331560291855
+Survival_antiapoptosis,8,Down,0.00353003514061603,0.00988409839372488,All_annotated,alpha_interaction,4,Estimated within gene set,-0.0270774815084763
+Chemotaxis,8,Down,0.00456938517594224,0.0106618987438652,All_annotated,alpha_interaction,4,Estimated within gene set,0.257036072879552
+Integrin_adhesion,6,Down,0.00844584054442238,0.0168916810888448,All_annotated,alpha_interaction,4,Estimated within gene set,-0.104433201469636
+Oxidative_burst,7,Down,0.0774910098074473,0.135609267163033,All_annotated,alpha_interaction,4,Estimated within gene set,0.115125400997226
+Immature_granulopoiesis,8,Up,0.124807499828535,0.194144999733276,All_annotated,alpha_interaction,4,Estimated within gene set,0.528749533275944
+Hypoxia_glycolysis,9,Down,0.191491096269748,0.268087534777647,All_annotated,alpha_interaction,4,Estimated within gene set,-0.0315132628095437
+NETosis,10,Down,0.305594486172471,0.388938436946781,All_annotated,alpha_interaction,4,Estimated within gene set,0.0285177874346521
+Degranulation,9,Up,0.459196647063668,0.53572942157428,All_annotated,alpha_interaction,4,Estimated within gene set,0.422747926144881
+Proliferation_stress,6,Down,0.899042704527075,0.92765872999733,All_annotated,alpha_interaction,4,Estimated within gene set,0.00541664769764072
+Type_I_interferon,10,Down,0.92765872999733,0.92765872999733,All_annotated,alpha_interaction,4,Estimated within gene set,0.0264185488618269
+CXCR4_aging_retention,6,Down,3.86538978952135e-09,5.41154570532989e-08,All_annotated,alpha_in_UC,5,Fixed 0.01,
+Chemotaxis,8,Down,2.22421237001056e-07,1.37540140689171e-06,All_annotated,alpha_in_UC,5,Fixed 0.01,
+OSM_inflammation,9,Down,2.94728872905367e-07,1.37540140689171e-06,All_annotated,alpha_in_UC,5,Fixed 0.01,
+ER_stress,7,Down,4.52401714848454e-05,0.000132017477123843,All_annotated,alpha_in_UC,5,Fixed 0.01,
+Immature_granulopoiesis,8,Up,4.71490989728011e-05,0.000132017477123843,All_annotated,alpha_in_UC,5,Fixed 0.01,
+Phagocytosis,10,Down,0.000286789952943271,0.000669176556867632,All_annotated,alpha_in_UC,5,Fixed 0.01,
+Degranulation,9,Up,0.00335772689021343,0.00671545378042686,All_annotated,alpha_in_UC,5,Fixed 0.01,
+Integrin_adhesion,6,Down,0.0851264182141172,0.148971231874705,All_annotated,alpha_in_UC,5,Fixed 0.01,
+Survival_antiapoptosis,8,Down,0.120752427448025,0.187837109363595,All_annotated,alpha_in_UC,5,Fixed 0.01,
+Oxidative_burst,7,Down,0.296034276058151,0.414447986481412,All_annotated,alpha_in_UC,5,Fixed 0.01,
+NETosis,11,Up,0.635893431303419,0.74533363044672,All_annotated,alpha_in_UC,5,Fixed 0.01,
+Hypoxia_glycolysis,9,Up,0.63885739752576,0.74533363044672,All_annotated,alpha_in_UC,5,Fixed 0.01,
+Type_I_interferon,12,Down,0.800625955392767,0.862212567346057,All_annotated,alpha_in_UC,5,Fixed 0.01,
+Proliferation_stress,6,Up,0.990820217781633,0.990820217781633,All_annotated,alpha_in_UC,5,Fixed 0.01,
+ER_stress,7,Down,0.0469334249780402,0.234662020264786,All_annotated,alpha_in_UC,5,Estimated within gene set,0.198320837718999
+CXCR4_aging_retention,6,Down,0.0534064828677001,0.234662020264786,All_annotated,alpha_in_UC,5,Estimated within gene set,0.791222016899724
+Chemotaxis,8,Down,0.0648266490525237,0.234662020264786,All_annotated,alpha_in_UC,5,Estimated within gene set,0.499567045742895
+Degranulation,9,Up,0.0670462915042245,0.234662020264786,All_annotated,alpha_in_UC,5,Estimated within gene set,0.0614483584351897
+Immature_granulopoiesis,8,Up,0.0917852400398985,0.242308245957749,All_annotated,alpha_in_UC,5,Estimated within gene set,0.376463097855004
+OSM_inflammation,9,Down,0.10384639112475,0.242308245957749,All_annotated,alpha_in_UC,5,Estimated within gene set,0.681626142872029
+Phagocytosis,10,Down,0.164161604402106,0.328323208804212,All_annotated,alpha_in_UC,5,Estimated within gene set,0.439868732443132
+Survival_antiapoptosis,8,Down,0.234223192827878,0.379499983583488,All_annotated,alpha_in_UC,5,Estimated within gene set,0.0450476094536039
+Integrin_adhesion,6,Down,0.243964275160813,0.379499983583488,All_annotated,alpha_in_UC,5,Estimated within gene set,0.134110015069089
+Oxidative_burst,7,Down,0.560699954027054,0.784979935637875,All_annotated,alpha_in_UC,5,Estimated within gene set,0.313835330808411
+NETosis,11,Up,0.665891711666815,0.847498542121401,All_annotated,alpha_in_UC,5,Estimated within gene set,0.0138701697983159
+Type_I_interferon,12,Down,0.803343856378912,0.865539777736097,All_annotated,alpha_in_UC,5,Estimated within gene set,-0.0125414002511075
+Hypoxia_glycolysis,9,Up,0.803715507897804,0.865539777736097,All_annotated,alpha_in_UC,5,Estimated within gene set,0.29677801623154
+Proliferation_stress,6,Up,0.994070803674589,0.994070803674589,All_annotated,alpha_in_UC,5,Estimated within gene set,0.244848106590593

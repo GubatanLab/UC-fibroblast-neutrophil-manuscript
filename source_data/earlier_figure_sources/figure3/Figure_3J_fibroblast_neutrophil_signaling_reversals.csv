@@ -1,0 +1,25 @@
+fibroblast_subtype,neutrophil_state,ligand,receptor,pathway_name,reversal_strength,route_label,contrast_id,consensus_change,contrast_label
+COL1A1+ inflammatory ECM fibroblast,CXCR4 neutrophil,C5,C5AR1,COMPLEMENT,0.791666666666667,[ECM-FB] C5 -> C5AR1 | CXCR4,UF_vs_CF,0.791666666666667,"UC vs
+control"
+COL1A1+ inflammatory ECM fibroblast,OSM neutrophil,COL1A2,CD44,COLLAGEN,0.791666666666667,[ECM-FB] COL1A2 -> CD44 | OSM,UF_vs_CF,-0.791666666666667,"UC vs
+control"
+CCN1/CCN2+ activated fibroblast,CXCR4 neutrophil,CXCL12,CXCR4,CXCL,0.65,[CCN-FB] CXCL12 -> CXCR4 | CXCR4,UF_vs_CF,0.65,"UC vs
+control"
+COL1A1+ inflammatory ECM fibroblast,CXCR4 neutrophil,FN1,CD44,FN1,0.642857142857143,[ECM-FB] FN1 -> CD44 | CXCR4,UF_vs_CF,-0.642857142857143,"UC vs
+control"
+CCN1/CCN2+ activated fibroblast,MX1/ISG neutrophil,IL1B,IL1R2,IL1,0.454166666666667,[CCN-FB] IL1B -> IL1R2 | MX1/ISG,UF_vs_CF,-0.454166666666667,"UC vs
+control"
+COL1A1+ inflammatory ECM fibroblast,PADI4 neutrophil,CEACAM1,CEACAM8,CEACAM,0.40625,[ECM-FB] CEACAM1 -> CEACAM8 | PADI4,UF_vs_CF,0.40625,"UC vs
+control"
+COL1A1+ inflammatory ECM fibroblast,CXCR4 neutrophil,C5,C5AR1,COMPLEMENT,0.791666666666667,[ECM-FB] C5 -> C5AR1 | CXCR4,UA5_vs_UF,-0.791666666666667,"α5β1i
+vs UC"
+COL1A1+ inflammatory ECM fibroblast,OSM neutrophil,COL1A2,CD44,COLLAGEN,0.791666666666667,[ECM-FB] COL1A2 -> CD44 | OSM,UA5_vs_UF,0.819444444444445,"α5β1i
+vs UC"
+CCN1/CCN2+ activated fibroblast,CXCR4 neutrophil,CXCL12,CXCR4,CXCL,0.65,[CCN-FB] CXCL12 -> CXCR4 | CXCR4,UA5_vs_UF,-0.65,"α5β1i
+vs UC"
+COL1A1+ inflammatory ECM fibroblast,CXCR4 neutrophil,FN1,CD44,FN1,0.642857142857143,[ECM-FB] FN1 -> CD44 | CXCR4,UA5_vs_UF,0.666666666666667,"α5β1i
+vs UC"
+CCN1/CCN2+ activated fibroblast,MX1/ISG neutrophil,IL1B,IL1R2,IL1,0.454166666666667,[CCN-FB] IL1B -> IL1R2 | MX1/ISG,UA5_vs_UF,0.617538759689922,"α5β1i
+vs UC"
+COL1A1+ inflammatory ECM fibroblast,PADI4 neutrophil,CEACAM1,CEACAM8,CEACAM,0.40625,[ECM-FB] CEACAM1 -> CEACAM8 | PADI4,UA5_vs_UF,-0.40625,"α5β1i
+vs UC"
