@@ -1,22 +1,18 @@
-# Prepared v1.0.1 update
+# Release v1.0.1 — September 21, 2026
 
-Status: unpublished local review candidate. Base: published GitHub commit `b50499b207d16c29d3cb67bed7d20d8e6d959232`, release v1.0.0.
+This editorial update synchronizes the repository with the final September 21 manuscript figure set.
 
-## Changes
+- Updated all seven main and twelve supplementary figures, matching Extended Data aliases, combined PDFs and legends. Panel letters, internal references, small labels and spacing have been corrected.
+- Added the author-provided BioRender graphical abstract with its supplied publication attribution and author-confirmed open-access license.
+- Added the 54-entry reference audit, author-supplied ethics approval identifiers, and instructions for requesting CODEX, human coculture and mouse colitis single-cell datasets from the corresponding author.
+- Corrected two CODEX reagent-table typographical errors, case-sensitive documentation links, provenance and file checksums.
 
-- Replaced seven main and twelve supplementary figure PDFs and previews with the final reviewed versions, retaining matching Extended Data 1–10 aliases and rebuilding their combined bundle.
-- Standardized panel letters, corrected internal references and measurement labels, enlarged small labels and improved spacing. Numerical data and inferential results are unchanged.
-- Synchronized figure legends and added the 54-entry reference audit, including the verified MultiNicheNet preprint DOI.
-- Added author-supplied ethics approval identifiers and clarified access to CODEX, human coculture and mouse colitis single-cell datasets through the corresponding author.
-- Added the author-provided BioRender graphical abstract to the local candidate. Its author-supplied citation is included; the citation URL returned HTTP 404 during the public check and needs confirmation before release.
-- Corrected case-sensitive data-access links and refreshed file provenance/checksums.
+Analysis code, numerical source data, configuration, environments and scientific results are unchanged. The prior 17 statistical checks remain the v1.0.0 verification; they were not rerun for this editorial update. All 583 manifest entries passed file-integrity checks. Original code remains MIT-licensed and original data/figures CC BY 4.0, subject to third-party terms and attribution.
 
-## Unchanged materials and interpretation
+BioRender credit: Created in BioRender. Gubatan, J. (2026) https://BioRender.com/wml1goc. The author confirmed the open-access publication license. Public checks on September 21 returned HTTP 404 for that citation URL; the supplied credit is preserved and link accessibility remains unresolved.
 
-Original analysis scripts, numerical source data, configuration, environments and scientific results remain unchanged. The CODEX reagent table has two editorial corrections (OriGene capitalization and an unmatched parenthesis in the CD31 clone name). This is an editorial update. Existing assay-identity, histology-calibration and experimental-design qualifications remain documented. Original code remains MIT-licensed and original data/figures CC BY 4.0, subject to third-party terms and attribution.
+Existing histology-calibration, flow-channel-identity and experimental-design qualifications remain in the documentation. The unpublished manuscript files and editable BioRender PowerPoint are not distributed in this analysis-and-figure archive.
 
-The unpublished manuscript DOCX files and editable BioRender PowerPoint are not included in this analysis-and-figure archive. The full final submission package remains separate. No remote branch, release, tag or Zenodo record has been created for this candidate.
+GitHub release: https://github.com/GubatanLab/UC-fibroblast-neutrophil-manuscript/releases/tag/v1.0.1
 
-## DOI status
-
-The DOI https://doi.org/10.5281/zenodo.22881923 identifies v1.0.0 only. v1.0.1 requires a new version of the existing Zenodo record. No new DOI has been assigned or invented.
+The DOI https://doi.org/10.5281/zenodo.22881923 identifies v1.0.0. This GitHub update does not assign a new Zenodo DOI or change that historical archive.

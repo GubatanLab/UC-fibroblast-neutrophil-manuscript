@@ -1,5 +1,5 @@
 {
-  "status": "unpublished_local_candidate",
+  "status": "github_release_without_new_zenodo_deposit",
   "version": "1.0.1",
   "doi": null,
   "published_previous_version": {
@@ -12,5 +12,6 @@
       "original_data_and_figures": "CC-BY-4.0"
     }
   },
-  "concept_doi": "10.5281/zenodo.22881922"
+  "concept_doi": "10.5281/zenodo.22881922",
+  "github_release": "https://github.com/GubatanLab/UC-fibroblast-neutrophil-manuscript/releases/tag/v1.0.1"
 }

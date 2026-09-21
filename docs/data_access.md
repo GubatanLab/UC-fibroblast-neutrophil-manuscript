@@ -16,4 +16,4 @@ The underlying CODEX, human fibroblast–neutrophil coculture and mouse colitis 
 
 ## Versioned archive
 
-Published v1.0.0: https://doi.org/10.5281/zenodo.22881923. All-versions record: https://doi.org/10.5281/zenodo.22881922. This local v1.0.1 candidate has not been published and has no assigned version DOI. The existing manuscript availability statement remains accurate for v1.0.0 until the update is released.
+Published v1.0.0: https://doi.org/10.5281/zenodo.22881923. All-versions record: https://doi.org/10.5281/zenodo.22881922. The current GitHub release is v1.0.1 (https://github.com/GubatanLab/UC-fibroblast-neutrophil-manuscript/releases/tag/v1.0.1). No version-specific Zenodo DOI has been assigned to this GitHub update. The v1.0.0 DOI continues to identify the previous archived files.

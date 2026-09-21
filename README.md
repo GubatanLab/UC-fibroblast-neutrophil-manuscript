@@ -1,6 +1,6 @@
 # Fibroblast regulation of neutrophils in ulcerative colitis
 
-Analysis code, derived source tables and canonical figures accompanying **Single-cell profiling reveals stromal niche and α5β1 blockade regulation of neutrophil phenotypes in ulcerative colitis**. This is the prepared, unpublished v1.0.1 update to the final September 21, 2026 manuscript and figure set.
+Analysis code, derived source tables and canonical figures accompanying **Single-cell profiling reveals stromal niche and α5β1 blockade regulation of neutrophil phenotypes in ulcerative colitis**. Release v1.0.1 updates the repository to the final September 21, 2026 manuscript and figure set.
 
 The study integrates human colonic single-cell transcriptomics, CODEX spatial protein profiling, fibroblast–neutrophil coculture, DSS colitis experiments and independent human datasets. The epithelial analyses describe shared reductions in chemokine programs and distinct barrier-associated and regenerative expression patterns after FAP-lineage ablation and α5β1-directed treatment. Protein, NET-associated elastase and RNA endpoints are distinguished throughout.
 
@@ -52,4 +52,4 @@ Biological-sample inventories and assay-specific denominators define the analysi
 
 ## Citation and reuse
 
-See [CITATION.cff](CITATION.cff). The published v1.0.0 DOI is [10.5281/zenodo.22881923](https://doi.org/10.5281/zenodo.22881923); it does not identify this unpublished v1.0.1 candidate. A new version DOI will be added after preparation of the corresponding Zenodo version. The manuscript itself remains unpublished. The original code is licensed under [MIT](LICENSE-CODE), and original data tables and figures under [CC BY 4.0](LICENSE-DATA.md). Third-party materials retain their original terms. See [Licensing](LICENSE.md).
+See [CITATION.cff](CITATION.cff). Current GitHub release: [v1.0.1](https://github.com/GubatanLab/UC-fibroblast-neutrophil-manuscript/releases/tag/v1.0.1). The archived v1.0.0 DOI is [10.5281/zenodo.22881923](https://doi.org/10.5281/zenodo.22881923); it identifies the previous release. No Zenodo DOI has been assigned to v1.0.1. The manuscript itself remains unpublished. The original code is licensed under [MIT](LICENSE-CODE), and original data tables and figures under [CC BY 4.0](LICENSE-DATA.md). Third-party materials retain their original terms. See [Licensing](LICENSE.md).

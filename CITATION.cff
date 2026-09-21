@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "Unpublished v1.0.1 review candidate. Use the published v1.0.0 DOI until a new release DOI is assigned; see README."
+message: "Please cite this versioned GitHub software/data release and the associated manuscript when available. The v1.0.0 DOI identifies the previous release."
 title: "Fibroblast regulation of neutrophils in ulcerative colitis: analysis code, source data and figures"
 type: software
 authors:
@@ -50,6 +50,8 @@ authors:
     affiliation: "Division of Gastroenterology and Hepatology, Mayo Clinic, Jacksonville, Florida, USA; Division of Gastroenterology and Hepatology, Stanford University School of Medicine, Stanford, California, USA"
 repository-code: "https://github.com/GubatanLab/UC-fibroblast-neutrophil-manuscript"
 version: "1.0.1"
+date-released: "2026-09-21"
+url: "https://github.com/GubatanLab/UC-fibroblast-neutrophil-manuscript/releases/tag/v1.0.1"
 license:
   - MIT
   - CC-BY-4.0

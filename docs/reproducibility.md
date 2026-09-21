@@ -31,6 +31,6 @@ All deposited canonical figure PDFs are byte-identical to the manuscript workspa
 
 The originating source scripts have been parsed for syntax where a local interpreter is available. They have not all been executed end to end in a fresh environment; raw inputs and some model resources are external. Package requirements for the executable deposited-table workflow are separate from the larger source-workflow dependency list.
 
-## v1.0.1 preparation
+## v1.0.1 editorial update
 
 This update changes presentation and documentation. Every file under `analyses/`, `source_data/`, `config/`, `environment/` and `tools/` is retained byte for byte from the published repository commit. The CODEX reagent CSV and companion DOCX receive two editorial corrections; other table files are unchanged. The final main and supplementary PDFs and PNGs are exact copies of the reviewed submission assets; Extended Data 1–10 are identical aliases of Supplementary Figures 1–10. The Extended Data bundle uses the first ten labeled supplementary pages. Repository file-integrity and figure-completeness checks are rerun; the previously passed 17 statistical checks are retained as historical verification, not represented as newly executed.
