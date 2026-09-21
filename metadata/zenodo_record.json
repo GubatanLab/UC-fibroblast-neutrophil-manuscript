@@ -1,0 +1,10 @@
+{
+  "doi": "10.5281/zenodo.22881923",
+  "url": "https://zenodo.org/records/22881923",
+  "version": "1.0.0",
+  "repository": "https://github.com/GubatanLab/UC-fibroblast-neutrophil-manuscript",
+  "licenses": {
+    "original_code": "MIT",
+    "original_data_and_figures": "CC-BY-4.0"
+  }
+}
