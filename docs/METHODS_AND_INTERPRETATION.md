@@ -4,6 +4,10 @@
 
 Human discovery displays contain 5,187 fibroblasts and 38,684 neutrophils. Paired state analyses use 13 fibroblast and 17 neutrophil biopsy pairs, and receptor-expression analyses use 10 biopsies. CODEX comprises 24 different patients: 6 controls, 9 noninflamed UC and 9 inflamed UC. Eligibility differs by endpoint; the analytical-populations table records the manuscript denominators. Patient/sample summaries are the inferential units where specified. Cells, events and overlapping neighborhoods are not independent biological replicates.
 
+## Ethics approvals
+
+Collection of human blood and biopsies for coculture, single-cell RNA sequencing and CODEX analyses was approved by Stanford University (IRB 28437, 60958 and 52317). Mouse procedures were approved by the Stanford University IACUC (22000 and 27715) and Mayo Clinic IACUC (A00008640-26). These identifiers reproduce the author-supplied final Methods. No consent or waiver terms are inferred from an approval number.
+
 ## Human transcriptomic programs
 
 The discovery atlas is available at SCP3755 and described by Eshghi, Gubatan, Mazrooei and colleagues (Front Immunol 2026;17:1705328; https://doi.org/10.3389/fimmu.2026.1705328). Figure 1D uses paired stromal-program summaries with Wilcoxon tests and BH correction. Figure 1E uses matched-patient neutrophil programs excluding naming markers, with Friedman tests and BH correction across nine programs. Gene membership, patient-state summaries and threshold sensitivity are retained in source_data/figure_01/. Original cell-weighted summaries and intermediate tables are separately identifiable by filename; they are not interchangeable with current patient-weighted panels.
@@ -33,3 +37,9 @@ Figure 6A,B retains existing epithelial RNA-program estimates; counts were aggre
 TAURUS and SCP3818 provide independent human expression/spatial evidence. Transcript detection does not establish assembled receptors; two SCP3818 sections represent one donor. Ligand–receptor and ligand–target scores identify candidate networks, not measured signaling flux. Tests use endpoint-specific multiple-testing families and assay-specific denominators. Source units, contrast directions and missing-value codes are retained. File names containing pseudotime refer to computational ordering of cells and do not denote longitudinal animal sampling.
 
 The included verification script checks selected point estimates and P/q values. It does not create new manuscript analyses or validate all mechanistic interpretations. Exact source-data transformations predating this package are recorded in metadata/source_provenance.csv where available.
+
+## Verified bibliography and final figure labels
+
+The final manuscript reference audit covers 36 main and 18 supplementary entries, including 39 distinct verified cited DOIs. The two Broad datasets remain accession citations because dataset-specific DOIs were not identified. The manuscript archive DOI was checked separately. Full citation details and verification sources are in `metadata/reference_verification_2026-09-21.csv`. MultiNicheNet is cited as a preprint (https://doi.org/10.1101/2023.06.13.544751), alongside software version 2.1.0.
+
+Visible panel letters use uppercase throughout the corrected figures. Figure 3D is labeled NET-associated elastase activity; Figure 7C describes receptor components rather than measured receptor availability. Typography and label changes do not alter plotted measurements or statistical results. Histology scale calibration and field identities and the MX1/PADI4 flow-channel assignments still require their original acquisition records; provisional qualifications are retained in the legends.
