@@ -1,0 +1,91 @@
+{
+  "title": "Fibroblast regulation of neutrophils in ulcerative colitis: analysis code, source data and figures",
+  "version": "1.0.0",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "mit",
+  "language": "eng",
+  "description": "Version 1.0.0 of the analysis code, derived source data and canonical figures for the manuscript \"Single-cell profiling reveals stromal niche and α5β1 blockade regulation of neutrophil phenotypes in ulcerative colitis.\" The release includes human single-cell and CODEX analyses, fibroblast–neutrophil coculture, DSS colitis interventions, epithelial response programs and independent human validation. It contains 347 data tables, seven main and twelve supplementary figures, two supplementary tables, Methods, data dictionaries, source workflows and a runnable verification of 17 selected reported statistics. Raw sequencing reads, FCS files, whole-slide images, full analysis objects and original model-fitting resources are held separately; upstream workflows require external inputs and configuration. The repository documents the scope and limits of inference. Original code is MIT-licensed; original data tables and figures are CC BY 4.0. Third-party material retains its original terms.",
+  "creators": [
+    {
+      "name": "Zhou, Yuxi",
+      "affiliation": "Division of Gastroenterology and Hepatology, Mayo Clinic, Jacksonville, Florida, USA"
+    },
+    {
+      "name": "Canas, Jorge",
+      "affiliation": "Division of Gastroenterology and Hepatology, Mayo Clinic, Jacksonville, Florida, USA"
+    },
+    {
+      "name": "Ye, Jiayu",
+      "affiliation": "Division of Gastroenterology and Hepatology, Stanford University School of Medicine, Stanford, California, USA"
+    },
+    {
+      "name": "Hoang, Jacqueline N.",
+      "affiliation": "Division of Gastroenterology and Hepatology, Stanford University School of Medicine, Stanford, California, USA"
+    },
+    {
+      "name": "Ferkel-Soltau, Sonia",
+      "affiliation": "Division of Gastroenterology and Hepatology, Stanford University School of Medicine, Stanford, California, USA"
+    },
+    {
+      "name": "Holman, Derek R.",
+      "affiliation": "Division of Gastroenterology and Hepatology, Stanford University School of Medicine, Stanford, California, USA"
+    },
+    {
+      "name": "Sojwal, Raoul",
+      "affiliation": "Division of Gastroenterology and Hepatology, Stanford University School of Medicine, Stanford, California, USA"
+    },
+    {
+      "name": "Fardeen, Touran",
+      "affiliation": "Division of Gastroenterology and Hepatology, Stanford University School of Medicine, Stanford, California, USA"
+    },
+    {
+      "name": "Vazques, Gustavo",
+      "affiliation": "Department of Pathology, Stanford University School of Medicine, Stanford, California, USA"
+    },
+    {
+      "name": "Huang, Yuting",
+      "affiliation": "Division of Gastroenterology and Hepatology, Mayo Clinic, Jacksonville, Florida, USA"
+    },
+    {
+      "name": "Peterson, Kathryn",
+      "affiliation": "Division of Gastroenterology and Hepatology, Mayo Clinic, Jacksonville, Florida, USA"
+    },
+    {
+      "name": "Nolan, Gary",
+      "affiliation": "Department of Pathology, Stanford University School of Medicine, Stanford, California, USA"
+    },
+    {
+      "name": "Sinha, Sidhartha",
+      "affiliation": "Division of Gastroenterology and Hepatology, Stanford University School of Medicine, Stanford, California, USA"
+    },
+    {
+      "name": "Rogalla, Stephan",
+      "affiliation": "Division of Gastroenterology and Hepatology, Stanford University School of Medicine, Stanford, California, USA"
+    },
+    {
+      "name": "Gubatan, John",
+      "affiliation": "Division of Gastroenterology and Hepatology, Mayo Clinic, Jacksonville, Florida, USA; Division of Gastroenterology and Hepatology, Stanford University School of Medicine, Stanford, California, USA"
+    }
+  ],
+  "keywords": [
+    "ulcerative colitis",
+    "fibroblasts",
+    "neutrophils",
+    "single-cell RNA sequencing",
+    "CODEX",
+    "spatial proteomics",
+    "FAP",
+    "integrin alpha5beta1",
+    "DSS colitis",
+    "epithelial responses"
+  ],
+  "notes": "Mixed-license archive: MIT applies to original code; CC BY 4.0 applies to original data tables and figures. See LICENSE.md, LICENSE-CODE and LICENSE-DATA.md. Third-party materials retain their original terms.",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/GubatanLab/UC-fibroblast-neutrophil-manuscript",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ]
+}

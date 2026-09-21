@@ -1,0 +1,25 @@
+current_panel,content,data_locations,coverage_and_interpretation
+1A–C,Human discovery states and paired contrasts,source_data/earlier_figure_sources/human_discovery; source_data/earlier_figure_sources/figure1,Selected derived tables; full expression objects held separately
+1D–E,Paired stromal programs and marker-excluded neutrophil programs,source_data/figure_01/program_panels_2026-09-12,Current tables; executable statistic checks included
+1F,Predicted interaction priorities,source_data/earlier_figure_sources/figure1; source_data/earlier_figure_sources/human_discovery,Stored inference; upstream model resources held separately
+2A–C,CODEX neighborhoods and occupancy,source_data/figure_02/neighborhoods,Current source tables checked against canonical assembly
+2D,Availability-adjusted quartile-category proximity,source_data/figure_02/quartile_proximity,Current quartile definition; differs from 2E
+2E,Posterior-gated marker–proximity effects,source_data/figure_02/posterior_gate,Current eight-patient analysis; distinct from supporting high-yield analyses
+3B–D,Coculture fluorescence and elastase activity,source_data/coculture_fluorescence; source_data/figure_03/Canonical_FACS_RNA_2026-09-07,Current 3D retains historical Figure_3e filenames; original FCS held separately
+3E–G,RNA programs and predicted ligand support,source_data/figure_03; source_data/coculture_support,Selected derived summaries; paired parametric and exact sensitivity results differ
+4A–E,FAP-lineage ablation,source_data/figure_04; source_data/earlier_figure_sources/figure4; source_data/mouse_flow; source_data/mouse_comparison,Histology images in figure; source numerical coverage partial; stored models cannot be refit from this archive
+5A–B,Histology/frequencies and OSM/PADI4 subset MPO,source_data/mouse_flow; source_data/figure_05/layout_2026-09-21,"5B promoted from former Supplementary 10G,H; layout CSVs are approximate image reconstructions"
+5C–F,"RNA compartments, neighborhoods and predicted signaling",source_data/figure_05; source_data/earlier_figure_sources/figure5; source_data/mouse_comparison,Source names may predate renumbering; models supplied as stored summaries
+6A–B,Whole-epithelium and within-state RNA programs,source_data/figure_06/epithelial_programs_2026-09-07,Existing estimates; former figure labels 6d–e
+6C–D,Cell-state and compartment proportions,source_data/figure_06/Figure_6_Level3_display_source.csv; source_data/figure_06/Figure_6_compartment_recovery_source.csv,"Recovered-cell proportions, not absolute cell abundance"
+6E–F,Selected genes and individual-mouse epithelial profiles,source_data/figure_06/epithelial_panels_2026-09-21,Current September 21 additions; descriptive displays
+7A–D,Independent human fibroblast evidence,source_data/figure_07; source_data/taurus; source_data/taurus_receptors,Selected patient/biopsy derived summaries
+7E–G,Independent spatial and cross-system evidence,source_data/earlier_figure_sources/updated_analyses; source_data/earlier_figure_sources/figure6,Partial derived summaries; Xenium source data remain at SCP3818
+S1,Stromal programs and annotation/coexpression controls,source_data/extended_data/ED1_revision_2026-09-12,Current numerical summaries
+S2–S3,CODEX annotations and spatial sensitivity,source_data/figure_02; source_data/codex_high_yield; source_data/earlier_figure_sources/figure2,Sensitivity definitions differ from main 2E; consult Methods
+S4–S6,Culture annotations and RNA state contrasts,source_data/coculture_support; source_data/earlier_figure_sources/culture_annotation; source_data/earlier_figure_sources/supplementary,Supporting summary tables
+S7–S10,Mouse/culture protein and trajectory complements,source_data/mouse_flow; source_data/figure_05; source_data/coculture_support,Current S10G is CXCR4-subset MPO; original instrument files held separately
+S11,All 39 epithelial program genes,source_data/figure_06/epithelial_panels_2026-09-21,Stored counts/log2 CPM/z scores and detection summaries
+S12,State concordance and comparative communication,source_data/figure_06; source_data/mouse_comparison,"Former main Figure 6B,F,G components; stored interaction summaries"
+Table S1,CODEX antibodies,tables/Supplementary_Table_1_CODEX_Markers.csv,53 antibodies plus DAPI note in Word version; CD274 cycle unspecified
+Table S2,Analytical populations and replication,tables/Supplementary_Table_2_Analytical_Populations.csv,Extracted from current v9 supplement

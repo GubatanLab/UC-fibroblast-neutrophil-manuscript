@@ -1,0 +1,182 @@
+panel,group,visible_marker_id,source_x_pixel,source_y_pixel,source_zero_y_pixel,pixels_per_unit,unbounded_pixel_value,approximate_value,zero_boundary_adjusted,provenance
+a,Control,1,361.0,338.0,640,128.4,2.35202492211838,2.35202492211838,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+a,Control,2,361.0,374.0,640,128.4,2.0716510903426792,2.0716510903426792,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+a,Control,3,361.0,390.0,640,128.4,1.9470404984423675,1.9470404984423675,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+a,Control,4,361.0,491.0,640,128.4,1.160436137071651,1.160436137071651,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+a,Control,5,361.0,527.0,640,128.4,0.8800623052959501,0.8800623052959501,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+a,Control,6,361.0,552.0,640,128.4,0.6853582554517134,0.6853582554517134,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+a,DSS + PBS,1,448.0,379.0,640,128.4,2.0327102803738315,2.0327102803738315,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+a,DSS + PBS,2,470.5,451.0,640,128.4,1.4719626168224298,1.4719626168224298,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+a,DSS + PBS,3,448.0,463.0,640,128.4,1.3785046728971961,1.3785046728971961,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+a,DSS + PBS,4,425.0,469.0,640,128.4,1.3317757009345794,1.3317757009345794,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+a,DSS + PBS,5,470.5,508.0,640,128.4,1.02803738317757,1.02803738317757,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+a,DSS + PBS,6,448.0,513.0,640,128.4,0.9890965732087227,0.9890965732087227,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+a,DSS + PBS,7,425.0,519.5,640,128.4,0.9384735202492211,0.9384735202492211,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+a,DSS + PBS,8,471.0,523.0,640,128.4,0.911214953271028,0.911214953271028,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+a,DSS + PBS,9,448.0,530.0,640,128.4,0.8566978193146417,0.8566978193146417,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+a,DSS + PBS,10,448.0,566.0,640,128.4,0.5763239875389408,0.5763239875389408,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+a,DSS + PBS,11,448.0,585.0,640,128.4,0.42834890965732086,0.42834890965732086,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+a,DSS + PBS,12,459.0,607.0,640,128.4,0.2570093457943925,0.2570093457943925,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+a,DSS + PBS,13,436.0,613.0,640,128.4,0.2102803738317757,0.2102803738317757,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+a,DSS + α5β1 inhibitor,1,534.0,564.0,640,128.4,0.5919003115264797,0.5919003115264797,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+a,DSS + α5β1 inhibitor,2,534.0,579.0,640,128.4,0.4750778816199377,0.4750778816199377,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+a,DSS + α5β1 inhibitor,3,534.0,604.0,640,128.4,0.2803738317757009,0.2803738317757009,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+a,DSS + α5β1 inhibitor,4,557.0,604.0,640,128.4,0.2803738317757009,0.2803738317757009,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+a,DSS + α5β1 inhibitor,5,511.0,607.0,640,128.4,0.2570093457943925,0.2570093457943925,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+b,Control,1,1009.5,408.5,644,40.25,5.850931677018633,5.850931677018633,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+b,Control,2,985.5,419.0,644,40.25,5.590062111801243,5.590062111801243,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+b,Control,3,1009.5,429.0,644,40.25,5.341614906832298,5.341614906832298,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+b,Control,4,985.5,492.5,644,40.25,3.7639751552795033,3.7639751552795033,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+b,Control,5,1009.5,494.0,644,40.25,3.7267080745341614,3.7267080745341614,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+b,Control,6,997.0,530.0,644,40.25,2.8322981366459627,2.8322981366459627,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+b,DSS + PBS,1,1084.0,419.0,644,40.25,5.590062111801243,5.590062111801243,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+b,DSS + PBS,2,1072.0,432.0,644,40.25,5.267080745341615,5.267080745341615,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+b,DSS + PBS,3,1096.0,440.0,644,40.25,5.068322981366459,5.068322981366459,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+b,DSS + PBS,4,1084.0,476.0,644,40.25,4.173913043478261,4.173913043478261,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+b,DSS + PBS,5,1072.0,489.0,644,40.25,3.8509316770186337,3.8509316770186337,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+b,DSS + PBS,6,1096.0,491.0,644,40.25,3.801242236024845,3.801242236024845,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+b,DSS + PBS,7,1072.0,507.0,644,40.25,3.4037267080745344,3.4037267080745344,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+b,DSS + PBS,8,1096.0,515.0,644,40.25,3.2049689440993787,3.2049689440993787,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+b,DSS + PBS,9,1072.0,532.0,644,40.25,2.782608695652174,2.782608695652174,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+b,DSS + PBS,10,1096.0,536.0,644,40.25,2.6832298136645965,2.6832298136645965,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+b,DSS + PBS,11,1072.0,550.0,644,40.25,2.3354037267080745,2.3354037267080745,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+b,DSS + PBS,12,1096.0,550.0,644,40.25,2.3354037267080745,2.3354037267080745,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+b,DSS + PBS,13,1084.0,602.0,644,40.25,1.0434782608695652,1.0434782608695652,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+b,DSS + α5β1 inhibitor,1,1182.5,543.0,644,40.25,2.5093167701863353,2.5093167701863353,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+b,DSS + α5β1 inhibitor,2,1158.5,551.5,644,40.25,2.298136645962733,2.298136645962733,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+b,DSS + α5β1 inhibitor,3,1182.5,581.0,644,40.25,1.565217391304348,1.565217391304348,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+b,DSS + α5β1 inhibitor,4,1158.5,586.0,644,40.25,1.4409937888198758,1.4409937888198758,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+b,DSS + α5β1 inhibitor,5,1182.0,613.0,644,40.25,0.7701863354037267,0.7701863354037267,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+b,DSS + α5β1 inhibitor,6,1158.5,621.0,644,40.25,0.5714285714285714,0.5714285714285714,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+c,Control,1,348.0,260.0,411,9.8,15.408163265306122,15.408163265306122,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+c,Control,2,348.0,291.5,411,9.8,12.193877551020407,12.193877551020407,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+c,Control,3,348.0,338.0,411,9.8,7.448979591836734,7.448979591836734,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+c,Control,4,348.0,345.5,411,9.8,6.683673469387754,6.683673469387754,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+c,Control,5,359.0,382.0,411,9.8,2.9591836734693877,2.9591836734693877,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+c,Control,6,337.0,386.0,411,9.8,2.5510204081632653,2.5510204081632653,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+c,DSS + PBS,1,393.0,266.0,411,9.8,14.795918367346937,14.795918367346937,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+c,DSS + PBS,2,382.0,297.5,411,9.8,11.581632653061224,11.581632653061224,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+c,DSS + PBS,3,393.0,302.0,411,9.8,11.122448979591836,11.122448979591836,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+c,DSS + PBS,4,382.0,305.0,411,9.8,10.816326530612244,10.816326530612244,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+c,DSS + PBS,5,404.0,306.0,411,9.8,10.714285714285714,10.714285714285714,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+c,DSS + PBS,6,393.0,323.5,411,9.8,8.928571428571427,8.928571428571427,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+c,DSS + PBS,7,382.0,324.5,411,9.8,8.826530612244897,8.826530612244897,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+c,DSS + PBS,8,404.0,327.0,411,9.8,8.571428571428571,8.571428571428571,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+c,DSS + PBS,9,393.0,336.5,411,9.8,7.6020408163265305,7.6020408163265305,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+c,DSS + PBS,10,404.0,347.0,411,9.8,6.530612244897958,6.530612244897958,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+c,DSS + PBS,11,393.0,354.0,411,9.8,5.816326530612245,5.816326530612245,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+c,DSS + PBS,12,393.0,398.5,411,9.8,1.2755102040816326,1.2755102040816326,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+c,DSS + α5β1 inhibitor,1,438.0,322.5,411,9.8,9.03061224489796,9.03061224489796,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+c,DSS + α5β1 inhibitor,2,438.0,331.0,411,9.8,8.16326530612245,8.16326530612245,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+c,DSS + α5β1 inhibitor,3,438.0,364.0,411,9.8,4.795918367346938,4.795918367346938,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+c,DSS + α5β1 inhibitor,4,427.0,383.5,411,9.8,2.8061224489795915,2.8061224489795915,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+c,DSS + α5β1 inhibitor,5,449.5,389.0,411,9.8,2.2448979591836733,2.2448979591836733,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+c,DSS + α5β1 inhibitor,6,438.0,400.5,411,9.8,1.0714285714285714,1.0714285714285714,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+d,Control,1,673.0,270.5,409,12.933333333333334,10.708762886597938,10.708762886597938,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+d,Control,2,662.0,309.0,409,12.933333333333334,7.731958762886598,7.731958762886598,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+d,Control,3,684.0,313.5,409,12.933333333333334,7.3840206185567006,7.3840206185567006,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+d,Control,4,662.0,317.5,409,12.933333333333334,7.074742268041237,7.074742268041237,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+d,Control,5,673.0,348.5,409,12.933333333333334,4.677835051546392,4.677835051546392,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+d,Control,6,673.0,376.0,409,12.933333333333334,2.551546391752577,2.551546391752577,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+d,DSS + PBS,1,707.0,301.0,409,12.933333333333334,8.350515463917526,8.350515463917526,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+d,DSS + PBS,2,718.0,308.0,409,12.933333333333334,7.809278350515464,7.809278350515464,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+d,DSS + PBS,3,718.0,320.0,409,12.933333333333334,6.881443298969072,6.881443298969072,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+d,DSS + PBS,4,707.0,327.0,409,12.933333333333334,6.34020618556701,6.34020618556701,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+d,DSS + PBS,5,729.0,328.0,409,12.933333333333334,6.262886597938144,6.262886597938144,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+d,DSS + PBS,6,712.0,336.5,409,12.933333333333334,5.605670103092783,5.605670103092783,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+d,DSS + PBS,7,723.0,336.5,409,12.933333333333334,5.605670103092783,5.605670103092783,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+d,DSS + PBS,8,707.0,349.5,409,12.933333333333334,4.600515463917525,4.600515463917525,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+d,DSS + PBS,9,718.0,354.5,409,12.933333333333334,4.213917525773196,4.213917525773196,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+d,DSS + PBS,10,712.0,364.0,409,12.933333333333334,3.479381443298969,3.479381443298969,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+d,DSS + PBS,11,723.0,366.5,409,12.933333333333334,3.286082474226804,3.286082474226804,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+d,DSS + PBS,12,718.0,392.5,409,12.933333333333334,1.2757731958762886,1.2757731958762886,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+d,DSS + α5β1 inhibitor,1,762.5,300.0,409,12.933333333333334,8.427835051546392,8.427835051546392,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+d,DSS + α5β1 inhibitor,2,751.0,385.5,409,12.933333333333334,1.8170103092783505,1.8170103092783505,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+d,DSS + α5β1 inhibitor,3,774.0,391.0,409,12.933333333333334,1.3917525773195876,1.3917525773195876,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+d,DSS + α5β1 inhibitor,4,763.0,393.5,409,12.933333333333334,1.1984536082474226,1.1984536082474226,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+d,DSS + α5β1 inhibitor,5,768.0,402.0,409,12.933333333333334,0.5412371134020618,0.5412371134020618,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+d,DSS + α5β1 inhibitor,6,757.0,410.0,409,12.933333333333334,-0.07731958762886598,0,True,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+e,Control,1,1005.0,292.5,405,1.91,58.90052356020943,58.90052356020943,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+e,Control,2,994.0,301.0,405,1.91,54.45026178010471,54.45026178010471,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+e,Control,3,1016.0,308.0,405,1.91,50.78534031413613,50.78534031413613,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+e,Control,4,994.0,319.0,405,1.91,45.026178010471206,45.026178010471206,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+e,Control,5,1016.0,326.0,405,1.91,41.361256544502616,41.361256544502616,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+e,Control,6,1005.0,339.5,405,1.91,34.29319371727749,34.29319371727749,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+e,DSS + PBS,1,1049.0,276.0,405,1.91,67.53926701570681,67.53926701570681,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+e,DSS + PBS,2,1049.0,293.5,405,1.91,58.376963350785346,58.376963350785346,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+e,DSS + PBS,3,1060.0,300.0,405,1.91,54.9738219895288,54.9738219895288,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+e,DSS + PBS,4,1038.0,303.0,405,1.91,53.403141361256544,53.403141361256544,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+e,DSS + PBS,5,1047.0,303.0,405,1.91,53.403141361256544,53.403141361256544,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+e,DSS + PBS,6,1051.5,310.0,405,1.91,49.73821989528796,49.73821989528796,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+e,DSS + PBS,7,1043.0,314.0,405,1.91,47.64397905759162,47.64397905759162,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+e,DSS + α5β1 inhibitor,1,1093.0,259.0,405,1.91,76.43979057591623,76.43979057591623,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+e,DSS + α5β1 inhibitor,2,1093.0,307.0,405,1.91,51.30890052356021,51.30890052356021,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+e,DSS + α5β1 inhibitor,3,1104.0,317.5,405,1.91,45.811518324607334,45.811518324607334,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+e,DSS + α5β1 inhibitor,4,1082.0,325.0,405,1.91,41.88481675392671,41.88481675392671,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+e,DSS + α5β1 inhibitor,5,1104.0,334.5,405,1.91,36.910994764397905,36.910994764397905,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+e,DSS + α5β1 inhibitor,6,1082.0,337.0,405,1.91,35.6020942408377,35.6020942408377,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+f,Control,1,359.0,605.5,684,0.0158,4968.354430379746,4968.354430379746,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+f,Control,2,348.5,616.5,684,0.0158,4272.151898734177,4272.151898734177,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+f,Control,3,370.0,618.0,684,0.0158,4177.215189873417,4177.215189873417,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+f,Control,4,359.0,626.0,684,0.0158,3670.886075949367,3670.886075949367,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+f,Control,5,359.0,662.0,684,0.0158,1392.4050632911392,1392.4050632911392,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+f,Control,6,359.0,673.0,684,0.0158,696.2025316455696,696.2025316455696,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+f,DSS + PBS,1,403.0,562.0,684,0.0158,7721.518987341771,7721.518987341771,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+f,DSS + PBS,2,406.5,603.0,684,0.0158,5126.5822784810125,5126.5822784810125,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+f,DSS + PBS,3,399.0,608.5,684,0.0158,4778.481012658227,4778.481012658227,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+f,DSS + PBS,4,406.5,610.0,684,0.0158,4683.544303797468,4683.544303797468,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+f,DSS + PBS,5,392.0,612.0,684,0.0158,4556.962025316455,4556.962025316455,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+f,DSS + PBS,6,399.5,616.0,684,0.0158,4303.79746835443,4303.79746835443,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+f,DSS + PBS,7,406.0,620.5,684,0.0158,4018.9873417721515,4018.9873417721515,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+f,DSS + PBS,8,414.0,621.0,684,0.0158,3987.3417721518986,3987.3417721518986,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+f,DSS + PBS,9,399.0,624.0,684,0.0158,3797.4683544303793,3797.4683544303793,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+f,DSS + PBS,10,403.0,633.0,684,0.0158,3227.8481012658226,3227.8481012658226,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+f,DSS + PBS,11,407.0,642.0,684,0.0158,2658.2278481012654,2658.2278481012654,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+f,DSS + PBS,12,399.5,643.0,684,0.0158,2594.936708860759,2594.936708860759,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+f,DSS + α5β1 inhibitor,1,447.0,645.0,684,0.0158,2468.3544303797466,2468.3544303797466,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+f,DSS + α5β1 inhibitor,2,447.0,660.5,684,0.0158,1487.3417721518986,1487.3417721518986,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+f,DSS + α5β1 inhibitor,3,458.0,670.5,684,0.0158,854.4303797468353,854.4303797468353,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+f,DSS + α5β1 inhibitor,4,436.0,675.5,684,0.0158,537.9746835443037,537.9746835443037,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+f,DSS + α5β1 inhibitor,5,458.0,687.0,684,0.0158,-189.87341772151896,-189.87341772151896,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+f,DSS + α5β1 inhibitor,6,436.0,692.0,684,0.0158,-506.3291139240506,-506.3291139240506,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+g,Control,1,695.5,588.0,681,0.025166666666666667,3695.364238410596,3695.364238410596,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+g,Control,2,684.0,594.5,681,0.025166666666666667,3437.0860927152316,3437.0860927152316,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+g,Control,3,673.0,618.0,681,0.025166666666666667,2503.3112582781455,2503.3112582781455,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+g,Control,4,695.6666666666666,622.3333333333334,681,0.025166666666666667,2331.125827814568,2331.125827814568,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+g,Control,5,684.0,622.5,681,0.025166666666666667,2324.5033112582782,2324.5033112582782,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+g,Control,6,684.0,665.5,681,0.025166666666666667,615.8940397350993,615.8940397350993,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+g,DSS + PBS,1,726.6666666666666,547.3333333333334,681,0.025166666666666667,5311.258278145694,5311.258278145694,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+g,DSS + PBS,2,734.0,551.0,681,0.025166666666666667,5165.562913907284,5165.562913907284,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+g,DSS + PBS,3,742.0,589.0,681,0.025166666666666667,3655.6291390728475,3655.6291390728475,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+g,DSS + PBS,4,734.3333333333334,590.6666666666666,681,0.025166666666666667,3589.4039735099354,3589.4039735099354,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+g,DSS + PBS,5,719.0,593.0,681,0.025166666666666667,3496.688741721854,3496.688741721854,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+g,DSS + PBS,6,727.0,597.5,681,0.025166666666666667,3317.880794701987,3317.880794701987,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+g,DSS + PBS,7,730.0,605.0,681,0.025166666666666667,3019.8675496688743,3019.8675496688743,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+g,DSS + PBS,8,719.0,619.0,681,0.025166666666666667,2463.5761589403974,2463.5761589403974,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+g,DSS + PBS,9,726.6666666666666,620.3333333333334,681,0.025166666666666667,2410.5960264900646,2410.5960264900646,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+g,DSS + PBS,10,742.0,624.0,681,0.025166666666666667,2264.9006622516554,2264.9006622516554,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+g,DSS + PBS,11,734.3333333333334,624.3333333333334,681,0.025166666666666667,2251.655629139071,2251.655629139071,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+g,DSS + PBS,12,719.0,628.0,681,0.025166666666666667,2105.9602649006624,2105.9602649006624,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+g,DSS + α5β1 inhibitor,1,777.0,654.0,681,0.025166666666666667,1072.8476821192053,1072.8476821192053,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+g,DSS + α5β1 inhibitor,2,788.3333333333334,670.3333333333334,681,0.025166666666666667,423.8410596026475,423.8410596026475,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+g,DSS + α5β1 inhibitor,3,765.5,670.5,681,0.025166666666666667,417.2185430463576,417.2185430463576,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+g,DSS + α5β1 inhibitor,4,777.0,681.0,681,0.025166666666666667,0.0,0.0,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+g,DSS + α5β1 inhibitor,5,777.0,711.0,681,0.025166666666666667,-1192.0529801324503,-1192.0529801324503,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+g,DSS + α5β1 inhibitor,6,777.0,722.0,681,0.025166666666666667,-1629.1390728476822,-1629.1390728476822,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+h,Control,1,1024.0,688.0,694,0.00326,1840.4907975460123,1840.4907975460123,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+h,Control,2,1033.0,689.0,694,0.00326,1533.7423312883436,1533.7423312883436,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+h,Control,3,1041.0,689.0,694,0.00326,1533.7423312883436,1533.7423312883436,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+h,DSS + PBS,1,1075.5,565.0,694,0.00326,39570.552147239265,39570.552147239265,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+h,DSS + PBS,2,1075.5,585.0,694,0.00326,33435.58282208589,33435.58282208589,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+h,DSS + PBS,3,1069.0,600.5,694,0.00326,28680.981595092027,28680.981595092027,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+h,DSS + PBS,4,1082.3333333333333,602.3333333333334,694,0.00326,28118.609406952954,28118.609406952954,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+h,DSS + PBS,5,1075.5,676.0,694,0.00326,5521.472392638037,5521.472392638037,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+h,DSS + PBS,6,1069.0,684.5,694,0.00326,2914.1104294478528,2914.1104294478528,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+h,DSS + PBS,7,1078.0,686.0,694,0.00326,2453.98773006135,2453.98773006135,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+h,DSS + PBS,8,1087.0,688.0,694,0.00326,1840.4907975460123,1840.4907975460123,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+h,DSS + α5β1 inhibitor,1,1121.0,601.5,694,0.00326,28374.233128834356,28374.233128834356,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+h,DSS + α5β1 inhibitor,2,1110.0,623.0,694,0.00326,21779.14110429448,21779.14110429448,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+h,DSS + α5β1 inhibitor,3,1132.0,626.0,694,0.00326,20858.895705521474,20858.895705521474,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+h,DSS + α5β1 inhibitor,4,1121.0,665.5,694,0.00326,8742.33128834356,8742.33128834356,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+h,DSS + α5β1 inhibitor,5,1121.0,676.0,694,0.00326,5521.472392638037,5521.472392638037,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements
+h,DSS + α5β1 inhibitor,6,1121.0,687.0,694,0.00326,2147.239263803681,2147.239263803681,False,visible screenshot marker center; overlaps may conceal observations; not raw measurements

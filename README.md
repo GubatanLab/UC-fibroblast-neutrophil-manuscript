@@ -1,30 +1,31 @@
 # Fibroblast regulation of neutrophils in ulcerative colitis
 
-Analysis code, source tables and canonical figures for the September 12, 2026 Gastroenterology manuscript examining fibroblast niches, neutrophil phenotypes and α5β1-directed treatment in ulcerative colitis.
+Analysis code, derived source tables and canonical figures accompanying **Single-cell profiling reveals stromal niche and α5β1 blockade regulation of neutrophil phenotypes in ulcerative colitis**. This release updates the repository to the September 21, 2026 manuscript and figure set.
 
-The study integrates human colonic single-cell transcriptomics, CODEX spatial protein profiling, fibroblast–neutrophil coculture, mouse colitis interventions and independent human validation datasets.
+The study integrates human colonic single-cell transcriptomics, CODEX spatial protein profiling, fibroblast–neutrophil coculture, DSS colitis experiments and independent human datasets. The epithelial analyses describe shared reductions in chemokine programs and distinct barrier-associated and regenerative expression patterns after FAP-lineage ablation and α5β1-directed treatment. Protein, NET-associated elastase and RNA endpoints are distinguished throughout.
 
-## Figures
+## Figures and tables
 
 - [Main Figures 1–7](figures/Main_Figures_1_to_7.pdf)
-- [Extended Data Figures 1–10](figures/Extended_Data_Figures_1_to_10.pdf)
-- [Individual main figures](figures/main)
-- [Individual extended data figures](figures/extended_data)
-- [Figure and analysis guide](docs/figure_guide.md)
+- [Supplementary Figures 1–12](figures/Supplementary_Figures_1_to_12.pdf)
+- [Individual main figures](figures/main) and [supplementary figures](figures/supplementary)
+- [Supplementary Table 1: CODEX markers](tables/Supplementary_Table_1_CODEX_Markers.csv)
+- [Supplementary Table 2: Analytical populations](tables/Supplementary_Table_2_Analytical_Populations.csv)
+- [Figure and analysis guide](docs/figure_guide.md), [panel-to-data map](docs/FIGURE_DATA_MAP.csv) and [main figure legends](docs/main_figure_legends.md)
 
-The deposited PDFs are unchanged copies of the canonical manuscript artwork. Extended Data Figures 1–10 correspond to Supplementary Figures 1–10 in the Gastroenterology manuscript. Figure 1 contains panels a–f; the paired coexpression display is in Extended Data Figure 1c.
+Figure 3 includes the updated coculture schematic. Figure 5 includes OSM/PADI4-subset MPO in panel B. Figure 6 presents six epithelial panels, with the full gene heatmap and supporting concordance/communication displays in Supplementary Figures 11–12. Supplementary Figures 1–10 also retain matching Extended Data aliases for existing links.
 
 ## Repository contents
 
 | Location | Contents |
 |---|---|
-| `figures/` | Canonical PDFs, PNG previews and the two combined PDF sets |
-| `source_data/` | Figure-specific tables, analysis summaries and selected biological-sample measurements |
-| `analyses/source/` | Originating Python and R workflows, grouped by study component |
-| `analyses/reproduce_summary_analyses.py` | Executable checks of key results using deposited tables |
-| `config/` | Biological-mouse analysis inventories and epithelial gene programs |
-| `environment/` | Package requirements and source-workflow dependencies |
-| `metadata/` | Figure index, analysis index, source provenance and file checksums |
+| `source_data/`, `tables/` | 347 derived data tables, including current spatial, epithelial and CODEX records |
+| `figures/` | Canonical figure PDFs, PNG previews and combined PDFs |
+| `analyses/source/` | Originating Python and R workflows grouped by study component |
+| `analyses/reproduce_summary_analyses.py` | Executable checks of selected reported results |
+| `config/`, `environment/` | Analysis inventories, gene programs and dependencies |
+| `docs/` | Methods, interpretation, data access and figure/data mapping |
+| `metadata/` | Column dictionary, provenance, figure/analysis indices and checksums |
 | `tools/` | Repository verification and PDF assembly |
 
 ## Quick start
@@ -33,28 +34,20 @@ Python 3.11 or later is recommended for the deposited-table workflow.
 
 ```bash
 python -m venv .venv
-# Activate the environment using the command appropriate for your operating system.
+# Activate the environment for your operating system.
 python -m pip install -r environment/requirements-summary.txt
 python tools/validate_repository.py
 python analyses/reproduce_summary_analyses.py
 ```
 
-The executable workflow recomputes fibroblast paired-program tests, neutrophil state-program tests, coculture fluorescence comparisons, elastase comparisons, epithelial program effects and human receptor-expression contrasts. It compares its results with the deposited estimates and writes a report under `results/reproduction/`. The canonical figures and source tables are not overwritten.
-
-To recreate the combined PDFs from the deposited individual figures:
-
-```bash
-python tools/assemble_figures.py
-```
+The reproduction workflow recomputes selected fibroblast-program, neutrophil-state, coculture fluorescence, elastase, epithelial-program and human receptor-expression statistics from deposited tables. It writes verification results under `results/reproduction/`; canonical source data and figures are not overwritten. The release passed 17 selected statistical checks. To assemble additional figure bundles from the individual pages, run `python tools/assemble_figures.py`.
 
 ## Reproducibility scope
 
-The deposited-table workflow is runnable from the repository. The source workflows document upstream processing and figure development, but require their specified input objects and configuration; they are not a single end-to-end pipeline. Some source figure scripts represent an earlier assembly stage, while the PDFs under `figures/` define the manuscript figure version. The figure guide identifies the relevant components.
+The deposit contains selected derived data and reproducible summary-statistic checks. Upstream source workflows require their specified external inputs and configuration and do not constitute a single end-to-end pipeline. Historical assembly scripts may use earlier panel labels; the current PDFs and panel-to-data map define the release. Raw reads, full Seurat/AnnData objects, FCS files, whole-slide images and original model-fitting resources are held separately. See [Methods and interpretation](docs/METHODS_AND_INTERPRETATION.md), [Data access](docs/DATA_ACCESS.md) and [Reproducibility notes](docs/reproducibility.md).
 
-Raw sequencing reads, full Seurat/AnnData objects, FCS files and whole-slide images are not distributed here. Public accession links and input requirements are in [Data access](docs/data_access.md). Biological-mouse comparisons use the deposited sample inventories. Existing neighborhood and communication estimates are supplied as fitted summaries; the source object, graph and full modeling inputs are required to refit them. Rerunning a model with a different input population does not reproduce a stored model estimate.
-
-Treatment and acquisition batch are aligned in the mouse transcriptomic comparisons. Spatial proximity and predicted communication support candidate mechanisms; they do not establish direct contact, receptor specificity or clinical efficacy. RNA programs, protein fluorescence and elastase activity are distinct measurements. The [reproducibility notes](docs/reproducibility.md) describe these interpretation limits and the validation performed for this repository.
+Biological-sample inventories and assay-specific denominators define the analysis units. Stored neighborhood and communication summaries cannot be refit from the deposited biological-sample tables alone. Mouse transcriptomic treatment groups are aligned with acquisition batch. Spatial proximity and predicted communication identify candidate mechanisms; RNA programs do not establish epithelial function or repair. No new experiments or inferential analyses were generated for this release.
 
 ## Citation and reuse
 
-See [CITATION.cff](CITATION.cff). The manuscript is unpublished and has no manuscript DOI assigned in this deposit. Related public datasets retain their original citations and access conditions. No software or data redistribution license is granted by this private repository; contact the study authors about reuse.
+See [CITATION.cff](CITATION.cff). A versioned Zenodo archive will provide the release DOI; the manuscript itself remains unpublished. The original code is licensed under [MIT](LICENSE-CODE), and original data tables and figures under [CC BY 4.0](LICENSE-DATA.md). Third-party materials retain their original terms. See [Licensing](LICENSE.md).

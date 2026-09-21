@@ -131,3 +131,4 @@ analyses/source/figure_02/create_figure2.py,figure_02,source workflow; configure
 analyses/source/figure_02/create_codex_annotation_supplements.py,figure_02,source workflow; configure external inputs,manuscript/Figure 2/create_codex_annotation_supplements.py
 analyses/source/figure_02/create_codex_microscopy_annotation_figure.py,figure_02,source workflow; configure external inputs,manuscript/Figure 2/create_codex_microscopy_annotation_figure.py
 analyses/source/mouse/build_comparative_analysis.py,mouse,deposited inputs; writes new analysis outputs,manuscript/output/FAP_Ablation_vs_a5B1_Blockade_Comparative_Analysis_2026-09-04/build_comparative_analysis.py
+analyses/source/figure_assembly/figure6_current.py,current epithelial figure assembly,deposited tables; configure Arial and source-workflow dependencies,tmp/pdfs/figure6_nature_six_20260921/build.py

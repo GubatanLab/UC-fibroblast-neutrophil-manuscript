@@ -1,0 +1,25 @@
+patient,group,n_FAP_high,n_a5B1_positive,status,n_exposed,n_blocks,n_modeled_neutrophils,condition_number
+P01,Control,35,0,insufficient reference cells,,,,
+P02,Control,142,4,included,141.0,14.0,128.0,4.947200649045623
+P03,Control,331,4,included,244.0,26.0,206.0,2.379452371856366
+P04,Control,223,9,included,125.0,18.0,109.0,2.826050436890377
+P05,Control,347,375,included,245.0,23.0,201.0,2.478801151839821
+P06,Control,228,26,included,356.0,36.0,322.0,2.151669743811388
+P07,UC_Inflamed,106,11,included,516.0,50.0,493.0,2.574327858139512
+P08,UC_Inflamed,165,3,included,527.0,23.0,489.0,2.2420948000945713
+P09,UC_Inflamed,35,2,included,440.0,24.0,432.0,4.055075137052924
+P10,UC_Inflamed,515,34,included,793.0,58.0,767.0,2.8180499021167327
+P11,UC_Inflamed,730,18,included,468.0,18.0,440.0,2.744662274562967
+P12,UC_Inflamed,608,4,included,963.0,73.0,932.0,2.669335218992354
+P13,UC_Inflamed,372,0,insufficient reference cells,,,,
+P14,UC_Inflamed,160,3,included,925.0,33.0,892.0,3.284481411604819
+P15,UC_Inflamed,189,1,included,918.0,43.0,897.0,2.7736239756478462
+P16,UC_Noninflamed,503,259,too few exposed cells or spatial blocks,44.0,1.0,4.0,
+P17,UC_Noninflamed,117,53,too few exposed cells or spatial blocks,77.0,6.0,21.0,
+P18,UC_Noninflamed,90,0,insufficient reference cells,,,,
+P19,UC_Noninflamed,614,0,insufficient reference cells,,,,
+P20,UC_Noninflamed,1013,0,insufficient reference cells,,,,
+P21,UC_Noninflamed,262,0,insufficient reference cells,,,,
+P22,UC_Noninflamed,75,0,insufficient reference cells,,,,
+P23,UC_Noninflamed,2904,0,insufficient reference cells,,,,
+P24,UC_Noninflamed,312,0,insufficient reference cells,,,,

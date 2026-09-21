@@ -1,0 +1,73 @@
+CN,name,cell_type,short_type,mean_local_fraction
+CN1,Epithelial / Fibroblast,Epithelial Cell,Epithelial,0.41438464743044334
+CN1,Epithelial / Fibroblast,Enteroendocrine Cell,Enteroendocrine,0.0016436434746564521
+CN1,Epithelial / Fibroblast,Endothelial Cell,Endothelial,0.05694837066812686
+CN1,Epithelial / Fibroblast,Fibroblast,Fibroblast,0.1452787667731704
+CN1,Epithelial / Fibroblast,Macrophage,Macrophage,0.07252532023045057
+CN1,Epithelial / Fibroblast,Dendritic Cell,Dendritic,0.008498285277378692
+CN1,Epithelial / Fibroblast,Neutrophil,Neutrophil,0.03269134290035733
+CN1,Epithelial / Fibroblast,CD4 T,CD4 T,0.04724576833449353
+CN1,Epithelial / Fibroblast,CD8 T,CD8 T,0.12361815802974313
+CN1,Epithelial / Fibroblast,TReg,Treg,0.011508750795016414
+CN1,Epithelial / Fibroblast,B Cell,B cell,0.003963343996336034
+CN1,Epithelial / Fibroblast,Plasma B Cell,Plasma B,0.08169360208982747
+CN2,Fibroblast / Epithelial,Epithelial Cell,Epithelial,0.11148297750804588
+CN2,Fibroblast / Epithelial,Enteroendocrine Cell,Enteroendocrine,0.0010347442595139268
+CN2,Fibroblast / Epithelial,Endothelial Cell,Endothelial,0.09853609656398789
+CN2,Fibroblast / Epithelial,Fibroblast,Fibroblast,0.5673310746876252
+CN2,Fibroblast / Epithelial,Macrophage,Macrophage,0.051966526847466075
+CN2,Fibroblast / Epithelial,Dendritic Cell,Dendritic,0.004188735391413733
+CN2,Fibroblast / Epithelial,Neutrophil,Neutrophil,0.023611812276823036
+CN2,Fibroblast / Epithelial,CD4 T,CD4 T,0.028203813795787885
+CN2,Fibroblast / Epithelial,CD8 T,CD8 T,0.06527204529191583
+CN2,Fibroblast / Epithelial,TReg,Treg,0.008223487937353306
+CN2,Fibroblast / Epithelial,B Cell,B cell,0.0006672208650889269
+CN2,Fibroblast / Epithelial,Plasma B Cell,Plasma B,0.03948146457497874
+CN3,Neutrophil / Fibroblast,Epithelial Cell,Epithelial,0.07130375186656186
+CN3,Neutrophil / Fibroblast,Enteroendocrine Cell,Enteroendocrine,0.0009705177771913981
+CN3,Neutrophil / Fibroblast,Endothelial Cell,Endothelial,0.052694367066682526
+CN3,Neutrophil / Fibroblast,Fibroblast,Fibroblast,0.15452322807597446
+CN3,Neutrophil / Fibroblast,Macrophage,Macrophage,0.10435819875288163
+CN3,Neutrophil / Fibroblast,Dendritic Cell,Dendritic,0.025069746897664096
+CN3,Neutrophil / Fibroblast,Neutrophil,Neutrophil,0.328204454438898
+CN3,Neutrophil / Fibroblast,CD4 T,CD4 T,0.04499121608254525
+CN3,Neutrophil / Fibroblast,CD8 T,CD8 T,0.07982141038656465
+CN3,Neutrophil / Fibroblast,TReg,Treg,0.03374791370177253
+CN3,Neutrophil / Fibroblast,B Cell,B cell,0.004923400275563947
+CN3,Neutrophil / Fibroblast,Plasma B Cell,Plasma B,0.09939179467769975
+CN4,CD4 T / Fibroblast,Epithelial Cell,Epithelial,0.04524519538183964
+CN4,CD4 T / Fibroblast,Enteroendocrine Cell,Enteroendocrine,0.0055620371022564626
+CN4,CD4 T / Fibroblast,Endothelial Cell,Endothelial,0.04994542390102281
+CN4,CD4 T / Fibroblast,Fibroblast,Fibroblast,0.1778812346559515
+CN4,CD4 T / Fibroblast,Macrophage,Macrophage,0.09260551426259385
+CN4,CD4 T / Fibroblast,Dendritic Cell,Dendritic,0.006101015350703564
+CN4,CD4 T / Fibroblast,Neutrophil,Neutrophil,0.029863088207101804
+CN4,CD4 T / Fibroblast,CD4 T,CD4 T,0.350557926402699
+CN4,CD4 T / Fibroblast,CD8 T,CD8 T,0.10835531007274292
+CN4,CD4 T / Fibroblast,TReg,Treg,0.01638269975244876
+CN4,CD4 T / Fibroblast,B Cell,B cell,0.007207859359826219
+CN4,CD4 T / Fibroblast,Plasma B Cell,Plasma B,0.11029269555081415
+CN5,CD4 T / Macrophage,Epithelial Cell,Epithelial,0.042497831301621276
+CN5,CD4 T / Macrophage,Enteroendocrine Cell,Enteroendocrine,0.0056719317932480045
+CN5,CD4 T / Macrophage,Endothelial Cell,Endothelial,0.04534084062797128
+CN5,CD4 T / Macrophage,Fibroblast,Fibroblast,0.040764903860355854
+CN5,CD4 T / Macrophage,Macrophage,Macrophage,0.22077591052474196
+CN5,CD4 T / Macrophage,Dendritic Cell,Dendritic,0.039374603937373666
+CN5,CD4 T / Macrophage,Neutrophil,Neutrophil,0.020730656566130694
+CN5,CD4 T / Macrophage,CD4 T,CD4 T,0.22566705762656838
+CN5,CD4 T / Macrophage,CD8 T,CD8 T,0.07991445306289889
+CN5,CD4 T / Macrophage,TReg,Treg,0.20954446597105292
+CN5,CD4 T / Macrophage,B Cell,B cell,0.017062656027096657
+CN5,CD4 T / Macrophage,Plasma B Cell,Plasma B,0.05265468870094089
+CN6,Plasma B / Macrophage,Epithelial Cell,Epithelial,0.050832386372127863
+CN6,Plasma B / Macrophage,Enteroendocrine Cell,Enteroendocrine,0.0013922229021475316
+CN6,Plasma B / Macrophage,Endothelial Cell,Endothelial,0.07084317367617887
+CN6,Plasma B / Macrophage,Fibroblast,Fibroblast,0.13212572897951833
+CN6,Plasma B / Macrophage,Macrophage,Macrophage,0.20834434950330952
+CN6,Plasma B / Macrophage,Dendritic Cell,Dendritic,0.019843179284822626
+CN6,Plasma B / Macrophage,Neutrophil,Neutrophil,0.02686648689432232
+CN6,Plasma B / Macrophage,CD4 T,CD4 T,0.0949202475464173
+CN6,Plasma B / Macrophage,CD8 T,CD8 T,0.10139409997601612
+CN6,Plasma B / Macrophage,TReg,Treg,0.014454817506867343
+CN6,Plasma B / Macrophage,B Cell,B cell,0.003042811697259918
+CN6,Plasma B / Macrophage,Plasma B Cell,Plasma B,0.2759404956610126

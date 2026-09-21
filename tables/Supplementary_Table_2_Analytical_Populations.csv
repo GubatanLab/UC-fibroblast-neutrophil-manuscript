@@ -1,0 +1,10 @@
+Analysis,Replication and eligibility,Interpretation
+Human atlas state fractions,13 fibroblast and 17 neutrophil patient pairs,Paired inflamed/noninflamed comparisons; cells are not replicates.
+Human stromal and neutrophil programs,"14 paired patients; 11 inflamed patients, respectively",Different eligibility and compartments; no combined patient denominator.
+CODEX tissue and proximity,"24 patients (6 control, 9 noninflamed UC, 9 inflamed UC); 8 eligible for Figure 2E",Each identifier represents a different patient; proximity is associative.
+Coculture fluorescence,"47 recorded samples; n=6 per arm except control fibroblast coculture, n=5","Unpaired tests; donor matching, preparation counts, and plate effects are not fully resolved."
+Coculture elastase,6 independent experiments per arm,Common measurement scale and normalization; unpaired tests do not assume cross-condition matching.
+Coculture RNA programs,"5, 6, 5, 5, and 5 recorded donors across five contrasts",≥20 neutrophils per arm; parametric results were sensitive to exact sign-flip testing.
+Mouse comparative proportions and epithelial programs,DSS/ablation/blockade: 6/5/12 mice for proportions; 6/4/12 for epithelial programs,"Biological-mouse inventories apply to Figure 6A–F and Supplementary Figure 12A, not histology or flow cytometry; treatment and batch are aligned."
+TAURUS receptor components,16 patients contributing 50 biopsies,Within-biopsy contrasts averaged within patient; no retained neutrophils.
+Independent spatial sections,1 donor with paired sections,Section-level observations do not provide independent patient replication.

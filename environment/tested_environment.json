@@ -1,0 +1,10 @@
+{
+  "python": "3.12.14",
+  "packages": {
+    "numpy": "2.5.2",
+    "pandas": "3.0.5",
+    "scipy": "1.18.1",
+    "pypdf": "6.10.0"
+  },
+  "checks": "17 deposited-table estimate/P/q checks; no upstream refits"
+}

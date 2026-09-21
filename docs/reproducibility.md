@@ -8,7 +8,7 @@
 2. Figure 1e: within-patient Friedman tests across four neutrophil states and BH adjustment across nine programs.
 3. Figure 3c: exact unpaired permutation tests of sample-median compensated fluorescence, with BH adjustment across 45 comparisons.
 4. Figure 3d: exact unpaired elastase comparisons and Holm adjustment across three comparisons.
-5. Figure 6d–e: epithelial program mean differences, Mann–Whitney tests and scope-specific BH adjustment.
+5. Figure 6A–B: epithelial program mean differences, Mann–Whitney tests and scope-specific BH adjustment.
 6. Figure 7c: patient-average receptor-component contrasts with exact sign-flip tests and BH adjustment across six features.
 
 Reproduction checks compare point estimates and relevant P/q values. They do not refit expression integration, recalibrate images, rerun flow gating, or independently reconstruct bootstrap confidence intervals. Source workflows contain the corresponding upstream procedures and uncertainty calculations. Validation results are written to `results/reproduction/verification.json`.
@@ -23,10 +23,10 @@ Overlapping Milo neighborhoods are not independent animals. Existing neighborhoo
 
 Mouse transcriptomic treatment groups are aligned with acquisition batch, so comparisons describe intervention-associated patterns. State fractions are relative representation, not absolute abundance. RNA state labels do not define protein-positive gates. Spatial proximity and ligand–receptor predictions are associative. Receptor-component RNA does not establish an assembled receptor or the cellular target of ATN-161.
 
-RNA programs, compensated fluorescence and elastase activity are separate readouts. Some flow-channel identities and source replicate/normalization metadata remain provisional. Several elastase and historical flow values were transcribed from supplied displays; their provenance columns are retained. Elastase activity alone does not establish NET structure or formation mechanism. Original image calibration and assay records are needed for acquisition-level validation.
+RNA programs, compensated fluorescence and elastase activity are separate readouts. Some flow-channel identities and assay metadata remain provisional. Figure 3D contains six independent experiments per group on a common scale and normalization, as confirmed by the investigator. Several elastase and historical flow values were transcribed from supplied displays; their provenance columns are retained. Elastase activity alone does not establish NET structure or formation mechanism. Original image calibration and assay records are needed for acquisition-level validation.
 
 ## Figure integrity
 
-All deposited canonical figure PDFs are byte-identical to the manuscript workspace copies. The repository validation script checks stored hashes, all 17 individual figures, the 7-page main bundle and the 10-page extended data bundle. Rebuilding bundles writes separate outputs under `results/figure_bundles/` and does not alter the canonical files.
+All deposited canonical figure PDFs are byte-identical to the manuscript workspace copies. The repository validation script checks stored hashes, all 19 current individual figures, the 7-page main bundle and the 12-page supplementary bundle, together with the retained Extended Data aliases. Rebuilding bundles writes separate outputs under `results/figure_bundles/` and does not alter the canonical files.
 
 The originating source scripts have been parsed for syntax where a local interpreter is available. They have not all been executed end to end in a fresh environment; raw inputs and some model resources are external. Package requirements for the executable deposited-table workflow are separate from the larger source-workflow dependency list.
